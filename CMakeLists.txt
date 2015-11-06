@@ -1,10 +1,14 @@
 project(oxygen-icons NONE)
-set(PROJECT_VERSION "5.4.90")
-set(PROJECT_VERSION_MAJOR 5)
-
 cmake_minimum_required(VERSION 2.6)
-# include specific modules
-set (CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
+
+# ECM setup
+include(FeatureSummary)
+find_package(ECM 5.15.0  NO_MODULE)
+set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://projects.kde.org/projects/kdesupport/extra-cmake-modules")
+feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
+
+set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
+set(KF5_VERSION "5.16.0") # handled by release scripts
 
 if (WIN32)
    set(ICON_INSTALL_DIR         "share/icons"             ) # The icon install dir (default ${SHARE_INSTALL_PREFIX}/share/icons/)
