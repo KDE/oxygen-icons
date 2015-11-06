@@ -1,0 +1,11 @@
+maintainer: andreask
+description: Oxygen icon theme
+tier: 1
+type: functional
+platforms:
+    - name: All
+portingAid: false
+deprecated: false
+release: true
+libraries:
+cmakename:
