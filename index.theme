@@ -1,7 +1,21 @@
 [Icon Theme]
 Name=Oxygen
+Name[ca]=Oxygen
+Name[en_GB]=Oxygen
+Name[gl]=Oxygen
+Name[nl]=Oxygen
+Name[pt_BR]=Oxygen
+Name[sv]=Oxygen
+Name[x-test]=xxOxygenxx
 
 Comment=Oxygen Team
+Comment[ca]=Equip de l'Oxygen
+Comment[en_GB]=Oxygen Team
+Comment[gl]=Equipo de Oxygen
+Comment[nl]=Oxygen-team
+Comment[pt_BR]=Equipe do Oxygen
+Comment[sv]=Oxygen-gruppen
+Comment[x-test]=xxOxygen Teamxx
 
 DisplayDepth=32
 
