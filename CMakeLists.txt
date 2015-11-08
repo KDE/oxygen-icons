@@ -1,9 +1,10 @@
+cmake_minimum_required(VERSION 2.8.12)
+
 project(oxygen-icons NONE)
-cmake_minimum_required(VERSION 2.6)
 
 # ECM setup
 include(FeatureSummary)
-find_package(ECM 5.15.0  NO_MODULE)
+find_package(ECM 5.16.0  NO_MODULE)
 set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://projects.kde.org/projects/kdesupport/extra-cmake-modules")
 feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
