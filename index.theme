@@ -1,21 +1,93 @@
 [Icon Theme]
 Name=Oxygen
+Name[ast]=Oxíxenu
+Name[bs]=Oxygen
 Name[ca]=Oxygen
+Name[ca@valencia]=Oxygen
+Name[cs]=Oxygen
+Name[da]=Oxygen
+Name[de]=Oxygen
+Name[el]=Oxygen
 Name[en_GB]=Oxygen
+Name[es]=Oxígeno
+Name[et]=Oxygen
+Name[eu]=Oxygen
+Name[fa]=اکسیژن
+Name[fi]=Oxygen
+Name[fr]=Oxygen
 Name[gl]=Oxygen
+Name[hu]=Oxygen
+Name[it]=Oxygen
+Name[kk]=Oxygen
+Name[ko]=Oxygen
+Name[mr]=ऑक्सीजन
+Name[nb]=Oxygen
+Name[nds]=Oxygen
 Name[nl]=Oxygen
+Name[nn]=Oxygen
+Name[pl]=Tlen
+Name[pt]=Oxygen
 Name[pt_BR]=Oxygen
+Name[ro]=Oxygen
+Name[ru]=Oxygen
+Name[sk]=Oxygen
+Name[sl]=Kisik
+Name[sr]=Кисеоник
+Name[sr@ijekavian]=Кисеоник
+Name[sr@ijekavianlatin]=Kiseonik
+Name[sr@latin]=Kiseonik
 Name[sv]=Oxygen
+Name[tr]=Oxygen
+Name[ug]=ئوكسېگىن
+Name[uk]=Oxygen
 Name[x-test]=xxOxygenxx
+Name[zh_CN]=Oxygen(氧气)
+Name[zh_TW]=Oxygen
 
 Comment=Oxygen Team
+Comment[ast]=L'equipu d'Oxíxenu
+Comment[bs]=Oxygen tim
 Comment[ca]=Equip de l'Oxygen
+Comment[ca@valencia]=Equip de l'Oxygen
+Comment[cs]=Tým Oxygen
+Comment[da]=Oxygen-holdet
+Comment[de]=Oxygen-Team
+Comment[el]=Ομάδα Oxygen
 Comment[en_GB]=Oxygen Team
+Comment[es]=Equipo Oxígeno
+Comment[et]=Oxygeni meeskond
+Comment[eu]=Oxygen taldea
+Comment[fa]=تیم اکسیژن
+Comment[fi]=Oxygenin kehitysryhmä
+Comment[fr]=Équipe Oxygen
 Comment[gl]=Equipo de Oxygen
+Comment[hu]=Oxygen csapat
+Comment[it]=La squadra di Oxygen
+Comment[kk]=Oxygen тобы
+Comment[ko]=Oxygen 팀
+Comment[mr]=ऑक्सीजन टीम
+Comment[nb]=Oxygen-laget
+Comment[nds]=Oxygen-Koppel
 Comment[nl]=Oxygen-team
+Comment[nn]=Oxygen-laget
+Comment[pl]=Zespół Oxygen
+Comment[pt]=Equipa do Oxygen
 Comment[pt_BR]=Equipe do Oxygen
+Comment[ro]=Echipa Oxygen
+Comment[ru]=Команда Oxygen
+Comment[sk]=Tím Oxygen
+Comment[sl]=Ekipa Kisika
+Comment[sr]=Тим Кисеоника
+Comment[sr@ijekavian]=Тим Кисеоника
+Comment[sr@ijekavianlatin]=Tim Kiseonika
+Comment[sr@latin]=Tim Kiseonika
 Comment[sv]=Oxygen-gruppen
+Comment[tr]=Oxygen Takımı
+Comment[ug]=ئوكسېگىن ئەترىتى
+Comment[uk]=Команда Oxygen
 Comment[x-test]=xxOxygen Teamxx
+Comment[zh_CN]=Oxygen 团队
+Comment[zh_TW]=Oxygen 開發團隊
 
 DisplayDepth=32
 
@@ -41,7 +113,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=8x8/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/emotes,16x16/intl,16x16/mimetypes,16x16/places,16x16/status,16x16/special,22x22/actions,22x22/animations,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/emotes,22x22/intl,22x22/mimetypes,22x22/places,22x22/status,22x22/special,32x32/actions,32x32/animations,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/emotes,32x32/intl,32x32/mimetypes,32x32/places,32x32/status,48x48/actions,48x48/animations,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/emotes,48x48/intl,48x48/mimetypes,48x48/places,48x48/status,64x64/actions,64x64/animations,64x64/apps,64x64/categories,64x64/devices,64x64/emblems,64x64/emotes,64x64/intl,64x64/mimetypes,64x64/places,64x64/status,128x128/actions,128x128/animations,128x128/apps,128x128/categories,128x128/devices,128x128/emblems,128x128/emotes,128x128/intl,128x128/mimetypes,128x128/places,128x128/status,256x256/actions,256x256/apps,256x256/categories,256x256/devices,256x256/mimetypes,256x256/places,256x256/status
+Directories=8x8/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/emotes,16x16/intl,16x16/mimetypes,16x16/places,16x16/status,16x16/special,22x22/actions,22x22/animations,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/emotes,22x22/intl,22x22/mimetypes,22x22/places,22x22/status,22x22/special,32x32/actions,32x32/animations,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/emotes,32x32/intl,32x32/mimetypes,32x32/places,32x32/status,48x48/actions,48x48/animations,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/emotes,48x48/intl,48x48/mimetypes,48x48/places,48x48/status,64x64/actions,64x64/animations,64x64/apps,64x64/categories,64x64/devices,64x64/emblems,64x64/emotes,64x64/intl,64x64/mimetypes,64x64/places,64x64/status,128x128/actions,128x128/animations,128x128/apps,128x128/categories,128x128/devices,128x128/emblems,128x128/emotes,128x128/intl,128x128/mimetypes,128x128/places,128x128/status,256x256/actions,256x256/apps,,256x256/applets,256x256/categories,256x256/devices,256x256/mimetypes,256x256/places,256x256/status
 
 [8x8/emblems]
 Size=8
@@ -402,6 +474,14 @@ Type=Threshold
 Size=256
 Context=Applications
 Type=Threshold
+
+[256x256/applets]
+Size=256
+Context=Applications
+Type=Scalable
+MinSize=48
+MaxSize=256
+
 
 [256x256/categories]
 Size=256
