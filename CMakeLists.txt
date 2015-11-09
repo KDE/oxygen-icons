@@ -1,15 +1,24 @@
 cmake_minimum_required(VERSION 2.8.12)
 
-project(oxygen-icons NONE)
+project(oxygen-icons)
 
 # ECM setup
 include(FeatureSummary)
-find_package(ECM 5.16.0  NO_MODULE)
+find_package(ECM 5.11.0  NO_MODULE)
 set_package_properties(ECM PROPERTIES TYPE REQUIRED DESCRIPTION "Extra CMake Modules." URL "https://projects.kde.org/projects/kdesupport/extra-cmake-modules")
 feature_summary(WHAT REQUIRED_PACKAGES_NOT_FOUND FATAL_ON_MISSING_REQUIRED_PACKAGES)
 
 set(CMAKE_MODULE_PATH ${ECM_MODULE_PATH} ${ECM_KDE_MODULE_DIR} ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
-set(KF5_VERSION "5.16.0") # handled by release scripts
+set(KF5_VERSION "5.11.0") # handled by release scripts
+
+include(KDEInstallDirs)
+include(KDECMakeSettings)
+include(KDECompilerSettings)
+
+# Dependencies
+set(REQUIRED_QT_VERSION "5.3.0")
+
+add_subdirectory(autotests)
 
 if (WIN32)
    set(ICON_INSTALL_DIR         "share/icons"             ) # The icon install dir (default ${SHARE_INSTALL_PREFIX}/share/icons/)
@@ -39,7 +48,7 @@ endmacro (COPY_ICONS)
 foreach(_sizedir ${oxygen_icon_dirs})
 
 #  template/example
-#  COPY_ICONS( 
+#  COPY_ICONS(
 #    ${_sizedir}/mimetypes
 #    application-msword.png
 #    ${OXYGEN_INSTALL_DIR}
