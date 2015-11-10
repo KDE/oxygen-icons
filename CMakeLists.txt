@@ -20,18 +20,11 @@ set(REQUIRED_QT_VERSION "5.3.0")
 
 add_subdirectory(autotests)
 
-if (WIN32)
-   set(ICON_INSTALL_DIR         "share/icons"             ) # The icon install dir (default ${SHARE_INSTALL_PREFIX}/share/icons/)
-else (WIN32)
-   set(SHARE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}/share" )
-   set(ICON_INSTALL_DIR     "${SHARE_INSTALL_PREFIX}/icons" )
-endif(WIN32)
-
 ########### install files ###############
 
 set( oxygen_icon_dirs  8x8 16x16 22x22 32x32 48x48 64x64 128x128 256x256 )
 
-set(OXYGEN_INSTALL_DIR ${ICON_INSTALL_DIR}/oxygen)
+set(OXYGEN_INSTALL_DIR ${KDE_INSTALL_ICONDIR}/oxygen)
 install( DIRECTORY ${oxygen_icon_dirs} DESTINATION ${OXYGEN_INSTALL_DIR} PATTERN .svn EXCLUDE PATTERN "*.sh" EXCLUDE )
 install( FILES index.theme DESTINATION ${OXYGEN_INSTALL_DIR})
 
