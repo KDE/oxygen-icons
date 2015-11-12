@@ -2,6 +2,7 @@
 Name=Oxygen
 Name[ca]=Oxygen
 Name[en_GB]=Oxygen
+Name[es]=Oxígeno
 Name[gl]=Oxygen
 Name[ko]=Oxygen
 Name[nl]=Oxygen
@@ -18,6 +19,7 @@ Name[x-test]=xxOxygenxx
 Comment=Oxygen Team
 Comment[ca]=Equip de l'Oxygen
 Comment[en_GB]=Oxygen Team
+Comment[es]=El equipo de Oxígeno
 Comment[gl]=Equipo de Oxygen
 Comment[ko]=Oxygen 팀
 Comment[nl]=Oxygen-team
