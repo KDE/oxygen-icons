@@ -19,6 +19,7 @@ Name[sl]=Kisik
 Name[sv]=Oxygen
 Name[uk]=Oxygen
 Name[x-test]=xxOxygenxx
+Name[zh_CN]=Oxygen
 
 Comment=Oxygen Team
 Comment[ca]=Equip de l'Oxygen
@@ -39,6 +40,7 @@ Comment[sl]=Ekipa Kisika
 Comment[sv]=Oxygen-gruppen
 Comment[uk]=Команда Oxygen
 Comment[x-test]=xxOxygen Teamxx
+Comment[zh_CN]=Oxygen 团队
 
 DisplayDepth=32
 
