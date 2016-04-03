@@ -16,7 +16,7 @@ include(KDECMakeSettings)
 include(KDECompilerSettings)
 
 # Dependencies
-set(REQUIRED_QT_VERSION "5.3.0")
+set(REQUIRED_QT_VERSION 5.4.0)
 
 add_subdirectory(autotests)
 
