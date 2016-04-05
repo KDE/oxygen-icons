@@ -26,7 +26,7 @@ set( oxygen_icon_dirs  8x8 16x16 22x22 32x32 48x48 64x64 128x128 256x256 )
 
 set(OXYGEN_INSTALL_DIR ${KDE_INSTALL_ICONDIR}/oxygen/base)
 install( DIRECTORY ${oxygen_icon_dirs} DESTINATION ${OXYGEN_INSTALL_DIR} PATTERN .svn EXCLUDE PATTERN "*.sh" EXCLUDE )
-install( FILES index.theme DESTINATION ${OXYGEN_INSTALL_DIR})
+install( FILES index.theme DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 
 macro (COPY_ICONS _srcdir _srcfile _destdir)
   set(_src "${_srcdir}/${_srcfile}")
