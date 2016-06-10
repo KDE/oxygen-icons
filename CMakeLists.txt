@@ -13,7 +13,7 @@ set(KF5_VERSION "5.27.0") # handled by release scripts
 
 include(KDEInstallDirs)
 include(KDECMakeSettings)
-include(KDECompilerSettings)
+include(KDECompilerSettings NO_POLICY_SCOPE)
 
 # Dependencies
 set(REQUIRED_QT_VERSION 5.5.0)
