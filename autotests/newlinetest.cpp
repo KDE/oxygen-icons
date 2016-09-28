@@ -22,27 +22,13 @@
 #include <QObject>
 #include <QtTest>
 
-#include "testdata.h"
+#include "testhelpers.h"
 
 class NewlineTest : public QObject
 {
     Q_OBJECT
 
 private Q_SLOTS:
-    void assertNewlineFiles(const QList<QString> &list, const QString &header)
-    {
-        if (list.empty()) {
-            return;
-        }
-        QString indent("  ");
-        QString indent2 = indent + indent;
-        QString message = ("\n" + indent + header);
-        for (const auto path : list) {
-            message += (indent2 + "- " + path + "\n");
-        }
-        QFAIL(message.toLatin1());
-    }
-
     // Files that contain a newline in their name
     void test_whitespace()
     {
@@ -56,8 +42,8 @@ private Q_SLOTS:
                 brokenFiles << it.filePath();
             }
         }
-        assertNewlineFiles(brokenFiles,
-                           QStringLiteral("Found file with bad characters (http://doc.qt.io/qt-5/qstring.html#simplified):\n"));
+        failListContent(brokenFiles,
+                        QStringLiteral("Found file with bad characters (http://doc.qt.io/qt-5/qstring.html#simplified):\n"));
     }
 
 };
