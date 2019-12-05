@@ -43,7 +43,7 @@ private Q_SLOTS:
             }
         }
         failListContent(brokenFiles,
-                        QStringLiteral("Found file with bad characters (http://doc.qt.io/qt-5/qstring.html#simplified):\n"));
+                        QStringLiteral("Found file with bad characters (https://doc.qt.io/qt-5/qstring.html#simplified):\n"));
     }
 
 };
