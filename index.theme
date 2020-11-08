@@ -1,6 +1,7 @@
 [Icon Theme]
 Name=Oxygen
 Name[ar]=أكسجين
+Name[ast]=Oxygen
 Name[az]=Oxygen
 Name[bs]=Oxygen
 Name[ca]=Oxygen
@@ -53,6 +54,7 @@ Name[zh_TW]=Oxygen
 
 Comment=Oxygen Team
 Comment[ar]=فريق «أكسجين»
+Comment[ast]=L'equipu d'Oxygen
 Comment[az]=Oxygen Komandası
 Comment[bs]=Oxygen tim
 Comment[ca]=Equip de l'Oxygen
