@@ -19,7 +19,9 @@
 */
 
 #include <QObject>
-#include <QtTest>
+#include <QProcess>
+#include <QStandardPaths>
+#include <QTest>
 
 #include "testhelpers.h"
 
