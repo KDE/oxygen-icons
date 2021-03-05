@@ -34,8 +34,7 @@ class DupeTest : public QObject
         QString line;
         while (proc.canReadLine() || proc.waitForReadyRead()) {
             line = proc.readLine();
-            failListContent(line.simplified().split(QChar(' ')),
-                            "The following files are duplicates but not links:\n");
+            failListContent(line.simplified().split(QChar(' ')), "The following files are duplicates but not links:\n");
         }
     }
 
@@ -43,11 +42,7 @@ class DupeTest : public QObject
     {
         QProcess proc;
         proc.setProgram(QStringLiteral("fdupes"));
-        proc.setArguments(QStringList()
-                          << QStringLiteral("--recurse")
-                          << QStringLiteral("--sameline")
-                          << QStringLiteral("--nohidden")
-                          << path);
+        proc.setArguments(QStringList() << QStringLiteral("--recurse") << QStringLiteral("--sameline") << QStringLiteral("--nohidden") << path);
         proc.start();
         proc.waitForStarted();
         readLines(proc);
