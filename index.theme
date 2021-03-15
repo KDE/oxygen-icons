@@ -49,7 +49,7 @@ Name[tr]=Oxygen
 Name[ug]=ئوكسېگىن
 Name[uk]=Oxygen
 Name[x-test]=xxOxygenxx
-Name[zh_CN]=Oxygen
+Name[zh_CN]=Oxygen 轻氧
 Name[zh_TW]=Oxygen
 
 Comment=Oxygen Team
@@ -102,7 +102,7 @@ Comment[tr]=Oxygen Takımı
 Comment[ug]=ئوكسېگىن ئەترىتى
 Comment[uk]=Команда Oxygen
 Comment[x-test]=xxOxygen Teamxx
-Comment[zh_CN]=Oxygen 团队
+Comment[zh_CN]=Oxygen 设计团队
 Comment[zh_TW]=Oxygen 開發團隊
 
 DisplayDepth=32
