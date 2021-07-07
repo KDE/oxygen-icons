@@ -46,9 +46,9 @@
      id="base"
      inkscape:zoom="4"
      inkscape:cx="18"
-     inkscape:cy="79.375001"
-     inkscape:window-x="2693"
-     inkscape:window-y="422"
+     inkscape:cy="79.375"
+     inkscape:window-x="3348"
+     inkscape:window-y="388"
      inkscape:current-layer="svg2250"
      inkscape:pagecheckerboard="0"
      showgrid="true"
@@ -111,55 +111,6 @@
          offset="1"
          id="stop1479" />
     </radialGradient>
-    <linearGradient
-       x1="9.5995998"
-       y1="68.399902"
-       x2="129.6001"
-       y2="68.399902"
-       id="linearGradient1207"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,-4.371139e-8,4.371139e-8,-1,1186.5436,-193.37143)">
-      <stop
-         style="stop-color:#003685;stop-opacity:1"
-         offset="0"
-         id="stop1187" />
-      <stop
-         style="stop-color:#08428f;stop-opacity:1"
-         offset="0.0105"
-         id="stop1189" />
-      <stop
-         style="stop-color:#245ab1;stop-opacity:1"
-         offset="0.0533"
-         id="stop1191" />
-      <stop
-         style="stop-color:#3b6ccd;stop-opacity:1"
-         offset="0.099"
-         id="stop1193" />
-      <stop
-         style="stop-color:#4d7ae3;stop-opacity:1"
-         offset="0.1477"
-         id="stop1195" />
-      <stop
-         style="stop-color:#5980f3;stop-opacity:1"
-         offset="0.20100001"
-         id="stop1197" />
-      <stop
-         style="stop-color:#6188fc;stop-opacity:1"
-         offset="0.2622"
-         id="stop1199" />
-      <stop
-         style="stop-color:#638dff;stop-opacity:1"
-         offset="0.34909999"
-         id="stop1201" />
-      <stop
-         style="stop-color:#638dff;stop-opacity:1"
-         offset="0.58579999"
-         id="stop1203" />
-      <stop
-         style="stop-color:#003c85;stop-opacity:1"
-         offset="1"
-         id="stop1205" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient46670">
@@ -380,6 +331,57 @@
          stdDeviation="0.58665311"
          id="feGaussianBlur10568" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="radialGradient46672"
+       cx="64.5"
+       cy="124"
+       fx="64.5"
+       fy="124"
+       r="53.293861"
+       gradientTransform="matrix(0.21628172,0,0,0.78339436,50.549829,26.8591)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4689">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4683" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.95294118;"
+         offset="0.40000001"
+         id="stop4685" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4687" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter46582"
+       x="-0.027661993"
+       y="-1.3969306"
+       width="1.055324"
+       height="3.7938613">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1641089"
+         id="feGaussianBlur46584" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4689"
+       id="radialGradient21975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82066657,0,0,0.78339436,11.567006,26.8591)"
+       cx="64.5"
+       cy="124"
+       fx="64.5"
+       fy="124"
+       r="53.293861" />
   </defs>
   <path
      id="path159"
@@ -456,4 +458,27 @@
      d="m 59.483453,31.776622 c -0.548993,0 -1.071673,0.216811 -1.5,0.55664 0.592959,0.470445 1,1.183355 1,1.94336 v 5.511718 c 2.57e-4,1.34001 0.889069,2.517387 2.177734,2.884766 2.274206,0.845036 0.967984,0.273558 3.386719,1.361328 h 0.0039 c 5.348429,2.89677 9.417969,8.586722 9.417969,14.966797 v 21.048828 c 2.66e-4,1.273449 0.804394,2.407997 2.00586,2.830078 0.534204,0.187755 1.00755,0.493247 1.394531,0.888672 l 0.0039,0.0039 c 9.7e-4,9.89e-4 9.84e-4,0.0029 0.002,0.0039 h 3 c -9.69e-4,-9.91e-4 -9.83e-4,-0.0029 -0.002,-0.0039 l -0.0039,-0.0039 c -0.386981,-0.395425 -0.860327,-0.700917 -1.394531,-0.888672 -1.201466,-0.422081 -2.005594,-1.556629 -2.00586,-2.830078 V 59.001231 c 0,-6.380075 -4.06954,-12.070027 -9.417969,-14.966797 h -0.0039 C 65.562824,42.988758 64.901682,42.913881 64.161187,42.673106 62.872522,42.305727 61.98371,41.12835 61.983453,39.78834 v -5.511718 c 0,-1.308997 -1.191003,-2.5 -2.5,-2.5 z"
      sodipodi:nodetypes="scsccccsccccccccccsccccss"
      transform="matrix(1.1732477,0,0,1.1732477,-6.9255952,-9.85993)" />
+  <rect
+     style="opacity:0.80967;mix-blend-mode:normal;fill:url(#radialGradient46672);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter46582)"
+     id="rect46184"
+     width="101"
+     height="2"
+     x="14"
+     y="123"
+     rx="1"
+     ry="1"
+     transform="matrix(1.1215897,0,0,0.93412929,-7.7850389,8.3193047)" />
+  <rect
+     style="opacity:0.516649;mix-blend-mode:normal;fill:url(#radialGradient21975);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter46582)"
+     id="rect21954"
+     width="101"
+     height="2"
+     x="14"
+     y="123"
+     rx="1"
+     ry="1"
+     transform="matrix(1.1215897,0,0,0.93412929,-7.7850389,8.3193047)"
+     inkscape:export-filename="/home/nuno/media/server/svnserver/oxygen-icons5/128x128/categories/rect21954.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
 </svg>
