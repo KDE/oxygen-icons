@@ -45,8 +45,8 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="4"
-     inkscape:cx="-15.467643"
-     inkscape:cy="81.453412"
+     inkscape:cx="-39.25"
+     inkscape:cy="71.375"
      inkscape:window-x="2693"
      inkscape:window-y="422"
      inkscape:current-layer="svg2250"
@@ -84,11 +84,11 @@
        inkscape:collect="always"
        id="linearGradient2416">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.2291306"
+         style="stop-color:#ffffff;stop-opacity:0.64051402"
          offset="0"
          id="stop2412" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.70080566"
+         style="stop-color:#ffffff;stop-opacity:0.7484408"
          offset="1"
          id="stop2414" />
     </linearGradient>
@@ -177,31 +177,9 @@
          offset="1"
          id="stop46668" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient19125">
-      <stop
-         style="stop-color:#033888;stop-opacity:1;"
-         offset="0"
-         id="stop19121" />
-      <stop
-         style="stop-color:#033888;stop-opacity:0;"
-         offset="1"
-         id="stop19123" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1207"
-       id="linearGradient1147"
-       x1="5"
-       y1="64"
-       x2="125"
-       y2="64"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0604359,0,0,1.0604359,-4.9283353,-3.8678994)" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient19125"
+       xlink:href="#linearGradient19125-6"
        id="radialGradient1340"
        cx="65"
        cy="83.384621"
@@ -212,7 +190,7 @@
        gradientTransform="matrix(1.0512809,0,0,1.0512809,-4.3332585,-3.2819775)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#radialGradient1481"
+       xlink:href="#radialGradient1481-0"
        id="linearGradient1473"
        x1="125"
        y1="-83.82254"
@@ -369,19 +347,62 @@
          stdDeviation="0.58665311"
          id="feGaussianBlur10568" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19125-6">
+      <stop
+         style="stop-color:#640005;stop-opacity:1"
+         offset="0"
+         id="stop19121-7" />
+      <stop
+         style="stop-color:#c30404;stop-opacity:0"
+         offset="1"
+         id="stop19123-5" />
+    </linearGradient>
+    <radialGradient
+       cx="69.600098"
+       cy="68.399902"
+       r="85"
+       id="radialGradient1481-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1047.3429,-330.17143)">
+      <stop
+         style="stop-color:#f10a45;stop-opacity:1"
+         offset="0.5"
+         id="stop1475-9" />
+      <stop
+         style="stop-color:#ae0f12;stop-opacity:1"
+         offset="0.89999998"
+         id="stop1477-3" />
+      <stop
+         style="stop-color:#ff1d4a;stop-opacity:1"
+         offset="1"
+         id="stop1479-6" />
+    </radialGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4283-1">
+      <rect
+         style="fill:url(#linearGradient4287);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect4285-8"
+         width="135"
+         height="100"
+         x="0"
+         y="-5" />
+    </mask>
   </defs>
   <path
      id="path159"
      style="fill:url(#XMLID_29_);stroke:#2c72c7;stroke-width:2;stroke-linejoin:round"
      d="" />
   <circle
-     style="fill:url(#linearGradient1147);fill-opacity:1;stroke-width:1.06044;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="fill:#a90007;fill-opacity:1;stroke-width:1.06044;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="path244"
      cx="64"
      cy="64"
      r="63.626156" />
   <circle
-     style="fill:url(#radialGradient1340);fill-opacity:1;stroke-width:0.970413;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="fill:url(#radialGradient1340);fill-opacity:1.0;stroke-width:0.970413;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="circle1338"
      cx="64"
      cy="64"
@@ -393,7 +414,7 @@
      inkscape:radius="5.1633801"
      inkscape:original="M 65 8 A 56 56 0 0 0 9 64 A 56 56 0 0 0 65 120 A 56 56 0 0 0 121 64 A 56 56 0 0 0 65 8 z "
      d="M 65,2.8359375 C 48.987465,2.8359375 33.072572,9.4274276 21.75,20.75 10.427428,32.072572 3.8359375,47.987465 3.8359375,64 c 0,16.012535 6.5914905,31.927428 17.9140625,43.25 11.322572,11.32257 27.237465,17.91406 43.25,17.91406 16.012535,0 31.927428,-6.59149 43.25,-17.91406 C 119.57257,95.927428 126.16406,80.012535 126.16406,64 126.16406,47.987465 119.57257,32.072572 108.25,20.75 96.927428,9.4274276 81.012535,2.8359375 65,2.8359375 Z"
-     transform="translate(-1,1)" />
+     transform="translate(-1.0640861,1)" />
   <circle
      style="fill:url(#linearGradient4391);fill-opacity:1;stroke-width:0.933333;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;filter:url(#filter4413)"
      id="circle4389"
@@ -401,7 +422,7 @@
      cy="64"
      r="56" />
   <circle
-     style="fill:url(#linearGradient1473);fill-opacity:1;stroke-width:0.933333;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="fill:url(#linearGradient1473);fill-opacity:1.0;stroke-width:0.933333;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="circle1426"
      cx="64"
      cy="64"
