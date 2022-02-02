@@ -41,7 +41,13 @@ class DupeTest : public QObject
     void dupesForDirectory(const QString &path)
     {
         QProcess proc;
-        proc.setProgram(QStringLiteral("fdupes"));
+        const QString exec = QStandardPaths::findExecutable(QStringLiteral("fdupes"));
+        if (exec.isEmpty()) {
+            QFAIL("Could not find the fdupes executable in PATH.");
+            return;
+        }
+
+        proc.setProgram(exec);
         proc.setArguments(QStringList() << QStringLiteral("--recurse") << QStringLiteral("--sameline") << QStringLiteral("--nohidden") << path);
         proc.start();
         proc.waitForStarted();
