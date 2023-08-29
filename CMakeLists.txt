@@ -17,7 +17,7 @@ include(KDEGitCommitHooks)
 include(KDEFrameworkCompilerSettings NO_POLICY_SCOPE)
 
 # Dependencies
-set(REQUIRED_QT_VERSION 6.4.0)
+set(REQUIRED_QT_VERSION 6.5.0)
 
 set( oxygen_icon_dirs  8x8 16x16 22x22 32x32 48x48 64x64 128x128 256x256 )
 
