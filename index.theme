@@ -474,11 +474,6 @@ Size=128
 Context=Emotes
 Type=Threshold
 
-[base/128x128/categories]
-Size=128
-Context=Categories
-Type=Threshold
-
 [base/128x128/intl]
 Size=128
 Context=International
@@ -864,11 +859,6 @@ Type=Threshold
 [128x128/emotes]
 Size=128
 Context=Emotes
-Type=Threshold
-
-[128x128/categories]
-Size=128
-Context=Categories
 Type=Threshold
 
 [128x128/intl]
