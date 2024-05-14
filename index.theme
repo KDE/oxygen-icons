@@ -926,7 +926,7 @@ Context=Status
 Type=Threshold
 
 #22x22 - Color for applets
-[applets/22]
+[applets/22x22]
 Size=22
 Context=Status
 Type=Scalable
