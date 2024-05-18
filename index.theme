@@ -936,7 +936,7 @@ Size=22
 Context=Status
 Type=Scalable
 MinSize=22
-MaxSize=256
+MaxSize=22
 
 
 [applets/32x32]
