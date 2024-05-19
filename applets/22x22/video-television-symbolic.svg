@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="video-television-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="14.099186"
+     inkscape:cx="1.3121325"
+     inkscape:cy="14.078827"
+     inkscape:window-width="1548"
+     inkscape:window-height="712"
+     inkscape:window-x="132"
+     inkscape:window-y="391"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text {
+          color:#232629;
+        }
+      </style>
+  </defs>
+  <path
+     id="smartphone"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 2,3 C 0.89200441,3 0,3.8920044 0,5 v 11 c 0,1.107996 0.89200441,2 2,2 h 7 v 1 H 6 C 5.7238582,19 5.5,19.223858 5.5,19.5 5.5,19.776142 5.7238582,20 6,20 h 10 c 0.276142,0 0.5,-0.223858 0.5,-0.5 C 16.5,19.223858 16.276142,19 16,19 h -3 v -1 h 7 c 1.107996,0 2,-0.892004 2,-2 V 5 C 22,3.8920044 21.107996,3 20,3 Z m 0,1 h 18 c 0.553996,0 1,0.4460024 1,1 v 11 c 0,0.553996 -0.446004,1 -1,1 H 2 C 1.4460024,17 1,16.553996 1,16 V 5 C 1,4.4460024 1.4460024,4 2,4 Z m 8,14 h 2 v 1 h -2 z"
+     sodipodi:nodetypes="ssssccssssssccssssssssssssssccccc" />
+</svg>

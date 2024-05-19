@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg1"
+   sodipodi:docname="monitor-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="17.074015"
+     inkscape:cx="6.5303915"
+     inkscape:cy="12.094402"
+     inkscape:window-width="1548"
+     inkscape:window-height="712"
+     inkscape:window-x="246"
+     inkscape:window-y="507"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+        .ColorScheme-Text {
+          color:#232629;
+        }
+      </style>
+  </defs>
+  <path
+     id="smartphone"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 3 2 C 1.8920033 2 1 2.8920033 1 4 L 1 14 C 1 15.107997 1.8920033 16 3 16 L 11 16 L 11 18 L 9 18 C 8.7238579 18 8.5 18.223858 8.5 18.5 C 8.5 18.776142 8.7238579 19 9 19 L 11.390625 19 L 11.609375 19 L 14 19 C 14.276142 19 14.5 18.776142 14.5 18.5 C 14.5 18.223858 14.276142 18 14 18 L 12 18 L 12 16 L 20 16 C 21.107997 16 22 15.107997 22 14 L 22 4 C 22 2.8920033 21.107997 2 20 2 L 3 2 z M 3 3 L 20 3 C 20.553997 3 21 3.4460018 21 4 L 21 14 C 21 14.553997 20.553997 15 20 15 L 3 15 C 2.4460018 15 2 14.553997 2 14 L 2 4 C 2 3.4460018 2.4460018 3 3 3 z " />
+</svg>
