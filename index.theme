@@ -127,7 +127,7 @@ Comment[zh_TW]=Oxygen 開發團隊
 
 DisplayDepth=32
 
-Inherits=hicolor
+Inherits=breeze,hicolor
 
 Example=folder
 
