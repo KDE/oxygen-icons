@@ -1,0 +1,20 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: None
+
+version = 1
+SPDX-PackageName = "oxygen-icons"
+SPDX-PackageDownloadLocation = "https://invent.kde.org/frameworks/oxygen-icons"
+
+# The icons.
+[[annotations]]
+path = ["128x128/**", "16x16/**", "22x22/**", "24x24/**", "256x256/**", "32x32/**", "48x48/**", "64x64/**", "8x8/**", "applets/**", "scalable/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = [
+    "2007 Nuno Pinheiro <nuno@oxygen-icons.org>",
+    "2007 David Vignoni <david@icon-king.com>",
+    "2007 David Miller <miller@oxygen-icons.org>",
+    "2007 Johann Ollivier Lapeyre <johann@oxygen-icons.org>",
+    "2007 Kenneth Wimer <kwwii@bootsplash.org>",
+    "2007 Riccardo Iaconelli <riccardo@oxygen-icons.org>"
+]
+SPDX-License-Identifier = "LGPL-3.0-or-later"
