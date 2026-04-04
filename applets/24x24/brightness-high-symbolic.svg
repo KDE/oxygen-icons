@@ -4,18 +4,18 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
   <g transform="translate(1,1)">
-    <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
-      <circle cx="11.5" cy="10.5" r="6" style="paint-order:fill markers stroke"/>
-      <path d="m11.5 2.5v-2" style="paint-order:fill markers stroke"/>
-      <path d="m11.5 20.5v-2" style="paint-order:fill markers stroke"/>
-      <path d="m19.5 10.5h2" style="paint-order:fill markers stroke"/>
-      <path d="m1.5 10.5h2" style="paint-order:fill markers stroke"/>
-      <path d="m17.157 4.8431 1.4142-1.4142" style="paint-order:fill markers stroke"/>
-      <path d="m4.4289 17.571 1.4142-1.4142" style="paint-order:fill markers stroke"/>
-      <path d="m17.157 16.157 1.4142 1.4142" style="paint-order:fill markers stroke"/>
-      <path d="m4.4289 3.4289 1.4142 1.4142" style="paint-order:fill markers stroke"/>
-      <path d="m11.5 4.5v12" style="paint-order:fill markers stroke"/>
+    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11.5" cy="10.5" r="4.6569" style="paint-order:fill markers stroke"/>
+      <path d="m11.5 3.2139v-2.7139" style="paint-order:fill markers stroke"/>
+      <path d="m11.5 20.5v-2.7139" style="paint-order:fill markers stroke"/>
+      <path d="m18.786 10.5h2.7139" style="paint-order:fill markers stroke"/>
+      <path d="m1.5 10.5h1.3569 1.3569" style="paint-order:fill markers stroke"/>
+      <path d="m16.652 5.3479 1.919-1.919" style="paint-order:fill markers stroke"/>
+      <path d="m4.4289 17.571 1.919-1.919" style="paint-order:fill markers stroke"/>
+      <path d="m16.652 15.652 1.919 1.919" style="paint-order:fill markers stroke"/>
+      <path d="m4.4289 3.4289 1.919 1.919" style="paint-order:fill markers stroke"/>
+      <path d="m11.5 5.8431v9.3138" style="paint-order:fill markers stroke"/>
     </g>
-    <path d="m11.5 4.5v12a6 6 0 0 0 6-6 6 6 0 0 0-6-6z" fill="currentColor" opacity=".3" style="paint-order:fill markers stroke" class="ColorScheme-Text"/>
+    <path class="ColorScheme-Text" d="m11.5 5.8431v9.3138a4.6569 4.6569 0 0 0 4.6569-4.6569 4.6569 4.6569 0 0 0-4.6569-4.6569z" fill="currentColor" opacity=".3" style="paint-order:fill markers stroke"/>
   </g>
 </svg>
