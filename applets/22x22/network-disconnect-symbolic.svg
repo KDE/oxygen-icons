@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="matrix(-1 0 0 1 22.344 0)" fill="none" opacity=".4" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+    <path transform="matrix(.77782 .77782 -.77526 .77526 11.79 -6.8019)" d="m9.5383 18.17c-2.0483-0.62518-3.5383-2.5301-3.5383-4.783v-1.3441m0.17612-2.0982c0.27778-0.55982 0.85523-0.94463 1.5226-0.94463h6.6026c0.67645 0 1.2605 0.3954 1.5338 0.96768m0.1649 2.0751v1.3441c0 2.4212-1.721 4.4405-4.0064 4.9013-0.5406 0.109-0.99364 0.54645-0.99364 1.0987v2.387" opacity="1" stroke-width=".91059" style="paint-order:fill markers stroke"/>
+    <path d="m15.29 2.9207-2.1258 2.1258" opacity="1" style="paint-order:fill markers stroke"/>
+    <path d="m19.179 6.8098-2.1258 2.1258" opacity="1" style="paint-order:fill markers stroke"/>
+  </g>
+  <g transform="translate(15,-7)">
+    <g transform="translate(.24448 .30195)">
+    <g transform="translate(.29462 .2059)">
+    <path class="ColorScheme-Text" d="m3.332 9.0095c-0.08489 0.022497-0.16236 0.066958-0.22461 0.12891l-16 16c-0.19521 0.19525-0.19521 0.51178 0 0.70703 0.19525 0.19521 0.51178 0.19521 0.70703 0l16-16c0.19521-0.19525 0.19521-0.51178 0-0.70703-0.1263-0.12594-0.31013-0.17506-0.48242-0.12891z" fill="currentColor"/>
+  </g>
+  </g>
+  </g>
+</svg>
