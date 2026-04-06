@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m17.998 12.5c-1.0979 0-1.998 0.90012-1.998 1.998v0.50195h-0.14258c-0.46731 0-0.85742 0.39011-0.85742 0.85742v2.9453c0 0.65562 0.54164 1.1973 1.1973 1.1973h2.9863c0.99714 0 1.8164-0.81926 1.8164-1.8164v-2.3262c0-0.46731-0.39011-0.85742-0.85742-0.85742h-0.14258v-0.50195c0-1.0979-0.90012-1.998-1.998-1.998zm0 1h0.0039c0.55753 0 0.99805 0.44055 0.99805 0.99805v0.50195h-2v-0.50195c0-0.55749 0.44055-0.99805 0.99805-0.99805zm-1.998 2.5h4v2.1836c0 0.4567-0.3597 0.81641-0.81641 0.81641h-2.9863c-0.11518 0-0.19727-0.08208-0.19727-0.19727z" fill="currentColor"/>
+  <path d="m13.934 19.5h-8.9339c-1.3807 0-2.5-1.1193-2.5-2.5v-6.4661c0-0.57103 0.46291-1.0339 1.0339-1.0339h3.9651c0.55284 0 1.001-0.44816 1.001-1.001 5.546e-4 -0.55228 0.44872-0.99955 1.001-0.999h8.749c0.69036 0 1.25 0.55964 1.25 1.25v2.9604" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke" class="ColorScheme-Text"/>
+  <path d="m2.5 13v-8.4958c0-0.55459 0.44958-1.0042 1.0042-1.0042h6.9917c0.55459 0 1.0042 0.44958 1.0042 1.0042 0.13922 0.68921 0.73004 0.99583 1.5 0.99583h5c0.82843 0 1.5 0.67157 1.5 1.5v3.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke" class="ColorScheme-Text"/>
+  <g fill="none" opacity=".6" stroke="red" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+    <path d="m13.934 19.5h-8.9339c-1.3807 0-2.5-1.1193-2.5-2.5v-6.4661c0-0.57103 0.46291-1.0339 1.0339-1.0339h3.9651c0.55284 0 1.001-0.44816 1.001-1.001 5.546e-4 -0.55228 0.44872-0.99955 1.001-0.999h8.749c0.69036 0 1.25 0.55964 1.25 1.25v2.9604" opacity="1" style="paint-order:fill markers stroke"/>
+    <path d="m2.5 13v-8.4958c0-0.55459 0.44958-1.0042 1.0042-1.0042h6.9917c0.55459 0 1.0042 0.44958 1.0042 1.0042 0.13922 0.68921 0.73004 0.99583 1.5 0.99583h5c0.82843 0 1.5 0.67157 1.5 1.5v3.5" opacity="1" style="paint-order:fill markers stroke"/>
+  </g>
+</svg>
