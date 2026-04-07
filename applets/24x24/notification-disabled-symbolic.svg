@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" xml:space="preserve" viewBox="0 0 24 24">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="translate(1,1)">
+
+  <path class="ColorScheme-Text" d="m18.109 4.6032c1.5274 1.6939 2.4571 3.9369 2.4571 6.3968 0 5.2788-4.2811 9.5581-9.5621 9.5581-2.5031 0-4.7817-0.96142-6.4861-2.535m-1.4976-1.7608c-0.99764-1.5092-1.5784-3.318-1.5784-5.2623 2e-7 -5.2788 4.2811-9.5581 9.5621-9.5581 1.9412 1e-7 3.7474 0.57823 5.2554 1.5718" fill="none" opacity=".2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+  <g class="ColorScheme-Text" fill="none" opacity=".4" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m2.3238 15.01c-1.8516-4.0065-0.71923-8.7597 2.7399-11.501 3.2552-2.5794 7.774-2.7459 11.193-0.4916m1.8485 1.589c2.5071 2.7838 3.1888 6.8418 1.5968 10.347" opacity=".5" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
+    <path transform="translate(.5)" d="m9 16.987c-1e-7 0.28146 0.076874 0.54498 0.21077 0.77068 0.26353 0.44422 0.74794 0.74199 1.3019 0.74199 0.82843-7e-3 1.4943-0.68425 1.4873-1.5127v-0.48733h4.3c0.27614 0 0.5-0.22386 0.5-0.5 0-0.27615-0.24456-0.52121-0.44503-0.70192-0.98054-0.88388-1.8188-4.5142-2.1737-7.7903m-0.7852-1.8542c-0.58443-0.70133-1.4381-1.1536-2.396-1.1536v-0.51319c0-0.26886-0.21795-0.48681-0.48681-0.48681h-0.02639c-0.26886 1e-6 -0.4868 0.21795-0.4868 0.48681v0.51319c-1.6569 0-3.0226 1.3512-3.1668 3.0097-0.15754 1.8117-0.42726 3.7315-0.83156 5.2352m-0.61062 3.7552h4.909" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m16.807 18.592a9.5582 9.5582 0 0 1-11.753-0.10799" opacity=".5" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g transform="translate(.24448 .30195)">
+    <g transform="translate(.29462 .2059)">
+    <path class="ColorScheme-Text" d="m18.332 2.0095c-0.08489 0.022497-0.16236 0.066958-0.22461 0.12891l-16 16c-0.19521 0.19525-0.19521 0.51178 0 0.70703 0.19525 0.19521 0.51178 0.19521 0.70703 0l16-16c0.19521-0.19525 0.19521-0.51178 0-0.70703-0.1263-0.12594-0.31013-0.17506-0.48242-0.12891z" fill="currentColor"/>
+  </g>
+  </g>
+
+  </g>
+</svg>
