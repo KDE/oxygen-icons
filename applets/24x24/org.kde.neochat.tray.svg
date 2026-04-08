@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <linearGradient id="linearGradient5" x1="3" x2="7" y1="17" y2="12" gradientTransform="matrix(-1,0,0,1,22.002,1)" gradientUnits="userSpaceOnUse">
+      <stop class="ColorScheme-Text" stop-color="currentColor" offset="0"/>
+      <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(1,1)">
+    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m5.5 11.5h7" style="paint-order:fill markers stroke"/>
+      <path d="m5.5 7.5h9" style="paint-order:fill markers stroke"/>
+      <path d="m9 16.5h6.0021c0.96045-2e-6 1.8816 0.38154 2.5607 1.0607l1.7655 1.7655c0.42868 0.42873 1.1618 0.1257 1.1626-0.48058l0.01123-9.8456" stroke="url(#linearGradient5)" style="paint-order:fill markers stroke"/>
+      <path d="m6.5131 2.5h11.487c1.3807 0 2.5 1.1193 2.5 2.5v4c0 4.1421-3.3579 7.5-7.5 7.5h-6c-0.96045-2e-6 -1.8816 0.38154-2.5607 1.0607l-1.8651 1.8651c-0.3917 0.39163-1.0614 0.11456-1.0619-0.43934l-0.00804-11.473c-0.00238-2.768 2.2408-5.0131 5.0088-5.0131z" style="paint-order:fill markers stroke"/>
+    </g>
+  </g>
+</svg>
