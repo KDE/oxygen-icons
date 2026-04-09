@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" version="1.1" xml:space="preserve">
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <radialGradient id="radialGradient6" cx="15.88" cy="11.574" r="7.4474" fx="14.574" fy="10.777" gradientTransform="matrix(1.9883 -1.9883 1.0627 1.0627 -31.261 27.088)" gradientUnits="userSpaceOnUse">
+      <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".33832" offset="0"/>
+      <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset="1"/>
+    </radialGradient>
   </defs>
-  <g fill="none" stroke="currentColor" stroke-linecap="round" class="ColorScheme-Text">
-    <path transform="translate(-.30389)" d="m3.2862 19.851c0.042397-1.2204 0.42372-2.3803 1.144-3.4797 0.54382-0.83011 1.634-0.73397 2.4812-0.22556 2.4454 1.4675 6.6055 1.6129 9.589-0.6306 6.0755-4.5685 2.1217-11.782 0.26466-13.334-1.1366 2.5306-2.7647 4.6927-6.2588 5.261-3.4414 0.55967-4.845 3.5614-5.0685 5.7466-0.10056 0.98308 0.78034 1.2618 1.7345 1.0969 1.3345-0.23061 2.1685-1.46 3.9447-2.4064 1.6068-0.85609 4.1564-0.9172 5.0906-2.9973" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="m7.5798 13.772c0.061894-0.69957 0.34258-1.7863 1.0997-2.6132" opacity=".6" stroke-linejoin="round" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="m13.253 10.97c0.60018-0.1426 1.9028 0.32781 2.1861 0.72609" opacity=".8" stroke-linejoin="round" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
+  <g class="ColorScheme-Text" fill="none" stroke-linecap="round">
+    <g class="ColorScheme-Text" stroke="currentColor">
+      <path class="ColorScheme-Text" transform="translate(-.30389)" d="m3.2862 19.851c0.042397-1.2204 0.42372-2.3803 1.144-3.4797 0.54382-0.83011 1.634-0.73397 2.4812-0.22556 2.4454 1.4675 6.6055 1.6129 9.589-0.6306 6.0755-4.5685 2.1217-11.782 0.26466-13.334-1.1366 2.5306-2.7647 4.6927-6.2588 5.261-3.4414 0.55967-4.845 3.5614-5.0685 5.7466-0.10056 0.98308 0.78034 1.2618 1.7345 1.0969 1.3345-0.23061 2.1685-1.46 3.9447-2.4064 1.6068-0.85609 4.1564-0.9172 5.0906-2.9973" style="paint-order:fill markers stroke"/>
+      <path class="ColorScheme-Text" d="m7.5798 13.772c0.061894-0.69957 0.34258-1.7863 1.0997-2.6132" opacity=".6" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+      <path class="ColorScheme-Text" d="m13.253 10.97c0.60018-0.1426 1.9028 0.32781 2.1861 0.72609" opacity=".8" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+    </g>
+    <path class="ColorScheme-Text" transform="translate(-.30389)" d="m5.6992 16.25c0.53918-0.15893 0.66158-0.43483 1.2122-0.10446 2.4454 1.4675 6.6055 1.6129 9.589-0.6306 6.0755-4.5685 2.1217-11.782 0.26466-13.334-1.1366 2.5306-2.7647 4.6927-6.2588 5.261-3.4414 0.55967-5.3425 3.4689-5.566 5.6541 0 1.1641-0.45017 2.6712 0.75896 3.1539z" fill="url(#radialGradient6)" style="paint-order:fill markers stroke"/>
   </g>
 </svg>
