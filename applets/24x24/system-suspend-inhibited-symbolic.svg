@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="translate(1,1)">
+    <g transform="translate(0,1)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+      <path transform="translate(12)" d="m6 12.5a1.5 1.5 135 0 0 1.5-1.5v-2a1.5 1.5 45 0 0-1.5-1.5h-12c-0.27614 0-0.50042 0.22387-0.4965 0.49998 0.043932 3.089 0.50741 5.7776 1.7487 8.0659 0.13164 0.24268 0.47167 0.43415 0.74781 0.43415h6c0.27614 0 0.61618-0.1915 0.74784-0.43421 1.1055-2.0379 1.594-4.3934 1.7187-7.0664" style="paint-order:fill markers stroke"/>
+      <path d="m17.451 14.565a9.1514 2.2878 0 0 1 2.014 2.492 9.1514 2.2878 0 0 1-8.4394 1.4185 9.1514 2.2878 0 0 1-8.471-1.4067 9.1514 2.2878 0 0 1 1.9581-2.4948" style="paint-order:fill markers stroke"/>
+      <path transform="translate(12 -.5)" d="m3 6h-5.4938a1.5062 1.5062 45 0 1-1.5062-1.5062 1.5 1.5 135.24 0 1 1.5062-1.4938h2.9876a1.5062 1.5062 135 0 0 1.5062-1.5062 1.5 1.5 44.763 0 0-1.5062-1.4938h-2.4938" opacity=".5" style="paint-order:fill markers stroke"/>
+    </g>
+  </g>
+</svg>

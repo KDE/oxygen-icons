@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24" xml:space="preserve">
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g transform="translate(0,1)">
+  <g transform="translate(1,1)">
+    <g transform="translate(0,1)">
     <g fill="none" opacity=".5" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
       <path transform="translate(12)" d="m6 12.5a1.5 1.5 135 0 0 1.5-1.5v-2a1.5 1.5 45 0 0-1.5-1.5h-4.4m-2.695 0h-4.905c-0.27614 0-0.50042 0.22387-0.4965 0.49998 0.024339 1.7113 0.17745 3.2998 0.52026 4.7654m0.53349 1.7727c0.19821 0.52765 0.42866 1.0369 0.6949 1.5277 0.13166 0.24271 0.4717 0.43421 0.74784 0.43421h6c0.27614 0 0.61618-0.1915 0.74784-0.43421 1.1055-2.0379 1.594-4.3934 1.7187-7.0664" style="paint-order:fill markers stroke"/>
       <path d="m17.451 14.565c2.6256 0.65238 3.4205 1.636 2.014 2.492-1.4066 0.85605-4.7376 1.4159-8.4394 1.4185-2.9875 0.0021-5.7416-0.35911-7.4426-0.9475m-1.6986-1.1372c-0.23554-0.66145 0.68973-1.3297 2.6283-1.8168" style="paint-order:fill markers stroke"/>
@@ -12,10 +13,11 @@
     </g>
     <g transform="translate(-5e-6 -1)">
       <g transform="translate(.24448 .30195)">
-    <g transform="translate(.29462 .2059)">
-    <path class="ColorScheme-Text" d="m18.332 2.0095c-0.08489 0.022497-0.16236 0.066958-0.22461 0.12891l-16 16c-0.19521 0.19525-0.19521 0.51178 0 0.70703 0.19525 0.19521 0.51178 0.19521 0.70703 0l16-16c0.19521-0.19525 0.19521-0.51178 0-0.70703-0.1263-0.12594-0.31013-0.17506-0.48242-0.12891z" fill="currentColor"/>
-  </g>
-  </g>
+        <g transform="translate(.29462 .2059)">
+          <path class="ColorScheme-Text" d="m18.332 2.0095c-0.08489 0.022497-0.16236 0.066958-0.22461 0.12891l-16 16c-0.19521 0.19525-0.19521 0.51178 0 0.70703 0.19525 0.19521 0.51178 0.19521 0.70703 0l16-16c0.19521-0.19525 0.19521-0.51178 0-0.70703-0.1263-0.12594-0.31013-0.17506-0.48242-0.12891z" fill="currentColor"/>
+        </g>
+      </g>
+    </g>
     </g>
   </g>
 </svg>
