@@ -1,10 +1,12 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
  <g class="ColorScheme-Text" transform="rotate(29.999 4.136 27.046)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
   <path d="m11.205 14.301a1.3773 1.3785 60.001 01-.56613 1.5022 1.3773 1.3785 60.001 01-1.6047-.051893 1.3773 1.3785 60.001 01-.46548-1.5356 1.3773 1.3785 60.001 011.3054-.93526"/>
   <path d="m9.8769 6.1621-.00274 7.1178"/>
  </g>
- <path class="ColorScheme-Text" d="m6.2134 24.538a11.947 11.937 0 011.8441-15.764 11.947 11.937 0 0115.885-1e-7 11.947 11.937 0 011.8441 15.764" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path id="path3" class="ColorScheme-Text" d="m6.2134 24.538a11.947 11.937 0 011.8441-15.764 11.947 11.937 0 0115.885-1e-7 11.947 11.937 0 011.8441 15.764" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <use opacity=".005" xlink:href="#path3"/>
 </svg>
