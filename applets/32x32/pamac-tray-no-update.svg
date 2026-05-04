@@ -1,0 +1,12 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+                color:#232629;
+            }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m15.071 27.351a12.351 12.351 0 01-11.687-8.1549 12.351 12.351 0 013.7785-13.741 12.351 12.351 0 0114.213-1.0327 12.351 12.351 0 015.725 13.05" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <circle id="circle1" class="ColorScheme-Text" cx="15" cy="15" r="2.3015" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" style="paint-order:fill markers stroke"/>
+ <path class="ColorScheme-Text" d="m18.949 5.3145-2.1973 5.8809 1.2617.89845 4.8438-3.9941c-1.0669-1.2147-2.4121-2.1725-3.9082-2.7852zm-6.9902 12.604-4.8437 3.9941c1.0669 1.2147 2.4121 2.1725 3.9082 2.7852l2.1973-5.8809-1.2617-.89845z" fill="none" opacity=".39238" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".7" style="paint-order:fill markers stroke"/>
+ <path class="ColorScheme-Text" d="m16.343 24.904 5.4548 5.3808 8.7953-8.676-2.619-2.5834-6.1756 6.0918-2.8358-2.7974z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <use xlink:href="#circle1"/>
+</svg>
