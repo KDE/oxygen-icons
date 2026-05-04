@@ -1,0 +1,13 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+                color:#232629;
+            }</style>
+ </defs>
+ <path class="ColorScheme-Text" transform="matrix(1.3564 0 0 1.3564 -3.0039 1.2583)" d="m10.693 2.5v5.5a2.5 2.5 135 01-2.5 2.5h-2.9712a1.1481 1.1481 112.87 00-.82221 1.9494l8.0109 8.2198a2.2192 2.2192 0 003.1786 0l8.0109-8.2198a1.1481 1.1481 67.131 00-.82221-1.9494h-2.9492a2.5 2.5 45 01-2.5-2.5v-5.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73727" style="paint-order:fill markers stroke"/>
+ <g class="ColorScheme-Text" transform="matrix(1.3564 0 0 1.3564 1.7433 1.2583)" fill="none" opacity=".6" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73727">
+  <path transform="translate(-3.5)" d="m12.905 1v7a4.5 4.5 135 01-4.5 4.5h-.5m12.212 0h-.5a4.5 4.5 45 01-4.5-4.5v-7" style="paint-order:fill markers stroke"/>
+  <path transform="translate(-3.5,2)" d="m15.127 6c0 3.2473-2.3812 5.9384-5.4928 6.4224m8.7903.0041c-3.1245-.47294-5.5192-3.1701-5.5192-6.4265v-.1" opacity=".6" style="paint-order:fill markers stroke"/>
+  <path transform="translate(-3.5,4)" d="m17.329 4c-.02222 4.0105-2.8029 7.3605-6.5336 8.2616m6.3394-.03363c-3.7045-.95579-6.4412-4.3196-6.4412-8.3227v-.0052786" opacity=".4" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>
