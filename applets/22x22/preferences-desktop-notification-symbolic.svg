@@ -1,12 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <ellipse cx="11.004" cy="11" rx="9.5621" ry="9.5581" fill="none" opacity=".2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke" class="ColorScheme-Text"/>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m2.3238 15.01a9.5582 9.5582 0 0 1 2.7399-11.501 9.5582 9.5582 0 0 1 11.823-0.038944 9.5582 9.5582 0 0 1 2.8156 11.483" opacity=".5" style="paint-order:fill markers stroke"/>
-    <path transform="translate(.5)" d="m9 16.987c-1e-7 0.28146 0.076874 0.54498 0.21077 0.77068 0.26353 0.44422 0.74794 0.74199 1.3019 0.74199 0.82843-0.006999 1.4943-0.68425 1.4873-1.5127v-0.48733h4.3c0.27614 0 0.5-0.22386 0.5-0.5 0-0.27615-0.24456-0.52121-0.44503-0.70192-0.98054-0.88388-1.8188-4.5142-2.1737-7.7903-0.17925-1.6545-1.5243-3.0078-3.1812-3.0078v-0.51319c0-0.26886-0.21795-0.48681-0.48681-0.48681h-0.02639c-0.26886 1e-6 -0.4868 0.21795-0.4868 0.48681v0.51319c-1.6569 0-3.0226 1.3512-3.1668 3.0097-0.29106 3.347-0.96498 7.0632-2.1631 7.8423-0.22818 0.14837-0.47005 0.37188-0.47005 0.64802s0.22386 0.5 0.5 0.5h5.6" style="paint-order:fill markers stroke"/>
-    <path d="m16.807 18.592a9.5582 9.5582 0 0 1-11.753-0.10799" opacity=".5" style="paint-order:fill markers stroke"/>
-  </g>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m8.8588 20.18c.35555.59952 1.0091 1.0014 1.7565 1.0014 1.1177-.0094 2.0161-.92346 2.0067-2.0415v-.6577h5.7031c.37257 0 .6746-.30212.6746-.6748 0-.37269-.32996-.70342-.60044-.94731-1.3229-1.1929-2.4539-5.0923-2.9328-9.5137-.24184-2.2329-1.7313-3.8593-3.9668-3.8593v-.98691c0-.55543-.45013-1.0057-1.0054-1.0057-.55228.00298-.99756.45325-.99458 1.0057v.98691c-2.2355 0-3.7527 1.6236-3.9472 3.8619-.3927 4.5171-1.302 8.5324-2.9185 9.5839-.30786.20024-.63419.50189-.63419.87457s.30203.6748.6746.6748h7.654" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".99999" style="paint-order:fill markers stroke"/>
 </svg>
