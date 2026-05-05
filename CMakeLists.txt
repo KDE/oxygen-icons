@@ -30,30 +30,7 @@ install( DIRECTORY ${oxygen_icon_dirs} DESTINATION ${OXYGEN_INSTALL_DIR} PATTERN
 install( DIRECTORY applets DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 install( FILES index.theme DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 
-macro (COPY_ICONS _srcdir _srcfile _destdir)
-  set(_src "${_srcdir}/${_srcfile}")
-  if(EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/${_src}")
-    foreach(_dest ${ARGN})
-      install( FILES "${_src}" DESTINATION ${_destdir}/${_srcdir} RENAME "${_dest}" )
-    endforeach()
-  endif()
-endmacro (COPY_ICONS)
-
-# Copy the msoffice icon to the msoffice-2007 mimetypes (#225507)
-foreach(_sizedir ${oxygen_icon_dirs})
-
-#  template/example
-#  COPY_ICONS(
-#    ${_sizedir}/mimetypes
-#    application-msword.png
-#    ${OXYGEN_INSTALL_DIR}
-#    application-vnd.openxmlformats-officedocument.wordprocessingml.template.png
-#    application-vnd.ms-word.template.macroEnabled.12.png)
-
-endforeach()
-
 include(ECMFeatureSummary)
 ecm_feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
-
 
 kde_configure_git_pre_commit_hook(CHECKS CLANG_FORMAT)
