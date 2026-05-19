@@ -26,4 +26,11 @@ SPDX-License-Identifier: CC0-1.0
       <caption>Screenshot of KMail with the Oxygen style and icon theme.</caption>
     </screenshot>
   </screenshots>
+  <releases>
+    <release version="6.2.0" date="2026-05-19">
+      <description>
+        <p>This new release adds many new symbolic icons for the system tray.</p>
+      </description>
+    </release>
+  </releases>
 </component>
