@@ -7,11 +7,19 @@ SPDX-License-Identifier: CC0-1.0
   <id>org.kde.oxygentheme</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LGPL-3.0-or-later</project_license>
+  <url type="homepage">https://develop.kde.org/frameworks/oxygen-icons/</url>
+  <url type="translate">https://community.kde.org/Get_Involved/translation</url>
+  <url type="contribute">https://community.kde.org/Get_Involved</url>
+  <url type="donation">https://kde.org/donate/?app=oxygen</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Oxygen</url>
   <name>Oxygen Icons</name>
   <summary>A free and open source icon theme to use with the Oxygen Plasma style</summary>
   <description>
     <p>Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look.</p>
   </description>
+  <developer id="kde.org">
+    <name translate="no">KDE</name>
+  </developer>
   <screenshots>
     <screenshot type="default">
       <image type="source">https://cdn.kde.org/screenshots/oxygen/kmail-oxygen.png</image>
