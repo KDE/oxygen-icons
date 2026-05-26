@@ -22,9 +22,11 @@ SPDX-License-Identifier: CC0-1.0
   <name xml:lang="ka">Oxygen Icons</name>
   <name xml:lang="nl">Oxygen-pictogrammen</name>
   <name xml:lang="pt-BR">Ícones Oxygen</name>
+  <name xml:lang="sk">Ikony Oxygen</name>
   <name xml:lang="sl">Ikone Oxygen</name>
   <name xml:lang="tr">Oksijen Simgeleri</name>
   <name xml:lang="uk">Піктограми Oxygen</name>
+  <name xml:lang="zh-CN">Oxygen 轻氧图标</name>
   <name xml:lang="zh-TW">Oxygen 圖示</name>
   <summary>A free and open source icon theme to use with the Oxygen Plasma style</summary>
   <summary xml:lang="ar">سمة أيقونات حرة ومفتوحة المصدر للاستخدام مع نمط بلازما الأكسجين.</summary>
@@ -36,9 +38,11 @@ SPDX-License-Identifier: CC0-1.0
   <summary xml:lang="ka">თავისუფალი და ღია წყაროს მქონე ხატულების თემა, რომელიც Plasma-ის სტილში Oxygen გამოიყენება</summary>
   <summary xml:lang="nl">Een gratis en open-source pictogramthema voor gebruik met de Oxygen Plasma-stijl.</summary>
   <summary xml:lang="pt-BR">Um tema de ícones gratuito e de código aberto para usar com o estilo Oxygen Plasma.</summary>
+  <summary xml:lang="sk">Voľná a otvorená téma ikon na použitie so štýlom Oxygen pre Plasmu</summary>
   <summary xml:lang="sl">Prosta in odprtokodna tema ikon za uporabo s slogom Plasma Oxygen</summary>
   <summary xml:lang="tr">Oksijen Plasma biçemi ile kullanılmak üzere ücretsiz ve açık kaynaklı bir simge teması</summary>
   <summary xml:lang="uk">Вільна тема з відкритим початковим кодом для використання зі стилем Плазми Oxygen</summary>
+  <summary xml:lang="zh-CN">适合与 Oxygen 轻氧 Plasma 主题搭配使用的自由开源图标主题</summary>
   <summary xml:lang="zh-TW">搭配 Plasma 風格 Oxygen 的自由開源圖示主題</summary>
   <description>
     <p>Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look.</p>
@@ -51,9 +55,11 @@ SPDX-License-Identifier: CC0-1.0
     <p xml:lang="ka">Oxygen Icons არის freedesktop.org-თან თავსებადი ხატულების თემა, რომელიც თავიდან KDE Plasma სამუშაო გარემოსთვის შემუშავდა სტილთან Oxygen ერთად. მას გააჩნია გლუვი გრადიენტები, რბილი ჩრდილები და ოდნავ პრიალა იერი.</p>
     <p xml:lang="nl">Oxygen-pictogrammen is een pictogramthema dat compatibel is met freedesktop.org en oorspronkelijk is ontwikkeld voor de KDE Plasma-bureaubladomgeving in combinatie met de Oxygen-stijl. Het kenmerkt zich door vloeiende kleurovergangen, zachte schaduwen en een licht glanzende uitstraling.</p>
     <p xml:lang="pt-BR">Ícones Oxygen é um tema de ícones compatível com freedesktop.org, originalmente desenvolvido para o ambiente de desktop KDE Plasma em combinação com o Estilo Oxygen. Apresenta gradientes suaves, sombras delicadas e um aspecto levemente brilhante.</p>
+    <p xml:lang="sk">Oxygen Icons je téma ikon kompatibilná s freedesktop.org, ktorá bola pôvodne vyvinutá pre desktopové prostredie KDE Plasma v kombinácii so štýlom Oxygen. Vyznačuje sa plynulými prechodmi, jemnými tieňmi a mierne lesklým vzhľadom.</p>
     <p xml:lang="sl">Oxygen Icons je tema ikon, združljiva s freedesktop.org, prvotno razvita za namizno okolje KDE Plasma v kombinaciji s slogom Oxygen. Ima gladke prelive, mehke sence in rahlo sijoč videz.</p>
     <p xml:lang="tr">Oksijen Simgeleri, özgün olarak KDE Plasma masaüstü ortamı için Oksijen biçemi ile birlikte geliştirilmiş, freedesktop.org ile uyumlu bir simge temasıdır. Pürüzsüz geçişler, yumuşak gölgeler ve hafif parlak bir görünüme sahiptir.</p>
     <p xml:lang="uk">Піктограми Oxygen — це тема піктограм, сумісна з freedesktop.org, спочатку розроблена для стільничного середовища Плазма KDE у поєднанні зі стилем Oxygen. Вона містить плавні градієнти, м'які тіні та злегка глянцевий вигляд.</p>
+    <p xml:lang="zh-CN">Oxygen 图标主题是一款兼容 freedesktop.org 规范的图标主题，专为在 KDE Plasma 桌面环境下与 Oxygen 轻氧样式主题搭配使用。它的图标具有平滑的渐变、柔和的阴影以及略带光泽的外观。</p>
     <p xml:lang="zh-TW">Oxygen 圖示是一套與 freedesktop.org 標準相容的圖示主題，原先為使用 Oxygen 風格的 KDE Plasma 桌面環境開發。它提供較柔和的漸層、柔和陰影與類似玻璃的外觀。</p>
   </description>
   <developer id="kde.org">
@@ -72,9 +78,11 @@ SPDX-License-Identifier: CC0-1.0
       <caption xml:lang="ka">KMail-ის ეკრანის ანაბეჭდი Oxygen სტილითა და ხატულას თემით.</caption>
       <caption xml:lang="nl">Schermafdruk van KMail met de Oxygen-stijl en het -pictogramthema.</caption>
       <caption xml:lang="pt-BR">Captura de tela do KMail com o estilo Oxygen e o tema de ícones.</caption>
+      <caption xml:lang="sk">Snímka obrazovky aplikácie KMail so štýlom a témou ikon Oxygen.</caption>
       <caption xml:lang="sl">Posnetek zaslona KMaila s slogom in temo ikon Oxygen.</caption>
       <caption xml:lang="tr">K Posta’nın Oksijen biçemi ve simgeleri ile ekran görüntüsü</caption>
       <caption xml:lang="uk">Знімок вікна KMail зі стилем і темою піктограм Oxygen.</caption>
+      <caption xml:lang="zh-CN">使用 Oxygen 样式与图标主题的 KMail 屏幕截图。</caption>
       <caption xml:lang="zh-TW">KMail 使用 Oxygen 風格與圖示主題的螢幕截圖。</caption>
     </screenshot>
   </screenshots>
@@ -91,9 +99,11 @@ SPDX-License-Identifier: CC0-1.0
         <p xml:lang="ka">ეს ახალი ვერსია ამატებს ბევრ ახალ სიმბოლური ხატულას სისტემური კუთხისთვის.</p>
         <p xml:lang="nl">Deze nieuwe uitgave voegt veel nieuwe symbolische pictogrammen toe aan het systeemvak.</p>
         <p xml:lang="pt-BR">Esta nova versão adiciona muitos novos ícones simbólicos para a bandeja do sistema.</p>
+        <p xml:lang="sk">Toto nové vydanie pridáva mnoho nových symbolických ikon pre systémovú lištu.</p>
         <p xml:lang="sl">Ta nova izdaja dodaja veliko novih simboličnih ikon za sistemski pladenj.</p>
         <p xml:lang="tr">Bu yeni yayım, sistem tepsisi için birçok yeni sembolik simgeler ekler.</p>
         <p xml:lang="uk">У цьому випуску додано багато нових символічних піктограм для системного лотка.</p>
+        <p xml:lang="zh-CN">这一新版本为系统托盘追加了大量符号化图标。</p>
         <p xml:lang="zh-TW">這個新版本為許多系統匣新增許多符號圖示。</p>
       </description>
     </release>
