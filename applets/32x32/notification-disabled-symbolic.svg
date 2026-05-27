@@ -2,6 +2,6 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <path d="m4 28 22-22" fill="none" stroke="#232629" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <path class="ColorScheme-Text" d="m4 28 22-22" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
  <path class="ColorScheme-Text" d="m13.539 27.738c.46873.79036 1.3303 1.3202 2.3156 1.3202 1.4735-.01239 2.6578-1.2174 2.6455-2.6913v-.86705h7.8422c.49116 0 .88933-.39829.88933-.8896 0-.49132-.43499-.92733-.79157-1.2488-1.744-1.5726-3.235-6.7132-3.8663-12.542-.043016-.39716-.11314-.78399-.2095-1.156m-.90119-2.0416c-.87355-1.2896-2.2187-2.1218-3.9629-2.1218v-1c0-.82843-.67157-1.5-1.5-1.5-.82636.00207-1.4946.67364-1.4925 1.5v1c-2.9471 0-4.7472 2.3721-5.0036 5.3229-.40162 4.6197-1.2131 8.8412-2.5518 11.149m-.67075 3.5278h9.5186" fill="none" opacity=".4" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".99999" style="paint-order:fill markers stroke"/>
 </svg>

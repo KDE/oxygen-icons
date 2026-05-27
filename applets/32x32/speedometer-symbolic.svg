@@ -7,6 +7,6 @@
   <path d="m11.205 14.301a1.3773 1.3785 60.001 01-.56613 1.5022 1.3773 1.3785 60.001 01-1.6047-.051893 1.3773 1.3785 60.001 01-.46548-1.5356 1.3773 1.3785 60.001 011.3054-.93526"/>
   <path d="m9.8769 6.1621-.00274 7.1178"/>
  </g>
- <path id="path3" class="ColorScheme-Text" d="m6.2134 24.538a11.947 11.937 0 011.8441-15.764 11.947 11.937 0 0115.885-1e-7 11.947 11.937 0 011.8441 15.764" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" d="m6.2134 24.538a11.947 11.937 0 011.8441-15.764 11.947 11.937 0 0115.885-1e-7 11.947 11.937 0 011.8441 15.764" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
  <use opacity=".005" xlink:href="#path3"/>
 </svg>
