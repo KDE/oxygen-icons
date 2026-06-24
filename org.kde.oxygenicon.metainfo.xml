@@ -24,6 +24,7 @@ SPDX-License-Identifier: CC0-1.0
   <name xml:lang="ko">Oxygen 아이콘</name>
   <name xml:lang="lt">Oxygen piktogramos</name>
   <name xml:lang="nl">Oxygen-pictogrammen</name>
+  <name xml:lang="nn">Oxygen-ikon</name>
   <name xml:lang="pt-BR">Ícones Oxygen</name>
   <name xml:lang="ro">Pictograme Oxygen</name>
   <name xml:lang="sk">Ikony Oxygen</name>
@@ -44,6 +45,7 @@ SPDX-License-Identifier: CC0-1.0
   <summary xml:lang="ka">თავისუფალი და ღია წყაროს მქონე ხატულების თემა, რომელიც Plasma-ის სტილში Oxygen გამოიყენება</summary>
   <summary xml:lang="lt">Nemokamas, atvirojo kodo piktogramų apipavidalinimas, skirtas naudoti kartu su Oxygen Plasma stiliumi</summary>
   <summary xml:lang="nl">Een gratis en open-source pictogramthema voor gebruik met de Oxygen Plasma-stijl.</summary>
+  <summary xml:lang="nn">Eit fritt ikontema for bruk saman med Oxygen Plasma-stilen</summary>
   <summary xml:lang="pt-BR">Um tema de ícones gratuito e de código aberto para usar com o estilo Oxygen Plasma.</summary>
   <summary xml:lang="ro">Tematică de pictograme liberă și cu sursă deschisă de folosit cu stilul Plasma Oxygen</summary>
   <summary xml:lang="sk">Voľná a otvorená téma ikon na použitie so štýlom Oxygen pre Plasmu</summary>
@@ -64,6 +66,7 @@ SPDX-License-Identifier: CC0-1.0
     <p xml:lang="ka">Oxygen Icons არის freedesktop.org-თან თავსებადი ხატულების თემა, რომელიც თავიდან KDE Plasma სამუშაო გარემოსთვის შემუშავდა სტილთან Oxygen ერთად. მას გააჩნია გლუვი გრადიენტები, რბილი ჩრდილები და ოდნავ პრიალა იერი.</p>
     <p xml:lang="lt">Oxygen piktogramos yra su freedesktop.org suderinamas piktogramų apipavidalinimas, kuris nuo pat pradžių kartu su Oxygen stiliumi buvo sukurtas KDE Plasma darbalaukio aplinkai. Oxygen piktogramos pateikia glotnius gradientus, švelnius šešėlius bei šiek tiek žvilgančią išvaizdą.</p>
     <p xml:lang="nl">Oxygen-pictogrammen is een pictogramthema dat compatibel is met freedesktop.org en oorspronkelijk is ontwikkeld voor de KDE Plasma-bureaubladomgeving in combinatie met de Oxygen-stijl. Het kenmerkt zich door vloeiende kleurovergangen, zachte schaduwen en een licht glanzende uitstraling.</p>
+    <p xml:lang="nn">Oxygen-ikon er eit freedesktop.org-kompatibelt ikontema opphavleg utvikla for KDE Plasma og Oxygen-stilen. Det har jamne fargeovergangar, mjuke skuggar og lett glans.</p>
     <p xml:lang="pt-BR">Ícones Oxygen é um tema de ícones compatível com freedesktop.org, originalmente desenvolvido para o ambiente de desktop KDE Plasma em combinação com o Estilo Oxygen. Apresenta gradientes suaves, sombras delicadas e um aspecto levemente brilhante.</p>
     <p xml:lang="ro">Pictogramele Oxygen sunt o tematică de pictograme compatibilă cu freedesktop.org, dezvoltată inițial pentru mediul de birou KDE Plasma în combinație cu stilul Oxygen. Aceasta are gradienți lini, umbre moi și un aspect puțin lucios.</p>
     <p xml:lang="sk">Oxygen Icons je téma ikon kompatibilná s freedesktop.org, ktorá bola pôvodne vyvinutá pre desktopové prostredie KDE Plasma v kombinácii so štýlom Oxygen. Vyznačuje sa plynulými prechodmi, jemnými tieňmi a mierne lesklým vzhľadom.</p>
@@ -90,6 +93,7 @@ SPDX-License-Identifier: CC0-1.0
       <caption xml:lang="ka">KMail-ის ეკრანის ანაბეჭდი Oxygen სტილითა და ხატულას თემით.</caption>
       <caption xml:lang="lt">Ekrano kopija, kurioje programa KMail naudoja Oxygen stilių ir piktogramų apipavidalinimą.</caption>
       <caption xml:lang="nl">Schermafdruk van KMail met de Oxygen-stijl en het -pictogramthema.</caption>
+      <caption xml:lang="nn">Skjermbilete av KMail med Oxygen-stil og ikontemaet.</caption>
       <caption xml:lang="pt-BR">Captura de tela do KMail com o estilo Oxygen e o tema de ícones.</caption>
       <caption xml:lang="ro">Captură de ecran cu KMail având Stilul și tematica de pictograme Oxygen.</caption>
       <caption xml:lang="sk">Snímka obrazovky aplikácie KMail so štýlom a témou ikon Oxygen.</caption>
@@ -114,6 +118,7 @@ SPDX-License-Identifier: CC0-1.0
         <p xml:lang="ka">ეს ახალი ვერსია ამატებს ბევრ ახალ სიმბოლური ხატულას სისტემური კუთხისთვის.</p>
         <p xml:lang="lt">Ši nauja laida prideda daugybę naujų simbolinių piktogramų, skirtų sistemos dėklui.</p>
         <p xml:lang="nl">Deze nieuwe uitgave voegt veel nieuwe symbolische pictogrammen toe aan het systeemvak.</p>
+        <p xml:lang="nn">I denne utgåva er det komme mange nye symbolikon for systemtrauet.</p>
         <p xml:lang="pt-BR">Esta nova versão adiciona muitos novos ícones simbólicos para a bandeja do sistema.</p>
         <p xml:lang="ro">Această ediție nouă adaugă multe pictograme simbolice noi pentru tava de sistem.</p>
         <p xml:lang="sk">Toto nové vydanie pridáva mnoho nových symbolických ikon pre systémovú lištu.</p>
