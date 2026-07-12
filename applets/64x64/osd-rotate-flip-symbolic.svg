@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 9.345342,11.999993 h 45.309316 c 1.853332,0 3.345349,1.49206 3.345349,3.345401 v 27.310009 c 0,1.853361 -1.492037,3.345402 -3.345349,3.345402 H 9.345342 c -1.8533319,0 -3.3453494,-1.492061 -3.3453494,-3.345402 V 15.345394 c 0,-1.853361 1.4920375,-3.345401 3.3453494,-3.345401 z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path class="ColorScheme-Text" d="m 31.9996,46.000005 v 8.000002 m 5.999909,0 H 25.999691" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path d="m -35.168245,41.416967 a 11.246456,11.246456 0 0 1 -4.503797,-12.516571 11.246456,11.246456 0 0 1 10.584665,-8.056899" transform="rotate(-90)" opacity="1" fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" paint-order="fill markers stroke" class="ColorScheme-Text"/>
+  <path d="m -22.794518,22.634776 a 11.246456,11.246456 0 0 1 4.711551,12.577394 11.246456,11.246456 0 0 1 -10.696897,8.121943" transform="rotate(-90)" opacity="1" fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" paint-order="fill markers stroke" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Text" d="M 53,29 H 11" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" paint-order="fill markers stroke" stroke-dasharray="none"/>
+  <path class="ColorScheme-Text" d="m 27,23 h -5 l -1e-6,-5.000309" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" paint-order="fill markers stroke" stroke-dasharray="none"/>
+  <path class="ColorScheme-Text" d="m 37,35 h 5 l 10e-7,5.000309" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" paint-order="fill markers stroke" stroke-dasharray="none"/>
+</svg>
