@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+    <path class="ColorScheme-Text" d="m25 33v5.6554c0 1.8534 1.492 3.3454 3.3453 3.3454h31.309c1.8533 0 3.3453-1.4921 3.3453-3.3454v-18.31c0-1.8534-1.492-3.3454-3.3453-3.3454h-31.309c-1.8533 0-3.3453 1.4921-3.3453 3.3454v4.6546" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m44 42v6m-5.9999 0h12" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m23 17h-18.655c-1.8533 0-3.3453 1.4921-3.3453 3.3454v18.31c0 1.8534 1.492 3.3454 3.3453 3.3454h18.655" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m20 42v6m-5.9999 0h12" paint-order="fill markers stroke" stroke-width="2"/>
+  </g>
+  <path d="m30 29h-13l4-4" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m17 29 4 4" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" class="ColorScheme-Text"/>
+</svg>

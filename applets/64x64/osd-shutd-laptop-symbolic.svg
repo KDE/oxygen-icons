@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" opacity=".4" class="ColorScheme-Text">
+    <path class="ColorScheme-Text" d="m17.435 21h18.219c1.8533 0 3.3453 1.4921 3.3453 3.3454v18.31c0 1.8534-1.492 3.3454-3.3453 3.3454h-31.309c-1.8533 0-3.3453-1.4921-3.3453-3.3454v-18.31c0-1.8534 1.492-3.3454 3.3453-3.3454h2.1547" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m20 46v6m5.9999 0h-12" paint-order="fill markers stroke" stroke-width="2"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+    <path class="ColorScheme-Text" d="m25 18v-2.6546c0-1.8534 1.492-3.3454 3.3453-3.3454h31.309c1.8533 0 3.3453 1.4921 3.3453 3.3454v18.31c0 1.8534-1.492 3.3454-3.3453 3.3454h-17.655" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m44 37v6m5.9999 0h-7.9998" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m25 24.345v9.31c0 1.8534 1.492 3.3454 3.3453 3.3454h6.6547" opacity=".4" paint-order="fill markers stroke" stroke-width="2"/>
+  </g>
+  <g transform="translate(-38,9)">
+    <path d="m46 10 8 8" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m54 10-8 8" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g transform="translate(-38,9)" opacity=".3" stroke="#f00">
+    <path d="m46 10 8 8" fill="none" opacity="1" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#f00"/>
+    <path d="m54 10-8 8" fill="none" opacity="1" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="#f00"/>
+  </g>
+</svg>

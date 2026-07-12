@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 39.000007,33 v 5.655403 c 0,1.853361 -1.492037,3.345402 -3.345349,3.345402 H 4.345342 c -1.853332,0 -3.3453494,-1.492061 -3.3453494,-3.345402 V 20.345394 c 0,-1.853361 1.4920374,-3.345401 3.3453494,-3.345401 h 31.309316 c 1.853332,0 3.345349,1.49206 3.345349,3.345401 V 25" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path class="ColorScheme-Text" d="m 19.9996,42.000005 v 6.000002 m 5.999909,0 H 13.999691" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path class="ColorScheme-Text" d="m 41,16.999993 18.654651,0 c 1.853332,0 3.345349,1.49206 3.345349,3.345401 v 18.310009 c 0,1.853361 -1.492037,3.345402 -3.345349,3.345402 H 41" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path class="ColorScheme-Text" d="m 43.999593,42.000005 v 6.000002 m 5.999909,0 H 37.999684" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.99999" paint-order="fill markers stroke"/>
+  <path d="M 34,29 H 47 L 43,25" opacity="1" fill="none" fill-opacity="1" fill-rule="evenodd" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" paint-order="fill markers stroke" class="ColorScheme-Text"/>
+  <path d="m 47,29 -4,4" opacity="1" fill="none" fill-opacity="1" fill-rule="evenodd" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" paint-order="fill markers stroke" class="ColorScheme-Text"/>
+</svg>

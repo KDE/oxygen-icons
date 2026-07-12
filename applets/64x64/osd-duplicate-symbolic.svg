@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1" viewBox="0 0 64 64">
+  <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m39 29v13.655c0 1.8534-1.492 3.3454-3.3453 3.3454h-31.309c-1.8533 0-3.3453-1.4921-3.3453-3.3454v-18.31c0-1.8534 1.492-3.3454 3.3453-3.3454h28.655" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" paint-order="fill markers stroke" stroke-width="2"/>
+  <path class="ColorScheme-Text" d="m20 46v6m5.9999 0h-12" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" paint-order="fill markers stroke" stroke-width="2"/>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text">
+    <path class="ColorScheme-Text" d="m25 18v-2.6546c0-1.8534 1.492-3.3454 3.3453-3.3454h31.309c1.8533 0 3.3453 1.4921 3.3453 3.3454v18.31c0 1.8534-1.492 3.3454-3.3453 3.3454h-17.655" paint-order="fill markers stroke" stroke-width="2"/>
+    <path class="ColorScheme-Text" d="m44 37v6m5.9999 0h-7.9998" paint-order="fill markers stroke" stroke-width="2"/>
+  </g>
+  <rect transform="rotate(-45)" x="-2.0153" y="41.341" width="8.1438" height="5" rx="2.5" ry="2.5" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8795" stroke="currentColor" class="ColorScheme-Text"/>
+  <rect transform="rotate(-45)" x="10.271" y="41.341" width="8.4426" height="5" rx="2.5" ry="2.5" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8795" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m41 21-1 1m-3.1507 3.1507-.05749.05749m-3.3116 3.3116-.48023.48023" fill="none" opacity=".53386" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" class="ColorScheme-Text"/>
+</svg>
