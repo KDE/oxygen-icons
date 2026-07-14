@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
   <defs>
-    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+      <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
   <g transform="translate(-2,-4)" opacity=".141731">
     <path class="ColorScheme-Text" fill="currentColor" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" paint-order="fill markers stroke" d="M 4.0537601,6 H 21.94624 C 23.084023,6 24,6.915977 24,8.0537601 V 8.9462399 C 24,10.084023 23.084023,11 21.94624,11 H 4.0537601 C 2.915977,11 2,10.084023 2,8.9462399 V 8.0537601 C 2,6.915977 2.915977,6 4.0537601,6 Z"/>

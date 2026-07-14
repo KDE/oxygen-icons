@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <defs>
-    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+      <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
   <g transform="translate(1,1)">
     <g transform="translate(-2,-4)" opacity=".141731">
