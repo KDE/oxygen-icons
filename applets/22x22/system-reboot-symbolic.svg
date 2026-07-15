@@ -1,6 +1,6 @@
 <svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }.symbolic-stroke { fill:none; paint-order:fill markers stroke; stroke-linecap:round; stroke-linejoin:round; }</style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.symbolic-stroke { fill:none; paint-order:fill markers stroke; stroke-linecap:round; stroke-linejoin:round; }</style>
  </defs>
  <rect class="ColorScheme-Text symbolic-stroke" x="1.5" y="1.5" width="19" height="19" rx="3.5486" ry="3.5486" stroke="currentColor"/>
  <path class="ColorScheme-Text symbolic-stroke" d="m14.634 6.4664a5.8105 5.8105 0 011.8984 6.3087 5.8105 5.8105 0 01-5.2143 4.0267 5.8105 5.8105 0 01-5.6237-3.4319 5.8105 5.8105 0 011.1966-6.4786" stroke="currentColor"/>
