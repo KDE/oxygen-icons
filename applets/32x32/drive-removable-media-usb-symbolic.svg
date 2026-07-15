@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="24"
-   height="24"
    version="1.1"
-   viewBox="0 0 24 24"
+   viewBox="0 0 32 32"
    id="svg1"
    sodipodi:docname="drive-removable-media-usb-symbolic.svg"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   width="32"
+   height="32"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      showgrid="true"
-     inkscape:zoom="31.599847"
-     inkscape:cx="5.601293"
-     inkscape:cy="18.370342"
+     inkscape:zoom="22.997711"
+     inkscape:cx="17.219105"
+     inkscape:cy="14.718856"
      inkscape:current-layer="svg1">
     <inkscape:grid
        id="grid1"
@@ -116,39 +116,57 @@
           color:#232629;
         }</style>
   </defs>
-    <g transform="translate(1,1)">
-<path
+  <path
      id="smartphone"
      class="ColorScheme-Text"
-     d="M 15,5 V 2 C 15,1.446 14.554,1 14,1 H 9 C 8.446,1 8,1.446 8,2 v 3 1 h 7 z M 9,2 h 5 V 5 H 9 Z m 1.5,1 C 10.223,3 10,3.223 10,3.5 v 0.4 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 V 3.5 C 11,3.223 10.777,3 10.5,3 Z m 2,0 C 12.223,3 12,3.223 12,3.5 v 0.4 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 V 3.5 C 13,3.223 12.777,3 12.5,3 Z m 4,15 C 16.77614,18 17,18.22386 17,18.5 17,18.77614 16.77614,19 16.5,19 16.22386,19 16,18.77614 16,18.5 16,18.22386 16.22386,18 16.5,18 Z"
+     d="m 22.506867,26.018054 c 0.276635,0 0.500896,0.223462 0.500896,0.49911 0,0.275648 -0.224261,0.499109 -0.500896,0.499109 -0.276635,0 -0.500897,-0.223461 -0.500897,-0.499109 0,-0.275648 0.224262,-0.49911 0.500897,-0.49911 z"
      fill="currentColor"
-     sodipodi:nodetypes="csssscccccccccsssssssssssssssssss" />
+     sodipodi:nodetypes="sssss"
+     style="stroke-width:1" />
   <path
      id="rect1"
      class="ColorScheme-Text"
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     d="M 6.1149392,6.4999995 H 14.5 a 3.5,3.5 45 0 1 3.5,3.5 V 19.38506 A 2.1149397,2.1149397 135 0 1 15.88506,21.5 H 6.1149392 A 2.1149397,2.1149397 45 0 1 3.9999995,19.38506 V 8.6149392 A 2.1149397,2.1149397 135 0 1 6.1149392,6.4999995 Z"
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.669594;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="m 6.7833376,7.4142472 h 7.0482644 a 3.5,3.5 45 0 1 3.5,3.4999998 V 19.38506 A 2.1149397,2.1149397 135 0 1 15.216662,21.5 l -8.4333244,0 A 2.1149397,2.1149397 45 0 1 4.6683979,19.38506 V 9.5291869 A 2.1149397,2.1149397 135 0 1 6.7833376,7.4142472 Z"
      sodipodi:nodetypes="ccccc"
      inkscape:path-effect="#path-effect1"
-     inkscape:original-d="M 3.9999995,6.4999995 H 18 V 21.5 H 3.9999995 Z"
-     transform="translate(0.5,-1)" />
+     inkscape:original-d="M 4.6683979,7.4142472 H 17.331602 V 21.5 H 4.6683979 Z"
+     transform="matrix(1.4961137,0,0,1.4907769,-0.4309508,-2.5529884)" />
   <path
      id="path1"
      class="ColorScheme-Text"
-     style="opacity:0.694889;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     d="m 11,10.5 h 0 a 3.5,3.5 45 0 1 3.5,3.5 v 0 A 3.5,3.5 135 0 1 11,17.5 h 0 A 3.5,3.5 45 0 1 7.4999995,14 v 0 A 3.5,3.5 135 0 1 11,10.5 Z"
+     style="opacity:0.694889;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:0.468716;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="m 11,10.5 h 0 A 3.5,3.5 45 0 1 14.5,14 3.5,3.5 135 0 1 11,17.5 h 0 A 3.5,3.5 45 0 1 7.4999995,14 3.5,3.5 135 0 1 11,10.5 Z"
      sodipodi:nodetypes="ccccc"
      inkscape:path-effect="#path-effect3"
      inkscape:original-d="M 7.4999995,10.5 H 14.5 v 7 H 7.4999995 Z"
-     transform="matrix(1.4285715,0,0,1.4285715,-4.2142862,-6.5000008)" />
+     transform="matrix(2.1373053,0,0,2.1296813,-7.4840587,-10.752262)" />
   <path
      id="path5"
      class="ColorScheme-Text"
-     style="opacity:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:7.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:currentColor;stroke-width:4.68717;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="m 11,10.5 h 0 A 3.5,3.5 45 0 1 14.5,14 3.5,3.5 135 0 1 11,17.5 h 0 A 3.5,3.5 45 0 1 7.4999995,14 3.5,3.5 135 0 1 11,10.5 Z"
      sodipodi:nodetypes="ccccc"
      inkscape:path-effect="#path-effect7"
      inkscape:original-d="M 7.4999995,10.5 H 14.5 v 7 H 7.4999995 Z"
-     transform="matrix(0.14285704,0,0,0.14285703,9.9285721,11.500001)" />
-</g>
+     transform="matrix(0.21373037,0,0,0.21296796,13.675265,16.081724)" />
+  <path
+     d="m 13.019748,3.4999961 h 5.960505 c 0.287051,0 0.519751,0.2351697 0.519751,0.5252662 V 8.5000052 H 12.499996 V 4.0252623 c 0,-0.2900969 0.232701,-0.5252667 0.519752,-0.5252662 z"
+     stroke-width="0.999996"
+     class="ColorScheme-Text"
+     style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path1-0"
+     sodipodi:nodetypes="cssccsc" />
+  <path
+     d="M 14.50252,5.56464 V 6.3"
+     class="ColorScheme-Text"
+     style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path3"
+     sodipodi:nodetypes="cc" />
+  <path
+     d="M 17.50252,5.56464 V 6.3"
+     class="ColorScheme-Text"
+     style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path4"
+     sodipodi:nodetypes="cc" />
 </svg>
