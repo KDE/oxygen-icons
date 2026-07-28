@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path d="m10.5 21.5v1.6451c0 1.4458 1.1109 2.2681 2.5562 2.2681.67727-.01159 1.1086-.72846.80173-1.3325l-.08267-.16981c-.02497-.05129-.077-.08384-.13402-.08384h-.23218c-.36761 0-.66562-.29811-.66562-.66585.02601-.82706.71733-1.4764 1.5441-1.4504h.07973c1.3141 0 2.3795 1.0657 2.3795 2.3803v.004c0 2.439-1.9765 4.4162-4.4147 4.4162h-.1605c-3.1323 0-5.6715-2.5401-5.6715-5.6735v-10.822c0-5.0564 4.0976-9.1554 9.1523-9.1554.62687 0 1.3519.095034 1.9136.23746" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Text" />
+  <ellipse cx="11.488" cy="11.488" rx=".98755" ry=".98787" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m11.961 15.604c-.4589 2.1165-1.8562 3.1739-3.7663 3.0227 2.8267 1.9591 4.7263.54122 6.4427-1.5438-.63312-1.1551-1.5252-1.6481-2.6764-1.479z" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m17.029 8.3665c.54499-3.004 3.071-5.7875 6.4917-5.7146 3.9378.083907 6.6171 4.7493 6.4443 8.0553-.19924 3.8112-2.3633 6.1202-3.884 6.9316-2.5328 3.9786-8.2917 2.0981-9.5215-1.6389" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m7.5399 4.3068c-1.7473-.092926-3.1624 1.197-3.8434 2.8967-.76524 1.9101-.60319 4.3376 1.0568 5.9013" fill="none" paint-order="fill markers stroke" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Text" />
+</svg>
