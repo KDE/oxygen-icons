@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m16 3.5c-6.9036 0-12.5 5.5964-12.5 12.5 0 6.9036 5.5964 12.5 12.5 12.5 6.9036 0 12.5-5.5964 12.5-12.5 0-6.9036-5.5964-12.5-12.5-12.5zm-3.9238 8h.84766c.87367 0 1.5762.7025 1.5762 1.5762v5.8477c0 .87367-.7025 1.5762-1.5762 1.5762h-.84766c-.87367 0-1.5762-.7025-1.5762-1.5762v-5.8477c0-.87367.7025-1.5762 1.5762-1.5762zm7 0h.84766c.87367 0 1.5762.7025 1.5762 1.5762v5.8477c0 .87367-.7025 1.5762-1.5762 1.5762h-.84766c-.87367 0-1.5762-.7025-1.5762-1.5762v-5.8477c0-.87367.7025-1.5762 1.5762-1.5762z" style="fill-opacity:.70196;fill-rule:evenodd;fill:#242629;opacity:.1;paint-order:fill markers stroke;stroke-linecap:round" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="16" cy="16" r="12.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-opacity=".65" style="paint-order:fill markers stroke"/>
+  <rect class="ColorScheme-Text" x="10.5" y="11.5" width="4" height="9" rx="1.2692" ry="1.2692" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
+  <rect class="ColorScheme-Text" x="17.5" y="11.5" width="4" height="9" rx="1.2948" ry="1.2948" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
+</svg>
