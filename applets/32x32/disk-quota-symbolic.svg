@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g
+     fill="currentColor"
+     class="ColorScheme-Text"
+     transform="translate(-23.091803,-1.5)">
+    <path
+       class="ColorScheme-Text"
+       d="m 29.82054,4.5000147 c -1.412803,0 -2.575654,1.0729528 -2.715365,2.4489045 -0.0093,0.091732 -0.01337,0.1856086 -0.01337,0.2798046 V 26.751828 c 0,1.507081 1.221696,2.728736 2.728736,2.728736 h 12.276586 c -0.0029,-0.06363 -0.0053,-0.127609 -0.0053,-0.191857 V 18.335472 c 0,-2.342893 1.950091,-4.292984 4.292984,-4.292984 H 48.0573 V 7.2286965 c 0,-1.5070811 -1.221696,-2.7287364 -2.728737,-2.7287364 H 29.820551 Z"
+       opacity="0.1"
+       style="stroke-width:1" />
+  </g>
+  <g
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     class="ColorScheme-Text"
+     transform="matrix(1.3441354,0,0,1.3636656,1.9450655,0.18135117)"
+     style="stroke-width:0.738626">
+    <rect
+       x="14.5"
+       y="10.5"
+       width="6"
+       height="11"
+       rx="1.2210079"
+       ry="1.2035209"
+       style="stroke-width:0.738626;paint-order:fill markers stroke" />
+    <path
+       d="m 15.747419,19.299929 h 3.487946"
+       style="stroke-width:0.738626;paint-order:fill markers stroke" />
+  </g>
+  <path
+     style="opacity:0.6;fill:none;fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-opacity:0.701961;paint-order:fill markers stroke"
+     d="M 19.378296,28.5 H 6.7327226 C 4.9418826,28.5 3.500159,27.05919 3.500159,25.269485 V 5.7305158 c 0,-1.7897056 1.4417236,-3.2305156 3.2325636,-3.2305156 H 22.267436 c 1.79084,0 3.232564,1.44081 3.232564,3.2305156 V 12.70103" />
+  <path
+     class="ColorScheme-Text"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     style="fill-opacity:0.701961;fill-rule:evenodd;stroke-width:1;paint-order:fill markers stroke"
+     d="M 13.085879,21.221091 A 8.0648127,8.0597019 0 0 1 6.2091877,12.668361 8.0648127,8.0597019 0 0 1 14.239307,5.1865793 8.0648127,8.0597019 0 0 1 22.295249,12.640584" />
+  <ellipse
+     style="opacity:0.6;fill:none;fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-opacity:0.701961;paint-order:fill markers stroke"
+     cx="9"
+     cy="25"
+     rx="0.50000113"
+     ry="0.50000024" />
+  <ellipse
+     style="opacity:0.6;fill:none;fill-opacity:0.701961;fill-rule:evenodd;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-opacity:0.701961;paint-order:fill markers stroke"
+     cx="14.253248"
+     cy="13.246273"
+     rx="0.75420493"
+     ry="0.75372696" />
+  <path
+     class="ColorScheme-Text"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="fill-opacity:0.701961;fill-rule:evenodd;stroke-width:1;paint-order:fill markers stroke"
+     d="m 19.084187,24.079636 -6.17508,-7.533146 6.17508,4.150154" />
+</svg>

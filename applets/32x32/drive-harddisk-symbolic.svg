@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g class="ColorScheme-Text" transform="translate(-22.092 -1.5)" fill="currentColor">
+    <path class="ColorScheme-Text" d="m29.821 4.5c-1.4128 0-2.5757 1.073-2.7154 2.4489-.0093.091732-.01337.18561-.01337.2798v19.523c0 1.5071 1.2217 2.7287 2.7287 2.7287h12.277c.39971.019436 2.2148.019436 2.9947.019436 2.3429 0 3.006.34288 3-2l-.034503-13.458v-6.8138c0-1.5071-1.2217-2.7287-2.7287-2.7287h-15.508z" opacity=".1"/>
+  </g>
+  <path d="m7.7324 2.5c-1.7908 0-3.2324 1.4408-3.2324 3.2305v6.9707 12.568c0 1.7897 1.4416 3.2305 3.2324 3.2305h2.8887 9.7578 2.8887c1.7908 0 3.2324-1.4408 3.2324-3.2305v-12.568-6.9707c0-1.7897-1.4416-3.2305-3.2324-3.2305h-15.535z" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m14.086 21.221a8.0648 8.0597 0 01-6.8629-7.2298 8.0648 8.0597 0 015.4139-8.3688 8.0648 8.0597 0 019.4139 3.2865 8.0648 8.0597 0 01-.97822 9.9174" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
+  <ellipse cx="10" cy="25" rx=".5" ry=".5" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <ellipse cx="15.253" cy="13.246" rx=".7542" ry=".75373" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m20.399 24.215-6.4897-7.6688 8.1525 5.8629a1.3512 1.3512 84.187 01.20487 2.0124 1.2534 1.2534 6.3115 01-1.8677-.20657z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g class="ColorScheme-Text" transform="translate(-22.092 -1.5)" fill="currentColor">
+    <path class="ColorScheme-Text" d="m29.82 4.5c-1.4128 0-2.5751 1.0733-2.7148 2.4492-.0093.091732-.01367.1851-.01367.2793v19.523c0 1.5071 1.2215 2.7285 2.7285 2.7285h11.268v-3.8008c0-1.1271.89941-1.9998 2-2.1074v-.57227c0-1.9221 1.5818-3.5039 3.5039-3.5039.52765 0 1.0298.11932 1.4805.33203l-.01563-5.7852v-6.8145c3e-6-1.5071-1.2215-2.7285-2.7285-2.7285z" style="opacity:.1"/>
+  </g>
+  <path d="m26.5 18.123v-12.392c0-1.7897-1.4416-3.2305-3.2324-3.2305h-15.535c-1.7908 0-3.2324 1.4408-3.2324 3.2305v19.539c0 1.7897 1.4416 3.2305 3.2324 3.2305h11.156" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m14.086 21.221a8.0648 8.0597 0 01-6.8629-7.2298 8.0648 8.0597 0 015.4139-8.3688 8.0648 8.0597 0 019.4139 3.2865 8.0648 8.0597 0 01-.97822 9.9174" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
+  <ellipse cx="10" cy="25" rx=".5" ry=".5" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <ellipse cx="15.253" cy="13.246" rx=".7542" ry=".75373" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m19.116 22.699-5.2065-6.1524 7.059 5.0765" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+  <g transform="translate(1e-5,1)">
+    <g class="ColorScheme-Text" fill="currentColor">
+      <path d="m21.18 23h6.6406c.10557 0 .17969.07412.17969.17969v3.8203c0 .5582-.4418 1-1 1h-5.8203c-.10557 0-.17969-.07412-.17969-.17969v-4.6406c0-.10557.07412-.17969.17969-.17969z" opacity=".1"/>
+      <path d="m24.5 18c-1.3748 0-2.5 1.1252-2.5 2.5v1.5h-.82031c-.64601 0-1.1797.53368-1.1797 1.1797v4.6406c0 .64601.53368 1.1797 1.1797 1.1797h5.8203c1.0986 0 2-.90136 2-2v-3.8203c0-.64601-.53368-1.1797-1.1797-1.1797h-.82031v-1.5c0-1.3748-1.1252-2.5-2.5-2.5zm0 1c.83435 0 1.5.66565 1.5 1.5v1.5h-3v-1.5c0-.83435.66565-1.5 1.5-1.5zm-3.3203 4h6.6406c.10557 0 .17969.07412.17969.17969v3.8203c0 .5582-.4418 1-1 1h-5.8203c-.10557 0-.17969-.074118-.17969-.17969v-4.6406c0-.10557.07412-.17969.17969-.17969z"/>
+    </g>
+  </g>
+</svg>

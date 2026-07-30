@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g class="ColorScheme-Text" transform="translate(-23.092 -1.5)" fill="currentColor">
+    <path class="ColorScheme-Text" d="m29.821 4.5c-1.4128 0-2.5757 1.073-2.7154 2.4489-.0093.091732-.01337.18561-.01337.2798v19.523c0 1.5071 1.2217 2.7287 2.7287 2.7287h12.277c-.0029-.06363-.0053-.12761-.0053-.19186v-10.953c0-2.3429 1.9501-4.293 4.293-4.293h1.6725v-6.8138c0-1.5071-1.2217-2.7287-2.7287-2.7287h-15.508z" opacity=".1"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(1.3441 0 0 1.3637 1.9451 .18135)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:.73863">
+    <rect x="14.5" y="10.5" width="6" height="11" rx="1.221" ry="1.2035" style="paint-order:fill markers stroke;stroke-width:.73863"/>
+    <path d="m15.747 19.3h3.4879" style="paint-order:fill markers stroke;stroke-width:.73863;stroke:#ae001a"/>
+    <path d="m15.747 17.1h3.4879" style="paint-order:fill markers stroke;stroke-width:.73863;stroke:#ae001a"/>
+    <path d="m15.747 14.9h3.4879" style="paint-order:fill markers stroke;stroke-width:.73863;stroke:#ae001a"/>
+    <path d="m15.747 12.7h3.4879" style="opacity:.5;paint-order:fill markers stroke;stroke-width:.73863;stroke:#ae001a"/>
+  </g>
+  <path d="m19.378 28.5h-12.646c-1.7908 0-3.2326-1.4408-3.2326-3.2305v-19.539c0-1.7897 1.4417-3.2305 3.2326-3.2305h15.535c1.7908 0 3.2326 1.4408 3.2326 3.2305v6.9705" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m13.086 21.221a8.0648 8.0597 0 01-6.8767-8.5527 8.0648 8.0597 0 018.0301-7.4818 8.0648 8.0597 0 018.0559 7.454" fill="none" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/>
+  <ellipse cx="9" cy="25" rx=".5" ry=".5" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <ellipse cx="14.253" cy="13.246" rx=".7542" ry=".75373" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-opacity:.70196;stroke:#000"/>
+  <path class="ColorScheme-Text" d="m19.084 24.08-6.1751-7.5331 6.1751 4.1502" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+</svg>
