@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m15.894 3.5865c-6.8166.001853-12.342 5.5288-12.343 12.345-.0012266 6.8181 5.5275 12.345 12.345 12.345 6.8175-.000139 12.344-5.5268 12.343-12.345-.00014-6.8162-5.526-12.343-12.343-12.345z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <path id="path2" class="ColorScheme-Text" d="m11.578 6.248c-.65814.8811-1.047 1.9692-1.047 3.1467-.000536 2.9366 2.4179 5.317 5.4002 5.3171 1.1515-2.3e-5 2.108-.55292 3.0952-.95973 2.9576-1.2187 7.054.26752 7.4176 3.3574" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <use href="#path2" transform="matrix(-.5 .85269 -.87957 -.5 37.728 10.361)" stroke-width=".79936"/>
+ <use href="#path2" transform="matrix(-.5 -.85269 .87957 -.5 9.7509 37.351)" fill="#a80000" stroke-width=".79936"/>
+ <path class="ColorScheme-Text" d="m17.468 15.37c-.84227 1.0022-1.2863 2.6151-1.6108 2.5143-.32196-.10005-.85905-1.4603-1.7467-2.2559-1.3168-1.1802.50078-1.0849 1.7112-1.1118 2.6698-.05932 2.4134-.05912 1.6464.85345z" fill="currentColor" stroke-linejoin="bevel" style="fill-rule:evenodd;paint-order:stroke fill markers"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m11.01 1.5865c-5.2238.00142-9.4585 4.2369-9.4586 9.4604-.00094 5.225 4.2359 9.4603 9.4604 9.4604 5.2245-.000106 9.4595-4.2354 9.4586-9.4604-.000107-5.2235-4.2348-9.459-9.4586-9.4604z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <path id="path2" class="ColorScheme-Text" d="m8.0051 4.2866c-.45882.61452-.72989 1.3734-.72991 2.1946-.0003741 2.0481 1.6856 3.7083 3.7647 3.7083.80278-1.6e-5 1.4696-.38563 2.1578-.66935 2.0619-.84997 4.9177.18658 5.1711 2.3416" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke"/>
+ <use href="#path2" transform="matrix(-.5 .85305 -.8792 -.5 26.14 7.1763)" stroke-width="1.1464"/>
+ <use href="#path2" transform="matrix(-.5 -.85305 .8792 -.5 6.7607 25.887)" fill="#a80000" stroke-width="1.1464"/>
+ <ellipse class="ColorScheme-Text" cx="10.982" cy="10.923" rx="1.0961" ry="1.0797" fill="currentColor" style="fill-rule:evenodd;paint-order:stroke fill markers"/>
+</svg>
