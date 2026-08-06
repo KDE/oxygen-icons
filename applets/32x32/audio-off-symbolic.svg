@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path d="m 7.4999998,13.200126 v 5.599889 A 0.74999495,0.69998601 0 0 1 6.750005,19.5 H 6.0563496 A 1.5563895,1.452611 0 0 1 4.4999601,18.047389 V 13.952612 A 1.5563895,1.452611 0 0 1 6.0563496,12.5 H 6.750005 a 0.74999495,0.69998601 0 0 1 0.7499948,0.699986 z" style="fill:none;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m 11.90739,20.028055 4.828644,5.122845 c 0.270903,0.304781 0.774902,0.113153 0.774894,-0.294626 V 14.527722 m 0,-2.121599 V 7.1432397 c 8e-6,-0.4077785 -0.503991,-0.599406 -0.774894,-0.2946255 L 11.90739,11.964929 C 11.604869,12.305277 11.171246,12.500005 10.71589,12.5 10.320515,12.5 10,12.820523 10,13.215909 l -1.2e-5,4.87e-4 v 5.57471" style="fill:none;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m 21.42522,10.620907 c 1.090961,1.565246 1.687647,3.44121 1.68766,5.379094 -1.7e-5,2.48417 -0.980524,4.86659 -2.725824,6.623166" style="opacity:0.4;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" stroke="currentColor" class="ColorScheme-Text" />
+  <path d="m 20.653368,4.1408151 c 1.032211,0.5959716 1.967858,1.3150807 2.792725,2.132701 m 1.082446,1.208357 C 26.422608,9.8667275 27.500016,12.85666 27.5,16.000001 c 2.5e-5,4.89231 -2.609896,9.413004 -6.846632,11.859185" style="opacity:0.4;fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" stroke="currentColor" class="ColorScheme-Text" />
+  <g transform="translate(-20.810102,-10.110343)">
+    <g transform="translate(7.4941,-34.87)">
+      <g transform="translate(-0.50731,0.24242)" />
+    </g>
+    <path d="M 27.810102,35.110345 47.810104,15.110343" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" stroke="currentColor" class="ColorScheme-Text" />
+  </g>
+  <g transform="translate(-21.510102,-10.710343)">
+    <g transform="translate(7.4941,-34.87)">
+      <g transform="translate(-0.50731,0.24242)" />
+    </g>
+  </g>
+</svg>
