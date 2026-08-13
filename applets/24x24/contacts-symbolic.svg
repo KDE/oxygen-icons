@@ -5,9 +5,9 @@
         }</style>
  </defs>
  <g transform="translate(1,1)">
- <circle cx="7.5047" cy="5.5091" r="2.7694" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path d="m4.5266 9.3695c-1.5612 2.2701-2.2686 5.2936-2.5825 8.1408-.085817.77844.43716 1.7059 1.1565 2.0154 1.1441.49227 2.6835.96288 4.3852.96288s3.2411-.4706 4.3852-.96288c.71938-.30952 1.2424-1.237 1.1565-2.0154-.31388-2.8472-1.0213-5.8707-2.5825-8.1408" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <circle cx="15.581" cy="3.9553" r="2.3338" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path d="m13.071 7.2086c-.38612.56144-.71026 1.1776-.98224 1.8286m2.5153 7.4841c.31155.03702.63262.05779.96086.05779 1.434 0 2.7314-.39659 3.6956-.81145.60624-.26085 1.047-1.0424.97466-1.6985-.26452-2.3994-.86065-4.9474-2.1763-6.8605" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+ <circle class="ColorScheme-Text" cx="7.5047" cy="5.5091" r="2.7694" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m4.5266 9.3695c-1.5612 2.2701-2.2686 5.2936-2.5825 8.1408-.085817.77844.43716 1.7059 1.1565 2.0154 1.1441.49227 2.6835.96288 4.3852.96288s3.2411-.4706 4.3852-.96288c.71938-.30952 1.2424-1.237 1.1565-2.0154-.31388-2.8472-1.0213-5.8707-2.5825-8.1408" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <circle class="ColorScheme-Text" cx="15.581" cy="3.9553" r="2.3338" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m13.071 7.2086c-.38612.56144-.71026 1.1776-.98224 1.8286m2.5153 7.4841c.31155.03702.63262.05779.96086.05779 1.434 0 2.7314-.39659 3.6956-.81145.60624-.26085 1.047-1.0424.97466-1.6985-.26452-2.3994-.86065-4.9474-2.1763-6.8605" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
  </g>
 </svg>
