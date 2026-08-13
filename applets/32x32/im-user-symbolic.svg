@@ -1,0 +1,11 @@
+<svg class="ColorScheme-Text" width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+          color:#232629;
+        }</style>
+ </defs>
+ <circle cx="11.477" cy="9.0974" r="3.4022" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+ <path d="m7.8188 13.84c-1.918 2.7888-2.787 6.5032-3.1726 10.001-.10543.95632.53706 2.0957 1.4208 2.4759 1.4055.60476 3.2967 1.1829 5.3872 1.1829 2.0905-2e-6 3.9817-.57814 5.3872-1.1829.88375-.38025 1.5262-1.5196 1.4208-2.4759-.3856-3.4978-1.2546-7.2121-3.1726-10.001" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+ <circle cx="21.399" cy="7.1886" r="2.8671" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+ <path d="m18.316 11.185c-.47435.68973-.87256 1.4466-1.2067 2.2464m3.09 9.1942c.38274.04548.77718.07099 1.1804.07099 1.7617 0 3.3555-.48722 4.54-.99687.74477-.32045 1.2862-1.2806 1.1974-2.0866-.32496-2.9477-1.0573-6.0779-2.6736-8.4282" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+</svg>
