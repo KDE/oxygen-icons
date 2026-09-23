@@ -57,6 +57,7 @@ SPDX-License-Identifier: CC0-1.0
   <summary xml:lang="sk">Voľná a otvorená téma ikon na použitie so štýlom Oxygen pre Plasmu</summary>
   <summary xml:lang="sl">Prosta in odprtokodna tema ikon za uporabo s slogom Plasma Oxygen</summary>
   <summary xml:lang="tr">Oksijen Plasma biçemi ile kullanılmak üzere ücretsiz ve açık kaynaklı bir simge teması</summary>
+  <summary xml:lang="ug">ئوكسىگېن پىلازما ئۇسلۇبىغا ئىشلىتىلىدىغان ئەركىن ۋە ئوچۇق كودلۇق سىنبەلگە ئۆرنىكى</summary>
   <summary xml:lang="uk">Вільна тема з відкритим початковим кодом для використання зі стилем Плазми Oxygen</summary>
   <summary xml:lang="zh-CN">适合与 Oxygen 轻氧 Plasma 主题搭配使用的自由开源图标主题</summary>
   <summary xml:lang="zh-TW">搭配 Plasma 風格 Oxygen 的自由開源圖示主題</summary>
@@ -111,6 +112,7 @@ SPDX-License-Identifier: CC0-1.0
       <caption xml:lang="sk">Snímka obrazovky aplikácie KMail so štýlom a témou ikon Oxygen.</caption>
       <caption xml:lang="sl">Posnetek zaslona KMaila s slogom in temo ikon Oxygen.</caption>
       <caption xml:lang="tr">K Posta’nın Oksijen biçemi ve simgeleri ile ekran görüntüsü</caption>
+      <caption xml:lang="ug">KMail نىڭ ئوكسىگېن ئۇسلۇبى ۋە سىنبەلگە ئۆرنىكىدىكى ئېكران كۆرۈنۈشى.</caption>
       <caption xml:lang="uk">Знімок вікна KMail зі стилем і темою піктограм Oxygen.</caption>
       <caption xml:lang="zh-CN">使用 Oxygen 样式与图标主题的 KMail 屏幕截图。</caption>
       <caption xml:lang="zh-TW">KMail 使用 Oxygen 風格與圖示主題的螢幕截圖。</caption>
@@ -139,6 +141,7 @@ SPDX-License-Identifier: CC0-1.0
         <p xml:lang="sk">Toto nové vydanie pridáva mnoho nových symbolických ikon pre systémovú lištu.</p>
         <p xml:lang="sl">Ta nova izdaja dodaja veliko novih simboličnih ikon za sistemski pladenj.</p>
         <p xml:lang="tr">Bu yeni yayım, sistem tepsisi için birçok yeni sembolik simgeler ekler.</p>
+        <p xml:lang="ug">يېڭى تارقىتىلغان نەشرىگە سىستېما قونداق ئۈچۈن نۇرغۇن يېڭى سىمۋوللۇق سىنبەلگە قوشۇلدى.</p>
         <p xml:lang="uk">У цьому випуску додано багато нових символічних піктограм для системного лотка.</p>
         <p xml:lang="zh-CN">这一新版本为系统托盘追加了大量符号化图标。</p>
         <p xml:lang="zh-TW">這個新版本為許多系統匣新增許多符號圖示。</p>
