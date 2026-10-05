@@ -29,6 +29,7 @@ set(OXYGEN_INSTALL_DIR ${KDE_INSTALL_ICONDIR}/oxygen/base)
 install( DIRECTORY ${oxygen_icon_dirs} DESTINATION ${OXYGEN_INSTALL_DIR} PATTERN .svn EXCLUDE PATTERN "*.sh" EXCLUDE )
 install( DIRECTORY applets DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 install( FILES index.theme DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
+install( FILES icon-settings.json DESTINATION ${KDE_INSTALL_ICONDIR}/oxygen)
 
 include(ECMFeatureSummary)
 ecm_feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)

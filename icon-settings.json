@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "title": "Configure Oxygen Icons",
+  "description": "Choose which Oxygen symbolic artwork to use for your user. Disable all sizes to omit Oxygen's symbolic icons.",
+  "pages": [
+    {
+      "title": "Icon Sizes",
+      "controls": [
+        {
+          "id": "symbolic16",
+          "type": "checkbox",
+          "label": "Include 16 px symbolic artwork",
+          "default": true
+        },
+        {
+          "id": "symbolic22",
+          "type": "checkbox",
+          "label": "Include 22 px symbolic artwork",
+          "default": true
+        },
+        {
+          "id": "symbolic24",
+          "type": "checkbox",
+          "label": "Include 24 px symbolic artwork",
+          "default": true
+        },
+        {
+          "id": "symbolic32",
+          "type": "checkbox",
+          "label": "Include 32 px symbolic artwork",
+          "default": true
+        },
+        {
+          "id": "symbolic64",
+          "type": "checkbox",
+          "label": "Include 64 px symbolic artwork",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "installation": {
+        "type": "userThemeCopy",
+        "rules": [
+          {
+            "when": {"control": "symbolic16", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["applets/16x16"]}
+          },
+          {
+            "when": {"control": "symbolic22", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["applets/22x22"]}
+          },
+          {
+            "when": {"control": "symbolic24", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["applets/24x24"]}
+          },
+          {
+            "when": {"control": "symbolic32", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["applets/32x32"]}
+          },
+          {
+            "when": {"control": "symbolic64", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["applets/64x64"]}
+          }
+        ]
+  }
+}
