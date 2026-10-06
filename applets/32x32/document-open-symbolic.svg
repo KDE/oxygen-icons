@@ -2,9 +2,9 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m4.5124 24.592.02458-3.9814c.00491-1.167.95308-2.1104 2.121-2.1104h4.6054c.74796 0 1.3543-.80584 1.3543-1.5532.000751-.7466.60709-1.4475 1.3543-1.4468h11.416c1.1665 0 2.1121.94484 2.1121 2.1104l4.1e-5 4.4169 4.2e-5 2.5644c0 1.6062-1.3032 2.9084-2.9107 2.9084h-17.178c-1.6056 1.4e-5-2.9052-1.3041-2.8984-2.9084z" style="paint-order:fill markers stroke"/>
-  <path class="ColorScheme-Text" d="m4.5 20.231v-11.318c0-.74972.60825-1.3575 1.3586-1.3575m20.405 2.8645c.72661.30862 1.2361 1.0284 1.2361 1.867v5.9162" style="paint-order:fill markers stroke"/>
-  <path class="ColorScheme-Text" transform="matrix(1.3529 0 0 1.3518 1.1177 1.4722)" d="m4.7266 12.616-.0092-11.116h10.504a2.061 2.061 45 012.061 2.061l2.3e-5 6.5373" style="paint-order:fill markers stroke;stroke-width:.73943"/>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke">
+  <path d="m4.5124 24.592.02458-3.9814c.00491-1.167.95308-2.1104 2.121-2.1104h4.6054c.74796 0 1.3543-.80584 1.3543-1.5532.000751-.7466.60709-1.4475 1.3543-1.4468h11.416c1.1665 0 2.1121.94484 2.1121 2.1104l4.1e-5 4.4169 4.2e-5 2.5644c0 1.6062-1.3032 2.9084-2.9107 2.9084h-17.178c-1.6056 1.4e-5-2.9052-1.3041-2.8984-2.9084z"/>
+  <path d="m4.5 20.231v-11.318c0-.74972.60825-1.3575 1.3586-1.3575m20.405 2.8645c.72661.30862 1.2361 1.0284 1.2361 1.867v5.9162"/>
+  <path transform="matrix(1.3529 0 0 1.3518 1.1177 1.4722)" d="m4.7266 12.616-.0092-11.116h10.504a2.061 2.061 45 012.061 2.061l2.3e-5 6.5373" stroke-width=".73943"/>
  </g>
 </svg>
