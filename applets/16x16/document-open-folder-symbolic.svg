@@ -1,0 +1,7 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m.68734 18.724.021845-3.7833c.00437-1.0386.84704-1.8782 1.885-1.8782h3.7647c.66473 0 1.2036-.74578 1.2036-1.4109.0006669-.66445.53954-1.3401 1.2036-1.3394h10.669c1.0367 0 1.8771.84088 1.8771 1.8782l3.7e-5 2.7513 3.7e-5 3.7822c0 1.4295-1.1582 2.5884-2.5868 2.5884h-15.462c-1.4269 1.3e-5-2.582-1.1606-2.5759-2.5884z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke;stroke-width:1.375"/>
+ <path class="ColorScheme-Text" d="m.67628 14.695v-11.424c0-.66723.54057-1.2082 1.2074-1.2082h8.5101c.66684 0 1.2936.67839 1.2936 1.3457 0 .88048.79161 1.4043 1.7174 1.4043h6.1041c.9961 0 1.8036.80797 1.8036 1.8047v6.2733" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke;stroke-width:1.375"/>
+</svg>
