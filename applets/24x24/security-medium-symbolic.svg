@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="matrix(1.2143 0 0 1.2143 -1.9644 .67369)" style="stroke-width:.82354">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:.82354">
+   <path transform="translate(-1,-1)" d="m12.5 2.5234c-2.3334 0-4.6669.31397-7 .94257v4.3686h.00322c-7.42e-5.015971-.0016.025579-.00161.041821.00157 4.5986 2.7593 8.7483 6.9984 10.531 4.2391-1.7824 6.9968-5.9321 6.9984-10.531-5e-6-.016242-.0015-.02585-.0016-.041821h.0032v-4.3686c-2.3334-.6286-4.6666-.94257-7-.94257z" style="paint-order:fill markers stroke;stroke-width:.82354"/>
+  </g>
+ </g>
+ <circle cx="12" cy="15" r="1.5" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor" class="ColorScheme-Text"/>
+ <rect x="10.5" y="5.5" width="3" height="6" rx="1.5" ry="1.5" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor" class="ColorScheme-Text"/>
+</svg>
