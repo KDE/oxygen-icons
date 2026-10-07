@@ -1,0 +1,12 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="matrix(1.3529 0 0 1.3509 1.1177 1.4737)">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width=".73971" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke">
+   <path d="m4.9673 16.305h-2.4673v-14.805h10.504c.92782 0 1.7124.61309 1.9709 1.4563.05861.19124.09015.61639.09015.82683"/>
+   <path d="m6.1957 20.007v-14.805h10.504c1.1383 0 2.061.92274 2.061 2.061v12.744z"/>
+   <path d="m15.065 6.6512v9.6542h-7.4312" style="opacity:.22766"/>
+  </g>
+ </g>
+</svg>
