@@ -1,10 +1,10 @@
 {
   "version": 1,
   "title": "Configure Oxygen Icons",
-  "description": "Choose which Oxygen symbolic artwork to use for your user. Disable all sizes to omit Oxygen's symbolic icons.",
+  "description": "Choose which Oxygen symbolic artwork sizes to include for Plasma widgets (plasmoids), such as those in the system tray. These options control artwork availability, not whether a widget requests symbolic icons. ",
   "pages": [
     {
-      "title": "Icon Sizes",
+      "title": "Plasma Widgets",
       "controls": [
         {
           "id": "symbolic16",
@@ -29,12 +29,6 @@
           "type": "checkbox",
           "label": "Include 32 px symbolic artwork",
           "default": true
-        },
-        {
-          "id": "symbolic64",
-          "type": "checkbox",
-          "label": "Include 64 px symbolic artwork",
-          "default": true
         }
       ]
     }
@@ -57,10 +51,6 @@
           {
             "when": {"control": "symbolic32", "equals": false},
             "operation": {"type": "omitDirectories", "directories": ["applets/32x32"]}
-          },
-          {
-            "when": {"control": "symbolic64", "equals": false},
-            "operation": {"type": "omitDirectories", "directories": ["applets/64x64"]}
           }
         ]
   }

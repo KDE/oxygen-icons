@@ -95,8 +95,54 @@ feature of unmodified released Plasma. Older desktops ignore the metadata.
 
 Normal KDE fallback remains unchanged. Another enabled size or an inherited
 theme may still provide symbolic artwork. These are artwork-directory controls,
-not strict logical requested-size rules. Disable all applet sizes to omit all
-Oxygen symbolic artwork. GTK/private loaders retain their own fallback rules.
+not strict logical requested-size rules. The applet controls cover 16, 22, 24
+and 32 px. The 64 px display-layout artwork is always included.
+GTK/private loaders retain their own fallback rules.
+
+A future **Actions** tab is planned to select symbolic rather than colorful
+action artwork at 16, 22, 32 and 48 px. It is not enabled yet: the current
+schema supports directory omission only, requires a real installation rule
+for every checkbox and does not support inactive placeholder tabs. Adding that
+tab requires renderer/schema support and a defined action-artwork switching
+operation; omitting colorful action directories is not an equivalent replacement.
+
+The following tab is reserved for future usage, not part of the active
+`icon-settings.json`. Defaults retain colorful action artwork. Do not activate
+these controls until their installation operation is implemented:
+
+```jsonc
+// For future usage: symbolic action selection is not implemented yet.
+// Proposed entry in the "pages" array:
+// {
+//   "title": "Actions",
+//   "controls": [
+//     {
+//       "id": "symbolicActions16",
+//       "type": "checkbox",
+//       "label": "Use symbolic action icons at 16 px",
+//       "default": false
+//     },
+//     {
+//       "id": "symbolicActions22",
+//       "type": "checkbox",
+//       "label": "Use symbolic action icons at 22 px",
+//       "default": false
+//     },
+//     {
+//       "id": "symbolicActions32",
+//       "type": "checkbox",
+//       "label": "Use symbolic action icons at 32 px",
+//       "default": false
+//     },
+//     {
+//       "id": "symbolicActions48",
+//       "type": "checkbox",
+//       "label": "Use symbolic action icons at 48 px",
+//       "default": false
+//     }
+//   ]
+// }
+```
 
 The copy operation is bounded, serialized with a user-icon lock, staged before
 activation and refuses to overwrite an unrelated same-ID user theme. It rejects external
