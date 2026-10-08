@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16" width="16" height="16">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g class="ColorScheme-Text">
+    <g transform="translate(-2,-2)">
+      <path style="opacity:1;fill:none;fill-opacity:0.876915;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" d="M 4.9999995,2.4999995 H 15 c 1.385,0 2.5,1.115 2.5,2.5 V 15 c 0,1.385 -1.115,2.5 -2.5,2.5 H 4.9999995 c -1.385,0 -2.5,-1.115 -2.5,-2.5 V 4.9999995 c 0,-1.385 1.115,-2.5 2.5,-2.5 z"/>
+    </g>
+    <g transform="matrix(0.55882354,0,0,0.55882354,2.8529408,-0.8970591)">
+      <path style="opacity:1;fill:none;fill-opacity:0.876915;stroke:currentColor;stroke-width:1.78947;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" d="m 17.263158,2.5000004 v 6.5403729 c 0,1.3334757 -1.07352,2.4069957 -2.406996,2.4069957 H 5.3543646 c -1.3334756,0 -2.4069956,-1.07352 -2.4069956,-2.4069957 V 2.5000004"/>
+    </g>
+    <path style="opacity:1;fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" transform="scale(1,-1)" d="M 8.0134907,-8.4665007 C 6.848161,-9.1375776 6.2800141,-10.505686 6.6282827,-11.802107 6.9765513,-13.098528 8.154395,-14 9.5000019,-14 c 1.3456071,0 2.5234501,0.901472 2.8717191,2.197893 0.348269,1.296421 -0.219878,2.6645293 -1.385208,3.3356063"/>
+    <path style="opacity:1;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" d="M 9.5000006,8.5061772 V 7.4 M 9.5,4 V 2.5"/>
+  </g>
+</svg>
