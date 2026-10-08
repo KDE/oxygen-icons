@@ -32,6 +32,10 @@ SPDX-License-Identifier: CC0-1.0
   <name xml:lang="ro">Pictograme Oxygen</name>
   <name xml:lang="sk">Ikony Oxygen</name>
   <name xml:lang="sl">Ikone Oxygen</name>
+  <name xml:lang="sr">Иконице Кисеоника</name>
+  <name xml:lang="sr-Latn">Ikonice Kiseonika</name>
+  <name xml:lang="sr-ijekavian">Иконице Кисеоника</name>
+  <name xml:lang="sr-ijekavianlatin">Ikonice Kiseonika</name>
   <name xml:lang="tr">Oksijen Simgeleri</name>
   <name xml:lang="ug">ئوكسىگېن سىنبەلگە</name>
   <name xml:lang="uk">Піктограми Oxygen</name>
@@ -57,6 +61,10 @@ SPDX-License-Identifier: CC0-1.0
   <summary xml:lang="ro">Tematică de pictograme liberă și cu sursă deschisă de folosit cu stilul Plasma Oxygen</summary>
   <summary xml:lang="sk">Voľná a otvorená téma ikon na použitie so štýlom Oxygen pre Plasmu</summary>
   <summary xml:lang="sl">Prosta in odprtokodna tema ikon za uporabo s slogom Plasma Oxygen</summary>
+  <summary xml:lang="sr">Слободна тема иконица отвореног кода, за употребу уз стил Кисеоника за Плазму</summary>
+  <summary xml:lang="sr-Latn">Slobodna tema ikonica otvorenog koda, za upotrebu uz stil Kiseonika za Plasmu</summary>
+  <summary xml:lang="sr-ijekavian">Слободна тема иконица отвореног кода, за употребу уз стил Кисеоника за Плазму</summary>
+  <summary xml:lang="sr-ijekavianlatin">Slobodna tema ikonica otvorenog koda, za upotrebu uz stil Kiseonika za Plasmu</summary>
   <summary xml:lang="tr">Oksijen Plasma biçemi ile kullanılmak üzere ücretsiz ve açık kaynaklı bir simge teması</summary>
   <summary xml:lang="ug">ئوكسىگېن پىلازما ئۇسلۇبىغا ئىشلىتىلىدىغان ئەركىن ۋە ئوچۇق كودلۇق سىنبەلگە ئۆرنىكى</summary>
   <summary xml:lang="uk">Вільна тема з відкритим початковим кодом для використання зі стилем Плазми Oxygen</summary>
@@ -83,6 +91,10 @@ SPDX-License-Identifier: CC0-1.0
     <p xml:lang="ro">Pictogramele Oxygen sunt o tematică de pictograme compatibilă cu freedesktop.org, dezvoltată inițial pentru mediul de birou KDE Plasma în combinație cu stilul Oxygen. Aceasta are gradienți lini, umbre moi și un aspect puțin lucios.</p>
     <p xml:lang="sk">Oxygen Icons je téma ikon kompatibilná s freedesktop.org, ktorá bola pôvodne vyvinutá pre desktopové prostredie KDE Plasma v kombinácii so štýlom Oxygen. Vyznačuje sa plynulými prechodmi, jemnými tieňmi a mierne lesklým vzhľadom.</p>
     <p xml:lang="sl">Oxygen Icons je tema ikon, združljiva s freedesktop.org, prvotno razvita za namizno okolje KDE Plasma v kombinaciji s slogom Oxygen. Ima gladke prelive, mehke sence in rahlo sijoč videz.</p>
+    <p xml:lang="sr">Иконице Кисеоника су тема иконица сагласна са freedesktop.org, првобитно развијена за КДЕ окружење површи Плазма, у комбинацији са стилом Кисеоника. Одликују је глатки преливи, меке сенке и благо сјајан изглед.</p>
+    <p xml:lang="sr-Latn">Ikonice Kiseonika su tema ikonica saglasna sa freedesktop.org, prvobitno razvijena za KDE okruženje površi Plasma, u kombinaciji sa stilom Kiseonika. Odlikuju je glatki prelivi, meke senke i blago sjajan izgled.</p>
+    <p xml:lang="sr-ijekavian">Иконице Кисеоника су тема иконица сагласна са freedesktop.org, првобитно развијена за КДЕ окружење површи Плазма, у комбинацији са стилом Кисеоника. Одликују је глатки преливи, меке сијенке и благо сјајан изглед.</p>
+    <p xml:lang="sr-ijekavianlatin">Ikonice Kiseonika su tema ikonica saglasna sa freedesktop.org, prvobitno razvijena za KDE okruženje površi Plasma, u kombinaciji sa stilom Kiseonika. Odlikuju je glatki prelivi, meke sijenke i blago sjajan izgled.</p>
     <p xml:lang="tr">Oksijen Simgeleri, özgün olarak KDE Plasma masaüstü ortamı için Oksijen biçemi ile birlikte geliştirilmiş, freedesktop.org ile uyumlu bir simge temasıdır. Pürüzsüz geçişler, yumuşak gölgeler ve hafif parlak bir görünüme sahiptir.</p>
     <p xml:lang="ug">ئوكسىگېن سىنبەلگە freedesktop.org ئۆلچىمى بىلەن ماسلىشىدىغان سىنبەلگە ئۆرنىكى، ئەسلىدە ئوكسىگېن ئۇسلۇبىدىكى KDE Plasma ئۈستەلئۈستى مۇھىتى ئۈچۈن ئىجاد قىلىنغان. ئۇنىڭ رەڭ ئۆزگىرىشى سىلىق، سايىسى تەبىئىي بولۇپ ئەينەكسىمان كۆرۈنۈشكە ئىگە.</p>
     <p xml:lang="uk">Піктограми Oxygen — це тема піктограм, сумісна з freedesktop.org, спочатку розроблена для стільничного середовища Плазма KDE у поєднанні зі стилем Oxygen. Вона містить плавні градієнти, м'які тіні та злегка глянцевий вигляд.</p>
@@ -115,6 +127,10 @@ SPDX-License-Identifier: CC0-1.0
       <caption xml:lang="ro">Captură de ecran cu KMail având Stilul și tematica de pictograme Oxygen.</caption>
       <caption xml:lang="sk">Snímka obrazovky aplikácie KMail so štýlom a témou ikon Oxygen.</caption>
       <caption xml:lang="sl">Posnetek zaslona KMaila s slogom in temo ikon Oxygen.</caption>
+      <caption xml:lang="sr">Снимак екрана К‑поште са стилом и темом иконица Кисеоника.</caption>
+      <caption xml:lang="sr-Latn">Snimak ekrana K‑pošte sa stilom i temom ikonica Kiseonika.</caption>
+      <caption xml:lang="sr-ijekavian">Снимак екрана К‑поште са стилом и темом иконица Кисеоника.</caption>
+      <caption xml:lang="sr-ijekavianlatin">Snimak ekrana K‑pošte sa stilom i temom ikonica Kiseonika.</caption>
       <caption xml:lang="tr">K Posta’nın Oksijen biçemi ve simgeleri ile ekran görüntüsü</caption>
       <caption xml:lang="ug">KMail نىڭ ئوكسىگېن ئۇسلۇبى ۋە سىنبەلگە ئۆرنىكىدىكى ئېكران كۆرۈنۈشى.</caption>
       <caption xml:lang="uk">Знімок вікна KMail зі стилем і темою піктограм Oxygen.</caption>
@@ -145,6 +161,10 @@ SPDX-License-Identifier: CC0-1.0
         <p xml:lang="ro">Această ediție nouă adaugă multe pictograme simbolice noi pentru tava de sistem.</p>
         <p xml:lang="sk">Toto nové vydanie pridáva mnoho nových symbolických ikon pre systémovú lištu.</p>
         <p xml:lang="sl">Ta nova izdaja dodaja veliko novih simboličnih ikon za sistemski pladenj.</p>
+        <p xml:lang="sr">Ово ново издање доноси многе нове симболичке иконице за системску касету.</p>
+        <p xml:lang="sr-Latn">Ovo novo izdanje donosi mnoge nove simboličke ikonice za sistemsku kasetu.</p>
+        <p xml:lang="sr-ijekavian">Ово ново издање доноси многе нове симболичке иконице за системску касету.</p>
+        <p xml:lang="sr-ijekavianlatin">Ovo novo izdanje donosi mnoge nove simboličke ikonice za sistemsku kasetu.</p>
         <p xml:lang="tr">Bu yeni yayım, sistem tepsisi için birçok yeni sembolik simgeler ekler.</p>
         <p xml:lang="ug">يېڭى تارقىتىلغان نەشرىگە سىستېما قونداق ئۈچۈن نۇرغۇن يېڭى سىمۋوللۇق سىنبەلگە قوشۇلدى.</p>
         <p xml:lang="uk">У цьому випуску додано багато нових символічних піктограм для системного лотка.</p>
