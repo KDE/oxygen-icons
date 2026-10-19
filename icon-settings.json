@@ -31,6 +31,35 @@
           "default": true
         }
       ]
+    },
+    {
+      "title": "Action Icons",
+      "controls": [
+        {
+          "id": "symbolicActions16",
+          "type": "checkbox",
+          "label": "Replace 16 px action icons with symbolic icons",
+          "default": false
+        },
+        {
+          "id": "symbolicActions22",
+          "type": "checkbox",
+          "label": "Replace 22 px action icons with symbolic icons",
+          "default": false
+        },
+        {
+          "id": "symbolicActions32",
+          "type": "checkbox",
+          "label": "Replace 32 px action icons with symbolic icons",
+          "default": false
+        },
+        {
+          "id": "symbolicActions64",
+          "type": "checkbox",
+          "label": "Replace 64 px action icons with symbolic icons",
+          "default": false
+        }
+      ]
     }
   ],
   "installation": {
@@ -51,6 +80,38 @@
           {
             "when": {"control": "symbolic32", "equals": false},
             "operation": {"type": "omitDirectories", "directories": ["applets/32x32"]}
+          },
+          {
+            "when": {"control": "symbolicActions16", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/16x16/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions16", "equals": true},
+            "operation": {"type": "omitDirectories", "directories": ["16x16/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions22", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/22x22/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions22", "equals": true},
+            "operation": {"type": "omitDirectories", "directories": ["22x22/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions32", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/32x32/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions32", "equals": true},
+            "operation": {"type": "omitDirectories", "directories": ["32x32/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions64", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/64x64/actions"]}
+          },
+          {
+            "when": {"control": "symbolicActions64", "equals": true},
+            "operation": {"type": "omitDirectories", "directories": ["64x64/actions"]}
           }
         ]
   }
