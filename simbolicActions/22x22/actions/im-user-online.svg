@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="ColorScheme-Text"
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
+   id="svg2"
+   sodipodi:docname="im-user-online.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="31.368549"
+     inkscape:cx="14.839704"
+     inkscape:cy="8.416073"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="2"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,0,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+          color:#232629;
+        }</style>
+  </defs>
+  <circle
+     class="ColorScheme-Text"
+     cx="8.1575499"
+     cy="4.5160737"
+     r="3.0160739"
+     style="fill:none;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     stroke="currentColor"
+     id="circle1" />
+  <path
+     class="ColorScheme-Text"
+     d="M 4.9145295,8.7204224 C 3.2142094,11.192713 2.4438348,14.485554 2.1019977,17.586378 c -0.093464,0.847785 0.4761075,1.857853 1.2595492,2.194904 3.2525084,0.89741 6.3487153,0.848439 9.5515811,0 M 11.360144,8.7204224 c 0.593817,0.8634483 1.074211,1.8269556 1.462539,2.8474016 0.170632,0.608925 0.449958,1.256211 0.09358,1.679133 -0.309932,0.309932 -0.81243,0.309932 -1.122362,0 l -1.244588,-1.244588 c -0.309932,-0.309931 -0.8124302,-0.309931 -1.1223617,0 l -1.2445879,1.244588 c -0.3099315,0.309932 -0.3099315,0.81243 0,1.122362 l 3.6115376,3.611538 c 0.309932,0.309931 0.81243,0.309931 1.122362,0 l 6.76747,-6.767471 c 0.309932,-0.309931 0.309932,-0.81243 0,-1.122362 L 18.439147,8.8464365 c -0.309931,-0.3099316 -0.81243,-0.3099316 -1.122361,0 l -2.52566,2.5256595"
+     style="fill:none;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+     stroke="currentColor"
+     id="path1"
+     sodipodi:nodetypes="cccccccsssscccccccc" />
+</svg>
