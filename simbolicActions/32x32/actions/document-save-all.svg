@@ -9,58 +9,56 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g
+  <g  
      class="ColorScheme-Text"
      transform="matrix(1.3529 0 0 1.3529 -.88235 3.1176)"
      style="stroke-width:.73913"
      id="g4">
-    <g
+    <g  
        style="stroke-width:.73913"
        id="g1">
-      <path
+      <path  class="ColorScheme-Text" 
          d="m5.3046 3.9783h-.80819-.43013a1.5663 1.5663 135 00-1.5663 1.5663v12.389a1.5663 1.5663 45 001.5663 1.5663h12.389a1.5663 1.5663 135 001.5663-1.5663v-12.166a1.7892 1.7892 45 00-1.7892-1.7892h-6.2843l-1.6098 3e-7a1.4037 1.4037 135 00-1.4037 1.4037v3.1642c0 .74518.59991 1.3451 1.3451 1.3451h4.7011c.74518 0 1.3451-.59991 1.3451-1.3451v-2.568"
          style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
          id="path1" />
     </g>
-    <path
+    <path  class="ColorScheme-Text" 
        d="m12.109 7.9783v-2"
        style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
        id="path2" />
-    <g
+    <g  
        style="opacity:.31511;stroke-width:.73913"
        id="g3">
-      <path
+      <path  class="ColorScheme-Text" 
          transform="translate(.4 -.4)"
          d="m5.0565 19.4v-4.1235a1.2895 1.2895 135 011.2895-1.2895h7.3192a1 1 45 011 1v4.913"
          style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
          id="path3" />
     </g>
   </g>
-  <g
+  <g  
      class="ColorScheme-Text"
      transform="matrix(1.3529 0 0 1.3529 5.1176 -2.8824)"
      style="stroke-width:.73913"
      id="g7">
-    <g
+    <g  
        style="stroke-width:.73913"
        id="g5">
-      <path
+      <path  class="ColorScheme-Text" 
          d="m5.3046 3.9783h-1.2383c-.86503 0-1.5663.70124-1.5663 1.5663v1.7598m12.039 12.196h1.9164c.86503 0 1.5663-.70124 1.5663-1.5663v-12.166c0-.98813-.80104-1.7892-1.7892-1.7892h-6.2843l-1.6098 3e-7c-.77525 1e-7-1.4037.62846-1.4037 1.4037v1.686m7.3913 1.4783v-3.0853"
          style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
          id="path4" />
     </g>
-    <path
+    <path  class="ColorScheme-Text" 
        d="m12.109 7.2391v-1.2609"
        style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
        id="path5" />
-    <g
+    <g  
        style="opacity:.31511;stroke-width:.73913"
        id="g6">
-      <path
+      <path  class="ColorScheme-Text" 
          transform="translate(.4 -.4)"
          d="m14.285 14.202c.23166.18315.38031.46666.38031.7849v4.913"
          style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"

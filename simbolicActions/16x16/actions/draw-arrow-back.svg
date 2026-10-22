@@ -7,9 +7,9 @@
    id="svg2"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g 
      transform="matrix(1.3529 0 0 1.3509 27.259 1.4737)"
-     id="g1" /><g
+     id="g1" /><g 
      class="ColorScheme-Text"
      transform="matrix(.78995 0 0 .78995 5.8091 5.2338)"
      fill="none"
@@ -17,7 +17,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      style="paint-order:stroke fill markers;stroke-width:1.2659"
-     id="g2"><path
+     id="g2"><path 
        transform="matrix(1.5155 0 0 1.5309 -.50297 -6.5029)"
        d="m6.4037 7.7755h-5.0383a.37216.37216 112.42 00-.26239.63608l1.9449 1.9336a.96957.96957 89.854 01.0035 1.3717l-.74378.74703a.93022.93022 1.0824 01-1.3427-.025368l-4.788-5.1868a1.0651 1.0651 90 010-1.4449l4.788-5.1868a.93022.93022 178.92 011.3427-.025368l.74378.74703a.97351.97351 90.03 01-.0007194 1.3745l-1.9356 1.94a.3743.3743 67.467 00.26497.63867h5.1138a1.5675 1.5675 45 011.5675 1.5675v.20003"
        style="stroke-width:.8311"

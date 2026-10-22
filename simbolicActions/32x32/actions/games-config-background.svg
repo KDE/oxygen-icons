@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g 
      transform="matrix(1.3529 0 0 1.3509 1.1177 1.4737)"
-     id="g3"><g
+     id="g3"><g 
        class="ColorScheme-Text"
        fill="none"
        stroke="currentColor"
@@ -18,10 +18,10 @@
        stroke-linejoin="round"
        stroke-width=".73971"
        style="paint-order:fill markers stroke"
-       id="g2"><path
+       id="g2"><path 
          d="M 20.979,15.610247 V 19.2667 H 1.022 V 2.2847 h 17.593 c 1.3057,0 2.3149,1.0594 2.3641,2.3641 l -10e-7,8.0376 c 0,0.77204 -0.62586,1.3979 -1.3979,1.3979 h -4.5918 l -0.0396,-0.0047 c -0.30277,-0.01933 -0.5939,-0.17181 -0.78274,-0.43961 l -0.67852,-0.96226 c -0.36029,-0.51096 -0.94259,-0.8143 -1.5632,-0.8143 h -2.5893 c -0.62056,0 -1.2029,0.30334 -1.5632,0.8143 l -0.67852,0.96226 c -0.32179,0.45636 -0.94067,0.57785 -1.4079,0.27638 l -1.0729,-0.6922 c -0.49257,-0.31781 -0.71472,-0.92908 -0.5429,-1.4938 l 0.95241,-3.1303 c 0.34691,-1.1402 1.3886,-1.9182 2.5682,-1.9182 h 6.0787 c 1.1796,-2e-7 2.2213,0.77804 2.5682,1.9182 l 0.95241,3.1303 c 0.10676,0.35087 0.06144,0.7197 -0.10633,1.0249 m -9.4103,-2.0022 v -2.2207 m -1.1087,1.1104 h 2.2175"
          style="stroke-width:0.73971"
-         id="path1" /><path
+         id="path1" /><path 
          d="m13.587 10.753v-.29397m0-1.6264v-.30036m-1.1087 1.1104h.29678m1.6273 0h.29342"
          style="stroke-width:.73971"
          id="path2" /></g></g><image

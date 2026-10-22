@@ -53,15 +53,13 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" /><style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path
+       hide_knots="false" /><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path class="ColorScheme-Text" 
      transform="matrix(0.7259,-0.7259,0.7259,0.7259,-5.8504,18.556)"
      d="m 16.501,25.545 -8.86e-4,2.8516 c -3.01e-4,1.3005 1.9998,1.3079 1.9998,1e-6 l 9.45e-4,-3.1059 c 1e-4,-0.43701 -0.35414,-0.79133 -0.79115,-0.79133 h -0.0802 c -0.07088,0 -0.12835,-0.05747 -0.12835,-0.12835 l 9.5e-5,-1.9068 c 2.7e-5,-0.53245 0.43279,-0.95935 0.96274,-1.0088 5.2091,-0.48556 9.2864,-4.8694 9.2861,-10.205 0,-5.4788636 -4.367737,-9.986821 -9.776375,-10.27550848 M 12.650726,2.2178753 c -3.2150883,1.7297416 -5.400632,5.125923 -5.400632,9.0325457 0,4.8082 3.3107,8.8432 7.7769,9.9497"
-     style="color:#232629;fill:none;stroke:currentColor;stroke-width:0.97412;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="fill:none;stroke:currentColor;stroke-width:0.97412;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="path5"
-     sodipodi:nodetypes="ccccsscsccccsc" /><path
-     style="fill:none;fill-opacity:0.612542;stroke:#232629;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke"
+     sodipodi:nodetypes="ccccsscsccccsc" /><path class="ColorScheme-Text" 
+     style="fill:none;fill-opacity:0.612542;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke"
      d="M 5.5,4.5 V 7.9762112 A 0.52378876,0.52378876 45 0 0 6.0237888,8.5 H 9.5"
      id="path1"
      sodipodi:nodetypes="ccc"

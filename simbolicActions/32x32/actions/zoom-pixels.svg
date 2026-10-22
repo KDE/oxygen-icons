@@ -7,11 +7,11 @@
    id="svg9"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; }</style></defs><path
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path class="ColorScheme-Text" 
      transform="matrix(.7259 -.7259 .7259 .7259 -5.8504 18.556)"
      d="m16.501 25.545-.000886 2.8516c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-3.1059c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l9.5e-5-1.9068c2.7e-5-.53245.43279-.95935.96274-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497"
-     style="color:currentColor;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97412;stroke:currentColor"
-     id="path2" /><rect
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97412;stroke:currentColor"
+     id="path2" /><rect class="ColorScheme-Text" 
      x="17"
      y="16"
      width="4"
@@ -19,7 +19,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;paint-order:markers fill stroke"
-     id="rect2" /><rect
+     id="rect2" /><rect class="ColorScheme-Text" 
      x="17"
      y="12"
      width="4"
@@ -27,7 +27,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.5;paint-order:markers fill stroke"
-     id="rect3" /><rect
+     id="rect3" /><rect class="ColorScheme-Text" 
      x="13"
      y="16"
      width="4"
@@ -35,7 +35,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.5;paint-order:markers fill stroke"
-     id="rect4" /><rect
+     id="rect4" /><rect class="ColorScheme-Text" 
      x="13"
      y="12"
      width="4"
@@ -43,7 +43,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-     id="rect5" /><rect
+     id="rect5" /><rect class="ColorScheme-Text" 
      x="9"
      y="16"
      width="4"
@@ -51,7 +51,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-     id="rect6" /><rect
+     id="rect6" /><rect class="ColorScheme-Text" 
      x="17"
      y="8"
      width="4"
@@ -59,7 +59,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-     id="rect7" /><rect
+     id="rect7" /><rect class="ColorScheme-Text" 
      x="13"
      y="8"
      width="4"
@@ -67,7 +67,7 @@
      rx=".54438"
      ry=".54438"
      style="fill:currentColor;opacity:.1;paint-order:markers fill stroke"
-     id="rect8" /><rect
+     id="rect8" /><rect class="ColorScheme-Text" 
      x="9"
      y="12"
      width="4"

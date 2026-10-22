@@ -7,30 +7,30 @@
    id="svg10"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <g transform="translate(1, 1)">
+  <g       transform="translate(1, 1)">
 <defs
-     id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path
+     id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path      
      d="m4.9509 6.951v2.1022h10.098v-2.1022z"
      style="fill-opacity:.088442;fill:#3ab8ff;paint-order:markers fill stroke"
-     id="path4" /><path
+     id="path4" /><path      class="ColorScheme-Text" 
      d="m15.501 8.6025v-.586a1.5184 1.5162 0 00-1.5184-1.5162l-8.8633-5.61e-5c-.34184-7.79e-5-.61885.27772-.6183.62007v1.7534c-.0001586.34219.27662.61976.6183.62007l9.7634.0089c.34131.000465.61826-.27648.6183-.6183l3.2e-5-.29315"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-     id="path5" /><path
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+     id="path5" /><path      class="ColorScheme-Text" 
      transform="matrix(.6547 -.6547 .6547 .6547 -8.8354 14.079)"
      d="m16.501 24.934-.000886 2.0879c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-2.3422c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l8.2e-5-1.2959c3.4e-5-.53245.4328-.95935.96276-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801;stroke:currentColor"
-     id="path6" /><path
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801;stroke:currentColor"
+     id="path6" /><path      class="ColorScheme-Text" 
      d="m15.04 14.944-1.5401-1.4442 4.2169 5.4e-5"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-     id="path7" /><path
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+     id="path7" /><path      class="ColorScheme-Text" 
      d="m15.04 12.056-1.5401 1.4442"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-     id="path8" /><path
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+     id="path8" /><path      class="ColorScheme-Text" 
      d="m5 14.944 1.5401-1.4442-4.2169 5.4e-5"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-     id="path9" /><path
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+     id="path9" /><path      class="ColorScheme-Text" 
      d="m5 12.056 1.5401 1.4442"
-     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
      id="path10" />
   </g>
 </svg>

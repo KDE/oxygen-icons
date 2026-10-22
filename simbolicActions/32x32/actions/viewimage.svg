@@ -7,9 +7,9 @@
    id="svg8"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g 
      transform="matrix(1.3529 0 0 1.3509 1.1177 1.4737)"
-     id="g2"><g
+     id="g2"><g 
        class="ColorScheme-Text"
        fill="none"
        stroke="currentColor"
@@ -17,10 +17,10 @@
        stroke-linejoin="round"
        stroke-width=".73971"
        style="paint-order:fill markers stroke"
-       id="g1"><path
+       id="g1"><path 
          d="m20.979 14.87v4.3967h-19.957v-16.982h17.593c1.3057 0 2.3149 1.0594 2.3641 2.3641l-1e-6 8.0376a1.3979 1.3979 135 01-1.3979 1.3979h-9.6894"
          style="stroke-width:.73971"
-         id="path1" /></g></g><g
+         id="path1" /></g></g><g 
      class="ColorScheme-Text"
      transform="translate(9.9968 9.4707)"
      fill="none"
@@ -28,20 +28,20 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      style="paint-order:stroke fill markers"
-     id="g8"><path
+     id="g8"><path 
        d="m16.503 14.029h-21"
        style="opacity:.26474"
-       id="path2" /><path
+       id="path2" /><path 
        d="m.69844 11.029h-6.1952"
        style="opacity:.84677"
-       id="path3" /><path
+       id="path3" /><path 
        d="m.84694 8.9801c-.37545-.026587-.75-.063033-1.1221-.10933-1.2035-.14973-2.0252-1.3568-2.0252-2.5608 0-2.7807 1.1966-5.9364 2.9048-7.5486.40011-.37763 1.2386-.71574 1.7876-.7298.077068-.00197.1548-.0027.2318-.00211.54732.00415 1.358.39281 1.7377.79171 1.661 1.7449 2.8795 4.4682 2.8795 7.4918 0 1.2054-.75383 2.3878-1.9574 2.5381-.37931.04734-.75663.085505-1.132.11449"
-       id="path4" /><path
+       id="path4" /><path 
        d="m2.5032 2.0293v10"
-       id="path5" /><path
+       id="path5" /><path 
        d="m.50319 3.4293 2 2"
-       id="path6" /><path
+       id="path6" /><path 
        d="m4.5032 5.4293-2 2"
-       id="path7" /><path
+       id="path7" /><path 
        d="m.84694 8.9801c-.37545-.026587-.75-.063033-1.1221-.10933-1.2035-.14973-2.0252-1.3568-2.0252-2.5608 0-2.7807 1.1966-5.9364 2.9048-7.5486.40011-.37763 1.2386-.71574 1.7876-.7298.077068-.00197.1548-.0027.2318-.00211.54732.00415 1.358.39281 1.7377.79171 1.661 1.7449 2.8795 4.4682 2.8795 7.4918 0 1.2054-.75383 2.3878-1.9574 2.5381-.37931.04734-.75663.085505-1.132.11449"
        id="path8" /></g></svg>
