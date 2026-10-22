@@ -6,78 +6,10 @@
    version="1.1"
    viewBox="0 0 16 16"
    id="svg2"
-   sodipodi:docname="im-user-offline.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview2"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="true"
-     inkscape:zoom="31.368549"
-     inkscape:cx="5.7860502"
-     inkscape:cy="7.1409104"
-     inkscape:current-layer="svg2"
-     showguides="true">
-    <inkscape:grid
-       id="grid2"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="1"
-       spacingy="1"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14902"
-       empspacing="2"
-       enabled="true"
-       visible="true" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.85507847,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       radius="0"
-       unit="px"
-       method="auto"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2"
-       is_visible="true"
-       lpeversion="1"
-       nodesatellites_param="F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,0,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1 @ F,0,1,1,0,1.005889,0,1"
-       radius="0"
-       unit="px"
-       method="auto"
-       mode="F"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <style
        id="current-color-scheme"
        type="text/css">.ColorScheme-Text {
@@ -89,16 +21,13 @@
      style="opacity:0.3;fill:none;stroke:currentColor;stroke-width:1.60433;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
      class="ColorScheme-Text"
      d="m 10.78734,8.8121319 c -0.472016,-1.7615866 0.366074,-3.6112891 2.001726,-4.4179037 1.635653,-0.8066144 3.613316,-0.3454878 4.723532,1.1013733 1.110216,1.4468613 1.043773,3.4764865 -0.158695,4.8476385 -1.013698,1.155901 -2.596731,1.572446 -4.030493,1.119333 -0.449418,-0.14203 -1.062647,-0.08492 -1.391429,0.254008 -3.6751232,3.788539 -4.7894266,8.505792 -5.1272968,12.672165 -0.087379,1.077501 0.6034443,2.354743 1.5964207,2.781939 4.1224051,1.137427 8.0467051,1.075358 12.1061901,0 0.334113,-0.143758 0.637531,-0.38408 0.888572,-0.680639 0.495056,-0.584819 0.765435,-1.386334 0.707849,-2.1013 M 20.211435,15.753112 C 19.765552,14.809103 19.21723,13.936594 18.53896,13.151554"
-     sodipodi:nodetypes="cssscsccssccc"
      transform="matrix(0.62166368,0,0,0.62496134,-2.001323,-1.9992603)" />
   <path
      style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
      d="m 14.5,8.5 -5,5"
-     id="path3"
-     sodipodi:nodetypes="cc" />
+     id="path3" />
   <path
      style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
      d="m 9.5,8.5 5,5"
-     id="path4"
-     sodipodi:nodetypes="cc" />
+     id="path4" />
 </svg>
