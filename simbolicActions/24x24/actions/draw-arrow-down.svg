@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   xml:space="preserve"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g transform="translate(1, 1)">
+<defs
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; }</style></defs><g
+     transform="matrix(1.3529 0 0 1.3509 27.259 1.4737)"
+     id="g1" /><g
+     class="ColorScheme-Text"
+     transform="matrix(0 -.78995 .78995 0 6.2306 15.342)"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="paint-order:stroke fill markers;stroke-width:1.2659"
+     id="g2"><path
+       transform="matrix(1.5783 0 0 1.5949 .82501 -4.3844)"
+       d="m8.9096 7.7225h-7.5442a.37643.37643 112.65 00-.26755.64123l1.9556 1.9759a.97744.97744 90.085 01-.00205 1.3772l-.74378.74703a.93022.93022 1.0824 01-1.3427-.025368l-4.788-5.1868a1.0651 1.0651 90 010-1.4449l4.788-5.1868a.93022.93022 178.92 011.3427-.025368l.74378.74703a.98043.98043 89.827 01.00416 1.3793l-1.945 1.9772a.37805.37805 67.265 00.26951.64316h7.6197a1.5675 1.5675 45 011.5675 1.5675v.15344"
+       style="stroke-width:.79788"
+       id="path1" /></g>
+  </g>
+</svg>
