@@ -7,15 +7,11 @@
    id="svg3"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       type="text/css"
-       id="style1">.ColorScheme-Text { color:#232629; }</style></defs><path
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; }</style></defs><path
      id="path1"
-     style="color:#232629;fill:none;stroke:#232629;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="color:currentColor;fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="m 15.125892,16.541466 2.6229,2.624154 c 0.430816,0.431015 1.129493,0.431095 1.560408,1.8e-4 0.350054,-0.430964 0.284538,-1.064089 -0.146345,-1.414242 L 16.36021,14.947577 c -0.308943,-0.309085 -0.809973,-0.309143 -1.118987,-1.28e-4 l -0.05671,0.05671 c -0.05012,0.05012 -0.131393,0.05012 -0.181518,0 L 14.516648,14.517811 C 14.02507,14.026233 13.932186,13.262741 14.291562,12.667639 L 16.96724,4.812155 C 17.380447,4.127912 17.273815,3.250081 16.708808,2.684665 L 15.939243,1.91455 C 15.408057,1.382979 14.546477,1.3828256 14.015096,1.914201 L 13.92779,2.001506 M 1.9646352,13.964635 1.7537687,14.175501" /><path
      id="path3"
-     style="color:#232629;fill:none;stroke:#232629;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="color:currentColor;fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="M 11.651471,20.000001 V 21 a 1.500001,1.500001 45 0 0 1.500001,1.500001 l 11.697057,0 A 1.500001,1.500001 135 0 0 26.34853,21 l 0,-0.999999 A 1.500001,1.500001 45 0 0 24.848529,18.5 l -11.697057,0 a 1.500001,1.500001 135 0 0 -1.500001,1.500001 z"
      transform="rotate(-45,-1.6116283,27.533324)" /></svg>

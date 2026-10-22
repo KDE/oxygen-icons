@@ -7,19 +7,7 @@
    xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       id="current-color-scheme-2"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       id="current-color-scheme-3"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       id="current-color-scheme-2-1"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       id="current-color-scheme-7"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       type="text/css"
-       id="style1">.ColorScheme-Text { color:#232629; }</style></defs><path
+     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; }</style></defs><path
      id="rect25"
      style="fill:#3ab8ff;fill-opacity:0.257335;stroke:none;stroke-width:1.71395;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
      d="m 22,15.374876 v 4.166622 a 0.83337801,0.83337801 135 0 1 -0.833378,0.833378 H 17 v 2 h 4.166622 A 0.83337801,0.83337801 45 0 1 22,23.208254 v 4.166622 h 2 v -4.166622 a 0.83337801,0.83337801 135 0 1 0.833378,-0.833378 H 29 v -2 H 24.833378 A 0.83337801,0.83337801 45 0 1 24,19.541498 v -4.166622 z"
@@ -97,5 +85,5 @@
        stroke-width="1.20211"
        stroke-linecap="round"
        stroke-linejoin="round"
-       style="color:#232629;paint-order:fill markers stroke"
+       style="color:currentColor;paint-order:fill markers stroke"
        id="g3-5" /></g></svg>
