@@ -9,14 +9,14 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <g transform="translate(1, 1)">
 <defs
-     id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:currentColor; }</style></defs><path
+     id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path
      transform="matrix(1.2202,0,0,1.2184,-9.7661,-9.4451)"
      d="m 19.887462,19.737 v -0.09144 m 0,-1.073876 v -4.369848 m 0,-1.110076 V 12.2699 c 0,-0.684679 -0.08595,-0.82423 -0.82422,-0.82423 h -0.824638 m -4.026386,-3.7e-5 -1.1939,-8e-6 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1372 m 0,1.052976 v 3.566548 m 0,1.119676 v 1.1287 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 1.1464,10e-4 m 4.120024,0.0052 1.0958,10e-4 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 2.6e-5,-0.2406"
-     style="color:currentColor;fill:none;stroke:currentColor;stroke-width:0.82016;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     style="color:#232629;fill:none;stroke:currentColor;stroke-width:0.82016;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="path4" /><path
      transform="matrix(.6547 -.6547 .6547 .6547 -8.8354 14.079)"
      d="m16.501 24.934-.000886 2.0879c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-2.3422c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l8.2e-5-1.2959c3.4e-5-.53245.4328-.95935.96276-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497"
-     style="color:currentColor;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801;stroke:currentColor"
+     style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801;stroke:currentColor"
      id="path5" />
   </g>
 </svg>

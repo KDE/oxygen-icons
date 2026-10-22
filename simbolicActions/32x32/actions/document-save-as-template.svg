@@ -11,7 +11,7 @@
      id="defs1">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:currentColor; }</style>
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
   <g
      class="ColorScheme-Text"
@@ -43,7 +43,7 @@
   <g
      class="ColorScheme-Text"
      transform="translate(5 6.0009)"
-     style="color:currentColor"
+     style="color:#232629"
      id="g10">
     <path
        transform="matrix(1.205 0 0 1.205 -3.5867 -3.3817)"
