@@ -5,25 +5,8 @@
    version="1.1"
    viewBox="0 0 22 22"
    id="svg4"
-   sodipodi:docname="application-menu.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="62.636364"
-     inkscape:cx="11.007983"
-     inkscape:cy="11"
-     inkscape:current-layer="svg4" />
   <defs
      id="defs1">
     <style
@@ -40,17 +23,14 @@
     <path
        d="m 5.41328,7.50004 h 11.587"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="path2"
-       sodipodi:nodetypes="cc" />
+       id="path2" />
     <path
        d="M 17,11.5 H 5.459"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="path3"
-       sodipodi:nodetypes="cc" />
+       id="path3" />
     <path
        d="m 5.34986,15.49912 h 11.65"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="path4"
-       sodipodi:nodetypes="cc" />
+       id="path4" />
   </g>
 </svg>
