@@ -4,25 +4,8 @@
    height="32"
    version="1.1"
    id="svg2"
-   sodipodi:docname="expand.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview2"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="43.0625"
-     inkscape:cx="16.011611"
-     inkscape:cy="16"
-     inkscape:current-layer="svg2" />
   <defs
      id="defs1">
     <style
@@ -40,8 +23,7 @@
      stroke-linejoin="round"
      stroke-width="0.72007"
      paint-order="stroke fill markers"
-     id="path1"
-     sodipodi:nodetypes="csssccccsssc" />
+     id="path1" />
   <path
      class="ColorScheme-Text"
      transform="matrix(1.3894,0,0,1.3881,-0.023574,0.6448)"
@@ -53,6 +35,5 @@
      stroke-linejoin="round"
      stroke-width="0.72007"
      paint-order="stroke fill markers"
-     id="path2"
-     sodipodi:nodetypes="csssccccssscc" />
+     id="path2" />
 </svg>
