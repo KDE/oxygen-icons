@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   xml:space="preserve"
-   id="svg5"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs
      id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path      class="ColorScheme-Text" 
      transform="matrix(1.2202,0,0,1.2184,-9.7661,-9.4451)"
      d="m 19.887462,19.737 v -0.09144 m 0,-1.073876 v -4.369848 m 0,-1.110076 V 12.2699 c 0,-0.684679 -0.08595,-0.82423 -0.82422,-0.82423 h -0.824638 m -4.026386,-3.7e-5 -1.1939,-8e-6 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1372 m 0,1.052976 v 3.566548 m 0,1.119676 v 1.1287 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 1.1464,10e-4 m 4.120024,0.0052 1.0958,10e-4 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 2.6e-5,-0.2406"

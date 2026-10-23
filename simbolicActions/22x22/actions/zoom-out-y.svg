@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   xml:space="preserve"
-   id="svg10"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs
      id="defs4"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path   
      d="m4.9509 8.951v2.1022h10.098v-2.1022z"
      style="fill-opacity:.088442;fill:#3ab8ff;paint-order:markers fill stroke"

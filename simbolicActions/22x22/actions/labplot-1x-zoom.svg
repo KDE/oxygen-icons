@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   xml:space="preserve"
-   id="svg5"
-   sodipodi:docname="labplot-1x-zoom.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
+<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview
+
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -24,7 +13,7 @@
      inkscape:cx="12.137978"
      inkscape:cy="14.411063"
      inkscape:current-layer="svg5"><inkscape:grid
-       id="grid1"
+
        units="px"
        originx="0"
        originy="0"
@@ -38,15 +27,15 @@
        enabled="true"
        visible="true" /></sodipodi:namedview><defs
      id="defs4"><style
-       id="current-color-scheme"
+
        type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       id="current-color-scheme-6"
+
        type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path
      class="ColorScheme-Text"
      d="M 8.7765904,7.1349785 10.443582,5.9327514 a 0.66344348,0.65166322 0 0 1 1.056103,0.5252785 l -4.9e-5,7.1268821"
      style="fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
      id="path4" /><g
-     id="g1"
+
      transform="translate(0.25414462,0.25554441)"><path
        class="ColorScheme-Text"
        transform="matrix(0.6547,-0.6547,0.6547,0.6547,-8.8354,14.079)"

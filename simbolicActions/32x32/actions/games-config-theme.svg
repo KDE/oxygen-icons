@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   version="1.1"
-   xml:space="preserve"
-   id="svg3"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs
      id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path class="ColorScheme-Text" 
-     id="path1"
+
      style="fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="m 20.125892,26.741466 2.7229,2.724154 c 0.430816,0.431015 1.129493,0.431095 1.560408,1.8e-4 0.350054,-0.430964 0.284538,-1.064089 -0.146345,-1.414242 L 21.36021,25.147577 c -0.308943,-0.309085 -0.809973,-0.309143 -1.118987,-1.28e-4 l -0.05671,0.05671 c -0.05012,0.05012 -0.131393,0.05012 -0.181518,0 l -0.486347,-0.486348 c -0.491578,-0.491578 -0.584462,-1.25507 -0.225086,-1.850172 l 3.475678,-7.755484 c 0.413207,-0.684243 0.306575,-1.562074 -0.258432,-2.12749 L 21.739243,12.21455 c -0.531186,-0.531571 -1.392768,-0.531727 -1.924147,-3.49e-4 l -0.452107,0.452106 M 6.9706004,25.058696 7.1782689,24.851028" /><path class="ColorScheme-Text" 
      d="M 20.499552,9.9999277 V 9.6028036 m 0,-2.1971037 V 6.9999435 m -1.49996,1.5000394 h 0.401514 m 2.201574,0 h 0.396968"
      style="fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;opacity:0.7"
      id="path2" /><path class="ColorScheme-Text" 
-     id="path3"
+
      style="fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="m 11.085786,20.000001 0,0.999999 a 1.500001,1.500001 45 0 0 1.500001,1.500001 l 12.828427,0 A 1.500001,1.500001 135 0 0 26.914215,21 V 20.000001 A 1.500001,1.500001 45 0 0 25.414214,18.5 H 12.585787 a 1.500001,1.500001 135 0 0 -1.500001,1.500001 z"
      transform="rotate(-45,13.721572,25.682104)" /><path class="ColorScheme-Text" 

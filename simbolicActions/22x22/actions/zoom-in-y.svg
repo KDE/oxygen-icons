@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="22"
-   height="22"
-   version="1.1"
-   xml:space="preserve"
-   id="svg15"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs
      id="defs9"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path   
      d="m9.5678 4.951v3.2483c0 .41512-.33652.75163-.75163.75163h-2.8653v2.1022h2.8653c.41512 0 .75163.33652.75163.75163v3.2442h2.4917v-3.2442c1e-6-.41512.33652-.75163.75163-.75163h3.2379v-2.1022h-3.2379c-.41512-6e-7-.75163-.33652-.75163-.75163v-3.2483z"
      style="fill-opacity:.088442;fill:#3ab8ff;paint-order:markers fill stroke"
