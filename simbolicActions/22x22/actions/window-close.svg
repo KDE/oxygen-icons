@@ -1,59 +1,100 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg>
-  <defs>
-     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
+<svg
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="window-close.svg"
    width="22"
    height="22"
-   version="1.1"
-   viewBox="0 0 22 22"
-   xml:space="preserve"
-   id="svg5"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs1"></defs><path
-     class="ColorScheme-Text"
-     d="m21 3v4h-20v-4z"
-     fill="currentColor"
-     fill-rule="evenodd"
-     opacity=".1"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     style="opacity:.1"
-     paint-order="stroke fill markers"
-     id="path1" /><g
-     class="ColorScheme-Text"
-     transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)"
-     style="stroke-width:.73913"
-     id="g5"><g
-       style="stroke-width:.73913"
-       id="g2"><path
-         class="ColorScheme-Text"
-         d="m 1.7608,7.7621 v 6.4755 c 0,0.86504 0.70126,1.5663 1.5663,1.5663 l 5.5384742,0 a 6.9406541,6.9406541 157.50679 0 0 4.9066198,-2.031707 l 0,0 M 13.356181,15.8039 h 0.43059 0.43059 m 2.67155,-0.528099 C 17.133752,14.99942 17.2824,14.635869 17.2824,14.2376 v -2.19651 m 0,-3.1465965 V 5.0275 c 0,-0.98815 -0.80105,-1.7892 -1.7892,-1.7892 H 4.7742 l -1.6098,3e-7 c -0.77524,10e-8 -1.4037,0.62846 -1.4037,1.4037 v 0.94674 c 0,0.74518 0.59991,1.3451 1.3451,1.3451 h 12.832"
-         style="fill:none;stroke:currentColor;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-         id="path2" /><path
-         class="ColorScheme-Text"
-         d="m 1.7608,7.7621 v 6.4755 c 0,0.86504 0.70126,1.5663 1.5663,1.5663 l 5.5384742,0 a 6.9406541,6.9406541 157.50679 0 0 4.9066198,-2.031707 l 0,0 M 13.356181,15.8039 h 0.43059 0.43059 m 2.67155,-0.528099 C 17.133752,14.99942 17.2824,14.635869 17.2824,14.2376 v -2.19651 m 0,-3.1465965 V 5.0275 c 0,-0.98815 -0.80105,-1.7892 -1.7892,-1.7892 H 4.7742 l -1.6098,3e-7 c -0.77524,10e-8 -1.4037,0.62846 -1.4037,1.4037 v 0.94674 c 0,0.74518 0.59991,1.3451 1.3451,1.3451 h 12.832"
-         style="fill:none;stroke:#a30000;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stroke-opacity:1;opacity:0.3"
-         id="path11" /></g><path
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="16.074969"
+   inkscape:cx="-46.127617"
+   inkscape:cy="28.864753"
+   inkscape:current-layer="svg2" />
+<defs
+   id="defs1">
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color:#232629; }</style>
+</defs>
+
+   width=&quot;22&quot;
+   height=&quot;22&quot;
+   version=&quot;1.1&quot;
+   viewBox=&quot;0 0 22 22&quot;
+   xml:space=&quot;preserve&quot;
+   id=&quot;svg5&quot;
+   xmlns=&quot;http://www.w3.org/2000/svg&quot;
+   xmlns:svg=&quot;http://www.w3.org/2000/svg&quot;&gt;<defs
+   id="defs2" />
+<path
+   class="ColorScheme-Text"
+   d="M 21,3 V 7 H 1 V 3 Z"
+   fill="currentColor"
+   fill-rule="evenodd"
+   opacity=".1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   style="opacity:0.1"
+   paint-order="stroke fill markers"
+   id="path1" />
+<g
+   class="ColorScheme-Text"
+   transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)"
+   style="stroke-width:0.73913"
+   id="g5">
+  <g
+     style="stroke-width:0.73913"
+     id="g2">
+    <path
        class="ColorScheme-Text"
-       d="m15.065 5.2434v-.52169"
-       style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
-       id="path3" /><path
+       d="m 1.7608,7.7621 v 6.4755 c 0,0.86504 0.70126,1.5663 1.5663,1.5663 h 5.5384742 a 6.9406541,6.9406541 157.50679 0 0 4.9066198,-2.031707 v 0 M 13.356181,15.8039 h 0.43059 0.43059 m 2.67155,-0.528099 C 17.133752,14.99942 17.2824,14.635869 17.2824,14.2376 v -2.19651 m 0,-3.1465965 V 5.0275 c 0,-0.98815 -0.80105,-1.7892 -1.7892,-1.7892 H 4.7742 l -1.6098,3e-7 c -0.77524,10e-8 -1.4037,0.62846 -1.4037,1.4037 v 0.94674 c 0,0.74518 0.59991,1.3451 1.3451,1.3451 h 12.832"
+       style="fill:none;stroke:currentColor;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path2" />
+    <path
        class="ColorScheme-Text"
-       d="m12.848 5.2434v-.52169"
-       style="fill:none;opacity:.52747;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"
-       id="path4" /></g><g
+       d="m 1.7608,7.7621 v 6.4755 c 0,0.86504 0.70126,1.5663 1.5663,1.5663 h 5.5384742 a 6.9406541,6.9406541 157.50679 0 0 4.9066198,-2.031707 v 0 M 13.356181,15.8039 h 0.43059 0.43059 m 2.67155,-0.528099 C 17.133752,14.99942 17.2824,14.635869 17.2824,14.2376 v -2.19651 m 0,-3.1465965 V 5.0275 c 0,-0.98815 -0.80105,-1.7892 -1.7892,-1.7892 H 4.7742 l -1.6098,3e-7 c -0.77524,10e-8 -1.4037,0.62846 -1.4037,1.4037 v 0.94674 c 0,0.74518 0.59991,1.3451 1.3451,1.3451 h 12.832"
+       style="opacity:0.3;fill:none;stroke:#a30000;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path11" />
+  </g>
+  <path
      class="ColorScheme-Text"
-     transform="matrix(0.65735,-0.65735,0.65735,0.65735,-34.020131,-2.547025)"
-     style="stroke-width:1.0757"
-     id="g5-2" /><g
-     id="g6"
-     transform="matrix(1.5714286,0,0,1.5714286,-57.713517,-38.763311)"
-     style="stroke-width:0.636364"><path
-       style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 50.408601,32.303925 -6.045454,6.045454"
-       id="path3-7" /><path
-       style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 44.363147,32.303925 6.045454,6.045454"
-       id="path4-5" /></g></svg>
+     d="M 15.065,5.2434 V 4.72171"
+     style="fill:none;stroke:currentColor;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path3" />
+  <path
+     class="ColorScheme-Text"
+     d="M 12.848,5.2434 V 4.72171"
+     style="opacity:0.52747;fill:none;stroke:currentColor;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path4" />
+</g>
+<g
+   class="ColorScheme-Text"
+   transform="matrix(0.65735,-0.65735,0.65735,0.65735,-34.020131,-2.547025)"
+   style="stroke-width:1.0757"
+   id="g5-2" />
+<g
+   id="g6"
+   transform="matrix(1.5714286,0,0,1.5714286,-57.713517,-38.763311)"
+   style="stroke-width:0.636364">
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 50.408601,32.303925 -6.045454,6.045454"
+     id="path3-7" />
+  <path
+     style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+     d="m 44.363147,32.303925 6.045454,6.045454"
+     id="path4-5" />
+</g>
+</svg>
