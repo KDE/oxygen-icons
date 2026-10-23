@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22" height="22" viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs><defs
+   id="defs1">
+  
+</defs>
+
+
+   version=&quot;1.1&quot;
+   viewBox=&quot;0 0 22 22&quot;
+   id=&quot;svg2&quot;
+   xml:space=&quot;preserve&quot;
+   xmlns=&quot;http://www.w3.org/2000/svg&quot;
+   xmlns:svg=&quot;http://www.w3.org/2000/svg&quot;&gt;<sodipodi:namedview
+   id="namedview2"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1" />
+<defs
+   id="defs2" />
+<g
+   fill="currentColor"
+   id="g2">
+  <path
+     id="smartphone"
+     class="ColorScheme-Text"
+     d="m 5.5,8.5 c -0.55228,0 -1,0.44772 -1,1 0,0.55228 0.44772,1 1,1 0.55228,0 1,-0.44772 1,-1 0,-0.55228 -0.44772,-1 -1,-1 z"
+     style="fill:#3daee9" />
+  <path
+     class="ColorScheme-Text"
+     d="m 5,17 v -3.7578 c -3e-7,-0.13376 0.10843,-0.24219 0.24219,-0.24219 h 11.516 c 0.13376,0 0.24219,0.10843 0.24219,0.24219 V 17 h -1 v -1.5 c 0,-0.27614 -0.22386,-0.5 -0.5,-0.5 h -9 c -0.27614,0 -0.5,0.22386 -0.5,0.5 V 17 Z"
+     opacity="0.2"
+     id="path1" />
+  <path
+     class="ColorScheme-Text"
+     d="M 7.6445,3 C 6.74258,3 6,3.74261 6,4.6445 V 7 H 4 C 2.892,7 2,7.892 2,9 v 7 c 0,1.108 0.892,2 2,2 h 2 v 0.35547 c 0,0.90192 0.74261,1.6445 1.6445,1.6445 h 6.7109 c 0.90192,0 1.6445,-0.74261 1.6445,-1.6445 V 18 h 2 c 1.108,0 2,-0.892 2,-2 V 9 c 0,-1.108 -0.892,-2 -2,-2 h -2 V 4.6445 C 15.9999,3.74258 15.25729,3 14.3554,3 Z m 0,1 h 6.7109 c 0.36148,0 0.64453,0.28305 0.64453,0.64453 v 2.3555 h -8 V 4.64453 C 6.99993,4.28305 7.28298,4 7.64446,4 Z M 4,8 h 14 c 0.554,0 1,0.446 1,1 v 7 c 0,0.554 -0.446,1 -1,1 V 13.2422 C 18,12.56232 17.43769,12 16.7578,12 H 5.2418 C 4.56192,12 3.9996,12.56231 3.9996,13.2422 V 17 c -0.554,0 -1,-0.446 -1,-1 V 9 c 0,-0.554 0.446,-1 1,-1 z m 1.2422,5 h 11.516 c 0.13944,0 0.24219,0.10274 0.24219,0.24219 v 3.7578 h -1 v -1.5 c 0,-0.27641 -0.22536,-0.5 -0.5,-0.5 h -9 c -0.27465,0 -0.5,0.22275 -0.5,0.5 v 1.5 h -1 v -3.7578 C 5.00039,13.10275 5.10314,13 5.24258,13 Z M 7,16 h 8 v 2.3555 c 0,0.36148 -0.28305,0.64453 -0.64453,0.64453 h -6.7109 c -0.36148,0 -0.64453,-0.28305 -0.64453,-0.64453 V 17 Z"
+     id="path2"
+     style="fill:#232629;fill-opacity:1" />
+</g>
+<rect
+   style="opacity:0.2;fill:none;stroke:#232629;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke"
+   id="rect1"
+   width="21"
+   height="21"
+   x="0.49999997"
+   y="0.49999997"
+   rx="1.2847219"
+   ry="1.2847219" />
+</svg>
