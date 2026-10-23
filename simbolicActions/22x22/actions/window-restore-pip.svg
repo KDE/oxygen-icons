@@ -10,9 +10,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-       type="text/css"
-       id="style1">.ColorScheme-Text { color:#232629; }</style></defs><path
+       type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path
      class="ColorScheme-Text"
      d="M 1,2 V 6 H 16.9999 V 2 h -16 z"
      style="opacity:0.1"
