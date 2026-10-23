@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-  <g transform="translate(1, 1)">
-    <svg>
-  <defs>
-     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
+<svg
    width="24"
    height="24"
    version="1.1"
    viewBox="0 0 24 24"
+   xml:space="preserve"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="translate(1, 1)">
+    width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22"
    xml:space="preserve"
    id="svg5"
    xmlns="http://www.w3.org/2000/svg"
@@ -57,6 +65,6 @@
        id="path3-7" /><path
        style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 44.363147,32.303925 6.045454,6.045454"
-       id="path4-5" /></g>
+       id="path4-5" /
   </g>
 </svg>
