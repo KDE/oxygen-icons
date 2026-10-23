@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0074">
+  <g class="ColorScheme-Text" transform="matrix(.99355 0 0 .99184 -.20418 -3.1208)">
+   <path transform="translate(-.7917 -.7917)" d="m4.4394 18.603-1.8651 1.8651c-.35781.35774-.94758.1575-1.0474-.30202-.016181-.07453-.014601-.19928-.014665-.27571l-.0089789-10.66a2.7687 2.7687 134.97 012.7686-2.7711l11.353-.000723c1.3655.20438 2.4998 1.1193 2.5 2.5" style="paint-order:fill markers stroke;stroke-width:1.0074"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(-.99355 0 0 .99184 22.446 .8054)">
+   <path transform="translate(-.7917 -.7917)" d="m6.7523 6.5323h9.6644c1.3807 0 2.4997 1.1193 2.5 2.5l.000682 3.4453a5.145 5.145 134.99 01-5.1451 5.146l-6.533-.000108c-.96045-2e-6-1.8816.38154-2.5607 1.0607l-1.8651 1.8651c-.3917.39163-1.0614.11456-1.0619-.43934l-.00804-8.5637c-.00238-2.768 2.2408-5.0131 5.0088-5.0131z" style="paint-order:fill markers stroke;stroke-width:1.0074"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(.99355 0 0 .99184 -.20418 -3.1208)">
+   <path transform="translate(-.7917 -.7917)" d="m18.125 11.973.000342 1.4677a4.1073 4.1073 134.99 01-4.1074 4.1083l-7.0183-.000121" style="opacity:.24217;paint-order:fill markers stroke;stroke-width:1.0074"/>
+  </g>
+ </g>
+  </g>
+</svg>
