@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"><sodipodi:namedview
-
-   pagecolor="#505050"
-   bordercolor="#eeeeee"
-   borderopacity="1"
-   inkscape:showpageshadow="0"
-   inkscape:pageopacity="0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#505050"
-   inkscape:zoom="16.074969"
-   inkscape:cx="-46.127617"
-   inkscape:cy="28.864753"
-   inkscape:current-layer="svg2" />
-<defs
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
    id="defs1">
   <style
-
-     type="text/css">.ColorScheme-Text { color:#232629; }</style>
+     type="text/css"
+     id="style1">.ColorScheme-Text { color:#232629; }</style>
 </defs>
+
 
    width=&quot;22&quot;
    height=&quot;22&quot;
@@ -75,9 +70,9 @@
    style="stroke-width:1.0757"
    id="g5-2" />
 <g
-
    transform="matrix(1.5714286,0,0,1.5714286,-57.713517,-38.763311)"
-   style="stroke-width:0.636364">
+   style="stroke-width:0.636364"
+   id="g1">
   <path
      style="fill:#ff0000;fill-opacity:1;stroke:#a30000;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
      d="m 50.408601,32.303925 -6.045454,6.045454"

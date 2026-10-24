@@ -9,24 +9,30 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g   
+  <g
      class="ColorScheme-Text"
      id="g4">
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        d="m3.935 2.5h.56138-.43013c-.86504 0-1.5663.70126-1.5663 1.5663v13.867c0 .86504.70126 1.5663 1.5663 1.5663h13.867c.86504 0 1.5663-.70126 1.5663-1.5663v-13.645c0-.98815-.80105-1.7892-1.7892-1.7892h-9.1321l-1.675 3e-7c-.77524 1e-7-1.4037.62846-1.4037 1.4037"
        style="fill:none;opacity:.7;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
        id="path1" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        d="m 5.41328,7.50004 h 11.587"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="path2" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        d="M 17,11.5 H 5.459"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="path3" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        d="m 5.34986,15.49912 h 11.65"
        style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        id="path4" />
