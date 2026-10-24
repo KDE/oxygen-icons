@@ -5,89 +5,37 @@
    version="1.1"
    viewBox="0 0 24 24"
    xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
-     <style id="current-color-scheme" type="text/css">
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+   id="defs1"><style
+     id="current-color-scheme"
+     type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  </defs>
-  <g transform="translate(1, 1)">
+   </style></defs>
+  <g
+   transform="translate(1, 1)"
+   id="g4">
     <defs
-   id="defs1"><inkscape:path-effect
-   effect="fillet_chamfer"
-   id="path-effect2"
-   is_visible="true"
-   lpeversion="1"
-   nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.8282172,0,1 @ F,0,0,1,0,1.2575978,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.9875194,0,1 @ F,0,0,1,0,0,0,1"
-   radius="0"
-   unit="px"
-   method="auto"
-   mode="F"
-   chamfer_steps="1"
-   flexible="false"
-   use_knot_distance="true"
-   apply_no_radius="true"
-   apply_with_radius="true"
-   only_selected="false"
-   hide_knots="false" />
-     <style
-   id="current-color-scheme"
-   type="text/css">
+   id="defs2"><style
+     id="style1"
+     type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  
-<defs
-   id="defs5"><style
-     type="text/css"
-     id="style4">.ColorScheme-Text { color:#232629; }</style><style
-     type="text/css"
-     id="style5">.ColorScheme-Text { color:#232629; }</style></defs>
-  </defs><defs
-   id="defs6"><inkscape:path-effect
-     effect="fillet_chamfer"
-     id="path-effect8"
-     is_visible="true"
-     lpeversion="1"
-     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-     radius="0"
-     unit="px"
-     method="auto"
-     mode="F"
-     chamfer_steps="1"
-     flexible="false"
-     use_knot_distance="true"
-     apply_no_radius="true"
-     apply_with_radius="true"
-     only_selected="false"
-     hide_knots="false" /><inkscape:path-effect
-     effect="fillet_chamfer"
-     id="path-effect6"
-     is_visible="true"
-     lpeversion="1"
-     nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.378292,0,1 @ F,0,0,1,0,1.806388,0,1 @ F,0,0,1,0,0.75549232,0,1 @ F,0,0,1,0,0,0,1"
-     radius="0"
-     unit="px"
-     method="auto"
-     mode="F"
-     chamfer_steps="1"
-     flexible="false"
-     use_knot_distance="true"
-     apply_no_radius="true"
-     apply_with_radius="true"
-     only_selected="false"
-     hide_knots="false" /></defs>
+   </style></defs><defs
+   id="defs6" />
   <g
    transform="matrix(0.96320033,0,0,0.96241555,0.405023,2.1496388)"
    style="stroke-width:1.0386"
    id="g3">
 <defs
-   id="defs2"><style
-     id="style1"
+   id="defs3"><style
+     id="style2"
      type="text/css">.ColorScheme-Text { color:#232629; }</style><style
      type="text/css"
-     id="style2">.ColorScheme-Text { color:#232629; }</style></defs><g
+     id="style3">.ColorScheme-Text { color:#232629; }</style></defs><g
    class="ColorScheme-Text"
    transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)"
    style="stroke-width:0.76766"

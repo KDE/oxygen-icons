@@ -6,37 +6,41 @@
    id="svg2"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <g   transform="translate(1, 1)">
-
   <defs
-     id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path  
-     d="M 14.453414,10.040826 V 8.6263023 a 1.5263337,1.5263337 135 0 1 1.526334,-1.5263337 h 2.070534 c 1.162289,0 1.820881,1.3319125 1.115291,2.2555241 l -7.173072,9.3894863 c -0.231741,0.303347 -0.688478,0.303347 -0.920219,0 L 3.8992099,9.3554927 C 3.1936196,8.4318813 3.8522113,7.0999686 5.0145003,7.0999686 h 2.150005 A 1.5263337,1.5263337 45 0 1 8.690839,8.6263023 v 1.4145237"
-     transform="matrix(0.86766758,0,0,-0.86665863,0.95924079,21.648829)"
-     class="ColorScheme-Text"
-     fill="none"
-     fill-rule="evenodd"
-     stroke="currentColor"
-     stroke-width="1.15319"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     paint-order="stroke fill markers"
-     id="path1" />
-  <path  
-     d="m 16.297439,7.0999686 h 1.752843 c 1.162289,-5e-7 1.820881,1.3319125 1.115291,2.2555241 l -7.173072,9.3894863 c -0.231741,0.303347 -0.688478,0.303347 -0.920219,0 L 3.8992099,9.3554927 C 3.1936196,8.4318813 3.8522113,7.0999686 5.0145003,7.0999686 h 1.7528441 a 1.513224,1.513224 44.501448 0 1 1.5263337,1.4999998 h 6.4774269 a 1.513224,1.513224 135.49855 0 1 1.526334,-1.4999998 z"
-     transform="matrix(0.86766758,0,0,-0.86665863,0.95924079,21.648829)"
-     class="ColorScheme-Text"
-     opacity="0.1"
-     fill="currentColor"
-     fill-rule="evenodd"
-     stroke="none"
-     stroke-width="1.15319"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     paint-order="stroke fill markers"
-     id="path2" />
-
+     id="defs2" />
+  <g
+     transform="translate(1, 1)"
+     id="g1">
+    <defs
+       id="defs1">
+      <style
+         id="current-color-scheme"
+         type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    </defs>
+    <path
+       d="M 14.453414,10.040826 V 8.6263023 a 1.5263337,1.5263337 135 0 1 1.526334,-1.5263337 h 2.070534 c 1.162289,0 1.820881,1.3319125 1.115291,2.2555241 l -7.173072,9.3894863 c -0.231741,0.303347 -0.688478,0.303347 -0.920219,0 L 3.8992099,9.3554927 C 3.1936196,8.4318813 3.8522113,7.0999686 5.0145003,7.0999686 h 2.150005 A 1.5263337,1.5263337 45 0 1 8.690839,8.6263023 v 1.4145237"
+       transform="matrix(0.86766758,0,0,-0.86665863,0.95924079,21.648829)"
+       class="ColorScheme-Text"
+       fill="none"
+       fill-rule="evenodd"
+       stroke="currentColor"
+       stroke-width="1.15319"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       paint-order="stroke fill markers"
+       id="path1" />
+    <path
+       d="m 16.297439,7.0999686 h 1.752843 c 1.162289,-5e-7 1.820881,1.3319125 1.115291,2.2555241 l -7.173072,9.3894863 c -0.231741,0.303347 -0.688478,0.303347 -0.920219,0 L 3.8992099,9.3554927 C 3.1936196,8.4318813 3.8522113,7.0999686 5.0145003,7.0999686 h 1.7528441 a 1.513224,1.513224 44.501448 0 1 1.5263337,1.4999998 h 6.4774269 a 1.513224,1.513224 135.49855 0 1 1.526334,-1.4999998 z"
+       transform="matrix(0.86766758,0,0,-0.86665863,0.95924079,21.648829)"
+       class="ColorScheme-Text"
+       opacity="0.1"
+       fill="currentColor"
+       fill-rule="evenodd"
+       stroke="none"
+       stroke-width="1.15319"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       paint-order="stroke fill markers"
+       id="path2" />
   </g>
 </svg>
