@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg"><defs
-     id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path      class="ColorScheme-Text" 
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
      d="m 20.239707,19.265897 v -6.533678 a 0.86880139,0.86880139 45.000203 0 0 -0.868795,-0.868801 l -6.755106,-4.8e-5 c -0.280153,-6.4e-5 -0.50717,0.227937 -0.506724,0.50892 v 7.116205 c -1.3e-4,0.280851 0.226702,0.508666 0.506724,0.508919 l 7.117146,0.0073 c 0.279721,3.82e-4 0.506691,-0.226924 0.506724,-0.507474 l 2.6e-5,-0.240605"
-
      style="fill:none;stroke:currentColor;stroke-width:0.73971;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     transform="matrix(1.3529,0,0,1.3509,-6.8823,-7.5263)" /><path      class="ColorScheme-Text" 
-
+     transform="matrix(1.3529,0,0,1.3509,-6.8823,-7.5263)"
+     id="path1" />
+  <path
+     class="ColorScheme-Text"
      style="fill:none;stroke:currentColor;stroke-width:0.974122;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      d="m 16.500891,25.544843 -8.86e-4,2.851649 c -3.01e-4,1.300532 1.999786,1.307851 1.999786,1e-6 l 9.45e-4,-3.105905 c 10e-5,-0.437011 -0.354141,-0.791334 -0.791153,-0.791333 h -0.0802 c -0.07088,0 -0.128349,-0.05747 -0.128353,-0.128353 l 9.5e-5,-1.906823 c 2.7e-5,-0.532446 0.432787,-0.959353 0.962744,-1.008752 C 23.672999,20.969766 27.750305,16.585949 27.75,11.25 27.75,5.5890814 23.160919,1 17.5,1 11.839081,1 7.25,5.5890814 7.25,11.25 c 0,4.808235 3.310726,8.843208 7.776924,9.949665"
-     transform="matrix(0.72589873,-0.72589877,0.72589873,0.72589877,-5.8503596,18.556097)" /></svg>
+     transform="matrix(0.72589873,-0.72589877,0.72589873,0.72589877,-5.8503596,18.556097)"
+     id="path2" />
+</svg>

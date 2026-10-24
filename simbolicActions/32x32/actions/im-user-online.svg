@@ -10,9 +10,11 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <path  
+  <path
      id="circle1"
      style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
      class="ColorScheme-Text"

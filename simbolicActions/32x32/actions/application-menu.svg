@@ -9,30 +9,36 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g   
+  <g
      class="ColorScheme-Text"
      id="g4"
      transform="matrix(1.4117762,0,0,1.4117761,0.97058014,0.97093025)"
      style="stroke-width:0.708328">
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        style="opacity:0.7;fill:none;stroke:currentColor;stroke-width:0.739112;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        d="M 3.935,2.5 H 4.49638 4.06625 c -0.8650436,0 -1.5663,0.7012564 -1.5663,1.5663 v 13.867 c 0,0.865044 0.7012564,1.5663 1.5663,1.5663 h 13.867 c 0.865044,0 1.5663,-0.701256 1.5663,-1.5663 V 4.2883 c 0,-0.9881479 -0.801052,-1.7892 -1.7892,-1.7892 h -9.1321 l -1.675,3e-7 c -0.7752421,1e-7 -1.4037,0.6284579 -1.4037,1.4037"
        id="path9"
        transform="matrix(0.95835015,0,0,0.95835024,0.10412255,0.10408692)" />
-    <g   
+    <g
        style="opacity:0.31511;stroke-width:0.708328"
        id="g3" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        style="opacity:1;fill:none;stroke:currentColor;stroke-width:0.708328;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        d="M 5.3879365,6.7497033 H 16.008341"
        id="path16" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        style="opacity:1;fill:none;stroke:currentColor;stroke-width:0.708328;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        d="M 16.008341,10.999669 H 5.3095022"
        id="path17" />
-    <path   class="ColorScheme-Text" 
+    <path
+       class="ColorScheme-Text"
        style="opacity:1;fill:none;stroke:currentColor;stroke-width:0.708328;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
        d="m 5.3399069,15.249635 10.6684341,-10e-7"
        id="path18" />
