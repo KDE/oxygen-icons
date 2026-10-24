@@ -10,22 +10,24 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <path 
+  <path
      id="circle1"
      style="opacity:1;fill:none;stroke:currentColor;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
      class="ColorScheme-Text"
      d="M 3.7047745,3.5079815 C 3.4113393,2.4070579 3.9323494,1.2510654 4.9491748,0.74696244 5.9660009,0.24285963 7.1954422,0.53104593 7.8856231,1.4352782 8.5758041,2.3395106 8.5344989,3.6079478 7.7869682,4.4648648 7.156789,5.1872583 6.1726749,5.4475828 5.2813571,5.1644047 5.0019702,5.0756414 4.620748,5.111333 4.4163562,5.3231499 2.1316656,7.6908403 1.4389437,10.638941 1.228902,13.242763 1.174582,13.91616 1.6040414,14.714386 2.2213388,14.981367 4.7840883,15.692215 8.3729637,15.506822 10,14 M 9.2771694,9.8749026 C 10,9 9.4404229,7.5925407 9.3742902,7.4691392 9.1348664,7.0223816 8.8540705,6.6043857 8.5236751,6.2199525" />
-  <path 
+  <path
      style="fill:none;fill-opacity:1;stroke:#a30000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
      d="m 10.003472,14.068426 3.063754,-3.051561 c 0.650154,-0.647566 1.760927,-0.661545 2.149707,0.164855 0.365017,0.775893 0.417681,1.613851 -0.03321,2.459039 -0.725765,1.360435 -2.253548,2.088541 -3.767046,1.795286"
      id="path3" />
-  <path 
+  <path
      id="path1"
      style="fill:none;stroke:#a30000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
      d="M 8.7014828,12.931588 C 8.4028833,11.861926 8.630799,10.734702 9.2771694,9.8749026" />
-  <path 
+  <path
      id="path4"
      style="fill:none;stroke:#a30000;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:bevel;paint-order:markers fill stroke"
      d="m 11.513529,8.5110401 c 0.994564,-0.1424711 1.977386,0.083389 2.614584,0.6178793" />

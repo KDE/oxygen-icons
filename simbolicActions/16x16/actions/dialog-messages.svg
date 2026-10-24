@@ -1,4 +1,33 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   xml:space="preserve"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><style
+       id="current-color-scheme"
+       type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g transform="matrix(.84001 0 0 .83882 -2.4402 -.95248)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".94316"><g class="ColorScheme-Text" transform="matrix(-1.2631,0,0,1.2631,30.399,3.3422)" style="stroke-width:.94316"><path transform="matrix(.88232 0 0 .88237 2.506 -1.7046)" d="m7.1396 4.7654h12.743a1.4139 1.4139 135 001.4139-1.4139l-1e-6-.38145a1.4139 1.4139 45 00-1.4139-1.4139h-11.838a2.7709 2.7709 135 00-2.7709 2.7709l1e-7 6.2246a2.7709 2.7709 45 002.7709 2.7709l7.7515-.000132c.96045-2e-6 1.8816.38154 2.5607 1.0607l1.8651 2.0032c.3917.39163 1.0614.11456 1.0619-.43934l.0089-10.283" style="paint-order:fill markers stroke;stroke-width:1.0689;stroke:#232629"/></g></g></svg>
+   </style><style
+       type="text/css"
+       id="style1">.ColorScheme-Text { color:#232629; }</style></defs><g
+     transform="matrix(.84001 0 0 .83882 -2.4402 -.95248)"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width=".94316"
+     id="g2"><g
+       class="ColorScheme-Text"
+       transform="matrix(-1.2631,0,0,1.2631,30.399,3.3422)"
+       style="stroke-width:.94316"
+       id="g1"><path
+         transform="matrix(.88232 0 0 .88237 2.506 -1.7046)"
+         d="m7.1396 4.7654h12.743a1.4139 1.4139 135 001.4139-1.4139l-1e-6-.38145a1.4139 1.4139 45 00-1.4139-1.4139h-11.838a2.7709 2.7709 135 00-2.7709 2.7709l1e-7 6.2246a2.7709 2.7709 45 002.7709 2.7709l7.7515-.000132c.96045-2e-6 1.8816.38154 2.5607 1.0607l1.8651 2.0032c.3917.39163 1.0614.11456 1.0619-.43934l.0089-10.283"
+         style="paint-order:fill markers stroke;stroke-width:1.0689;stroke:#232629"
+         id="path1" /></g></g></svg>
