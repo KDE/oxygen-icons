@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <g transform="matrix(-.99999 0 0 .99516 21.97 .011823)" style="stroke-width:1.0024">
+<g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.74091"><g style="stroke-width:.74091"><path class="ColorScheme-Text" d="m4.8229 4.7331h1.6962c.21826 0 .39398.17616.39398.39498v2.5552c0 .21882-.17571.39498-.39398.39498h-1.4295c-.21826 0-.39398-.17616-.39398-.39498v-.57073c0-.49822-.40388-.9021-.9021-.9021h-.71938c-.85819-1.45e-5-1.3334.47553-1.3258 1.3337l.01043 1.3931-.014557 4.6337c-.00282.85662.69088 1.5525 1.5475 1.5524l12.883-.0014c.61232-6.8e-5 1.1087-.49638 1.1087-1.1087l-.000577-8.9268c-5.5e-5-1.0209-.82711-1.8488-1.848-1.8498l-12.333-.012681c-.72295-.0007378-1.3164.56267-1.3601 1.2772-.00124.020334-.00204.27326-.00238.29383" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.74091;stroke:currentColor"/></g></g>
+  </g>
+<path class="ColorScheme-Text" d="m6.0138 2.7194c-3.03.068703-4.4223.31612-5.1265.76129l.08369 14.638c.01662.01512.03358.02985.050871.0442-.059331.18661 19.028.09995 20.058-.08175l.05793-15.222c-7.2585-.26644-12.094-.20885-15.124-.14015zm9.0195 1.7921h2.2941c.29529 0 .67255.23748.67255.53209v3.4395c0 .29461-.73804.53209-1.0333.53209h-1.9333c-.29529 0-.53332-.23748-.53332-.53209v-3.4395c0-.29461.23803-.53209.53332-.53209z" style="opacity:.05;stroke-width:.99997"/><path d="m2.5956 5.5h8.4018v0" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m2.5956 8.5147h5.8813" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m10.997 12.5h6.3014v0" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m10.997 15.5h4.411" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+  </g>
+</svg>
