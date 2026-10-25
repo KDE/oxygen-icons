@@ -14,7 +14,7 @@
   </defs>
   <g transform="translate(1, 1)">
     <g transform="matrix(1.0769 0 0 1.0741 -4.5566 .62807)" style="stroke-width:.92976">
-<g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.68722"><g style="stroke-width:.68722"><path class="ColorScheme-Text" d="m4.8625 9.6199v3.618c0 1.0097.81852 1.8282 1.8282 1.8282h9.2691c.69452 0 1.2575-.56308 1.2574-1.2576l-.000781-5.0675c-.000131-.85123.33347-1.6686.92914-2.2767l1.1118-1.1611m-14.395 2.8459-.0002963-3.7536a1.7158 1.7158 135 011.7158-1.7159h6.1745a1.0319 1.0319 45.011 011.0319 1.0322l-.00072 1.9531c-.000306.83007-.32908 1.6263-.91528 2.214l-1.8481 1.8526-2.8415-2.8487-1.9099 1.9148 4.7979 4.81 5.2408-5.2693m2.9501-3.0354-1.9099-1.9148-2.5837 2.5904" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.68722;stroke:currentColor"/></g></g>
+<g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.68722"><g style="stroke-width:.68722"><path class="ColorScheme-Text" d="m4.8625 9.6199v3.618c0 1.0097.81852 1.8282 1.8282 1.8282h7.8964c.69452 0 1.2575-.56308 1.2574-1.2576l-.000781-3.6912c-.00018-.85123.33347-1.6686.92914-2.2767l2.4845-2.5374m-14.395 2.8459-.0002963-3.7536a1.7158 1.7158 135 011.7158-1.7159h8.2335a.97696.97696 41.765 011.0311.92083c-.000991.83007-.32908 1.6263-.91528 2.214l-3.9071 3.9171-2.8415-2.8487-1.9099 1.9148 4.7979 4.81 3.8681-3.893m4.3228-4.4117-1.9099-1.9148-.52465.52594" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.68722;stroke:currentColor"/></g></g>
   </g>
   </g>
 </svg>

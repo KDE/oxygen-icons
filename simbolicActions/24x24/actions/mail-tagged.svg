@@ -5,10 +5,15 @@
    version="1.1"
    viewBox="0 0 24 24"
    xml:space="preserve"
-   id="svg11"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-<defs
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <defs
    id="defs5"><style
      id="current-color-scheme"
      type="text/css">.ColorScheme-Text { color:#232629; }</style><style
@@ -21,9 +26,7 @@
      type="text/css"
      id="style4">.ColorScheme-Text { color:#232629; }</style><style
      type="text/css"
-     id="style5">.ColorScheme-Text { color:#232629; }</style></defs>
-  <g transform="translate(1, 1)">
-    <path
+     id="style5">.ColorScheme-Text { color:#232629; }</style></defs><path
    class="ColorScheme-Text"
    d="m21 11.773v-6.2734l-10 6-10-6v10.5h14.109c.28836-1.7159-.04153-3.5224 1.6799-5.0284 1.3995-.27239 2.794-1.2072 4.2107.80186z"
    fill="currentColor"

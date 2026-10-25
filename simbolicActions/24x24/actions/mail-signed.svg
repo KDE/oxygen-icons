@@ -5,20 +5,22 @@
    version="1.1"
    viewBox="0 0 24 24"
    xml:space="preserve"
-   id="svg4"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <defs
    id="defs1"><style
      id="current-color-scheme"
      type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style></defs>
-  <g
-   transform="translate(1, 1)"
-   id="g4">
-    <defs
+  <defs
    id="defs2"><style
      id="style1"
      type="text/css">

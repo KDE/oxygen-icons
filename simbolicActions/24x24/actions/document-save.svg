@@ -4,43 +4,44 @@
    height="24"
    version="1.1"
    viewBox="0 0 24 24"
-   id="svg4"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs2" />
-  <g
-     transform="translate(1, 1)"
-     id="g1">
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
     <defs
-       id="defs1">
-      <style
-         id="current-color-scheme"
-         type="text/css">.ColorScheme-Text { color:#232629; }</style>
-    </defs>
-    <g
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g
+     class="ColorScheme-Text"
+     id="g4">
+    <path
        class="ColorScheme-Text"
-       id="g4">
+       d="m4.935 2.5h-.43862-.43013a1.5663 1.5663 135 00-1.5663 1.5663v13.867a1.5663 1.5663 45 001.5663 1.5663h13.867a1.5663 1.5663 135 001.5663-1.5663v-13.645a1.7892 1.7892 45 00-1.7892-1.7892h-8.1321l-1.675 3e-7a1.4037 1.4037 135 00-1.4037 1.4037v3.2512c0 .74518.59991 1.3451 1.3451 1.3451h6.3098c.74518 0 1.3451-.59991 1.3451-1.3451v-2.6549"
+       style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+       id="path1" />
+    <path
+       class="ColorScheme-Text"
+       d="m12.5 6.5v-2"
+       style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+       id="path2" />
+    <g
+       style="opacity:.31511"
+       id="g3">
       <path
          class="ColorScheme-Text"
-         d="m4.935 2.5h-.43862-.43013a1.5663 1.5663 135 00-1.5663 1.5663v13.867a1.5663 1.5663 45 001.5663 1.5663h13.867a1.5663 1.5663 135 001.5663-1.5663v-13.645a1.7892 1.7892 45 00-1.7892-1.7892h-8.1321l-1.675 3e-7a1.4037 1.4037 135 00-1.4037 1.4037v3.2512c0 .74518.59991 1.3451 1.3451 1.3451h6.3098c.74518 0 1.3451-.59991 1.3451-1.3451v-2.6549"
-         style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-         id="path1" />
-      <path
-         class="ColorScheme-Text"
-         d="m12.5 6.5v-2"
-         style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-         id="path2" />
-      <g
-         style="opacity:.31511"
-         id="g3">
-        <path
-           class="ColorScheme-Text"
-           transform="translate(.4 -.4)"
-           d="m5.1 19.4v-5.2105a1.2895 1.2895 135 011.2895-1.2895h8.7105a1 1 45 011 1v6"
-           style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
-           id="path3" />
-      </g>
+         transform="translate(.4 -.4)"
+         d="m5.1 19.4v-5.2105a1.2895 1.2895 135 011.2895-1.2895h8.7105a1 1 45 011 1v6"
+         style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"
+         id="path3" />
     </g>
+  </g>
   </g>
 </svg>
