@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+  <defs><style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs>
+  <defs><style type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs>
+  <g transform="matrix(1.1902,0,0,1.1872,-1.0893,4.5356)" style="stroke-width:.84123">
+<defs><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178"><g style="stroke-width:.62178"><path class="ColorScheme-Text" d="m4.8625 11.891v1.3471c0 1.0097.81852 1.8282 1.8282 1.8282h8.0962c.69452 0 1.2575-.56308 1.2574-1.2576l-.000781-3.003c-.000221-.85123.33347-1.6686.92914-2.2767l3.1708-3.2256m-15.281 5.5297v-8.0864c0-.41725.33825-.75549.75549-.75549h8.6169c.99782-1.21e-5 1.8069.80857 1.8075 1.8064l5.3e-5.4912c9e-5.83007-.32908 1.6263-.91528 2.214l-3.2208 3.2289-2.8415-2.8487-1.9099 1.9148 4.7979 4.81 3.1817-3.2048m5.0091-5.0999-1.9099-1.9148-1.211 1.2141" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.62178;stroke:currentColor"/></g></g>
+  </g>
+</svg>
