@@ -4,8 +4,11 @@
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
  <path class="ColorScheme-Text" d="m2.702 4.8271c-.26038-.97996.20194-2.0089 1.1042-2.4576.9023-.44871 1.9933-.19219 2.6057.61269.61244.80488.57579 1.9339-.087543 2.6967-.5592.64302-1.4325.87474-2.2234.62268-.24792-.07901-.5862-.047238-.76757.1413-2.0274 2.1075-2.642 4.7317-2.8284 7.0494-.048202.59941.33289 1.3099.88065 1.5476 2.2741.63274 4.4389.59821 6.6783 0 .18431-.07997.35169-.21366.49017-.37864.27309-.32533.42225-.77121.39048-1.1689-.195-2.4414-.60886-4.6666-1.9665-6.2512" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m10.259 2.7296c-.21567-.81676.16726-1.6744.91462-2.0484.74736-.37399 1.651-.16018 2.1583.51065.50728.67083.47692 1.6119-.072513 2.2476-.46318.53593-1.1865.72906-1.8416.51898-.20535-.065853-.48554-.039373-.63577.11777-.55355.57904-.97995 1.2049-1.3084 1.8529m2.2273 5.695c.99784.02101 1.9894-.11118 2.9993-.38264.15266-.06665.2913-.17808.406-.31558.2262-.27115.34974-.64277.32343-.97426-.16151-2.0348-.5043-3.8894-1.6288-5.2101" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
+ <path d="m12.5 1.5v7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m12.5 10.5v.24148" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
 </svg>
