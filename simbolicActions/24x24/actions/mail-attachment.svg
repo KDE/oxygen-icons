@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<defs><style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
+  <g transform="translate(1, 1)">
+    <path class="ColorScheme-Text" d="m1 9.5v10.5h3.3965c-.40897-.94171-.20061-2.0377.52539-2.7637l3.3633-3.3652zm20 1.4121c-.14626.24227-.32137.46591-.52148.66602l-8.4219 8.4219h8.9434z" style="opacity:.05"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.73913"><g style="stroke-width:.73913"><path class="ColorScheme-Text" d="m1.7608 8.3394.0001366 7.0959c5.52e-5.61233.49647 1.1087 1.1088 1.1087m8.7766 0h4.5284c.61232 0 1.1087-.49638 1.1087-1.1087l-.000286-4.3825" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"/></g></g>
+  
+<path d="m.5 18c.067201-1.3345.88258-2.5164 2.1062-3.0531l3.8938-1.9469" style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path class="ColorScheme-Text" transform="matrix(1.376,0,0,1.3725,-1.9398,-1.7076)" d="m3.236 4.5228c-.8082.0002761-1.4631.6557-1.4628 1.4639.0052576.45832.24721.88132.6396 1.1182l4.0694 2.5211m9.0969-5.4677c-.000938-1.4085-1.1431-2.5499-2.5516-2.5499h-9.0454c-.41725 0-.75549.33824-.75549.75549v4.1014" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.72764;stroke:currentColor"/><path transform="rotate(225 -8.048 4.11)" d="m-33.5 6.5v12.5a3.5 3.5 45 003.5 3.5 3.5 3.5 135 003.5-3.5v-15a2.5 2.5 45 00-2.5-2.5 2.5 2.5 135 00-2.5 2.5v11.999a1.5005 1.5005 45 001.5005 1.5005 1.5 1.5 134.98 001.4995-1.5005v-9.4995" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+  </g>
+</svg>
