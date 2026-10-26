@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <path class="ColorScheme-Text" d="m1 12.5h7m3.5285 0h9.4715" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-4.8824,-6.8824)" d="m6.935 9.1525v1.8479a1.8479 1.8479 45 001.8479 1.8479h1.1e-6a1.8479 1.8479 135 001.8479-1.8479v-1.8479 7.022a1.8479 1.8479 135 01-1.8479 1.8479h-.36958" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"/>
+ <path class="ColorScheme-Text" transform="matrix(1.3529 0 0 1.3529 3.1176 -6.8824)" d="m10.187 9.8917h-1.0321a1.481 1.481 135 00-1.481 1.481 1.4783 1.4783 44.895 001.481 1.4756h.00926a2.2055 2.2055 135 002.2055-2.2055v-1.8599a1.1087 1.1087 45 00-1.1087-1.1087l-.99301 3e-7a1.7703 1.7703 164.31 00-.92174.25888l-.30272.18461" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor"/>
+ <g transform="translate(-2.5545,11.281)">
+  <g transform="matrix(1.1902 0 0 1.1872 .9107 5.5356)" style="stroke-width:.84123">
+   <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </defs>
+   <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178"></g>
+  </g>
+ </g>
+ <path class="ColorScheme-Text" d="m18.5 10.5v-3" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+  </g>
+</svg>

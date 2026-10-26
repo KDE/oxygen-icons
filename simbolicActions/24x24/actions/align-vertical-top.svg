@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <path class="ColorScheme-Text" d="m12.5 13.5v-5.7509a1.2491 1.2491 0 011.2491-1.2491h4.5017a1.2491 1.2491 0 011.2491 1.2491v6.5017a1.2491 1.2491 0 01-1.2491 1.2491h-5.7509" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m.5 4.5h21" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <g transform="translate(-2.5545,11.281)">
+  <g transform="matrix(1.1902 0 0 1.1872 .9107 5.5356)" style="stroke-width:.84123">
+   <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </defs>
+  </g>
+ </g>
+ <path class="ColorScheme-Text" d="m4.5 6.5h3.7509a1.2491 1.2491 0 011.2491 1.2491v10.502a1.2491 1.2491 0 01-1.2491 1.2491h-4.5017a1.2491 1.2491 0 01-1.2491-1.2491v-11.751" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+  </g>
+</svg>
