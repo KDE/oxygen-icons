@@ -1,0 +1,39 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>width="32" height="32" viewBox="0 0 32 32"
+   version="1.1"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="PrePostCondition.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"&gt;
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style type="text/css">ColorScheme-Text { color:#232629; }
+     ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" transform="matrix(0 1 1 0 9.5 7.5)" d="m5 8h1.9207m4.1265 0h2.7037a1.2491 1.2491 45 011.2491 1.2491v4.5017a1.2491 1.2491 135 01-1.2491 1.2491h-2.6106m-4.2894 0h-2.6017a1.2491 1.2491 45 01-1.2491-1.2491v-5.7509" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m5 16.5h22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <g transform="translate(-2.5545 11.281)">
+  <g transform="matrix(1.1902 0 0 1.1872 .9107 5.5356)" style="stroke-width:.84123">
+   <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </defs>
+  </g>
+ </g>
+ <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 .5 28.5)" d="m9 4h3.7509a1.2491 1.2491 45 011.2491 1.2491v4.6029m0 4.305v4.5939a1.2491 1.2491 135 01-1.2491 1.2491h-4.5017a1.2491 1.2491 45 01-1.2491-1.2491v-4.5171m0-4.4827v-5.751" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+</svg>
