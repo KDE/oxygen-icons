@@ -1,0 +1,33 @@
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>width="32" height="32" viewBox="0 0 32 32"
+   version="1.1"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="PrePostCondition.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"&gt;
+ <defs>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">ColorScheme-Text { color:#232629; }
+     ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m11.5 15.5h1.9207m4.1265 0h2.7037a1.2491 1.2491 0 001.2491-1.2491v-4.5017a1.2491 1.2491 0 00-1.2491-1.2491h-2.6106m-4.2894 0h-2.6017a1.2491 1.2491 0 00-1.2491 1.2491v5.7509" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m15.5 28v-22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <g transform="translate(-2.5545 11.281)">
+  <g transform="matrix(1.1902 0 0 1.1872 .9107 5.5356)" style="stroke-width:.84123">
+   <defs>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+    <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </defs>
+  </g>
+ </g>
+ <path class="ColorScheme-Text" d="m7.5 20.5v3.7509a1.2491 1.2491 0 001.2491 1.2491h4.6029m4.305 0h4.5939a1.2491 1.2491 0 001.2491-1.2491v-4.5017a1.2491 1.2491 0 00-1.2491-1.2491h-4.5171m-4.4827 0h-5.751" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+</svg>
