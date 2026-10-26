@@ -1,13 +1,19 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-  <defs><style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg5">
+  <defs>
+    <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
-  <defs><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style></defs>
-  <g transform="matrix(.80159 0 0 .79956 -.23717 1.8707)" style="stroke-width:1.2491">
-<defs><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.92323"><g style="stroke-width:.92323"><path class="ColorScheme-Text" d="m5.7596 8.9066v1.6887a.62241.62241 135 01-.62241.62241h-.60255a.62243.62243 135 00-.62243.62241l-4.1e-6.15223v.17052c0 1.0097 1.055 1.8282 2.0647 1.8282h6.1535m3.7724-5.4913-.0022-6.5697c-.000588-.99782-.80965-1.8064-1.8075-1.8064h-9.0569c-.41725 0-1.1245.69017-1.1243 1.1074l.000292.74211h1.225a.62241.62241 45 01.62241.62241v1.5285a.62241.62241 135 01-.62241.62241h-.60253a.62241.62241 135 00-.62241.62241v3.5376" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.92323;stroke:currentColor"/></g></g>
+   </style>
+  </defs>
+  <g transform="matrix(.80159 0 0 .79956 -.23717 1.8707)" style="stroke-width:1.2491" id="g3">
+    <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.92323" id="g2">
+      <g style="stroke-width:.92323" id="g1">
+        <path class="ColorScheme-Text" d="m5.7596 8.9066v1.6887a.62241.62241 135 01-.62241.62241h-.60255a.62243.62243 135 00-.62243.62241l-4.1e-6.15223v.17052c0 1.0097 1.055 1.8282 2.0647 1.8282h6.1535m3.7724-5.4913-.0022-6.5697c-.000588-.99782-.80965-1.8064-1.8075-1.8064h-9.0569c-.41725 0-1.1245.69017-1.1243 1.1074l.000292.74211h1.225a.62241.62241 45 01.62241.62241v1.5285a.62241.62241 135 01-.62241.62241h-.60253a.62241.62241 135 00-.62241.62241v3.5376" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.92323;stroke:currentColor" id="path1" />
+      </g>
+    </g>
   </g>
-<path d="m.5 3.3966v1.347" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m.5 10.61v1.1866" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path class="ColorScheme-Text" d="m9.9528 7.4304c-.23168-.86462.17968-1.7725.9825-2.1684.80282-.3959 1.7735-.16957 2.3184.54058.54492.71015.51231 1.7063-.07789 2.3793-.49755.56734-1.2745.77179-1.9783.54939-.22059-.06971-.52158-.04168-.68295.12467-1.8039 1.8595-2.3508 3.5305-2.5166 5.1958-.042883.43068.29619.9412.78357 1.1119 2.0234.45463 3.9495.42982 5.942 0 .16399-.05746.31292-.15352.43614-.27205.24299-.23375.3757-.55412.34743-.83989-.1735-1.7542-.54173-3.353-1.7497-4.4915" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/></svg>
+  <path d="m.5 3.3966v1.347" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor" id="path3" class="ColorScheme-Text" />
+  <path d="m.5 10.61v1.1866" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor" id="path4" class="ColorScheme-Text" />
+  <path class="ColorScheme-Text" d="m9.9528 7.4304c-.23168-.86462.17968-1.7725.9825-2.1684.80282-.3959 1.7735-.16957 2.3184.54058.54492.71015.51231 1.7063-.07789 2.3793-.49755.56734-1.2745.77179-1.9783.54939-.22059-.06971-.52158-.04168-.68295.12467-1.8039 1.8595-2.3508 3.5305-2.5166 5.1958-.042883.43068.29619.9412.78357 1.1119 2.0234.45463 3.9495.42982 5.942 0 .16399-.05746.31292-.15352.43614-.27205.24299-.23375.3757-.55412.34743-.83989-.1735-1.7542-.54173-3.353-1.7497-4.4915" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor" id="path5" />
+</svg>

@@ -1,15 +1,16 @@
-<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
- </defs>
- <g transform="matrix(.8402 0 0 .83864 -2.4446 -2.7902)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".94315" style="stroke:#232629">
-  <g class="ColorScheme-Text" transform="matrix(-1.2631,0,0,1.2631,30.399,3.3422)" style="stroke-width:.94315;stroke:#232629">
-   <path transform="translate(-.7917 -.7917)" d="m2.2995 13.961-.0034208-5.808c-.00238-2.768 2.2408-5.0131 5.0088-5.0131l-4.1e-5-.00085h12.279c1.3807 0 2.4997 1.1193 2.5 2.5l.000681 6.5151c.000552 2.8419-2.3032 5.1461-5.1451 5.146l-9.1473-.00011c-.96045-2e-6-1.8816.38154-2.5607 1.0607l-1.8651 1.8651c-.3917.39163-1.0614.11456-1.0619-.43934l-.00257-3.2442" style="paint-order:fill markers stroke;stroke-width:.94315;stroke:#232629"/>
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
+  <defs>
+    <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="matrix(.8402 0 0 .83864 -2.4446 -2.7902)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".94315" style="stroke:currentColor" id="g2">
+    <g class="ColorScheme-Text" transform="matrix(-1.2631,0,0,1.2631,30.399,3.3422)" style="stroke-width:.94315;stroke:currentColor" id="g1">
+      <path transform="translate(-.7917 -.7917)" d="m2.2995 13.961-.0034208-5.808c-.00238-2.768 2.2408-5.0131 5.0088-5.0131l-4.1e-5-.00085h12.279c1.3807 0 2.4997 1.1193 2.5 2.5l.000681 6.5151c.000552 2.8419-2.3032 5.1461-5.1451 5.146l-9.1473-.00011c-.96045-2e-6-1.8816.38154-2.5607 1.0607l-1.8651 1.8651c-.3917.39163-1.0614.11456-1.0619-.43934l-.00257-3.2442" style="paint-order:fill markers stroke;stroke-width:.94315;stroke:currentColor" id="path1" class="ColorScheme-Text" />
+    </g>
   </g>
- </g>
- <path transform="matrix(.80174 0 0 .87512 -2.3139 -4.4395)" d="m13.5 18.5v.5a1.5 1.5 135 01-1.5 1.5h-1.0696a2.4304 2.4304 45 01-2.4304-2.4304v-3.1392a2.4304 2.4304 135 012.4304-2.4304h1.0696a1.5 1.5 45 011.5 1.5v.5" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1938;stroke:#232629"/>
- <path transform="matrix(.80174 0 0 .87512 5.6861 -4.4395)" d="m13.5 18.5v.5a1.5 1.5 135 01-1.5 1.5h-1.0696a2.4304 2.4304 45 01-2.4304-2.4304v-3.1392a2.4304 2.4304 135 012.4304-2.4304h1.0696a1.5 1.5 45 011.5 1.5v.5" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1938;stroke:#232629"/>
+  <path transform="matrix(.80174 0 0 .87512 -2.3139 -4.4395)" d="m13.5 18.5v.5a1.5 1.5 135 01-1.5 1.5h-1.0696a2.4304 2.4304 45 01-2.4304-2.4304v-3.1392a2.4304 2.4304 135 012.4304-2.4304h1.0696a1.5 1.5 45 011.5 1.5v.5" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1938;stroke:currentColor" id="path2" class="ColorScheme-Text" />
+  <path transform="matrix(.80174 0 0 .87512 5.6861 -4.4395)" d="m13.5 18.5v.5a1.5 1.5 135 01-1.5 1.5h-1.0696a2.4304 2.4304 45 01-2.4304-2.4304v-3.1392a2.4304 2.4304 135 012.4304-2.4304h1.0696a1.5 1.5 45 011.5 1.5v.5" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1938;stroke:currentColor" id="path3" class="ColorScheme-Text" />
 </svg>
