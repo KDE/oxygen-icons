@@ -4,18 +4,19 @@
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
  <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".81004" style="paint-order:fill markers stroke">
-   <path d="m16.994 14.253v5.0138h-12.326m-1.4285-7.8137v-9.1685h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641v2.2184" style="stroke-width:.81004"/>
+   <path d="m16.994 14.253v5.0138l-5.8873-.00024m-4.5551-.000185-3.3121-.000135v-16.982h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641v2.2184" style="stroke-width:.81004"/>
   </g>
  </g>
  <g class="ColorScheme-Text" transform="matrix(.91355 0 0 .91279 9.2619 1.3912)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.0951">
-  <path d="m2.2486 16.548-1.0585 2.1171c-.30159.60317.33829 1.2431.94146.94146l2.1171-1.0585-1.1452-1.1452" style="stroke-width:1.0951"/>
-  <path d="m5.2486 17.548-2-2 7.0545-7.0508c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332z" style="stroke-width:1.0951"/>
-  <path d="m11.57 8.2299.73455-.73455c.15702-.15703.41161-.15703.56864-1e-7l.41249.41249c.15702.15703.15702.41161 0 .56864l-.71568.71568" style="stroke-width:1.0951"/>
-  <path d="m10.524 10.284.13933.13933c.47529.47534.47529 1.246 0 1.7213" style="stroke-width:1.0951"/>
+  <path d="m-.5171 17.836-1.3205 2.6412c-.37625.75249.42204 1.5508 1.1745 1.1745l2.6412-1.3205-1.4287-1.4287" style="stroke-width:1.0951"/>
+  <path d="m3.2256 19.084-2.4951-2.4951 8.8009-8.7963c.3904-.39039 1.0233-.39039 1.4137 0l1.0814 1.0814c.39039.3904.39039 1.0233 0 1.4137z" style="stroke-width:1.0951"/>
+  <path d="m11.112 7.459.9164-.91639c.19589-.1959.51351-.1959.70942-2e-7l.51461.51461c.19589.1959.19589.51351 0 .70941l-.89286.89285" style="stroke-width:1.0951"/>
+  <path d="m9.807 10.022.17382.17382c.59295.59302.59295 1.5545 0 2.1474" style="stroke-width:1.0951"/>
  </g>
- <path d="m.59551 17.414c1.6862-.55883 5.8001-3.4382 4.5603-3.7701-2.6413-.70715-2.3067 6.2811-1.8287 5.7747.47793-.50635 1.6258-3.3341 3.4455-3.6732 1.6308-.30387-1.4766 2.9534.13217 2.6917 1.3844-.2252 2.6308-2.6516 3.976-2.8112 1.8676-.22157-2.37 3.4594-.71032 3.5047 1.745.04768 2.6388-.34306 2.6388-.34306" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
 </svg>
