@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <g class="ColorScheme-Text" transform="matrix(1.2262 0 0 1.3558 -34.317 -10.25)" style="stroke-width:.77555"><g style="stroke-width:.77555"><path class="ColorScheme-Text" transform="translate(-1.2609e-6)" d="m31.664 11.393 3.8e-5 2.1206m10.609.06087-.000234-3.6152c-3.8e-5-.69773-.5653-1.2635-1.263-1.2643l-8.4291-.00865c-.50816-.0005188-.92274.40679-.93121.91488-.0057.37975.18933.73435.51303.93299l4.1615 2.5639c.39507.24337.89403.2414 1.2872-.0051l3.9858-2.499" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.77555;stroke:currentColor"/></g></g>
+  
+<path transform="matrix(.83984 0 0 .8399 -1.5996 -4.5686)" d="m2.5 18.073v1.9246m8.5847 5.0896c3.4061 0 4.4027 1.2221 6.9876 1.2221h7.0106c1.3376 0 2.4219-1.0843 2.4219-2.4219v-5.6371c0-.82843-.67157-1.5-1.5-1.5h-2c-1.5083 1.9e-5-2.8629.92295-3.4149 2.3266-.34428.78456-1.1336 1.2786-1.9897 1.2453h-2.8644m-9.7356-3.5718h-1.7761c-.7227 2.2e-5-1.1439-.81607-.72512-1.4051l2.0013-2.8154m19.302.10075 2.0515 2.6882" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1907;stroke:#232629"/><g transform="translate(.029508 -.00048072)"><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.73913"/><path d="m3.4005 16.503 3-3m0 6-3-3h4.2798c1.9994 0 2.8074 1.4052 1.6705 3.0493-.09107.1317-.16994.24377-.23241.33029-.06229.08628-.17626.21592-.25462.2885-1.6014 1.4832-3.991 1.7593-5.8941.66032-1.9592-1.1313-2.9143-3.4376-2.3288-5.6231.58551-2.1855 2.5657-3.7052 4.8279-3.7052s4.2424 1.5197 4.8279 3.7052" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/></g>
+  </g>
+</svg>
