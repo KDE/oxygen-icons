@@ -1,1 +1,17 @@
-document-edit.svg
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="matrix(.88182 0 0 .8798 -1.6161 -1.4502)" style="stroke-width:1.5348">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1353" style="paint-order:fill markers stroke">
+   <path d="m17.142 9.4791v9.7876h-12.474m-1.1343-7.8137v-9.2364h11.244c.43197 0 .83687.11585 1.1853.31817" style="stroke-width:1.1353"/>
+  </g>
+ </g>
+ <g class="ColorScheme-Text" transform="matrix(.6518 0 0 .65127 6.7785 -3.8471)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.5348">
+  <path d="m2.2486 16.548-1.0585 2.1171c-.30159.60317.33829 1.2431.94146.94146l2.1171-1.0585-1.1452-1.1452" style="stroke-width:1.5348"/>
+  <path d="m5.2486 17.548-2-2 7.0545-7.0508c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332z" style="stroke-width:1.5348"/>
+  <path d="m11.57 8.2299.73455-.73455c.15702-.15703.41161-.15703.56864-1e-7l.41249.41249c.15702.15703.15702.41161 0 .56864l-.71568.71568" style="stroke-width:1.5348"/>
+  <path d="m10.524 10.284.13933.13933c.47529.47534.47529 1.246 0 1.7213" style="stroke-width:1.5348"/>
+ </g>
+ <path d="m.59522 12.585c1.2031-.39872 4.1382-2.4531 3.2537-2.6899-1.8845-.50455-1.6457 4.4815-1.3047 4.1202.34099-.36128 1.1599-2.3789 2.4583-2.6208 1.1635-.21681-1.0535 2.1073.0943 1.9205.98772-.16068 1.877-1.8919 2.8367-2.0058 1.3325-.15809-1.6909 2.4682-.50679 2.5006 1.245.03402 1.8827-.24477 1.8827-.24477" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+</svg>
