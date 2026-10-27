@@ -1,12 +1,78 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-     <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="document-open-remote.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="72.212417"
+     inkscape:cx="10.309861"
+     inkscape:cy="10.178305"
+     inkscape:current-layer="svg3">
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="2"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
- </defs>
- <path class="ColorScheme-Text" d="m7.5625 18.562h-4.299c-1.4269 1.3e-5-2.582-1.1606-2.5759-2.5884l-.000219 1e-4.021845-3.7833c.00437-1.0386.84704-1.8782 1.885-1.8782h3.7647c.66473 0 1.2036-.74578 1.2036-1.4109.0006669-.66445.53954-1.3401 1.2036-1.3394h10.669c1.0367 0 1.8771.84088 1.8771 1.8782l3.7e-5 2.7513 3.7e-5 3.7822c0 1.4295-1.1582 2.5884-2.5868 2.5884h-6.3505" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke;stroke-width:1.375"/>
- <path class="ColorScheme-Text" d="m.67628 11.945v-10.049c0-.66723.54057-1.2082 1.2074-1.2082h8.5101c.66684 0 1.2936.67839 1.2936 1.3457 0 .88048.79161 1.4043 1.7174 1.4043h6.1041c.9961 0 1.8036.80797 1.8036 1.8047v4.8983" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:fill markers stroke;stroke-width:1.375"/>
- <path transform="matrix(.69269 0 0 .69269 -.35154 7.1327)" d="m12.463 20.471h.97734a2.0227 2.0227 135 002.0227-2.0227 1.9855 1.9855 136.08 012.0227-1.9476h.87098m-16.856 3.9703h10.963m6.985 0h11.97" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.985;stroke:#232629"/>
+    <style
+       id="style1"
+       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m 5.5088144,13.499446 h -3.126954 c -1.0378811,9e-6 -1.8780635,-0.844075 -1.8736266,-1.882477 l -1.593e-4,7.2e-5 0.015889,-2.7514965 C 0.5271425,8.1101974 1.1400734,7.4995781 1.8950521,7.4995781 h 2.7383214 c 0.4835032,0 0.8754598,-0.5423867 0.8754598,-1.0261113 4.851e-4,-0.4832373 0.392444,-0.9746202 0.8754599,-0.9741111 H 14.14458 c 0.754061,0 1.365342,0.6115504 1.365342,1.3659664 l 2.6e-5,2.0009497 2.8e-5,2.7506972 c 0,1.039637 -0.842438,1.882477 -1.881555,1.882477 H 9.0092717"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="path1" />
+  <path
+     class="ColorScheme-Text"
+     d="M 0.5,8.6870713 V 1.3786928 C 0.5,0.89343352 0.8931932,0.50000001 1.3782238,0.50000001 h 6.1899724 c 0.485038,0 0.940923,0.49337555 0.940923,0.97869289 0,0.6403504 0.5757915,1.0213112 1.2491818,1.0213112 h 4.439925 c 0.724531,0 1.311881,0.5876158 1.311881,1.3125117 v 3.5624075"
+     fill="none"
+     stroke="currentColor"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     style="stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="path2" />
+  <path
+     d="m 6.0317594,15.5 h 0.4924235 c 0.5628433,0 1.019118,-0.456216 1.0191179,-1.018987 0.010448,-0.552324 0.466723,-0.991602 1.0191179,-0.981153 H 9.0012536 M 0.5085202,15.5 h 5.523602 m 3.5193248,0 h 5.930969"
+     style="fill:none;stroke:#232629;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.5;paint-order:markers fill stroke"
+     id="path3"
+     sodipodi:nodetypes="csccccccc" />
 </svg>
