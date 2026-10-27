@@ -1,0 +1,16 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="matrix(.80835 0 0 .80716 -1.5205 -.7111)" style="stroke-width:1.6736">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.238" style="paint-order:fill markers stroke">
+   <path d="m7.4479 8.6655-.73504.81052-1.7313 1.8465m4.9329 0-2.4665-2.657 5.43e-5 5.2072a2.4322 2.4322 135 01-2.4321 2.4322l-.083696 2e-6a2.4321 2.4321 44.999 01-2.4321-2.4321v-12.373h10.244c.92782 0 1.7124.61309 1.9709 1.4563.05861.19124.09015.43581.09015.64625" style="stroke-width:1.238"/>
+   <path d="m7.4479 6.4873v-1.2701h11.547c1.1383 0 2.061.92274 2.061 2.061v12.806h-13.608v-2.6233" style="stroke-width:1.238"/>
+   <path d="m14.854 8.9024.01627 7.465h-4.7624" style="opacity:.22766;stroke-width:1.238"/>
+  </g>
+ </g>
+</svg>
