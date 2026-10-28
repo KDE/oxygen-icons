@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <path d="m17.389 10.018c0-.11892.30737-1.1835.30737-2.6628 0-3.8217-3.3367-6.8552-7.1979-6.8552-3.9799 2.5e-7-7.2064 3.2279-7.2064 7.2098s3.2264 13.679 7.2064 13.679c2.4712 0 4.6519-3.7389 5.9502-7.5268.02108-.0615.04366-.1261.06747-.19388" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m15.015 7.5h-9.0315" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+  </g>
+</svg>
