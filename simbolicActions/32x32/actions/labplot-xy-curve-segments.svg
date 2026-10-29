@@ -1,18 +1,11 @@
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-     <style id="current-color-scheme" type="text/css">
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
- </defs>
- <path class="ColorScheme-Text" d="m5.5 4.9999v22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m7.5694 21.476 3.8568-4.9827 4.2951.0058 3.9667-5.699 5.812-2.3003" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" transform="matrix(1.0497 0 0 1 -.87288 0)" d="m7.5694 21.476 3.8568-4.9827 4.2951.0058 3.9667-5.699 5.912-2.3003-.1001 17-18 1e-4.069435-4.0237" style="fill:#232629;opacity:.2;paint-order:fill markers stroke"/>
- <path class="ColorScheme-Text" d="m27.9 25.5h-24.4" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
-</svg>
+   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style></defs><path class="ColorScheme-Text" d="m6.9207 20.738 4.3459-6.245 4.8399.0069 4.4698-6.4396 6.549-2.7316" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Text" d="m6.3611 20.738 4.5619-6.245 5.0804.0069 4.6919-6.4396 6.9929-2.7316-.1184 20.188-21.29.000119.082129-4.7782" style="fill:#232629;opacity:.2;paint-order:fill markers stroke;stroke-width:1.0246"/><path class="ColorScheme-Text" d="m4.5 5.2043v21.5" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Text" d="m28.301 25.5h-25.067" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/></svg>
