@@ -15,8 +15,8 @@
   <g transform="translate(1, 1)">
     <path
      class="ColorScheme-Text"
-     d="m2.9167 18.4 1.8853-3.3503a3.008 3.008 144.78 012.1088-1.4888l3.8089-.6587a2.3998 2.3998 139.42 001.8649-1.5975l.93545-2.7724a2.9492 2.9492 134.5 011.8026-1.8345l5.8818-2.1005"
-     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"
+     d="M 2.9167,21.4 4.802,18.0497 a 3.008,3.008 0 0 1 2.1088,-1.4888 l 3.8089,-0.6587 a 2.3998,2.3998 0 0 0 1.8649,-1.5975 l 0.93545,-2.7724 a 2.9492,2.9492 0 0 1 1.8026,-1.8345 l 5.8818,-2.1005"
+     style="fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
      id="path5" /><path
      class="ColorScheme-Text"
      d="m10.5 2.395v18.105"
@@ -31,7 +31,7 @@
      width="2.000001"
      height="3.000001"
      x="1.499999"
-     y="4.499999"
+     y="3.499999"
      rx="1.068604"
      ry="1.0686041" /><rect
      style="opacity:0.8;fill:none;stroke:#232629;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke"
@@ -39,7 +39,7 @@
      width="2.000001"
      height="3.000001"
      x="5.499999"
-     y="4.499999"
+     y="3.499999"
      rx="1.068604"
      ry="1.0686041" />
   </g>
