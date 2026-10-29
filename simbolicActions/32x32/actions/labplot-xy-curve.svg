@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" viewBox="0 0 32 32"
+   version="1.1"
+   xml:space="preserve"
+   id="svg9"
+   sodipodi:docname="labplot-xy-curve.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs5">
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style><style
+       id="current-color-scheme"
+       type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style><style
+       type="text/css"
+       id="style1">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style
+       type="text/css"
+       id="style2">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style
+       type="text/css"
+       id="style3">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style><style
+       type="text/css"
+       id="style4">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style
+       type="text/css"
+       id="style5">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style></defs><path
+     class="ColorScheme-Text"
+     d="M 6.9207092,20.738103 11.266576,14.4931 16.106453,14.5 20.576266,8.0604263 27.125311,5.3288073"
+     style="fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path5"
+     sodipodi:nodetypes="ccccc" /><path
+     class="ColorScheme-Text"
+     d="M 6.3611078,20.738103 10.922963,14.4931 16.003381,14.5 20.695232,8.0604263 27.688115,5.3288073 27.569719,25.516401 6.2792432,25.51652 6.3613722,20.738354"
+     style="opacity:0.2;fill:#232629;stroke-width:1.0246;paint-order:fill markers stroke"
+     id="path6"
+     sodipodi:nodetypes="cccccccc" /><path
+     class="ColorScheme-Text"
+     d="M 4.5,5.2043438 V 26.704131"
+     style="color:#232629;fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path7"
+     sodipodi:nodetypes="cc" /><path
+     class="ColorScheme-Text"
+     d="M 28.301447,25.5 H 3.2344325"
+     style="color:#232629;fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path8"
+     sodipodi:nodetypes="cc" /><path
+     class="ColorScheme-Text"
+     d="M 6.9207092,5.3287943 11.266576,11.5069 16.106453,11.5 m 1.995611,2.760367 2.474084,4.131095 h 6.549045"
+     style="fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="path9"
+     sodipodi:nodetypes="cccccc" /></svg>
