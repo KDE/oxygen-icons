@@ -54,9 +54,9 @@
           "default": false
         },
         {
-          "id": "symbolicActions64",
+          "id": "symbolicActions48",
           "type": "checkbox",
-          "label": "Replace 64 px action icons with symbolic icons",
+          "label": "Replace 48 px action icons with symbolic icons",
           "default": false
         }
       ]
@@ -106,12 +106,12 @@
             "operation": {"type": "omitDirectories", "directories": ["32x32/actions"]}
           },
           {
-            "when": {"control": "symbolicActions64", "equals": false},
-            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/64x64/actions"]}
+            "when": {"control": "symbolicActions48", "equals": false},
+            "operation": {"type": "omitDirectories", "directories": ["simbolicActions/48x48/actions"]}
           },
           {
-            "when": {"control": "symbolicActions64", "equals": true},
-            "operation": {"type": "omitDirectories", "directories": ["64x64/actions"]}
+            "when": {"control": "symbolicActions48", "equals": true},
+            "operation": {"type": "omitDirectories", "directories": ["48x48/actions"]}
           }
         ]
   }
