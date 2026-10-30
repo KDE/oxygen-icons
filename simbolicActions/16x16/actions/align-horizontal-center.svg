@@ -1,44 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16" height="16" viewBox="0 0 16 16"
-   version="1.1"
-   id="svg3"
-   sodipodi:docname="align-horizontal-center.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  
-  <defs
-     id="defs1">
-     <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-    <style
-       id="current-color-scheme"
-       type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-    <style
-       id="style1"
-       type="text/css">.ColorScheme-Text { color:#232629; }
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
-  </defs>
-  <path
-     class="ColorScheme-Text"
-     d="m 4.9999275,6.6071999 h 1.8405414 m 3.3949101,0 h 2.327798 c 0.5174,0 0.936836,-0.4165926 0.936836,-0.9304858 V 2.3232858 c 0,-0.5138932 -0.419436,-0.9304857 -0.936836,-0.9304857 h -2.257972 m -3.5170867,0 H 4.436821 c -0.5174001,0 -0.9368356,0.4165927 -0.9368356,0.9304857 v 4.2839886"
-     style="fill:none;stroke:currentColor;stroke-width:0.999974;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     id="path1"
-     sodipodi:nodetypes="cccssssccssc" />
-  <path
-     class="ColorScheme-Text"
-     d="M 8.500016,15.509338 V 0.4823609"
-     style="fill:none;stroke:currentColor;stroke-width:0.99997;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     id="path2" />
-  <path
-     class="ColorScheme-Text"
-     d="m 14.500018,13.162896 v -2.747843 c 0,-0.5053788 -0.450997,-0.915069 -1.007329,-0.915069 h -3.311978 m -3.3686622,0 H 2.5073285 C 1.9509962,9.499984 1.5,9.9096744 1.5,10.415053 v 3.297866 c 0,0.505379 0.4509962,0.915069 1.0073285,0.915069 h 4.2427856 m 3.5119679,0 h 4.237856"
-     style="fill:none;stroke:currentColor;stroke-width:0.999962;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     id="path3"
-     sodipodi:nodetypes="cssccssssccc" />
+  <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4.9999 6.5h1.8405m3.3949 0h2.3278c.5174 0 .93684-.41659.93684-.93049v-3.139c0-.51389-.41944-.93049-.93684-.93049h-2.258m-3.5171 0h-2.3513c-.5174 0-.93684.41659-.93684.93049v4.0696" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m8.5 15.509v-15.027" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m14.5 13.163v-2.7478c0-.50538-.451-.91507-1.0073-.91507h-3.312m-3.3687 0h-4.3047c-.55633 0-1.0073.40969-1.0073.91507v3.2979c0 .50538.451.91507 1.0073.91507h4.2428m3.512 0h4.2379" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99996;stroke:currentColor"/>
 </svg>
