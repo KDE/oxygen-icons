@@ -1,0 +1,13 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m9.5001 9.9445v-4.473a.89222.97154 0 01.89222-.97154h3.2155a.89222.97154 0 01.89222.97154v5.057a.89222.97154 0 01-.89222.97154h-4.1078" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m.48485 2.5h15.03" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m2.9285 4.5h2.6793a.89223.86475 0 01.89223.86475v7.2705a.89223.86475 0 01-.89223.86475h-3.2156a.89223.86475 0 01-.89223-.86475v-8.1352" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99998;stroke:currentColor"/>
+</svg>
