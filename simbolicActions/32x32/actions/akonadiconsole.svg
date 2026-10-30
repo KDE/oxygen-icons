@@ -3,16 +3,9 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
- <g transform="matrix(1.1902,0,0,1.1872,3.9107,5.5356)" style="stroke-width:.84123">
-  <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178">
-   <g style="stroke-width:.62178">
-    <path class="ColorScheme-Text" d="m1.7574 11.33-6.8e-6.29976v.36222c0 1.0097.81851 1.8282 1.8282 1.8282h8.6864l3.7724.00066-.0022-10.024c-.000588-.99782-.80965-1.8064-1.8075-1.8064h-11.722c-.41725 0-.75549.33825-.75549.75549l.000312 1.1129m0 1.2448v4.981" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.62178;stroke:currentColor"/>
-   </g>
-  </g>
- </g>
- <path d="m23.444 14.984a6.6465 6.6465 0 01-3.0177 6.4642 6.6465 6.6465 0 01-7.1338.0077 6.6465 6.6465 0 01-3.0316-6.4576" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
- <path d="m21.007 12.789a6.6465 2.3357 0 011.1768 3.2185 6.6465 2.3357 0 01-9.112.52572 6.6465 2.3357 0 01-1.8134-3.1818" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
- <path d="m11.653 15.27c-.1201-1.9161.82323-3.7429 2.455-4.7544-1.8173 1.1323.88152 6.0297 2.7451 6.4325" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
- <path d="m13.56 11.989a4.5768 4.5768 0 015.3198-.92597 4.5768 4.5768 0 012.4995 4.7865" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
- <path d="m14.108 10.515c.29849-.18088.78992-.22682 1.35.29272" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m4.5741 13.5c0 .57743-.0072 1.5323.0014 2.0854.05987 3.8248 2.0227 7.4168 5.3004 9.5126 3.7517 2.3987 8.5483 2.4039 12.305.01332 3.2996-2.0997 5.2736-5.7144 5.3218-9.5617" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m23.2 10.118a11.465 4.0406 0 012.0299 5.5678 11.465 4.0406 0 01-15.717.90946 11.465 4.0406 0 01-3.1279-5.5043" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m7.0549 13.476c.12104-2.965 1.6961-5.706 4.2448-7.2905-3.1347 1.9588 1.5205 10.431 4.735 11.128" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m11.493 7.7557c2.3302-1.645 5.4126-1.9232 8.0376-.62338 2.6529 1.3136 4.3141 3.9791 4.3968 6.8698" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m11.3 6.1842c.51487-.31291 1.3625-.39238 2.3286.50639" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
 </svg>
