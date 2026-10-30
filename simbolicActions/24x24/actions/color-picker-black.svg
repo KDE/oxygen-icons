@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <path transform="rotate(225 8.0254 12.523)" d="m8 20.828h-.79614 2.7961l-.29289.29289a2.4142 2.4142 112.5 00-.70711 1.7071v2a2 2 135 01-2 2 2 2 45 01-2-2v-2.0613a2.2661 2.2661 67.5 00-.66373-1.6024l-.33627-.33627h1" style="fill:#232629;opacity:.2;paint-order:markers fill stroke"/><path d="m6.1688 13-1.5383 1.5383c-.31518.31561-.4922.74342-.49219 1.1895v.02149c1.16e-5.44604-.17701.87384-.49219 1.1895l-.92188.92188c-.39042.39051-.39042 1.0236-1e-7 1.4141.39051.39042 1.0236.39042 1.4141 0l.92187-.92188c.31561-.31518.74342-.4922 1.1895-.49219h.019531c.44699 1.2e-5.87563-.17777 1.1914-.49414l4.3664-4.3664z" style="paint-order:markers fill stroke"/><path transform="rotate(225 8.0254 12.523)" d="m8 20.828h-.79614a2.2039 2.2039 45 01-2.2039-2.2039v-9.9273a1.6832 1.6832 112.5 01.49301-1.1902l.013978-.013978a1.6832 1.6832 112.5 00.49301-1.1902v-1.3028a1 1 135 011-1 1 1 45 011 1v1.3028a1.6832 1.6832 67.5 00.49301 1.1902l.013978.013978a1.6832 1.6832 67.5 01.49301 1.1902v11.131a1 1 45 001 1h.70711l-.84425.49455a1.7447 1.7447 119.82 00-.86286 1.5054v2a2 2 135 01-2 2 2 2 45 01-2-2v-1.2762a3.0076 3.0076 60.181 00-1.4874-2.5951l-.21971-.1287" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m20.5 19.142v.28897c0 .59201-.4766 1.0686-1.0686 1.0686h-3.8628c-.59201 0-1.0686-.4766-1.0686-1.0686v-3.8628c0-.59201.4766-1.0686 1.0686-1.0686h3.8628c.59201 0 1.0686.4766 1.0686 1.0686v1.9028" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m19 18.321v.14448c0 .296-.2383.5343-.5343.5343h-1.9314c-.296 0-.5343-.2383-.5343-.5343v-1.9314c0-.296.2383-.5343.5343-.5343h1.9314c.296 0 .5343.2383.5343.5343v.95139" style="paint-order:markers fill stroke"/>
+  </g>
+</svg>
