@@ -13,7 +13,12 @@
    </style>
   </defs>
   <g transform="translate(1, 1)">
-    <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
+    <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="fill:#232629;opacity:.1;stroke-width:1.0951">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".81004" style="fill:#232629;paint-order:fill markers stroke">
+   <path d="m3.2395 19.266v-16.982h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641l-6e-4 14.618z" style="fill:#232629;stroke-width:.81004"/>
+  </g>
+ </g>
+ <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".81004" style="paint-order:fill markers stroke">
    <path d="m3.2395 19.266v-16.982h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641l-6e-4 14.618z" style="stroke-width:.81004"/>
   </g>
