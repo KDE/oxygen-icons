@@ -1,1 +1,16 @@
-document-edit.svg
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m8.8996 14.5h-1.3963c-1.1066 0-2.0036.89707-2.0036 2.0036.002 1.1046.89908 1.9984 2.0036 1.9963h.01253c1.648 0 2.9838-1.3359 2.9838-2.9838v-2.5163c0-.82841-.67155-1.5-1.5-1.5 0 0-1.2066 1e-6-1.8625 1e-6-.5757 0-.93063.30138-1.1374.6" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m10.5 18.5v-3" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path d="m19 26.5h.76131a1.7387 1.7387 135 001.7387-1.7387v-19.909a1.4524 1.4524 45 00-1.4524-1.4524h-.89516a0 0 0 010 0h4.6442m-2.2967 3.1h5.5c1.385 0 2.5 1.115 2.5 2.5v11.048c0 1.385-1.115 2.5-2.5 2.5l-3.7614-.03254a1.7237 1.7237 135.25 00-1.7386 1.7237v.52261a1.7387 1.7387 45 001.7387 1.7387h.26131m-3.9098-3.9524h-14.59c-1.385 0-2.5-1.115-2.5-2.5v-11.048c0-1.385 1.115-2.5 2.5-2.5h14.926" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path class="ColorScheme-Text" d="m15.1 13.5h1.3963c1.1066 0 2.0036.99719 2.0036 2.5036-.0023 1.294-.89908 2.4984-2.0036 2.4963h-.01253c-1.648 0-2.9838-1.3359-2.9838-2.9838v-6.5163" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m13.5 18.5v-3" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path d="m4.5 6c-1.385 0-2.5 1.115-2.5 2.5v12c0 1.385 1.115 2.5 2.5 2.5h15.5v-16.5c0-.17133.016302-.33853.048828-.5h-15.549z" style="fill:#232629;opacity:.1;paint-order:markers fill stroke"/>
+</svg>
