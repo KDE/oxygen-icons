@@ -6,8 +6,10 @@
    </style>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
- <path class="ColorScheme-Text" d="m12.5 10.5h-5.7509a1.2491 1.2491 0 01-1.2491-1.2491v-4.5017a1.2491 1.2491 0 011.2491-1.2491h6.5017a1.2491 1.2491 0 011.2491 1.2491v5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m3.4999 22.5v-21" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m5.4999 18.5v-3.7509a1.2491 1.2491 0 011.2491-1.2491h10.502a1.2491 1.2491 0 011.2491 1.2491v4.5017a1.2491 1.2491 0 01-1.2491 1.2491h-11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m12.5 9.5h-5.7509a1.2491 1.2491 0 01-1.2491-1.2491v-4.5017a1.2491 1.2491 0 011.2491-1.2491h6.5017a1.2491 1.2491 0 011.2491 1.2491v5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m3.4999 21.5v-21" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m5.4999 17.5v-3.7509a1.2491 1.2491 0 011.2491-1.2491h10.502a1.2491 1.2491 0 011.2491 1.2491v4.5017a1.2491 1.2491 0 01-1.2491 1.2491h-11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
 </svg>
