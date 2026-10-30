@@ -1,0 +1,29 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="matrix(1.3813 0 0 1.3778 3.0253 1.4123)" style="stroke-width:.97997">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72488" style="paint-order:fill markers stroke">
+   <path d="m3.2395 18.934v-16.65h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641l-6e-4 14.287z" style="stroke-width:.72488"/>
+  </g>
+ </g>
+ <g transform="matrix(1.3813 0 0 1.3778 3.0253 1.4123)" style="fill:#232629;opacity:.1;stroke-width:.97997">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72488" style="fill:#232629;paint-order:fill markers stroke">
+   <path d="m3.2395 18.934v-16.65h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641l-6e-4 14.287z" style="fill:#232629;stroke-width:.72488"/>
+  </g>
+ </g>
+ <path d="m10.404 7.5h9.6923" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m10.5 9.5h8.6" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m10.5 14.5h12" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m10.5 16.5h5.8229" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m10.5 21.5h12" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m10.5 23.5h8.6" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+</svg>
