@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <g transform="translate(1, 1)">
+    <path class="ColorScheme-Text" d="m2 6c-.554 0-1 .446-1 1v12c0 .554.446 1 1 1h10.25c-.16809-.45877-.26169-.94494-.26172-1.4414v-3.8281c-8e-6-.65126.11182-1.3006.32227-1.9141l-2.8906 2.8906a1.0001 1.0001 0 01-.71484.29297l-2.7129-.021484a1.0001 1.0001 0 01-.99219-1v-2.75a1.0001 1.0001 0 01.29297-.70703l.14648-.14648c1.8899-1.8895 3.9319-3.9317 5.375-5.375h-8.8145zm16.766.36133-2.9062 2.9062c.53429-.17513 1.0938-.26759 1.6543-.26758a1.4619 1.5164 0 01.003906 0c.5009.0017172 1.0011.077869 1.4824.2207v-2.2207c0-.24441-.089784-.46533-.23438-.63867zm-15.266.63867h4c.277 0 .5.223.5.5s-.223.5-.5.5h-4c-.277 0-.5-.223-.5-.5s.223-.5.5-.5z" style="fill:currentColor;opacity:.1"/><path class="ColorScheme-Text" d="m17.449 10.828c2.0825.0015 3.7635 1.6595 3.7635 3.713v3.9599c0 1.6461-1.3464 2.9735-3.0161 2.9735h-1.392c-1.6697 0-3.0161-1.3274-3.0161-2.9735v-3.9599c-1e-6-.000434-1e-6-.000866 0-.0013-1e-6-.000433-1e-6-.000865 0-.0013-1e-6-.000433-1e-6-.000865 0-.0013-1e-6-.000432-1e-6-.000864 0-.0013-.02726-2.0243 1.6078-3.6795 3.6607-3.7078zm.05139.9981c-.18638 0-.33746.14895-.33746.3327v2.9943c0 .18374.15109.3327.33746.3327.18638 0 .33746-.14896.33746-.3327v-2.9943c0-.18374-.15109-.3327-.33746-.3327z" style="fill:currentColor;opacity:.1"/><path d="m11.196 5.5h-8.9181c-.98184 0-1.7778.79594-1.7778 1.7778v11.444c0 .98184.79594 1.7778 1.7778 1.7778h9.6386m7.5836-11.18v-2.042c0-.49092-.19898-.93536-.5207-1.2571" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m3 7.5h5" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path transform="translate(-1)" d="m7.8536 12.146 10.146-10.146a1.4142 1.4142 0 012 0 1.4142 1.4142 90 010 2l-10.146 10.146a1.2071 1.2071 157.5 01-.85355.35355h-1.5v-1.5a1.2071 1.2071 112.5 01.35355-.85355z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke:#232629"/><path transform="matrix(.62301 0 0 .6462 23.419 8.5771)" d="m-9.4786 3a6.5 6.5 45.189 016.4786 6.5214v5.9233a4.5256 4.5256 135 01-4.5256 4.5256h-3.9487a4.5256 4.5256 45 01-4.5256-4.5256v-5.9233a6.5214 6.5214 135 016.5214-6.5214z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-width:1.576;stroke:#232629"/><path d="m17.5 11.847v3.327" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke:#232629"/><path d="m8.4 12.6.3-.3" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke:#232629"/>
+  </g>
+</svg>
