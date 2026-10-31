@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style></defs>
-<rect class="ColorScheme-Highlight" x="6.5" y="6.5" width="3" height="3" rx="0.6" fill="none" stroke="currentColor" stroke-width="1"/>
-<path class="ColorScheme-Text" d="M8 5V.5M5.5 3 8 .5 10.5 3" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
-<path class="ColorScheme-Text" d="M8 11V15.5M5.5 13 8 15.5 10.5 13" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="ColorScheme-Text" d="M5 8H.5M3 5.5 .5 8 3 10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
-<path class="ColorScheme-Text" d="M11 8H15.5M13 5.5 15.5 8 13 10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+  </defs>
+  <rect class="ColorScheme-Highlight" x="5.500001" y="5.500001" width="3.999999" height="3.999999" rx="0.60000002" fill="none" stroke="currentColor" stroke-width="1" id="rect1" ry="0.60000002"/>
+  <path class="ColorScheme-Text" d="M 7.5,3.5 V 0.6 M 5.4,2.6714286 7.5,0.6 9.6,2.6714286" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" id="path1"/>
+  <path class="ColorScheme-Text" d="M 7.5,10.5 V 15 M 5,12.5 7.5,15 10,12.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path class="ColorScheme-Text" d="m 3.5,7.5 h -3 M 2.6428572,5.3333333 0.5,7.5 2.6428572,9.6666667" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" id="path3"/>
+  <path class="ColorScheme-Text" d="m 11.5,7.5 h 3 M 12.357143,5.3333333 14.5,7.5 12.357143,9.6666667" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" id="path4"/>
 </svg>
