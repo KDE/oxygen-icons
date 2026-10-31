@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
-<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style></defs>
-<rect class="ColorScheme-Text" x="0.5" y="1.5" width="15" height="13" rx="1.5" fill="none" stroke="currentColor" stroke-width="1"/>
-<path class="ColorScheme-Text" d="M7.5 1.5V14.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="ColorScheme-Text" d="M5.5 6.5A2 2 0 1 0 6 8.5H4Z" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="ColorScheme-Text" d="M10.5 12.5V11.5Q10.5 10.5 11.5 10.5M12.5 12.5V8.5Q12.5 7.5 13.5 7.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+  </defs>
+  <path id="rect1" class="ColorScheme-Text" style="fill:none;stroke-linecap:round" d="M 7.5,1.5 H 14 c 0.831,0 1.5,0.669 1.5,1.5 v 10 c 0,0.831 -0.669,1.5 -1.5,1.5 H 9 m -1.5,0 H 2 C 1.169,14.5 0.5,13.831 0.5,13 V 3 C 0.5,2.169 1.169,1.5 2,1.5 h 4" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M7.5 1.5V14.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+  <path class="ColorScheme-Text" d="M5.5 6.5A2 2 0 1 0 6 8.5H4Z" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path class="ColorScheme-Text" d="m 9.5,12.5 v -1 c 0,-0.666667 0.3333333,-1 1,-1 m 2,2 v -4 c 0,-0.6666667 0.333333,-1 1,-1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
 </svg>
