@@ -1,12 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1">
- <defs>
-     <style id="current-color-scheme" type="text/css">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg14">
+  <defs id="defs6">
+    <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  
- <mask id="star-clearance" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32" style="mask-type:luminance"><rect x="0" y="0" width="32" height="32" fill="white"/><path d="M 6.5000001,9.0000001 V 6" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/><path d="M 5,7.5000001 H 8.0000001" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/><path d="M 13.5,7.1889821 V 5.8110178" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/><path d="m 12.811018,6.5 h 1.377964" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/><path d="M 9.5,13.50002 V 11.49998" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/><path d="m 8.49998,12.5 h 2.00004" stroke="black" fill="none" stroke-width="3" stroke-linecap="round"/></mask></defs>
- <g mask="url(#star-clearance)"><path d="m19 26.5h.76131a1.7387 1.7387 135 001.7387-1.7387v-19.909a1.4524 1.4524 45 00-1.4524-1.4524h-.89516a0 0 0 010 0h4.6442m-2.2967 3.1h5.5c1.385 0 2.5 1.115 2.5 2.5v11.048c0 1.385-1.115 2.5-2.5 2.5l-3.7614-.03254a1.7237 1.7237 135.25 00-1.7386 1.7237v.52261a1.7387 1.7387 45 001.7387 1.7387h.26131m-3.9098-3.9524h-14.59c-1.385 0-2.5-1.115-2.5-2.5v-11.048c0-1.385 1.115-2.5 2.5-2.5h14.926" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
- <path d="m4.5 6c-1.385 0-2.5 1.115-2.5 2.5v12c0 1.385 1.115 2.5 2.5 2.5h15.5v-16.5c0-.17133.016302-.33853.048828-.5h-15.549z" style="opacity:.1;paint-order:markers fill stroke" fill="currentColor" class="ColorScheme-Text"/>
-</g><g><path class="ColorScheme-Highlight" d="M 6.5000001,9.0000001 V 6" style="fill:none;stroke-width:0.999957;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="M 5,7.5000001 H 8.0000001" style="fill:none;stroke-width:0.999957;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="M 13.5,7.1889821 V 5.8110178" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="m 12.811018,6.5 h 1.377964" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="M 9.5,13.50002 V 11.49998" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="m 8.49998,12.5 h 2.00004" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/></g></svg>
+    <mask id="star-clearance" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32" style="mask-type:luminance">
+      <rect x="0" y="0" width="32" height="32" fill="white" id="rect1"/>
+      <path d="M 6.5000001,9.0000001 V 6" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path1"/>
+      <path d="M 5,7.5000001 H 8.0000001" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path2"/>
+      <path d="M 13.5,7.1889821 V 5.8110178" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path3"/>
+      <path d="m 12.811018,6.5 h 1.377964" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path4"/>
+      <path d="M 9.5,13.50002 V 11.49998" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path5"/>
+      <path d="m 8.49998,12.5 h 2.00004" stroke="black" fill="none" stroke-width="3" stroke-linecap="round" id="path6"/>
+    </mask>
+  </defs>
+  <g mask="url(#star-clearance)" id="g8">
+    <path d="m 19,26.5 h 0.76131 c 0.960257,0 1.7387,-0.778443 1.7387,-1.7387 V 4.8523 c 0,-0.8021384 -0.650262,-1.4524 -1.4524,-1.4524 h -0.89516 4.6442 m -2.2967,3.1 h 5.5 c 1.385,0 2.5,1.115 2.5,2.5 v 11.048 c 0,1.385 -1.115,2.5 -2.5,2.5 l -3.7614,-0.03254 c -0.957787,-0.0083 -1.738636,0.765877 -1.7386,1.7237 v 0.52261 c 0,0.960257 0.778443,1.7387 1.7387,1.7387 h 0.26131 m -3.9098,-3.9524 h -14.59 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -11.048 c 0,-0.7013068 0.285885,-1.3333858 0.7479488,-1.7865308 M 9.2603362,6.49997 h 1.5166298 m 5.476806,0 h 3.672388" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
+    <path d="m4.5 6c-1.385 0-2.5 1.115-2.5 2.5v12c0 1.385 1.115 2.5 2.5 2.5h15.5v-16.5c0-.17133.016302-.33853.048828-.5h-15.549z" style="opacity:.1;paint-order:markers fill stroke" fill="currentColor" class="ColorScheme-Text" id="path8"/>
+  </g>
+  <g id="g14">
+    <path class="ColorScheme-Highlight" d="M 6.5000001,9.0000001 V 6" style="fill:none;stroke-width:0.999957;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path9"/>
+    <path class="ColorScheme-Highlight" d="M 5,7.5000001 H 8.0000001" style="fill:none;stroke-width:0.999957;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path10"/>
+    <path class="ColorScheme-Highlight" d="M 13.5,7.1889821 V 5.8110178" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path11"/>
+    <path class="ColorScheme-Highlight" d="m 12.811018,6.5 h 1.377964" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path12"/>
+    <path class="ColorScheme-Highlight" d="M 9.5,13.50002 V 11.49998" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path13"/>
+    <path class="ColorScheme-Highlight" d="m 8.49998,12.5 h 2.00004" style="fill:none;stroke-width:0.99996;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path14"/>
+  </g>
+</svg>
