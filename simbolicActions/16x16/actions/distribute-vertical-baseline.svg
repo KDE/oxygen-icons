@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g stroke="currentColor">
+  <path class="ColorScheme-Text" d="m3.4723 8.3985v2.0746c0 1.1458.90165 2.0746 2.0139 2.0746h1.2e-6c1.1122 0 2.0139-.92885 2.0139-2.0746v-2.0746 5.0269c0 1.1458-.90165 2.0746-2.0139 2.0746h-.40277" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m6.2111 2.4895h-1.1248c-.89138 0-1.614.74441-1.614 1.6627.00164.9166.72424 2.1583 1.614 2.1566h.010093c1.3275 5e-7 2.4036-1.1086 2.4036-2.4761v-2.0882c0-.68747-.54098-1.2448-1.2083-1.2448l-1.0822 3.4e-7c-.3544-1.68e-6-.70195.10056-1.0045.29065l-.32991.20726" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m7.5 6.3089v-2.4896" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+  <path d="m13.493 12.885c0-.21261-.16805-.38496-.37534-.38496h-3.2348c-.21532 0-.38988.17903-.38988.39987m4-6.785c0 .21261-.16805.38496-.37534.38496h-3.2348c-.21532 0-.38988-.17903-.38988-.39987m2 6.4v-5.2789" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99999" stroke="currentColor"/>
+ </g>
+</svg>
