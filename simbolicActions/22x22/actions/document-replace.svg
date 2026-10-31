@@ -1,10 +1,11 @@
-<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1">
  <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  
  </defs>
  <g transform="matrix(1.1377 0 0 1.136 -1.3438 -1.2044)" style="stroke-width:1.1892">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".87964" style="paint-order:fill markers stroke">

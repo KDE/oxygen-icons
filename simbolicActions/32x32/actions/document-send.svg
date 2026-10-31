@@ -1,19 +1,8 @@
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
-  <g transform="matrix(1.1902,0,0,1.1872,1.9107,3.5356)" style="stroke-width:.84123">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve"><g transform="matrix(1.1902,0,0,1.1872,1.9107,3.5356)" style="stroke-width:.84123">
 <defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178"><g style="stroke-width:.62178"><path class="ColorScheme-Text" d="m7.7335 16.311c1.1526-2e-6 2.2632-.43284 3.1119-1.2128l3.6215-3.3283" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.62178;stroke:currentColor"/></g></g>
+   </style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178"><g style="stroke-width:.62178"><path class="ColorScheme-Text" d="m7.7335 16.311c1.1526-2e-6 2.2632-.43284 3.1119-1.2128l3.6215-3.3283" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.62178" stroke="currentColor"/></g></g>
   </g>
-<g transform="matrix(1.1902,0,0,1.1872,1.9107,5.5356)" style="stroke-width:.84123">
-<defs><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
-  </g><path d="m18.5 26.519v3.5738l1.4035-1.8225m.54983-2.7055 2.946 2.946c.30458.30458.82484.16279.93276-.25422l3.4007-13.141c.06888-.26618-.21964-.48196-.45551-.34067l-13.729 8.2246c-.2345.14048-.1349.50056.13846.50056h1.8131" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><g transform="translate(.00049841 5.8033e-5)"><g transform="translate(31.766,-20.315)"><g transform="matrix(1.1902,0,0,1.1872,3.9107,5.5356)" style="stroke-width:.84123"/></g><g transform="translate(1.3103e-8 -.060279)"><g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke"><path d="m8.1342 19.31-3.7864.000645c-.61233.000104-1.1087-.4964-1.1087-1.1087l.0002698-15.917h11.68c1.3057 0 2.3641 1.0584 2.3641 2.3641l-1e-6 4.6681" style="stroke-width:.73971"/></g></g></g><g transform="translate(-5,-1.9994)"><g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)"/></g></g></svg>
+<path d="m18.5 26.519v3.5738l1.4035-1.8225m.54983-2.7055 2.946 2.946c.30458.30458.82484.16279.93276-.25422l3.4007-13.141c.06888-.26618-.21964-.48196-.45551-.34067l-13.729 8.2246c-.2345.14048-.1349.50056.13846.50056h1.8131" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><g transform="translate(.00049841 5.8033e-5)"><g transform="translate(1.3103e-8 -.060279)"><g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke"><path d="m8.1342 19.31-3.7864.000645c-.61233.000104-1.1087-.4964-1.1087-1.1087l.0002698-15.917h11.68c1.3057 0 2.3641 1.0584 2.3641 2.3641l-1e-6 4.6681" style="stroke-width:.73971"/></g></g></g></g></svg>

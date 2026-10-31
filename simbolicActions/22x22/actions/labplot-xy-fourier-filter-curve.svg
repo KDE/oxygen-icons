@@ -1,35 +1,9 @@
-<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </style>
 
   
 
-  </defs><path class="ColorScheme-Text" d="m21.567 8.486h-21.134" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Text" d="m11.5 2.395v18.105" style="color:#232629;opacity:.5;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Text" d="m2.5 2.395v18.105" style="color:#232629;opacity:.5;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Highlight" d="m2.5 7.2165s1.5 7 4 7c2.222 0 3.103-3.4133 3.9673-6.8691.33559-1.3418.66866-2.69 1.0767-3.8474" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99996;stroke:currentColor"/><path d="m13.5 11.5h8l-3 4v4l-2 2v-6z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/></svg>
+  </defs><path class="ColorScheme-Text" d="m21.567 8.486h-21.134" style="color:#232629;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/><path class="ColorScheme-Text" d="m11.5 2.395v18.105" style="color:#232629;opacity:.5;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/><path class="ColorScheme-Text" d="m2.5 2.395v18.105" style="color:#232629;opacity:.5;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/><path class="ColorScheme-Highlight" d="m2.5 7.2165s1.5 7 4 7c2.222 0 3.103-3.4133 3.9673-6.8691.33559-1.3418.66866-2.69 1.0767-3.8474" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99996" stroke="currentColor"/><path d="m13.5 11.5h8l-3 4v4l-2 2v-6z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/></svg>

@@ -1,8 +1,9 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
   
 <defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
+   </style></defs>
   
-<path transform="matrix(-.60908 -.60861 .60908 -.60861 -17.357 -2.0786)" d="m-33.5 6.5v12.5a3.5 3.5 45 003.5 3.5 3.5 3.5 135 003.5-3.5v-15a2.5 2.5 45 00-2.5-2.5 2.5 2.5 135 00-2.5 2.5v11.999a1.5005 1.5005 45 001.5005 1.5005 1.5 1.5 134.98 001.4995-1.5005v-9.4995" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1614;stroke:#232629"/></svg>
+<path transform="matrix(-.60908 -.60861 .60908 -.60861 -17.357 -2.0786)" d="m-33.5 6.5v12.5a3.5 3.5 45 003.5 3.5 3.5 3.5 135 003.5-3.5v-15a2.5 2.5 45 00-2.5-2.5 2.5 2.5 135 00-2.5 2.5v11.999a1.5005 1.5005 45 001.5005 1.5005 1.5 1.5 134.98 001.4995-1.5005v-9.4995" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1614" stroke="currentColor" class="ColorScheme-Text"/></svg>

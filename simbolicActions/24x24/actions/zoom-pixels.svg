@@ -1,113 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
-     <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg8">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g transform="translate(1, 1)">
-    <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path
-     class="ColorScheme-Text"
-     transform="matrix(.6547 -.6547 .6547 .6547 -8.8354 14.079)"
-     d="m16.501 24.934-.000886 2.0879c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-2.3422c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l8.2e-5-1.2959c3.4e-5-.53245.4328-.95935.96276-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497"
-     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801;stroke:currentColor"
-     id="path1" />
-  <g
-     transform="translate(-5,-4)"
-     id="g8">
-    <rect
-       class="ColorScheme-Text"
-       x="17"
-       y="16"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;paint-order:markers fill stroke"
-       id="rect1" />
-    <rect
-       class="ColorScheme-Text"
-       x="17"
-       y="12"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.5;paint-order:markers fill stroke"
-       id="rect2" />
-    <rect
-       class="ColorScheme-Text"
-       x="13"
-       y="16"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.5;paint-order:markers fill stroke"
-       id="rect3" />
-    <rect
-       class="ColorScheme-Text"
-       x="13"
-       y="12"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-       id="rect4" />
-    <rect
-       class="ColorScheme-Text"
-       x="9"
-       y="16"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-       id="rect5" />
-    <rect
-       class="ColorScheme-Text"
-       x="17"
-       y="8"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.3;paint-order:markers fill stroke"
-       id="rect6" />
-    <rect
-       class="ColorScheme-Text"
-       x="13"
-       y="8"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.1;paint-order:markers fill stroke"
-       id="rect7" />
-    <rect
-       class="ColorScheme-Text"
-       x="9"
-       y="12"
-       width="4"
-       height="4"
-       rx=".54438"
-       ry=".54438"
-       style="fill:currentColor;opacity:.1;paint-order:markers fill stroke"
-       id="rect8" />
+  <g transform="translate(1,1)"><path class="ColorScheme-Text" transform="matrix(.6547 -.6547 .6547 .6547 -8.8354 14.079)" d="m16.501 24.934-.000886 2.0879c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-2.3422c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l8.2e-5-1.2959c3.4e-5-.53245.4328-.95935.96276-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0801" id="path1" stroke="currentColor"/>
+  <g transform="translate(-5,-4)" id="g8">
+    <rect class="ColorScheme-Text" x="17" y="16" width="4" height="4" rx=".54438" ry=".54438" style="paint-order:markers fill stroke" id="rect1" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="17" y="12" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.5;paint-order:markers fill stroke" id="rect2" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="13" y="16" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.5;paint-order:markers fill stroke" id="rect3" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="13" y="12" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.3;paint-order:markers fill stroke" id="rect4" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="9" y="16" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.3;paint-order:markers fill stroke" id="rect5" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="17" y="8" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.3;paint-order:markers fill stroke" id="rect6" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="13" y="8" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.1;paint-order:markers fill stroke" id="rect7" fill="currentColor"/>
+    <rect class="ColorScheme-Text" x="9" y="12" width="4" height="4" rx=".54438" ry=".54438" style="opacity:.1;paint-order:markers fill stroke" id="rect8" fill="currentColor"/>
   </g>
-  </g>
-</svg>
+</g></svg>

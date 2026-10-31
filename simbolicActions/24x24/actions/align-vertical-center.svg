@@ -1,14 +1,12 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg3">
   <defs>
     <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
   </defs>
-  <g transform="translate(1, 1)">
-    <path class="ColorScheme-Text" transform="matrix(0 1 1 0 4.5 2.5)" d="m5 8h1.9207m4.1265 0h2.7037a1.2491 1.2491 45 011.2491 1.2491v4.5017a1.2491 1.2491 135 01-1.2491 1.2491h-2.6106m-4.2894 0h-2.6017a1.2491 1.2491 45 01-1.2491-1.2491v-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path1" />
-    <path class="ColorScheme-Text" d="m1 11.5h20" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path2" />
-    <path class="ColorScheme-Text" transform="matrix(1,0,0,-1,-4.5,23.5)" d="m9 4h3.7509a1.2491 1.2491 45 011.2491 1.2491v4.6029m0 4.305v4.5939a1.2491 1.2491 135 01-1.2491 1.2491h-4.5017a1.2491 1.2491 45 01-1.2491-1.2491v-4.5171m0-4.4827v-5.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path3" />
-  </g>
-</svg>
+  <g transform="translate(1,1)"><path class="ColorScheme-Text" transform="matrix(0 1 1 0 4.5 2.5)" d="m5 8h1.9207m4.1265 0h2.7037a1.2491 1.2491 45 011.2491 1.2491v4.5017a1.2491 1.2491 135 01-1.2491 1.2491h-2.6106m-4.2894 0h-2.6017a1.2491 1.2491 45 01-1.2491-1.2491v-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path1" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m1 11.5h20" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="matrix(1,0,0,-1,-4.5,23.5)" d="m9 4h3.7509a1.2491 1.2491 45 011.2491 1.2491v4.6029m0 4.305v4.5939a1.2491 1.2491 135 01-1.2491 1.2491h-4.5017a1.2491 1.2491 45 01-1.2491-1.2491v-4.5171m0-4.4827v-5.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path3" stroke="currentColor"/>
+</g></svg>

@@ -1,41 +1,9 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </style>
 
   
 
-  <style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><path d="m9.5 2.9183v11.083c0 .36475-.42542.56401-.70563.3305l-3.0433-2.6118c-.40876-.34063-1.0025-.34063-1.4113 0l-3.1342 2.6118c-.28021.23351-.70563.034252-.70563-.3305v-11.484c0-.69561.56391-1.7164 1.2595-1.7141l7.5826.025532" style="fill:#232629;opacity:.05;paint-order:markers fill stroke"/><path d="m10.985 7.3433c.83167 0 1.5152-.64276 1.5152-1.5537v-3.1131c0-.76977-.71858-1.3938-1.5-1.3938-.93015.00608-1.5061.75591-1.5 1.6356v7.3347m-2.3245 2.689-1.4244-1.2225c-.40876-.34063-1.0025-.34063-1.4113 0l-3.1342 2.6118c-.28021.23351-.70563.034252-.70563-.3305v-11.185c0-1.2788 1.0367-2.3155 2.3155-2.3155h5.9961" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m11 .90394c-.42706 0-.80508.1406-1.1212.37731v6.4409h1.1061c1.0492 0 1.8939-.8447 1.8939-1.8939v-3.0303c0-1.0492-.82955-1.8939-1.8788-1.8939z" style="fill:#232629;opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/><g transform="translate(.050243 .12729)"><g class="ColorScheme-Text" transform="matrix(.66345 0 0 .66464 5.7288 2.6703)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.506"><path d="m4 16-1.0585 2.1171c-.30159.60317.33829 1.2431.94146.94146l2.1171-1.0585-.84375-.84428" style="stroke-width:1.506"/><path d="m4.0956 15.903 7.4828-7.4809c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332l-5.0711 5.0736" style="stroke-width:1.506"/><path d="m12.846 8.1548.73455-.73455c.15703-.15703.41162-.15703.56864-1e-7l.41249.41249c.15703.15703.15703.41161 0 .56864l-.71568.71568" style="stroke-width:1.506"/></g></g></svg>
+  </defs><path d="m9.5 2.9183v11.083c0 .36475-.42542.56401-.70563.3305l-3.0433-2.6118c-.40876-.34063-1.0025-.34063-1.4113 0l-3.1342 2.6118c-.28021.23351-.70563.034252-.70563-.3305v-11.484c0-.69561.56391-1.7164 1.2595-1.7141l7.5826.025532" style="opacity:.05;paint-order:markers fill stroke" fill="currentColor" class="ColorScheme-Text"/><path d="m10.985 7.3433c.83167 0 1.5152-.64276 1.5152-1.5537v-3.1131c0-.76977-.71858-1.3938-1.5-1.3938-.93015.00608-1.5061.75591-1.5 1.6356v7.3347m-2.3245 2.689-1.4244-1.2225c-.40876-.34063-1.0025-.34063-1.4113 0l-3.1342 2.6118c-.28021.23351-.70563.034252-.70563-.3305v-11.185c0-1.2788 1.0367-2.3155 2.3155-2.3155h5.9961" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m11 .90394c-.42706 0-.80508.1406-1.1212.37731v6.4409h1.1061c1.0492 0 1.8939-.8447 1.8939-1.8939v-3.0303c0-1.0492-.82955-1.8939-1.8788-1.8939z" style="opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" fill="currentColor" class="ColorScheme-Text"/><g transform="translate(.050243 .12729)"><g class="ColorScheme-Text" transform="matrix(.66345 0 0 .66464 5.7288 2.6703)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.506"><path d="m4 16-1.0585 2.1171c-.30159.60317.33829 1.2431.94146.94146l2.1171-1.0585-.84375-.84428" style="stroke-width:1.506"/><path d="m4.0956 15.903 7.4828-7.4809c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332l-5.0711 5.0736" style="stroke-width:1.506"/><path d="m12.846 8.1548.73455-.73455c.15703-.15703.41162-.15703.56864-1e-7l.41249.41249c.15703.15703.15703.41161 0 .56864l-.71568.71568" style="stroke-width:1.506"/></g></g></svg>

@@ -1,28 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs4">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs4">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <path
-     class="ColorScheme-Text"
-     transform="matrix(0 -1.3529 1.3509 0 -2.5258 35.881)"
-     d="m18.909 10.826 1.1316 1.5412a.61338.61338 116.86 01-.49442.97641l-6.7082-4.6e-5"
-     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73971;stroke:currentColor"
-     id="path4" />
-  <path
-     class="ColorScheme-Text"
-     transform="matrix(.7259 -.7259 .7259 .7259 -5.8504 18.556)"
-     d="m16.501 25.545-.000886 2.8516c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-3.1059c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l9.5e-5-1.9068c2.7e-5-.53245.43279-.95935.96274-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497"
-     style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97412;stroke:currentColor"
-     id="path5" />
+  <path class="ColorScheme-Text" transform="matrix(0 -1.3529 1.3509 0 -2.5258 35.881)" d="m18.909 10.826 1.1316 1.5412a.61338.61338 116.86 01-.49442.97641l-6.7082-4.6e-5" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73971" id="path4" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="matrix(.7259 -.7259 .7259 .7259 -5.8504 18.556)" d="m16.501 25.545-.000886 2.8516c-.000301 1.3005 1.9998 1.3079 1.9998 1e-6l.000945-3.1059c1e-4-.43701-.35414-.79133-.79115-.79133h-.0802c-.07088 0-.12835-.05747-.12835-.12835l9.5e-5-1.9068c2.7e-5-.53245.43279-.95935.96274-1.0088 5.2091-.48556 9.2864-4.8694 9.2861-10.205 0-5.6609-4.5891-10.25-10.25-10.25s-10.25 4.5891-10.25 10.25c0 4.8082 3.3107 8.8432 7.7769 9.9497" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97412" id="path5" stroke="currentColor"/>
 </svg>

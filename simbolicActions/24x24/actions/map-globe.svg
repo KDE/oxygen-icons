@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
-     <style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  </defs>
-  <g transform="translate(1, 1)">
-    <path d="m21.5 4.5884c0-2.258-1.835-4.0884-4.0987-4.0884-2.2636-1.7e-7-4.0987 1.8304-4.0987 4.0884 0 2.258 1.835 7.7572 4.0987 7.7572 1.4055 0 2.6458-2.1202 3.3842-4.2681.07232-.21038.20204-.60708.33132-1.0915.32051-1.201-.6057-2.013-1.8211-1.7591l-.01182.00245c-.32067.066968-.71376.36549-.97408.5615-.25275.19031-.5674.30316-.90848.30316-.83359 0-1.5093-.67407-1.5093-1.5056 0-.8315.67576-1.5056 1.5093-1.5056.59208-1e-7 1.1045.34006 1.3518.83506" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m21.498 10.802c.09281 4.7145-3.0221 9.0634-7.7813 10.339-5.6002 1.5006-11.357-1.8228-12.857-7.4231-1.5006-5.6002 1.8228-11.357 7.423-12.857 1.3253-.35511 2.6593-.44006 3.9437-.28861" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m11.56 20.309a12.92 12.92 0 01-4.7292-17.65" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m15.169 19.341c.93586-1.621 1.4806-3.3604 1.6634-5.1091m-4.8104-11.466c-.49306-.39105-1.0209-.75088-1.5822-1.0749" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m2.0296 13.404 10.955-2.9353" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m8.5961 2.0302 4.807 17.94" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
-  </g>
-</svg>
+   </style></defs><g transform="translate(1,1)"><path d="m21.5 4.5884c0-2.258-1.835-4.0884-4.0987-4.0884-2.2636-1.7e-7-4.0987 1.8304-4.0987 4.0884 0 2.258 1.835 7.7572 4.0987 7.7572 1.4055 0 2.6458-2.1202 3.3842-4.2681.07232-.21038.20204-.60708.33132-1.0915.32051-1.201-.6057-2.013-1.8211-1.7591l-.01182.00245c-.32067.066968-.71376.36549-.97408.5615-.25275.19031-.5674.30316-.90848.30316-.83359 0-1.5093-.67407-1.5093-1.5056 0-.8315.67576-1.5056 1.5093-1.5056.59208-1e-7 1.1045.34006 1.3518.83506" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m21.498 10.802c.09281 4.7145-3.0221 9.0634-7.7813 10.339-5.6002 1.5006-11.357-1.8228-12.857-7.4231-1.5006-5.6002 1.8228-11.357 7.423-12.857 1.3253-.35511 2.6593-.44006 3.9437-.28861" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m11.56 20.309a12.92 12.92 0 01-4.7292-17.65" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m15.169 19.341c.93586-1.621 1.4806-3.3604 1.6634-5.1091m-4.8104-11.466c-.49306-.39105-1.0209-.75088-1.5822-1.0749" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m2.0296 13.404 10.955-2.9353" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m8.5961 2.0302 4.807 17.94" style="fill:none;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/></g></svg>

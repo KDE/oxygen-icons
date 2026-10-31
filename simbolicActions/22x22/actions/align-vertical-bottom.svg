@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
   <defs>
     <style id="current-color-scheme" type="text/css">
@@ -6,7 +6,7 @@
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
   </defs>
-  <path class="ColorScheme-Text" d="m12.5 8.5v5.7509c0 .68986.55924 1.2491 1.2491 1.2491h4.5017c.68986 0 1.2491-.55924 1.2491-1.2491v-6.5017c0-.68986-.55924-1.2491-1.2491-1.2491h-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path1" />
-  <path class="ColorScheme-Text" d="m1 17.5h20" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path2" />
-  <path class="ColorScheme-Text" d="m4.5 15.5h3.7509c.68986 0 1.2491-.55924 1.2491-1.2491v-10.502c0-.68986-.55924-1.2491-1.2491-1.2491h-4.5017c-.68986 0-1.2491.55924-1.2491 1.2491v11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path3" />
+  <path class="ColorScheme-Text" d="m12.5 8.5v5.7509c0 .68986.55924 1.2491 1.2491 1.2491h4.5017c.68986 0 1.2491-.55924 1.2491-1.2491v-6.5017c0-.68986-.55924-1.2491-1.2491-1.2491h-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path1" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m1 17.5h20" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m4.5 15.5h3.7509c.68986 0 1.2491-.55924 1.2491-1.2491v-10.502c0-.68986-.55924-1.2491-1.2491-1.2491h-4.5017c-.68986 0-1.2491.55924-1.2491 1.2491v11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path3" stroke="currentColor"/>
 </svg>

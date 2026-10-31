@@ -1,12 +1,12 @@
-<svg width="22" height="22" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1">
  <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  
+  
  </defs>
  <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".81004" style="paint-order:fill markers stroke">
@@ -19,5 +19,5 @@
   <path d="m11.57 8.2299.73455-.73455c.15702-.15703.41161-.15703.56864-1e-7l.41249.41249c.15702.15703.15702.41161 0 .56864l-.71568.71568" style="stroke-width:1.0951"/>
   <path d="m10.524 10.284.13933.13933c.47529.47534.47529 1.246 0 1.7213" style="stroke-width:1.0951"/>
  </g>
- <path d="m.59551 17.414c1.6862-.55883 5.8001-3.4382 4.5603-3.7701-2.6413-.70715-2.3067 6.2811-1.8287 5.7747.47793-.50635 1.6258-3.3341 3.4455-3.6732 1.6308-.30387-1.4766 2.9534.13217 2.6917 1.3844-.2252 2.6308-2.6516 3.976-2.8112 1.8676-.22157-2.37 3.4594-.71032 3.5047 1.745.04768 2.6388-.34306 2.6388-.34306" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m.59551 17.414c1.6862-.55883 5.8001-3.4382 4.5603-3.7701-2.6413-.70715-2.3067 6.2811-1.8287 5.7747.47793-.50635 1.6258-3.3341 3.4455-3.6732 1.6308-.30387-1.4766 2.9534.13217 2.6917 1.3844-.2252 2.6308-2.6516 3.976-2.8112 1.8676-.22157-2.37 3.4594-.71032 3.5047 1.745.04768 2.6388-.34306 2.6388-.34306" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
 </svg>

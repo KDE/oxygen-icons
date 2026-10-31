@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
   <defs>
     <style id="current-color-scheme" type="text/css">
@@ -7,7 +7,7 @@
    </style>
   </defs>
   <g transform="matrix(1.0384 0 0 1.0193 -6.3295 -6.0887)" style="stroke-width:.972" id="g2">
-    <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 0 28.627)" d="m12.596 13.586.05238-.02158c.54736-.22547 1.0572-.53293 1.5121-.9118l1.8299-1.5242c.34616-.28833.84863-.28909 1.1957-.0018l3.8363 3.176-3.6052 3.003c-.48069.40039-1.1787.40039-1.6594 0l-2.7755-2.3118c-.53613-.44657-1.2118-.69112-1.9096-.69112h-4.4956" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.972;stroke:currentColor" id="path1" />
-    <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 0 28.627)" d="m12.596 13.586.05238-.02158c.54736-.22547 1.0572-.53293 1.5121-.9118l1.8299-1.5242c.34616-.28833.84863-.28909 1.1957-.0018l3.8363 3.176-3.6052 3.003c-.48069.40039-1.1787.40039-1.6594 0l-2.7755-2.3118c-.53613-.44657-.34506-.69112-1.0428-.69112" style="fill:currentColor;opacity:.3;paint-order:fill markers stroke" id="path2" />
+    <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 0 28.627)" d="m12.596 13.586.05238-.02158c.54736-.22547 1.0572-.53293 1.5121-.9118l1.8299-1.5242c.34616-.28833.84863-.28909 1.1957-.0018l3.8363 3.176-3.6052 3.003c-.48069.40039-1.1787.40039-1.6594 0l-2.7755-2.3118c-.53613-.44657-1.2118-.69112-1.9096-.69112h-4.4956" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.972" id="path1" stroke="currentColor"/>
+    <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 0 28.627)" d="m12.596 13.586.05238-.02158c.54736-.22547 1.0572-.53293 1.5121-.9118l1.8299-1.5242c.34616-.28833.84863-.28909 1.1957-.0018l3.8363 3.176-3.6052 3.003c-.48069.40039-1.1787.40039-1.6594 0l-2.7755-2.3118c-.53613-.44657-.34506-.69112-1.0428-.69112" style="opacity:.3;paint-order:fill markers stroke" id="path2" fill="currentColor"/>
   </g>
 </svg>

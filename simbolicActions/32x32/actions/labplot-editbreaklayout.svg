@@ -1,77 +1,12 @@
-<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><defs>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve"><defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+   </style>
 
   
 
   
 
-  <style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g transform="translate(.93832 .96386)"><g transform="translate(-.57221 .10149)"/></g><path d="m3.5003 16.429v-9.9522c0-1.6437 1.3325-2.9761 2.9761-2.9761h7.0895m9.0168 0h2.4541c1.9125 0 3.4629 1.5504 3.4629 3.4629v4.9893m-8.9284 5.5475h-13.618c-1.3552 0-2.4538 1.0986-2.4538 2.4538v7.2738c0 .70476.56737 1.2721 1.2721 1.2721m14.819 0h7.6365c.70476 0 1.2721-.56737 1.2721-1.2721v-7.6563" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m14.214 10.473a4.1665 4.1665 0 01-3.3536 4.0865 4.1665 4.1665 0 01-4.6622-2.492 4.1665 4.1665 0 011.5346-5.0588 4.1665 4.1665 0 015.261.51816l-2.9461 2.9461z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m14.214 10.473a4.1665 4.1665 0 01-3.3536 4.0865 4.1665 4.1665 0 01-4.6622-2.492 4.1665 4.1665 0 011.5346-5.0588 4.1665 4.1665 0 015.261.51816l-2.9461 2.9461z" style="fill:#232629;opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m22.487 3.5003h-3.0114c-1.6437 0-2.9761 1.3325-2.9761 2.9761v14.823m-3.8386 6.4796c-.37347.38878-1.2349.72284-1.7527.71992h-6.1357" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><g transform="matrix(1.1904 0 0 1.1904 3.5004 2.9058)" style="stroke-width:.84002"><g class="ColorScheme-Text" transform="matrix(.82395 0 0 .82394 6.9082 5.7376)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.0195"><path d="m4 16-1.0585 2.1171a.70172.70172 45 00.94146.94146l2.1171-1.0585-1.1452-1.1452" style="stroke-width:1.0195"/><path d="m7 17-2-2 9.0057-9.0056c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332z" style="stroke-width:1.0195"/><path d="m15.273 5.7274.73455-.73455c.15703-.15703.41162-.15703.56864-1e-7l.41249.41249c.15703.15703.15703.41161 0 .56864l-.71568.71568" style="stroke-width:1.0195"/></g></g></svg>
+  </defs><path d="m3.5003 16.429v-9.9522c0-1.6437 1.3325-2.9761 2.9761-2.9761h7.0895m9.0168 0h2.4541c1.9125 0 3.4629 1.5504 3.4629 3.4629v4.9893m-8.9284 5.5475h-13.618c-1.3552 0-2.4538 1.0986-2.4538 2.4538v7.2738c0 .70476.56737 1.2721 1.2721 1.2721m14.819 0h7.6365c.70476 0 1.2721-.56737 1.2721-1.2721v-7.6563" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m14.214 10.473a4.1665 4.1665 0 01-3.3536 4.0865 4.1665 4.1665 0 01-4.6622-2.492 4.1665 4.1665 0 011.5346-5.0588 4.1665 4.1665 0 015.261.51816l-2.9461 2.9461z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m14.214 10.473a4.1665 4.1665 0 01-3.3536 4.0865 4.1665 4.1665 0 01-4.6622-2.492 4.1665 4.1665 0 011.5346-5.0588 4.1665 4.1665 0 015.261.51816l-2.9461 2.9461z" style="opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" fill="currentColor" stroke="currentColor" class="ColorScheme-Text"/><path d="m22.487 3.5003h-3.0114c-1.6437 0-2.9761 1.3325-2.9761 2.9761v14.823m-3.8386 6.4796c-.37347.38878-1.2349.72284-1.7527.71992h-6.1357" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><g transform="matrix(1.1904 0 0 1.1904 3.5004 2.9058)" style="stroke-width:.84002"><g class="ColorScheme-Text" transform="matrix(.82395 0 0 .82394 6.9082 5.7376)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.0195"><path d="m4 16-1.0585 2.1171a.70172.70172 45 00.94146.94146l2.1171-1.0585-1.1452-1.1452" style="stroke-width:1.0195"/><path d="m7 17-2-2 9.0057-9.0056c.31293-.31292.82027-.31292 1.1332 0l.86679.86679c.31292.31293.31292.82027 0 1.1332z" style="stroke-width:1.0195"/><path d="m15.273 5.7274.73455-.73455c.15703-.15703.41162-.15703.56864-1e-7l.41249.41249c.15703.15703.15703.41161 0 .56864l-.71568.71568" style="stroke-width:1.0195"/></g></g></svg>

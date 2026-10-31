@@ -1,50 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   version="1.1"
-   viewBox="0 0 16 16"
-   xml:space="preserve"
-   id="svg5"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs5" />
-  <g
-   transform="matrix(.81812 0 0 .81156 .11633 -1.5134)"
-   style="stroke-width:1.2272"
-   id="g4">
-<defs
-   id="defs1"><style
-     id="current-color-scheme"
-     type="text/css">.ColorScheme-Text { color:#232629; }</style><style
-     type="text/css"
-     id="style1">.ColorScheme-Text { color:#232629; }</style></defs><path
-   class="ColorScheme-Text"
-   d="m18.192 17.883v-11.583l-8.5562 6.2842-8.5562-6.161v11.459c4.0746 5.4115 8.1491.41794 12.224.000457z"
-   fill="currentColor"
-   fill-rule="evenodd"
-   opacity=".1"
-   stroke-linecap="round"
-   stroke-linejoin="round"
-   style="opacity:.050234;stroke-width:1.2272"
-   paint-order="stroke fill markers"
-   id="path1" /><g
-   class="ColorScheme-Text"
-   transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)"
-   style="stroke-width:.90709"
-   id="g3"><g
-     style="stroke-width:.90709"
-     id="g2"><path
-       class="ColorScheme-Text"
-       d="m1.7608 8.4094 1.82e-5.7662m9.744 5.89h2.6769c.61232 0 1.1087-.49638 1.1087-1.1087l-.000561-7.9591c-5.5e-5-1.0209-.82706-1.8489-1.848-1.8501l-10.34-.012171c-.74348-.0008681-1.3501.59502-1.3625 1.3384-.00844.56082.26071 1.0896.71911 1.4128l1.7611 1.2461m5.7417 1.9777 3.8467-2.8224"
-       style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.90709;stroke:currentColor"
-       id="path2" /></g></g>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve" id="svg5"><defs id="defs5"/>
+  <g transform="matrix(.81812 0 0 .81156 .11633 -1.5134)" style="stroke-width:1.2272" id="g4">
+<defs id="defs1"><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css" id="style1">.ColorScheme-Text { color:#232629; }</style></defs><path class="ColorScheme-Text" d="m18.192 17.883v-11.583l-8.5562 6.2842-8.5562-6.161v11.459c4.0746 5.4115 8.1491.41794 12.224.000457z" fill="currentColor" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="opacity:.050234;stroke-width:1.2272" paint-order="stroke fill markers" id="path1"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.90709" id="g3"><g style="stroke-width:.90709" id="g2"><path class="ColorScheme-Text" d="m1.7608 8.4094 1.82e-5.7662m9.744 5.89h2.6769c.61232 0 1.1087-.49638 1.1087-1.1087l-.000561-7.9591c-5.5e-5-1.0209-.82706-1.8489-1.848-1.8501l-10.34-.012171c-.74348-.0008681-1.3501.59502-1.3625 1.3384-.00844.56082.26071 1.0896.71911 1.4128l1.7611 1.2461m5.7417 1.9777 3.8467-2.8224" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.90709" id="path2" stroke="currentColor"/></g></g>
   </g>
-<path
-   transform="matrix(-.81812 0 0 .81156 18.933 -3.1365)"
-   d="m4.1966 18a3.5276 3.5276 124.6 012.1062-3.0531l2.5853-1.2926"
-   style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2272;stroke:#232629"
-   id="path4" /><path
-   d="m4.525 9.1107v2.4375l1.6996 1.2966m2.2665-1.3462c-.0051157-1.0244-.40556-2.0364-1.1701-2.7989-1.2786-1.2753-3.2568-1.5349-4.823-.63292-1.5662.90199-2.3299 2.7406-1.862 4.4828.4545 1.6924 1.9612 2.8839 3.7047 2.9505 3.4366 0 3.7529-2.0005 6.9502-2.0005"
-   style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"
-   id="path5" /></svg>
+<path transform="matrix(-.81812 0 0 .81156 18.933 -3.1365)" d="m4.1966 18a3.5276 3.5276 124.6 012.1062-3.0531l2.5853-1.2926" style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2272" id="path4" stroke="currentColor" class="ColorScheme-Text"/><path d="m4.525 9.1107v2.4375l1.6996 1.2966m2.2665-1.3462c-.0051157-1.0244-.40556-2.0364-1.1701-2.7989-1.2786-1.2753-3.2568-1.5349-4.823-.63292-1.5662.90199-2.3299 2.7406-1.862 4.4828.4545 1.6924 1.9612 2.8839 3.7047 2.9505 3.4366 0 3.7529-2.0005 6.9502-2.0005" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" id="path5" stroke="currentColor" class="ColorScheme-Text"/></svg>

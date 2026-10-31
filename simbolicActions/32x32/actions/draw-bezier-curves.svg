@@ -1,92 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="32" height="32" viewBox="0 0 32 32"
-   version="1.1"
-   xml:space="preserve"
-   id="svg11"
-   sodipodi:docname="draw-bezier-curves.svg"
-   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs6">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve" id="svg11"><defs id="defs6">
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-     <style
-   id="current-color-scheme"
-   type="text/css">
+     <style id="style1" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style
-   id="style1"
-   type="text/css">
+   </style><style type="text/css" id="style2">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style><style type="text/css" id="style3">.ColorScheme-Text { color:#232629; }</style><style type="text/css" id="style4">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style
-   type="text/css"
-   id="style2">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style><style
-   type="text/css"
-   id="style3">.ColorScheme-Text { color:#232629; }</style><style
-   type="text/css"
-   id="style4">
+   </style><style type="text/css" id="style5">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style><style
-   type="text/css"
-   id="style5">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style><style
-   type="text/css"
-   id="style6">.ColorScheme-Text { color:#232629; }</style><style
-   type="text/css"
-   id="style7">.ColorScheme-Text { color:#232629; }</style></defs><use
-     transform="translate(17)"
-     xlink:href="#path13"
-     id="use6" /><path
-     id="path13"
-     class="ColorScheme-Highlight"
-     d="m 6.8160083,15.493253 h 1.3131189 c 0.2135507,0 0.3866678,0.168576 0.3866678,0.376526 v 1.238702 c 0,0.216002 -0.179821,0.391107 -0.4016415,0.391107 H 6.9085854 c -0.2218204,0 -0.4016414,-0.175105 -0.4016414,-0.391107 v -1.31424 c 0,-0.166209 0.1383682,-0.300948 0.309054,-0.300948 z"
-     style="color:#3daee9;fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     sodipodi:nodetypes="cssssssscc" /><path
-     class="ColorScheme-Highlight"
-     d="m 17.804908,25.496653 h 1.313119 c 0.213551,0 0.386668,0.168576 0.386668,0.376526 v 1.238702 c 0,0.216002 -0.179821,0.391107 -0.401641,0.391107 h -1.205569 c -0.22182,0 -0.401641,-0.175105 -0.401641,-0.391107 v -1.31424 c 0,-0.166209 0.138368,-0.300948 0.309054,-0.300948 z"
-     style="color:#3daee9;fill:none;stroke:currentColor;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     id="path6"
-     sodipodi:nodetypes="cssssssscc" /><g
-     transform="matrix(0.68109,-0.68109,0.68053,0.68053,0.5164,15.473)"
-     style="stroke-width:1.0386"
-     id="g10">
-<defs
-   id="defs8"><style
-     type="text/css"
-     id="style8">.ColorScheme-Text { color:#232629; }</style><style
-     type="text/css"
-     id="style9">.ColorScheme-Text { color:#232629; }</style></defs><g
-   class="ColorScheme-Text"
-   transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)"
-   style="stroke-width:0.76766"
-   id="g9"><g
-     style="stroke-width:0.76766"
-     id="g8"><path
-       class="ColorScheme-Text"
-       d="M 5.0548,17.235429 4.62383,5.1985 h 1.9712 c 3.1069,0 6.70355,4.6921861 6.85105,7.795086 0.02685,0.56495 0.05412,1.1299 0.07869,1.6948"
-       style="fill:none;stroke:currentColor;stroke-width:0.76766;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       id="path8"
-       sodipodi:nodetypes="ccscc" /></g></g>
-  </g><path
-     d="M 7,16 18,5"
-     style="opacity:0.3;fill:#232629;stroke:#232629;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke"
-     id="path11"
-     sodipodi:nodetypes="cc" /><path
-     d="M 7,16 18,5"
-     style="opacity:0.3;fill:#232629;stroke:#3daee9;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke"
-     id="path12"
-     sodipodi:nodetypes="cc" /><path
-     class="ColorScheme-Highlight"
-     d="m 18.545849,2.4999946 c 1.099995,0.021023 1.974245,0.9074966 1.952711,1.9800107 v 0.023543 c 0,1.0935292 -0.909196,1.9800106 -2.030747,1.9800106 C 17.367819,6.4625359 16.493568,5.5760611 16.515102,4.503548 V 4.480006 c 0,-1.0935302 0.909196,-1.9800107 2.030747,-1.9800114 z"
-     style="color:#3daee9;fill:none;stroke:currentColor;stroke-width:0.999988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-     id="path10"
-     sodipodi:nodetypes="ccsccsc" /></svg>
+   </style><style type="text/css" id="style6">.ColorScheme-Text { color:#232629; }</style><style type="text/css" id="style7">.ColorScheme-Text { color:#232629; }</style></defs><use transform="translate(17)" xlink:href="#path13" id="use6"/><path id="path13" class="ColorScheme-Highlight" d="m 6.8160083,15.493253 h 1.3131189 c 0.2135507,0 0.3866678,0.168576 0.3866678,0.376526 v 1.238702 c 0,0.216002 -0.179821,0.391107 -0.4016415,0.391107 H 6.9085854 c -0.2218204,0 -0.4016414,-0.175105 -0.4016414,-0.391107 v -1.31424 c 0,-0.166209 0.1383682,-0.300948 0.309054,-0.300948 z" style="color:#3daee9;fill:none;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor"/><path class="ColorScheme-Highlight" d="m 17.804908,25.496653 h 1.313119 c 0.213551,0 0.386668,0.168576 0.386668,0.376526 v 1.238702 c 0,0.216002 -0.179821,0.391107 -0.401641,0.391107 h -1.205569 c -0.22182,0 -0.401641,-0.175105 -0.401641,-0.391107 v -1.31424 c 0,-0.166209 0.138368,-0.300948 0.309054,-0.300948 z" style="color:#3daee9;fill:none;stroke-width:1.00001;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path6" stroke="currentColor"/><g transform="matrix(0.68109,-0.68109,0.68053,0.68053,0.5164,15.473)" style="stroke-width:1.0386" id="g10">
+<defs id="defs8"><style type="text/css" id="style8">.ColorScheme-Text { color:#232629; }</style><style type="text/css" id="style9">.ColorScheme-Text { color:#232629; }</style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.76766" id="g9"><g style="stroke-width:0.76766" id="g8"><path class="ColorScheme-Text" d="M 5.0548,17.235429 4.62383,5.1985 h 1.9712 c 3.1069,0 6.70355,4.6921861 6.85105,7.795086 0.02685,0.56495 0.05412,1.1299 0.07869,1.6948" style="fill:none;stroke-width:0.76766;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path8" stroke="currentColor"/></g></g>
+  </g><path d="M 7,16 18,5" style="opacity:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path11" fill="currentColor" stroke="currentColor" class="ColorScheme-Text"/><path d="M 7,16 18,5" style="opacity:0.3;stroke:#3daee9;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke" id="path12" fill="currentColor" class="ColorScheme-Text"/><path class="ColorScheme-Highlight" d="m 18.545849,2.4999946 c 1.099995,0.021023 1.974245,0.9074966 1.952711,1.9800107 v 0.023543 c 0,1.0935292 -0.909196,1.9800106 -2.030747,1.9800106 C 17.367819,6.4625359 16.493568,5.5760611 16.515102,4.503548 V 4.480006 c 0,-1.0935302 0.909196,-1.9800107 2.030747,-1.9800114 z" style="color:#3daee9;fill:none;stroke-width:0.999988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path10" stroke="currentColor"/></svg>

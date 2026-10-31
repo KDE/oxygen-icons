@@ -1,16 +1,15 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
  <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
+  
+  
  </defs>
- <path class="ColorScheme-Text" d="m15.5 12.5h-7.001m-5.7013 0h-2.2977" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path d="m8.5002 12.5c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path class="ColorScheme-Text" d="m15.5 12.5h-7.001m-5.7013 0h-2.2977" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+ <path d="m8.5002 12.5c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
  <path d="m2.8467 4.4389a1.4012 1.4012 0 001.32-1.4779 1.4667 1.4667 0 00-1.4779-1.4555h-1.8222a.36668.36668 0 00-.36668.36668v5.5001-2.2505a.6893.6893 0 011.1993-.46367l2.4674 2.7142" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#000"/>
  <path d="m9.5 2.9722a1.594 1.4667 0 00-1.594-1.4667h-.79701a1.6022 1.4743 0 00-1.6022 1.4667l-.00239.42493a146.76 135.04 0 00.00577 2.0835l.0007966.073464a1.9965 1.8371 0 001.9965 1.8182h.016301a1.9722 1.8147 0 001.9721-1.8334l-.0083683-.74846a.38606.35523 0 00-.38605-.35157h-1.2119" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99999;stroke:#000"/>
  <path d="m13.847 4.4334a1.3409 1.3409 0 001.32-1.3615v-.21034a1.3615 1.3615 0 00-1.3615-1.3615h-2.3052v5.8668h2.3052a1.3615 1.3615 0 001.3615-1.3615v-.21034a1.3615 1.3615 0 00-1.3615-1.3615h-.83852" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#000"/>

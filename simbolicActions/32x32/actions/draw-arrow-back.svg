@@ -1,34 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g
-     transform="matrix(1.3529 0 0 1.3509 27.259 1.4737)"
-     id="g1" />
-  <g
-     class="ColorScheme-Text"
-     transform="translate(9.9968 9.4707)"
-     fill="none"
-     stroke="currentColor"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     style="paint-order:stroke fill markers"
-     id="g2">
-    <path
-       transform="matrix(1.5783 0 0 1.5949 .82501 -4.3844)"
-       d="m8.9096 7.7833h-7.5442a.37153.37153 112.38 00-.26163.63531l1.9434 1.9274a.96842.96842 89.82 01.00431 1.3709l-.74377.74703a.93022.93022 1.0824 01-1.3427-.025368l-4.788-5.1868a1.0651 1.0651 90 010-1.4449l4.788-5.1868a.93022.93022 178.92 011.3427-.025368l.74378.74703a.9706.9706 90.116 01-.0027726 1.3724l-1.9316 1.9244a.37272.37272 67.553 00.26306.63676h7.6197a1.5675 1.5675 45 011.5675 1.5675v.15344"
-       style="stroke-width:.63029"
-       id="path1" />
+  <g transform="matrix(1.3529 0 0 1.3509 27.259 1.4737)" id="g1"/>
+  <g class="ColorScheme-Text" transform="translate(9.9968 9.4707)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers" id="g2">
+    <path transform="matrix(1.5783 0 0 1.5949 .82501 -4.3844)" d="m8.9096 7.7833h-7.5442a.37153.37153 112.38 00-.26163.63531l1.9434 1.9274a.96842.96842 89.82 01.00431 1.3709l-.74377.74703a.93022.93022 1.0824 01-1.3427-.025368l-4.788-5.1868a1.0651 1.0651 90 010-1.4449l4.788-5.1868a.93022.93022 178.92 011.3427-.025368l.74378.74703a.9706.9706 90.116 01-.0027726 1.3724l-1.9316 1.9244a.37272.37272 67.553 00.26306.63676h7.6197a1.5675 1.5675 45 011.5675 1.5675v.15344" style="stroke-width:.63029" id="path1"/>
   </g>
 </svg>

@@ -1,29 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   class="ColorScheme-Text"
-   width="32"
-   height="32"
-   version="1.1"
-   viewBox="0 0 32 32"
-   id="svg2"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#232629; }</style>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" class="ColorScheme-Text" width="32" height="32" version="1.1" viewBox="0 0 32 32" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <path
-     id="circle1"
-     style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;opacity:0.8"
-     class="ColorScheme-Text"
-     d="m 10.78734,8.8121319 c -0.472016,-1.7615866 0.366074,-3.6112891 2.001726,-4.4179037 1.635653,-0.8066144 3.613316,-0.3454878 4.723532,1.1013733 1.110216,1.4468613 1.043773,3.4764865 -0.158695,4.8476385 -1.013698,1.155901 -2.596731,1.572446 -4.030493,1.119333 -0.449418,-0.14203 -1.062647,-0.08492 -1.391429,0.254008 -3.6751232,3.788539 -4.7894266,8.505792 -5.1272968,12.672165 -0.087379,1.077501 0.6034443,2.354743 1.5964207,2.781939 4.1224051,1.137427 10.2498141,1.532206 12.3794791,-0.390101 m -0.141913,-4.165117 c 1.595846,-0.53951 0.855513,-2.959417 0.743643,-3.358575 -0.64561,-2.303569 -1.387661,-4.420496 -2.843354,-6.105338"
-     transform="translate(1)" />
-  <path
-     id="path3"
-     style="fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
-     class="ColorScheme-Text"
-     d="M 20.780584,26.780584 26.8,20.7 23.5,30 22.225647,27.5 M 26.8,20.7 23.590546,21.697772 M 19.535606,25.660733 17.150139,23.7 20.638671,22.615467"
-     transform="translate(1)" />
+  <path id="circle1" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;opacity:0.8" class="ColorScheme-Text" d="m 10.78734,8.8121319 c -0.472016,-1.7615866 0.366074,-3.6112891 2.001726,-4.4179037 1.635653,-0.8066144 3.613316,-0.3454878 4.723532,1.1013733 1.110216,1.4468613 1.043773,3.4764865 -0.158695,4.8476385 -1.013698,1.155901 -2.596731,1.572446 -4.030493,1.119333 -0.449418,-0.14203 -1.062647,-0.08492 -1.391429,0.254008 -3.6751232,3.788539 -4.7894266,8.505792 -5.1272968,12.672165 -0.087379,1.077501 0.6034443,2.354743 1.5964207,2.781939 4.1224051,1.137427 10.2498141,1.532206 12.3794791,-0.390101 m -0.141913,-4.165117 c 1.595846,-0.53951 0.855513,-2.959417 0.743643,-3.358575 -0.64561,-2.303569 -1.387661,-4.420496 -2.843354,-6.105338" transform="translate(1)" stroke="currentColor"/>
+  <path id="path3" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" class="ColorScheme-Text" d="M 20.780584,26.780584 26.8,20.7 23.5,30 22.225647,27.5 M 26.8,20.7 23.590546,21.697772 M 19.535606,25.660733 17.150139,23.7 20.638671,22.615467" transform="translate(1)" stroke="currentColor"/>
 </svg>

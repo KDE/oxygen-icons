@@ -1,25 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1">
+ <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  </defs>
-  <g transform="translate(1, 1)">
-    <path transform="matrix(1.3275 0 0 1.3671 8.1623 -.43682)" d="m-4 4 .79237-.79237a.70741.70741 22.5 011.2076.50022v4.2922" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7423;stroke:#232629"/>
- <path transform="matrix(-1.3385 0 0 -1.3999 4.8227 14.703)" d="m-3.0182 6.013-1.2113-.54574a1.2892 1.2892 102.13 01.52956-2.4646h.2a1.5 1.5 45 011.5 1.5v2a1.5 1.5 135 01-1.5 1.5h-.1" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73053;stroke:#232629"/>
- <path transform="matrix(-1.3335 0 0 -1.3999 12.833 23.703)" d="m-3.6 8.0026h-.42242a.97758.97758 45 01-.97758-.97758v-.18768a.97758.97758 135 01.97758-.97758h2.0029a0 0 0 010 0h-2.0029a.97758.97758 45 01-.97758-.97758v-.90202a.97758.97758 135 01.97758-.97758h1.0448a.97758.97758 45 01.97758.97758v3.0448a.97758.97758 135 01-.97758.97758h-.62242" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73191;stroke:#232629"/>
+  
+ </defs>
+ <g transform="translate(1,1)"><path transform="matrix(1.3275 0 0 1.3671 8.1623 -.43682)" d="m-4 4 .79237-.79237a.70741.70741 22.5 011.2076.50022v4.2922" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7423" stroke="currentColor" class="ColorScheme-Text"/>
+ <path transform="matrix(-1.3385 0 0 -1.3999 4.8227 14.703)" d="m-3.0182 6.013-1.2113-.54574a1.2892 1.2892 102.13 01.52956-2.4646h.2a1.5 1.5 45 011.5 1.5v2a1.5 1.5 135 01-1.5 1.5h-.1" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73053" stroke="currentColor" class="ColorScheme-Text"/>
+ <path transform="matrix(-1.3335 0 0 -1.3999 12.833 23.703)" d="m-3.6 8.0026h-.42242a.97758.97758 45 01-.97758-.97758v-.18768a.97758.97758 135 01.97758-.97758h2.0029a0 0 0 010 0h-2.0029a.97758.97758 45 01-.97758-.97758v-.90202a.97758.97758 135 01.97758-.97758h1.0448a.97758.97758 45 01.97758.97758v3.0448a.97758.97758 135 01-.97758.97758h-.62242" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73191" stroke="currentColor" class="ColorScheme-Text"/>
  <rect x="14.006" y="3" width="2.997" height="3" rx="1" ry="1" style="fill:#f90000;paint-order:markers fill stroke"/>
  <rect x="17.003" y="3" width="2.997" height="3" rx="1" ry="1" style="fill:#10f900;paint-order:markers fill stroke"/>
  <rect x="17.003" y="6" width="2.997" height="3" rx="1" ry="1" style="fill:#009af9;paint-order:markers fill stroke"/>
- <path transform="matrix(1.3275 0 0 1.3289 1.8534 .88892)" d="m3.5 9.5v1.5858a1.4142 1.4142 45 001.4142 1.4142h2.4039a.58579.58579 112.5 00.41421-1l-1-1" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7529;stroke:#232629"/>
- <path d="m13.5 17.5-2.6551 2.6577" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
-  </g>
-</svg>
+ <path transform="matrix(1.3275 0 0 1.3289 1.8534 .88892)" d="m3.5 9.5v1.5858a1.4142 1.4142 45 001.4142 1.4142h2.4039a.58579.58579 112.5 00.41421-1l-1-1" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.7529" stroke="currentColor" class="ColorScheme-Text"/>
+ <path d="m13.5 17.5-2.6551 2.6577" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+</g></svg>

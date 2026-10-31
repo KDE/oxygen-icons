@@ -1,19 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1">
+ <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  </defs>
-  <g transform="translate(1, 1)">
-    <g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
+  
+  
+  
+ </defs>
+ <g transform="translate(1,1)"><g transform="matrix(1.2359 0 0 1.2331 -2.5038 -2.2572)" style="stroke-width:1.0951">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".81004" style="paint-order:fill markers stroke">
    <path d="m16.994 14.253v5.0138l-5.8873-.00024m-4.5551-.000185-3.3121-.000135v-16.982h11.391c1.3057 0 2.3641 1.0584 2.3641 2.3641v2.2184" style="stroke-width:.81004"/>
   </g>
@@ -24,5 +20,4 @@
   <path d="m11.112 7.459.9164-.91639c.19589-.1959.51351-.1959.70942-2e-7l.51461.51461c.19589.1959.19589.51351 0 .70941l-.89286.89285" style="stroke-width:1.0951"/>
   <path d="m9.807 10.022.17382.17382c.59295.59302.59295 1.5545 0 2.1474" style="stroke-width:1.0951"/>
  </g>
-  </g>
-</svg>
+</g></svg>

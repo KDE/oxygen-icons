@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
   <defs>
     <style id="current-color-scheme" type="text/css">
@@ -6,7 +6,7 @@
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
   </defs>
-  <path class="ColorScheme-Text" transform="matrix(0 1 1 0 9.5 7.5)" d="m6 8h5.7509a1.2491 1.2491 45 011.2491 1.2491v4.5017a1.2491 1.2491 135 01-1.2491 1.2491h-6.5017a1.2491 1.2491 45 01-1.2491-1.2491v-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path1" />
-  <path class="ColorScheme-Text" d="m5 23.5h22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path2" />
-  <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 .5 26.5)" d="m9 6h3.7509a1.2491 1.2491 45 011.2491 1.2491v10.502a1.2491 1.2491 135 01-1.2491 1.2491h-4.5017a1.2491 1.2491 45 01-1.2491-1.2491v-11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor" id="path3" />
+  <path class="ColorScheme-Text" transform="matrix(0 1 1 0 9.5 7.5)" d="m6 8h5.7509a1.2491 1.2491 45 011.2491 1.2491v4.5017a1.2491 1.2491 135 01-1.2491 1.2491h-6.5017a1.2491 1.2491 45 01-1.2491-1.2491v-5.7509" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path1" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5 23.5h22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="matrix(1 0 0 -1 .5 26.5)" d="m9 6h3.7509a1.2491 1.2491 45 011.2491 1.2491v10.502a1.2491 1.2491 135 01-1.2491 1.2491h-4.5017a1.2491 1.2491 45 01-1.2491-1.2491v-11.751" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" id="path3" stroke="currentColor"/>
 </svg>

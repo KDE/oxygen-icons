@@ -1,11 +1,11 @@
-<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
+  
  </defs>
- <path class="ColorScheme-Text" d="m4.9999 6.5h1.8405m3.3949 0h2.3278c.5174 0 .93684-.41659.93684-.93049v-3.139c0-.51389-.41944-.93049-.93684-.93049h-2.258m-3.5171 0h-2.3513c-.5174 0-.93684.41659-.93684.93049v4.0696" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m8.5 15.509v-15.027" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m14.5 13.163v-2.7478c0-.50538-.451-.91507-1.0073-.91507h-3.312m-3.3687 0h-4.3047c-.55633 0-1.0073.40969-1.0073.91507v3.2979c0 .50538.451.91507 1.0073.91507h4.2428m3.512 0h4.2379" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99996;stroke:currentColor"/>
+ <path class="ColorScheme-Text" d="m4.9999 6.5h1.8405m3.3949 0h2.3278c.5174 0 .93684-.41659.93684-.93049v-3.139c0-.51389-.41944-.93049-.93684-.93049h-2.258m-3.5171 0h-2.3513c-.5174 0-.93684.41659-.93684.93049v4.0696" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m8.5 15.509v-15.027" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m14.5 13.163v-2.7478c0-.50538-.451-.91507-1.0073-.91507h-3.312m-3.3687 0h-4.3047c-.55633 0-1.0073.40969-1.0073.91507v3.2979c0 .50538.451.91507 1.0073.91507h4.2428m3.512 0h4.2379" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99996" stroke="currentColor"/>
 </svg>

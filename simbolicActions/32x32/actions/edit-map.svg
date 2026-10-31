@@ -1,8 +1,9 @@
-<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  
  </defs>
  <g class="ColorScheme-Text" transform="translate(9.9968 9.4707)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers">
   <path d="m4 16-1.0585 2.1171a.70172.70172 45 00.94146.94146l2.1171-1.0585-1.1452-1.1452"/>
@@ -10,5 +11,5 @@
   <path d="m16 4-.13933-.13933c-.47534-.47529-1.246-.47529-1.7213 0l-2.1393 2.1393"/>
   <path d="m17.7 3.3.73455-.73455a.40209.40209-180 01.56864-1e-7l.41249.41249a.40209.40209 90 010 .56864l-.71568.71568"/>
  </g>
- <path d="m20.379 11.229c0-4.4365-3.6481-8.0329-8.1483-8.0329-4.5002 0-8.1483 3.5965-8.1483 8.0329 0 4.4365 3.6481 15.241 8.1483 15.241m6.7279-8.386c.14377-.41336.40167-1.1928.65868-2.1446.63719-2.3597-1.2041-3.9551-3.6205-3.4563l-.0235.0048c-.6375.13158-1.419.71812-1.9365 1.1032-.50248.37393-1.128.59566-1.8061.59566-1.6572 0-3.0006-1.3244-3.0006-2.9582 0-1.6337 1.3434-2.9582 3.0006-2.9582 1.1771 0 2.1959.66816 2.6874 1.6407" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path d="m20.379 11.229c0-4.4365-3.6481-8.0329-8.1483-8.0329-4.5002 0-8.1483 3.5965-8.1483 8.0329 0 4.4365 3.6481 15.241 8.1483 15.241m6.7279-8.386c.14377-.41336.40167-1.1928.65868-2.1446.63719-2.3597-1.2041-3.9551-3.6205-3.4563l-.0235.0048c-.6375.13158-1.419.71812-1.9365 1.1032-.50248.37393-1.128.59566-1.8061.59566-1.6572 0-3.0006-1.3244-3.0006-2.9582 0-1.6337 1.3434-2.9582 3.0006-2.9582 1.1771 0 2.1959.66816 2.6874 1.6407" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
 </svg>

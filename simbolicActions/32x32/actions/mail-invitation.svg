@@ -1,14 +1,14 @@
-<svg width="32" height="32" viewBox="0 0 32 32" class="ColorScheme-Text" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" class="ColorScheme-Text" version="1.1">
  <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  
+  
  </defs>
- <path class="ColorScheme-Text" d="m8.9816 10.562c-.34402-1.2945.26681-2.6538 1.4589-3.2465 1.1921-.59274 2.6335-.25388 3.4427.80934.80917 1.0632.76074 2.5547-.11566 3.5623-.73882.84942-1.8926 1.1555-2.9376.82254-.32755-.10437-.7745-.0624-1.0141.18666-2.6786 2.784-3.4907 6.2505-3.737 9.3122-.063686.7918.43982 1.7304 1.1635 2.0443 3.0046.83584 5.8648.79023 8.8235 0 .24352-.10564.46466-.28224.64763-.50017.36082-.42976.55788-1.0187.51591-1.5441-.25763-3.2251-.80444-6.1645-2.5981-8.2577" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path class="ColorScheme-Text" d="m18.305 7.7915c-.28495-1.0789.221-2.2118 1.2084-2.7058s2.1813-.2116 2.8515.67456c.67022.88616.63011 2.1292-.0958 2.969-.61196.70795-1.5676.96308-2.4332.68556-.27131-.08699-.64151-.05201-.83999.15557-1.0116 1.058-1.7019 2.2343-2.1728 3.443m2.0192 6.426c1.7857.22789 3.5362.07835 5.3304-.40386.2017-.08805.38487-.23524.53642-.41687.29886-.35818.46208-.84909.42732-1.287-.2134-2.688-.6663-5.1378-2.152-6.8824" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path d="m23.775 4.5h2.5415c1.7633 0 3.1829 1.4196 3.1829 3.1829v16.634c0 1.7633-1.4196 3.1829-3.1829 3.1829h-20.634c-1.7633 0-3.1829-1.4196-3.1829-3.1829v-16.634c0-1.7633 1.4196-3.1829 3.1829-3.1829h11.842" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path class="ColorScheme-Text" d="m8.9816 10.562c-.34402-1.2945.26681-2.6538 1.4589-3.2465 1.1921-.59274 2.6335-.25388 3.4427.80934.80917 1.0632.76074 2.5547-.11566 3.5623-.73882.84942-1.8926 1.1555-2.9376.82254-.32755-.10437-.7745-.0624-1.0141.18666-2.6786 2.784-3.4907 6.2505-3.737 9.3122-.063686.7918.43982 1.7304 1.1635 2.0443 3.0046.83584 5.8648.79023 8.8235 0 .24352-.10564.46466-.28224.64763-.50017.36082-.42976.55788-1.0187.51591-1.5441-.25763-3.2251-.80444-6.1645-2.5981-8.2577" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m18.305 7.7915c-.28495-1.0789.221-2.2118 1.2084-2.7058s2.1813-.2116 2.8515.67456c.67022.88616.63011 2.1292-.0958 2.969-.61196.70795-1.5676.96308-2.4332.68556-.27131-.08699-.64151-.05201-.83999.15557-1.0116 1.058-1.7019 2.2343-2.1728 3.443m2.0192 6.426c1.7857.22789 3.5362.07835 5.3304-.40386.2017-.08805.38487-.23524.53642-.41687.29886-.35818.46208-.84909.42732-1.287-.2134-2.688-.6663-5.1378-2.152-6.8824" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <path d="m23.775 4.5h2.5415c1.7633 0 3.1829 1.4196 3.1829 3.1829v16.634c0 1.7633-1.4196 3.1829-3.1829 3.1829h-20.634c-1.7633 0-3.1829-1.4196-3.1829-3.1829v-16.634c0-1.7633 1.4196-3.1829 3.1829-3.1829h11.842" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
 </svg>

@@ -1,13 +1,10 @@
-<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve">
   <defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style></defs>
-  <defs><style type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style></defs>
   <g transform="matrix(.87406 0 0 .87176 -5.604 -.019734)" style="stroke-width:1.1456">
-<defs><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">.ColorScheme-Text { color:#232629; }</style></defs><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.84672"><g style="stroke-width:.84672"><path class="ColorScheme-Text" transform="matrix(.96651 0 0 .96606 .98087 .28842)" d="m16.773 7.8406.30938-.31904a296.11 296.11 134.26 01.9932-1.0193l.30819-.31477a.63118.63118 89.736 00-.0041-.88728l-.93891-.94145a.74926.74926.0029842 00-1.061-5.53e-5l-5.3594 5.3727-2.311-2.3168a.74929.74929 180 00-1.061 5e-7l-.84892.85109a.75311.75311 90 006.8e-6 1.0637l3.2269 3.235a1.4668 1.4668 179.94 002.079-.002l2.8296-2.8478" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.87627;stroke:currentColor"/></g></g>
+<g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.84672"><g style="stroke-width:.84672"><path class="ColorScheme-Text" transform="matrix(.96651 0 0 .96606 .98087 .28842)" d="m16.773 7.8406.30938-.31904a296.11 296.11 134.26 01.9932-1.0193l.30819-.31477a.63118.63118 89.736 00-.0041-.88728l-.93891-.94145a.74926.74926.0029842 00-1.061-5.53e-5l-5.3594 5.3727-2.311-2.3168a.74929.74929 180 00-1.061 5e-7l-.84892.85109a.75311.75311 90 006.8e-6 1.0637l3.2269 3.235a1.4668 1.4668 179.94 002.079-.002l2.8296-2.8478" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.87627" stroke="currentColor"/></g></g>
   </g>
 </svg>

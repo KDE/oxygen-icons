@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg7">
   <defs>
     <style id="current-color-scheme" type="text/css">
@@ -7,10 +7,10 @@
    </style>
   </defs>
   <g transform="matrix(1.3529 0 0 1.3529 .1176 -3.8824)" style="stroke-width:.73913" id="g5">
-    <path d="m3.9918 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor" id="path1" class="ColorScheme-Text" />
-    <path transform="matrix(1,0,0,-1,0,28.627)" d="m15.503 11.128c.34617-.28836.84867-.28912 1.1957-.0018l3.8364 3.1756-3.6051 3.0026c-.48068.40038-1.1787.40038-1.6594 0" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor" id="path2" class="ColorScheme-Text" />
-    <path d="m8.4267 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor" id="path3" class="ColorScheme-Text" />
-    <path d="m12.862 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor" id="path4" class="ColorScheme-Text" />
-    <path d="m17.297 14.325h.68078" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913;stroke:currentColor" id="path5" class="ColorScheme-Text" />
+    <path d="m3.9918 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" id="path1" class="ColorScheme-Text" stroke="currentColor"/>
+    <path transform="matrix(1,0,0,-1,0,28.627)" d="m15.503 11.128c.34617-.28836.84867-.28912 1.1957-.0018l3.8364 3.1756-3.6051 3.0026c-.48068.40038-1.1787.40038-1.6594 0" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" id="path2" class="ColorScheme-Text" stroke="currentColor"/>
+    <path d="m8.4267 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" id="path3" class="ColorScheme-Text" stroke="currentColor"/>
+    <path d="m12.862 14.325h2.1591" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" id="path4" class="ColorScheme-Text" stroke="currentColor"/>
+    <path d="m17.297 14.325h.68078" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" id="path5" class="ColorScheme-Text" stroke="currentColor"/>
   </g>
 </svg>

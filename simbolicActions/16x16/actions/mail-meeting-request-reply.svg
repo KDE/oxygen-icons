@@ -1,14 +1,14 @@
-<svg width="16" height="16" viewBox="0 0 16 16" class="ColorScheme-Text" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" class="ColorScheme-Text" version="1.1">
  <defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }</style>
-  <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  
+  
  </defs>
- <path class="ColorScheme-Text" d="m2.702 4.8271c-.26038-.97996.20194-2.0089 1.1042-2.4576.9023-.44871 1.9933-.19219 2.6057.61269.61244.80488.57579 1.9339-.087543 2.6967-.5592.64302-1.4325.87474-2.2234.62268-.24792-.07901-.5862-.047238-.76757.1413-2.0274 2.1075-2.642 4.7317-2.8284 7.0494-.048202.59941.33289 1.3099.88065 1.5476 2.2741.63274 4.4389.59821 6.6783 0 .18431-.07997.35169-.21366.49017-.37864.27309-.32533.42225-.77121.39048-1.1689-.195-2.4414-.60886-4.6666-1.9665-6.2512" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke:currentColor"/>
- <path d="m12.5 1.5v7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
- <path d="m12.5 10.5v.24148" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/>
+ <path class="ColorScheme-Text" d="m2.702 4.8271c-.26038-.97996.20194-2.0089 1.1042-2.4576.9023-.44871 1.9933-.19219 2.6057.61269.61244.80488.57579 1.9339-.087543 2.6967-.5592.64302-1.4325.87474-2.2234.62268-.24792-.07901-.5862-.047238-.76757.1413-2.0274 2.1075-2.642 4.7317-2.8284 7.0494-.048202.59941.33289 1.3099.88065 1.5476 2.2741.63274 4.4389.59821 6.6783 0 .18431-.07997.35169-.21366.49017-.37864.27309-.32533.42225-.77121.39048-1.1689-.195-2.4414-.60886-4.6666-1.9665-6.2512" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <path d="m12.5 1.5v7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+ <path d="m12.5 10.5v.24148" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
 </svg>

@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
-     <style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  </defs>
-  <g transform="translate(1, 1)">
-    <path transform="matrix(0,1,1,0,0,0)" d="m2.5009 12.499a8 8 0 018-8 8 8 0 018 8h-8z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path class="ColorScheme-Highlight" d="m10.491 17.105v2.6273a.75361.77365 0 00.75361.77365h2.4792a.78279.80361 0 00.78279-.80361v-2.4121a.78279.80361 0 00-.78279-.80361h-2.6304a.60234.61836 0 00-.60234.61836z" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997;stroke:currentColor"/><path class="ColorScheme-Highlight" d="m11.523 9.809v1.276a.36632.37573 0 00.36632.37573h1.2051a.3805.39028 0 00.3805-.39028v-1.1715a.3805.39028 0 00-.3805-.39028h-1.2786a.29279.30031 0 00-.29279.30031z" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99998;stroke:currentColor"/>
-  </g>
-</svg>
+   </style></defs><g transform="translate(1,1)"><path transform="matrix(0,1,1,0,0,0)" d="m2.5009 12.499a8 8 0 018-8 8 8 0 018 8h-8z" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path class="ColorScheme-Highlight" d="m10.491 17.105v2.6273a.75361.77365 0 00.75361.77365h2.4792a.78279.80361 0 00.78279-.80361v-2.4121a.78279.80361 0 00-.78279-.80361h-2.6304a.60234.61836 0 00-.60234.61836z" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/><path class="ColorScheme-Highlight" d="m11.523 9.809v1.276a.36632.37573 0 00.36632.37573h1.2051a.3805.39028 0 00.3805-.39028v-1.1715a.3805.39028 0 00-.3805-.39028h-1.2786a.29279.30031 0 00-.29279.30031z" style="color:#3daee9;fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99998" stroke="currentColor"/></g></svg>

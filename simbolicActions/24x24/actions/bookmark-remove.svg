@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   viewBox="0 0 24 24"
-   xml:space="preserve"
-   xmlns="http://www.w3.org/2000/svg">
-  <defs>
-     <style id="current-color-scheme" type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-  </defs>
-  <g transform="translate(1, 1)">
-    <path d="m13.5 4.659v14.629c0 .48147-.56156.74449-.93143.43626l-4.1371-3.4476c-.53956-.44963-1.3233-.44963-1.8629 0l-4.1371 3.4476c-.36988.30823-.93143.045213-.93143-.43626v-15.125c0-.91821.74436-2.2626 1.6626-2.2626h10.129" style="fill:#232629;opacity:.05;paint-order:markers fill stroke"/><path transform="translate(-2,-1)" d="m17.5 11.5c1.0978 0 2-.84845 2-2.0509v-4.1093c0-1.0161-.82373-1.8398-1.8552-1.8398-1.2278.0080282-2.1528.9978-2.1448 2.159v7.3143m-3 6.0267-2.0686-1.7238c-.53956-.44963-1.3233-.44963-1.8629 0l-4.1371 3.4476c-.36988.30823-.93143.045213-.93143-.43626v-13.765a4.0228 4.0228 135 014.0228-4.0228h7.0685" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#232629"/><path d="m15.5 2c-.56372 0-1.0827.18559-1.5.49805v8.502h1.5c1.385 0 2.5-1.115 2.5-2.5v-4c0-1.385-1.115-2.5-2.5-2.5z" style="fill:#232629;opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/><g transform="matrix(1.0252 0 0 1.0252 1.9842 3.172)" style="stroke-width:.97545"><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.72099"/><circle transform="rotate(-45)" cx=".81933" cy="19.895" r="4.3926" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/><path d="m16.629 11.507-3.9628 3.9628" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/><path d="m16.564 15.406-3.8341-3.8341" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/></g>
-  </g>
-</svg>
+
+  
+
+  </defs><g transform="translate(1,1)"><path d="m13.5 4.659v14.629c0 .48147-.56156.74449-.93143.43626l-4.1371-3.4476c-.53956-.44963-1.3233-.44963-1.8629 0l-4.1371 3.4476c-.36988.30823-.93143.045213-.93143-.43626v-15.125c0-.91821.74436-2.2626 1.6626-2.2626h10.129" style="opacity:.05;paint-order:markers fill stroke" fill="currentColor" class="ColorScheme-Text"/><path transform="translate(-2,-1)" d="m17.5 11.5c1.0978 0 2-.84845 2-2.0509v-4.1093c0-1.0161-.82373-1.8398-1.8552-1.8398-1.2278.0080282-2.1528.9978-2.1448 2.159v7.3143m-3 6.0267-2.0686-1.7238c-.53956-.44963-1.3233-.44963-1.8629 0l-4.1371 3.4476c-.36988.30823-.93143.045213-.93143-.43626v-13.765a4.0228 4.0228 135 014.0228-4.0228h7.0685" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/><path d="m15.5 2c-.56372 0-1.0827.18559-1.5.49805v8.502h1.5c1.385 0 2.5-1.115 2.5-2.5v-4c0-1.385-1.115-2.5-2.5-2.5z" style="opacity:.2;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" fill="currentColor" class="ColorScheme-Text"/><g transform="matrix(1.0252 0 0 1.0252 1.9842 3.172)" style="stroke-width:.97545"><circle transform="rotate(-45)" cx=".81933" cy="19.895" r="4.3926" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/><path d="m16.629 11.507-3.9628 3.9628" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/><path d="m16.564 15.406-3.8341-3.8341" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.97545;stroke:#720000"/></g></g></svg>

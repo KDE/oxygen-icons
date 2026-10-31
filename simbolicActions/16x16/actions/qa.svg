@@ -1,63 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg4"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
-    <style
-       id="style1"
-       type="text/css">
+    <style id="style1" type="text/css">
      .ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }
    </style>
   </defs>
-  <g
-     fill="none"
-     stroke="currentColor"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-width="1.0074"
-     id="g4">
-    <g
-       class="ColorScheme-Text"
-       transform="matrix(.99355 0 0 .99184 -.20418 -7.1208)"
-       id="g1">
-      <path
-         transform="translate(-.7917 -.7917)"
-         d="m4.4394 18.603-1.8651 1.8651c-.35781.35774-.94758.1575-1.0474-.30202-.016181-.07453-.01461-.19928-.014686-.27571l-.00855-8.6435a2.7684 2.7684 134.97 012.7682-2.7712l6.8239-.0006397c1.3806-.0001295 2.4998 1.1193 2.5 2.5"
-         style="paint-order:fill markers stroke;stroke-width:1.0074"
-         id="path1" />
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0074" id="g4">
+    <g class="ColorScheme-Text" transform="matrix(.99355 0 0 .99184 -.20418 -7.1208)" id="g1">
+      <path transform="translate(-.7917 -.7917)" d="m4.4394 18.603-1.8651 1.8651c-.35781.35774-.94758.1575-1.0474-.30202-.016181-.07453-.01461-.19928-.014686-.27571l-.00855-8.6435a2.7684 2.7684 134.97 012.7682-2.7712l6.8239-.0006397c1.3806-.0001295 2.4998 1.1193 2.5 2.5" style="paint-order:fill markers stroke;stroke-width:1.0074" id="path1"/>
     </g>
-    <g
-       class="ColorScheme-Text"
-       transform="matrix(-.99355 0 0 .99184 22.524 -1.1946)"
-       id="g2">
-      <path
-         transform="matrix(.72925 0 0 .7251 4.3304 2.6782)"
-         d="m8.7653 4.2246h7.6514c1.3807 0 2.4997 1.1193 2.5 2.5l.000686 3.4777a5.145 5.145 134.99 01-5.1451 5.146l-4.52-9e-5c-.96045-2e-6-1.8816.38154-2.5607 1.0607l-1.8651 1.8651c-.3917.39163-1.0614.11456-1.0619-.43934l-.00804-8.596c-.00238-2.768 2.2408-5.0131 5.0088-5.0131z"
-         style="paint-order:fill markers stroke;stroke-width:1.3853"
-         id="path2" />
+    <g class="ColorScheme-Text" transform="matrix(-.99355 0 0 .99184 22.524 -1.1946)" id="g2">
+      <path transform="matrix(.72925 0 0 .7251 4.3304 2.6782)" d="m8.7653 4.2246h7.6514c1.3807 0 2.4997 1.1193 2.5 2.5l.000686 3.4777a5.145 5.145 134.99 01-5.1451 5.146l-4.52-9e-5c-.96045-2e-6-1.8816.38154-2.5607 1.0607l-1.8651 1.8651c-.3917.39163-1.0614.11456-1.0619-.43934l-.00804-8.596c-.00238-2.768 2.2408-5.0131 5.0088-5.0131z" style="paint-order:fill markers stroke;stroke-width:1.3853" id="path2"/>
     </g>
-    <g
-       class="ColorScheme-Text"
-       transform="matrix(.99355 0 0 .99184 -.20418 -7.1208)"
-       id="g3">
-      <path
-         transform="translate(-.7917 -.7917)"
-         d="m13.596 14.393.000501 1.2171a1.9384 1.9384 134.99 01-1.9384 1.9392l-4.6582-.000136"
-         style="opacity:.24217;paint-order:fill markers stroke;stroke-width:1.0074"
-         id="path3" />
+    <g class="ColorScheme-Text" transform="matrix(.99355 0 0 .99184 -.20418 -7.1208)" id="g3">
+      <path transform="translate(-.7917 -.7917)" d="m13.596 14.393.000501 1.2171a1.9384 1.9384 134.99 01-1.9384 1.9392l-4.6582-.000136" style="opacity:.24217;paint-order:fill markers stroke;stroke-width:1.0074" id="path3"/>
     </g>
   </g>
 </svg>
