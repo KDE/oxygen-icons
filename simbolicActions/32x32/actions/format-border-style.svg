@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <path class="ColorScheme-Text" d="m18 7c-.554 0-1 .446-1 1v7c0 .29897.12929.56706.33594.75l1.2246-1.2266-.22461-.40625c-.29053-.51962-.20038-1.169.2207-1.5898l4.1406-4.1387c1.3836-.90162 3.4167-.59761 4.3661-1.3887zm-13 .125c-.554 0-1 .446-1 1v6.875c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-6.875c0-.554-.446-1-1-1zm24 4.709c-.0406.04893-.08322.09686-.12891.14258-.000652.000651-.0013.0013-.002.002l-4.0214 4.0214h3.1523c.554 0 1-.446 1-1zm-24 5.166c-.554 0-1 .446-1 1v7c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-.29688l-2.0254 1.0137h-.002c-.8063.40299-1.7875.17544-2.3438-.38086-.5563-.5563-.78385-1.5375-.38086-2.3438v-.002l1.0586-2.1172c.26381-.42959.74782-.6731 1.25-.62891-.06523-.23382-.06523-.48103 0-.71484l2.1934-2.1933c-.18295-.20684-.45088-.33594-.75-.33594zm18.848 0-6.4121 6.4102c-.14159.039591-.28877.05543-.43555.046875v1.543c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-7c0-.554-.446-1-1-1z" style="opacity:.1;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+  
+  
+  
+  
+  
+  <path class="ColorScheme-Text" d="m3 26.5h27" fill="currentColor" stroke="currentColor" style="paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+  
+  
+  
+<g transform="translate(1.5 -4.0012)"><g class="ColorScheme-Text" transform="translate(7.9968 9.4707)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers"><path d="m4 16-1.0585 2.1171a.70172.70172 45 00.94146.94146l2.1171-1.0585-1.1452-1.1452" stroke="currentColor" class="ColorScheme-Text"/><path d="m7 17-2-2 11.433-11.433a.8013.8013-180 011.1332 0l.86679.86679a.8013.8013 90 010 1.1332z" stroke="currentColor" class="ColorScheme-Text"/><path d="m16 4-.13933-.13933a1.2172 1.2172 0 00-1.7213 0l-4.1393 4.1393" stroke="currentColor" class="ColorScheme-Text"/><path d="m17.7 3.3.73455-.73455a.40209.40209-180 01.56864-1e-7l.41249.41249a.40209.40209 90 010 .56864l-.71568.71568" stroke="currentColor" class="ColorScheme-Text"/></g></g></svg>
