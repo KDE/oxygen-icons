@@ -1,1 +1,12 @@
-../../../applets/24x24/document-open-folder-symbolic.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g transform="translate(1,1)"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m3.1571 20.5c-1.466 1.3e-5-2.6525-1.1909-2.6463-2.6559l.00032844 8.4e-5.022443-2.417c.004486-1.0657.87023-1.9272 1.9365-1.9272h4.8049c.6829 0 1.2365-.55326 1.2365-1.2358.0006855-.68179.55429-1.765 1.2365-1.7642h9.8226c1.065 0 1.9284.8628 1.9284 1.9272l3.7e-5 2.8809 3.9e-5 2.536c0 1.4668-1.1898 2.6559-2.6576 2.6559z" fill="currentColor" style="opacity:.1;paint-order:fill markers stroke" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m21.499 12.427 3.7e-5 3.8809 3.9e-5 1.536c0 1.4668-1.1898 2.6559-2.6576 2.6559h-15.684c-1.466 1.3e-5-2.6525-1.1909-2.6463-2.6559l.00032844 8.4e-5.022443-2.417c.004485-1.0657.87023-1.9272 1.9365-1.9272h4.8049c.6829 0 1.2365-.55326 1.2365-1.2358.0006855-.68179.55429-1.765 1.2365-1.7642h9.8226" style="paint-order:fill markers stroke" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m.5 12.339v-9.5989c0-.68464.55535-1.2397 1.2405-1.2397h8.6368c.68507 0 1.1405.80199 1.1405 1.7704 0 .72939 1.0018 1.2294 1.9529 1.2294h6.1764c1.0234 0 1.8529.82905 1.8529 1.8518v7.8513" style="paint-order:fill markers stroke" stroke="currentColor"/>
+ </g>
+</g></svg>
