@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g transform="translate(1,1)"><g fill="currentColor">
+  <rect class="ColorScheme-Text" x="10" y="9" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="14" y="9" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="18" y="9" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="2" y="12" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="6" y="12" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="10" y="12" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="14" y="12" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="18" y="12" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="2" y="15" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="6" y="15" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="10" y="15" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="2" y="18" width="3" height="2" opacity=".15" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="6" y="18" width="3" height="2" opacity=".3" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="10" y="18" width="3" height="2" opacity=".15" fill="currentColor"/>
+ </g>
+ <path class="ColorScheme-Text" d="m21.499 9.4272 3.7e-5 3.8809m-8.2316 7.1919h-10.11c-1.466 1.3e-5-2.6525-1.1909-2.6463-2.6559l.00032844 8.4e-5.022443-5.417c.004485-1.0657.87023-1.9272 1.9365-1.9272h4.8049c.6829 0 1.2365-.55326 1.2365-1.2358.0006855-.68179.55429-1.765 1.2365-1.7642h9.8226" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m.5 9.3389v-6.5989c0-.68464.55535-1.2397 1.2405-1.2397h8.6368c.68507 0 1.1405.80199 1.1405 1.7704 0 .72939 1.0018 1.2294 1.9529 1.2294h6.1764c1.0234 0 1.8529.82905 1.8529 1.8518v4.8513" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round"/>
+ <g transform="translate(-1)">
+  <g transform="translate(-17.344 -30.482)">
+   <path class="ColorScheme-Text" d="m36.312 44.904c-1.0979 0-1.998.90012-1.998 1.998v.50195h-.14258c-.46731 0-.85742.39011-.85742.85742v2.9453c0 .65562.54164 1.1973 1.1973 1.1973h2.9863c.99714 0 1.8164-.81731 1.8164-1.8145v-2.3281c0-.46731-.39011-.85742-.85742-.85742h-.14258v-.50195c0-1.0979-.90012-1.998-1.998-1.998zm0 1h.0039c.55753 0 .99805.44055.99805.99805v.50195h-2v-.50195c0-.55749.44055-.99805.99805-.99805zm-1.998 2.5h4v2.1855c0 .4567-.3597.81445-.81641.81445h-2.9863c-.11518 0-.19727-.08208-.19727-.19727z" fill="currentColor"/>
+  </g>
+ </g>
+</g></svg>
