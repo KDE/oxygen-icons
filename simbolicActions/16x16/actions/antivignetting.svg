@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
-    <radialGradient id="corner-shading" cx="0" cy="0" r="1" gradientTransform="matrix(6.625 0 0 4.425 8 8)" gradientUnits="userSpaceOnUse">
-      <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset=".7"/>
-      <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".45" offset="1"/>
-    </radialGradient>
-  </defs>
-  <g class="ColorScheme-Text">
-    <rect class="ColorScheme-Text" x="2" y="4" width="12" height="8" rx="1" fill="url(#corner-shading)"/>
-  </g>
-  <path class="ColorScheme-Text" d="M4.5 2.5H2A1.5 1.5 0 0 0 .5 4V5.5M11.5 2.5H14A1.5 1.5 0 0 1 15.5 4V5.5M15.5 10.5V12A1.5 1.5 0 0 1 14 13.5H11.5M4.5 13.5H2A1.5 1.5 0 0 1 .5 12V10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-  <path class="ColorScheme-Highlight" d="M5.5 6.5 3.5 4.5M3.5 6V4.5H5M10.5 6.5 12.5 4.5M11 4.5H12.5V6M5.5 9.5 3.5 11.5M3.5 10V11.5H5M10.5 9.5 12.5 11.5M11 11.5H12.5V10" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <radialGradient id="corner-shading" cx="0" cy="0" r="1" gradientTransform="matrix(5.9887 0 0 4 8 8)" gradientUnits="userSpaceOnUse">
+   <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset=".5"/>
+   <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".45" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path class="ColorScheme-Text" d="m5.4043 4c.062016.15872.095703.32766.095703.5 0 .22993-.16124.40969-.26758.61133l.32812.32812c.55523.55534.55523 1.5657 0 2.1211-.55534.55523-1.5657.55523-2.1211 0l-.32812-.32812c-.20164.10634-.3814.26758-.61133.26758-.17234 0-.34128-.033688-.5-.095703v1.1914c.15872-.062016.32766-.095703.5-.095703.22993 0 .40969.16124.61133.26758l.32812-.32812c.27763-.27769.66787-.43939 1.0605-.43945.39268 5.94e-5.78291.16176 1.0605.43945.55523.55534.55523 1.5657 0 2.1211l-.32812.32812c.10634.20164.26758.3814.26758.61133 0 .17234-.033688.34128-.095703.5h5.1914c-.062015-.15872-.095703-.32766-.095703-.5 0-.22993.16124-.40969.26758-.61133l-.32812-.32812c-.55523-.55534-.55523-1.5657 0-2.1211.27767-.27761.66911-.41602 1.0605-.41602s.78288.1384 1.0605.41602l.32812.32812c.20164-.10634.3814-.26758.61133-.26758.17234 0 .34128.033688.5.095703v-1.1914c-.15872.062016-.32766.095703-.5.095703-.22993 0-.40969-.16124-.61133-.26758l-.32812.32812c-.55534.55523-1.5658.55523-2.1211 0-.55523-.55534-.55523-1.5657 0-2.1211l.32812-.32812c-.10634-.20164-.26758-.3814-.26758-.61133 0-.17234.033688-.34128.095703-.5h-5.1914z" style="fill:url(#corner-shading)"/>
+ <path class="ColorScheme-Text" d="m3.5 2.5h-1.5c-.82843 0-1.5.67157-1.5 1.5v1.5m12-3h1.5c.82843 0 1.5.67157 1.5 1.5v1.5m0 5v1.5c0 .82843-.67157 1.5-1.5 1.5h-1.5m-9 0h-1.5c-.82843 0-1.5-.67157-1.5-1.5v-1.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Highlight" d="m4.5 6.5-2-2m0 1.5v-1.5h1.5m7.5 2 2-2m-1.5 0h1.5v1.5m-9 3.5-2 2m0-1.5v1.5h1.5m7.5-2 2 2m-1.5 0h1.5v-1.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
