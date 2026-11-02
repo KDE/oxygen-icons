@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g transform="translate(1,1)"><path class="ColorScheme-Text" transform="matrix(-1,0,0,1,23,0)" d="m12.782 5.63-3.3577 4.7075a2.0018 2.0018 90 000 2.3248l3.3577 4.7075a.68542.68542 135.76 01-.97073.94526l-7.8968-5.9555a1.0768 1.0768 90 010-1.7194l7.8968-5.9555a.68542.68542 44.238 01.97073.94526z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" transform="matrix(-1,0,0,1,16,0)" d="m13.536 5.6514-2.299 4.573a2.8401 2.8401 90 000 2.5513l2.299 4.573a.77343.77343 142.59 01-1.2073.92329l-6.4905-5.8188a1.28 1.28 90 010-1.9062l6.4905-5.8188a.77343.77343 37.407 011.2073.92329z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
