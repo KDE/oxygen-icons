@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="M5.1 15.56 17.8 5.83C19.04 4.88 20.5 5.65 20.5 7.14V10.87Q20.5 11.5 21.13 11.5H24.8A1.7 1.7 0 0 1 26.5 13.2V18.8A1.7 1.7 0 0 1 24.8 20.5H21.13Q20.5 20.5 20.5 21.13V24.86C20.5 26.35 19.04 27.12 17.8 26.17L5.1 16.44Q4.55 16 5.1 15.56Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(-1 0 0 1 32 0)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs><g stroke="currentColor"><path class="ColorScheme-Text" transform="matrix(-1 0 0 1 32 0)" d="m5.1 15.56 12.7-9.73c1.24-.95 2.7-.18 2.7 1.31v3.73q0 .63.63.63h3.67a1.7 1.7 0 011.7 1.7v5.6a1.7 1.7 0 01-1.7 1.7h-3.67q-.63 0-.63.63v3.73c0 1.49-1.46 2.26-2.7 1.31l-12.7-9.73q-.55-.44 0-.88z" fill="currentColor" fill-opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/><path class="ColorScheme-Text" d="m10.5 5.6409 2e-5-1.1409h1.1534m3.8559 0h10.793c1.7665 0 3.1984 1.4298 3.1984 3.1937l-.000181 5.423-.000355 12.521c0 1.0283-.83486 1.8619-1.8647 1.8619l-12.363.000424m-3.6825.000127-1.0892 3.7e-5 2.6e-5-1.0252" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/><path class="ColorScheme-Text" d="m7.5 9.9316 5.97e-5-5.4316h1.5206m.057091 23.001-1.5771 5.4e-5.000107-5.5846" style="fill:none;opacity:.3;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/></g></svg>
