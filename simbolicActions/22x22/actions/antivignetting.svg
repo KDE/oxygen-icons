@@ -3,12 +3,12 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
-  <radialGradient id="corner-shading" cx="9.7738" cy="12.38" r="11.817" gradientTransform="matrix(.84621 0 0 .67697 2.7293 2.619)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="corner-shading" cx="9.7738" cy="12.38" r="11.817" gradientTransform="matrix(.74683 0 0 .56012 3.7006 4.0656)" gradientUnits="userSpaceOnUse">
    <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset=".7"/>
    <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".45" offset="1"/>
   </radialGradient>
  </defs>
- <rect x="1" y="3" width="20" height="16" rx="3.3157" ry="3.3157" fill="url(#corner-shading)" style="fill:url(#corner-shading)"/>
+ <rect x="3" y="5" width="16" height="12" rx="1.1099" ry="1.1099" fill="url(#corner-shading)" style="fill:url(#corner-shading)"/>
  <path class="ColorScheme-Text" d="m6.5 3.5h-3c-1.1046 0-2 .89543-2 2v3m14-5h3c1.1046 0 2 .89543 2 2v3m0 5v3c0 1.1046-.89543 2-2 2h-3m-9 0h-3c-1.1046 0-2-.89543-2-2v-3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
  <path class="ColorScheme-Highlight" d="m7.5 9.5-3-3m0 2v-2h2m8 3 3-3m-2 0h2v2m-10 4-3 3m0-2v2h2m8-3 3 3m-2 0h2v-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
