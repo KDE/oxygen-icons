@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path class="ColorScheme-Text" d="M1.05 7.56 9.07 1.49C10.02 .71 11.5 1.41 11.5 2.62V3.87Q11.5 4.5 12.13 4.5H14.3A1.2 1.2 0 0 1 15.5 5.7V10.3A1.2 1.2 0 0 1 14.3 11.5H12.13Q11.5 11.5 11.5 12.13V13.38C11.5 14.59 10.02 15.29 9.07 14.51L1.05 8.44Q.5 8 1.05 7.56Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(-1 0 0 1 16 0)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style><style type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs><g stroke="currentColor"><path class="ColorScheme-Text" transform="matrix(-1 0 0 1 16 0)" d="m1.05 7.56 8.02-6.07c.95-.78 2.43-.08 2.43 1.13v1.25q0 .63.63.63h2.17a1.2 1.2 0 011.2 1.2v4.6a1.2 1.2 0 01-1.2 1.2h-2.17q-.63 0-.63.63v1.25c0 1.21-1.48 1.91-2.43 1.13l-8.02-6.07q-.55-.44 0-.88z" fill="currentColor" fill-opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/><path class="ColorScheme-Text" d="m2.5 2.9266 2.68e-5-2.4266h1.2321m4.108 0h5.5753c1.1513 0 2.0846.9342 2.0846 2.0867l-6.5e-5 3.2666m-8.4e-5 4.224-8.4e-5 4.224c-4.9e-5.67718-.54845 1.2261-1.2249 1.2262l-6.1662.000202m-4.7256.000155-.88248 2.9e-5 6.97e-5-2.614" style="fill:none;opacity:.6;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99998" stroke="currentColor"/><path class="ColorScheme-Text" d="m.50002 2.9266 2.68e-5-2.4266h.63208m-.14904 15.028-.48248 2.9e-5 6.97e-5-2.614" style="fill:none;opacity:.3;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99998" stroke="currentColor"/></g></svg>
