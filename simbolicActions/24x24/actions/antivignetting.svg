@@ -3,12 +3,12 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
-  <radialGradient id="corner-shading" cx="9.7738" cy="12.38" r="11.817" gradientTransform="matrix(.74683 0 0 .56012 3.7006 4.0656)" gradientUnits="userSpaceOnUse">
+  <radialGradient id="corner-shading" cx="9.7738" cy="12.38" r="11.817" gradientTransform="matrix(.67698 0 0 .50773 4.3833 4.7141)" gradientUnits="userSpaceOnUse">
    <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity="0" offset=".7"/>
    <stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".45" offset="1"/>
   </radialGradient>
  </defs>
- <g transform="translate(1,1)"><g class="ColorScheme-Text"><rect x="3" y="5" width="16" height="12" rx="1.1099" ry="1.1099" fill="url(#corner-shading)" class="ColorScheme-Text"/>
- </g><path class="ColorScheme-Text" d="m6.5 3.5h-3c-1.1046 0-2 .89543-2 2v3m14-5h3c1.1046 0 2 .89543 2 2v3m0 5v3c0 1.1046-.89543 2-2 2h-3m-9 0h-3c-1.1046 0-2-.89543-2-2v-3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <g transform="translate(1,1)"><path class="ColorScheme-Text" d="m6.5 5c.7854 0 1.5.7146 1.5 1.5 0 .36106-.17847.69235-.41797.96094l.97852.97852c.55523.55534.55523 1.5657 0 2.1211-.55534.55522-1.5657.55522-2.1211 0l-.97852-.97852c-.26859.2395-.59987.41797-.96094.41797-.7854 0-1.5-.7146-1.5-1.5v5c0-.7854.7146-1.5 1.5-1.5.36106 0 .69235.17847.96094.41797l.97852-.97852c.27764-.27769.66787-.43939 1.0605-.43945.39268 5.9e-5.78291.16176 1.0605.43945.55523.55534.55523 1.5658 0 2.1211l-.97852.97852c.2395.26859.41797.59988.41797.96094 0 .7854-.7146 1.5-1.5 1.5h9c-.7854 0-1.5-.7146-1.5-1.5 0-.36106.17847-.69235.41797-.96094l-.97852-.97852c-.55523-.55534-.55523-1.5658 0-2.1211.27767-.27761.66911-.41602 1.0605-.41602.39144-1e-6.78288.1384 1.0605.41602l.97852.97852c.26859-.2395.59988-.41797.96094-.41797.7854 0 1.5.7146 1.5 1.5v-5c0 .7854-.7146 1.5-1.5 1.5-.36106 0-.69235-.17847-.96094-.41797l-.97852.97852c-.55534.55523-1.5658.55523-2.1211 0-.55522-.55534-.55522-1.5657 0-2.1211l.97852-.97852c-.2395-.26859-.41797-.59987-.41797-.96094 0-.7854.7146-1.5 1.5-1.5z" style="fill:url(#corner-shading)"/>
+ <path class="ColorScheme-Text" d="m6.5 3.5h-3c-1.1046 0-2 .89543-2 2v3m14-5h3c1.1046 0 2 .89543 2 2v3m0 5v3c0 1.1046-.89543 2-2 2h-3m-9 0h-3c-1.1046 0-2-.89543-2-2v-3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
  <path class="ColorScheme-Highlight" d="m7.5 9.5-3-3m0 2v-2h2m8 3 3-3m-2 0h2v2m-10 4-3 3m0-2v2h2m8-3 3 3m-2 0h2v-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>
