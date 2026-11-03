@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" class="ColorScheme-Text" width="22" height="22" version="1.1" viewBox="0 0 22 22" id="svg2">
-  <defs id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path id="circle1" style="fill:none;stroke-width:1.26728;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" class="ColorScheme-Text" d="m 10.78734,8.8121319 c -0.472016,-1.7615866 0.366074,-3.6112891 2.001726,-4.4179037 1.635653,-0.8066144 3.613316,-0.3454878 4.723532,1.1013733 1.110216,1.4468613 1.043773,3.4764865 -0.158695,4.8476385 -1.013698,1.155901 -2.596731,1.572446 -4.030493,1.119333 -0.449418,-0.14203 -1.062647,-0.08492 -1.391429,0.254008 -3.6751232,3.788539 -4.7894266,8.505792 -5.1272968,12.672165 -0.087379,1.077501 0.6034443,2.354743 1.5964207,2.781939 4.1224051,1.137427 8.0467051,1.075358 12.1061901,0 0.334113,-0.143758 0.637531,-0.38408 0.888572,-0.680639 0.495056,-0.584819 0.765435,-1.386334 0.707849,-2.1013 C 21.750233,20 21,16 18.53896,13.151554" transform="matrix(0.78673005,0,0,0.79145615,-0.38724835,-1.6613041)" stroke="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" class="ColorScheme-Text" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+ <path d="m4.8252 15.496-.55031.55031a2.6992 2.6992 50.121 003.4474 4.1262l3.3498-2.3245c2.7404-1.9016 5.7324-2.7354 8.3589-1.0117.42976.28205.83844.61927 1.2178 1.0117" stroke-width="1.25" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1" class="ColorScheme-Text" stroke="currentColor"/>
+ <path transform="rotate(45 17.545 4.3075)" d="m19.945 5.734c-.24246-1.0904-.99222-1.9921-1.9913-2.4412-.72154-.32429-2.0784-.33461-2.7997-.010605-1.1882.53373-2.0059 1.7315-2.1516 3.1266-.12271 1.1757 4.111 1.3239 6.0644.82385.60174-.15404.97985-.039346.76956.5726-.47966 1.3958-1.8039 2.3989-3.3625 2.3989-1.3521-.01554-2.5171-.79263-3.0919-1.9189" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m13.939 9.9879-6.492 5.6465c-1.7799 1.5481-4.0461-.71768-2.5026-2.5013l5.3965-6.2361" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
