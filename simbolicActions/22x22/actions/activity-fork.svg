@@ -5,12 +5,12 @@
 .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m19 11.5h-16" stroke="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(-1,1)" d="m11.5.5v5.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m10.5 9-2-2" stroke="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(-6,10)" d="m11.5 1.5v4.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m5.5 18-2-2" stroke="currentColor"/>
-  <path class="ColorScheme-Text" transform="translate(5,10)" d="m11.5 1.5v4.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m16.5 18-2-2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m19 12.5h-16" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(-1,2)" d="m11.5.5v5.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m10.5 10-2-2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(-6,11)" d="m11.5 1.5v4.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.5 19-2-2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" transform="translate(5,11)" d="m11.5 1.5v4.5555a.80545.80545 22.5 001.375.56954l.62501-.62501" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.5 19-2-2" stroke="currentColor"/>
  </g>
 </svg>
