@@ -3,5 +3,5 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <g transform="translate(1,1)"><path class="ColorScheme-Text" d="m4.5237 5.0835 1.7324 11.024c.12021 1.2233 1.6617 1.7748 2.5173.91924l1.591-1.591q.44548-.44548.89096 0l1.5344 1.5344a1.2 1.2 0 001.6971 0l2.5456-2.5456a1.2 1.2 0 000-1.6971l-1.5344-1.5344q-.44548-.44548 0-.89096l1.591-1.591c.8556-.8556.30406-2.3971-.91924-2.5173l-11.024-1.7324q-.70004-.077782-.62225.62225z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <g transform="translate(1,1)"><path class="ColorScheme-Text" d="m2.5237 3.0835 1.7324 11.024c.12021 1.2233 1.6617 1.7748 2.5173.91924l1.591-1.591c.29699-.29699.59397-.29699.89096 0l5.5344 5.5344c.46863.46866 1.2285.46866 1.6971 0l2.5456-2.5456c.46866-.46863.46866-1.2285 0-1.6971l-5.5344-5.5344c-.29699-.29699-.29699-.59397 0-.89096l1.591-1.591c.8556-.8556.30406-2.3971-.91924-2.5173l-11.024-1.7324c-.46669-.051855-.67411.15556-.62225.62225z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>
