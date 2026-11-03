@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs><path transform="matrix(.6276 0 0 .63674 -2.1324 -.084121)" d="m15.772 16.025c-3.8726-.12893-7.0235-3.1598-7.3026-7.0245-.27909-3.8647 2.4036-7.3169 6.2175-8.0009 2.2641-.40606 4.4934.24117 6.1576 1.6127m2.7518 6.0658c-.0787 2.6726-1.5768 5.1644-4.003 6.4579-.37813.20159-.59535.66032-.46336 1.0682l2.4137 7.4584a.6211.6211 139.32 01-.8687.74677l-3.3506-1.6753a2.9622 2.9622 0 00-2.6494 0l-3.3506 1.6753a.55214.55214 42.99 01-.75688-.70554l2.4572-5.9192" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5819" class="ColorScheme-Text" stroke="currentColor"/><path d="m5.9695 4.36 2.4247 2.46 4.8494-4.92" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/></svg>
