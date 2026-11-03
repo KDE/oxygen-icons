@@ -1,1 +1,11 @@
-im-user.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" class="ColorScheme-Text">
+  <defs><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+  <g fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 8.2,10 V 6 A 2.8,2.8 0 0 1 11,3.2 2.8,2.8 0 0 1 13.8,6 V 10" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 6.5,9.5 V 10.8 A 4.5,4.5 0 0 0 11,15.3 4.5,4.5 0 0 0 15.5,10.8 V 9.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 11,15.4 V 19.2 M 8.3,20.1 H 13.7" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 9.1,5.7 H 12.9 M 8.6,7.7 H 13.4 M 8.8,9.6 H 13.2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+</svg>
