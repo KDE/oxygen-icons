@@ -1,15 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
  <defs>
-     <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  
-  
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
- <path class="ColorScheme-Text" d="m5.5 4.9999v22" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
- <path class="ColorScheme-Text" d="m14.8758 16.2547l.84554.54442a1.8936 1.8936 161.8 002.795-.91887l1.1717-3.0801a5.4838 5.4838 133.9 012.9809-3.0973" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
- <path class="ColorScheme-Text" transform="matrix(1.0497 0 0 1 -.87288 0)" d="m7.5694 21.476 3.8568-4.6827a2.6268 2.6268 171.13 013.4496-.53859l.84554.54442a1.8936 1.8936 161.8 002.795-.91887l1.1717-3.0801a5.4302 5.4302 134.11 012.9873-3.082l2.9247-1.2183-.1001 17-18 1e-4.069435-4.0237" style="opacity:.2;paint-order:fill markers stroke" fill="currentColor"/>
- <path class="ColorScheme-Text" d="m27.9 25.5h-24.4" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
-<g class="curve-node-copy" transform="translate(11.70000000 18.20000000)"><g transform="rotate(-30)"><g transform="scale(1.45454545)" stroke-width="0.68750000"><g transform="translate(-5.15000000 -13.80000000)"><g transform="translate(-28.079 -26.716)"><path class="ColorScheme-Text" d="m35.109 40.463c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/></g></g></g></g></g><g class="curve-node-copy" transform="translate(25.10000000 11.90000000)"><g transform="rotate(0)"><g transform="scale(1.45454545)" stroke-width="0.68750000"><g transform="translate(-20.00000000 -4.60000000)"><g transform="translate(-13.293 -35.893)"><path class="ColorScheme-Text" d="m34.793 40.463c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/></g></g></g></g></g></svg>
+ <path class="ColorScheme-Text" d="m5.5 4.9999v22" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997"/>
+ <path class="ColorScheme-Text" d="m10.354 18.011 1.1468-1.5788c.56081-.56081 1.5896-.72227 2.5897-.47053l1.6307.8374c1.0707.54982 2.3671.20608 2.795-.91887l1.1717-3.0801c.5307-1.3951 1.6072-2.5136 2.9809-3.0973" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997"/>
+ <path class="ColorScheme-Text" transform="matrix(1.0497 0 0 1 -.87288 0)" d="m7.5694 21.476.66692-.80973c.30361 1.159 1.3003 1.3859 2.99.6809 1.0205-.87542.84355-1.9875-.53087-3.3362l.73072-1.2177c.84694-1.0283 2.3295-1.2598 3.4496-.53859l.84554.54442c1.012.65158 2.3671.20608 2.795-.91887l1.1717-3.0801c.53027-1.394 1.6105-2.5085 2.9873-3.082l1.9362 1.1046c1.2893-.35936 1.6188-1.1336.98852-2.3229l-.1001 17-18 1e-4.069435-4.0237" fill="currentColor" style="opacity:.2;paint-order:fill markers stroke"/>
+ <path class="ColorScheme-Text" d="m27.9 25.5h-24.4" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997"/>
+ <g class="curve-node-copy" transform="matrix(.68865 0 0 .68864 25.073 8.8866)" style="stroke-width:1.4521">
+  <g style="stroke-width:1.4521">
+   <g transform="scale(1.4545)" stroke-width=".99833">
+    <g transform="translate(-20,-4.6)" style="stroke-width:.99833">
+     <g transform="translate(-13.293,-35.893)" style="stroke-width:.99833">
+      <path class="ColorScheme-Text" d="m34.793 40.463c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99833"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g class="curve-node-copy" transform="matrix(.68865 0 0 .68864 10.073 19.887)" style="stroke-width:1.4521">
+  <g style="stroke-width:1.4521">
+   <g transform="scale(1.4545)" stroke-width=".99833">
+    <g transform="translate(-20,-4.6)" style="stroke-width:.99833">
+     <g transform="translate(-13.293,-35.893)" style="stroke-width:.99833">
+      <path class="ColorScheme-Text" d="m34.793 40.463c0 .95482-.67448 1.7767-1.611 1.9629s-1.8741-.31491-2.2395-1.197-.05676-1.8995.73714-2.43c.79391-.53047 1.852-.42626 2.5272.2489" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99833"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
