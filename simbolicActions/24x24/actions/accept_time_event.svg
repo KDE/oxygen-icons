@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g transform="translate(1,1)"><path class="ColorScheme-Text" d="m15.496 7.5a5.9963 5.9963 0 00-5.9963 5.9963 5.9963 5.9963 0 005.9963 5.9963 5.9963 5.9963 0 005.9963-5.9963 5.9963 5.9963 0 00-5.9963-5.9963zm-1.9988 2.9981c.55366 0 .99938.44572.99938.99938v3.4978c0 .55365-.44572.99938-.99938.99938-.55365 0-.99938-.44572-.99938-.99938v-3.4978c0-.55365.44572-.99938.99938-.99938zm3.9975 0c.55365 0 .99938.44572.99938.99938v3.4978c0 .55365-.44572.99938-.99938.99938s-.99938-.44572-.99938-.99938v-3.4978c0-.55365.44572-.99938.99938-.99938z" fill="currentColor" style="opacity:.1;paint-order:markers fill stroke"/>
+ <path class="ColorScheme-Text" d="m15.496 19.493c3.3117 0 5.9963-2.6846 5.9963-5.9963s-2.6846-5.9963-5.9963-5.9963c-2.6831 0-4.9546 1.7622-5.7202 4.1924m3.7214-1.1943c.55366 0 .99938.44572.99938.99938v3.4978c0 .55365-.44572.99938-.99938.99938-.55365 0-.99938-.44572-.99938-.99938v-3.4978c0-.55365.44572-.99938.99938-.99938zm3.9975 0c.55365 0 .99938.44572.99938.99938v3.4978c0 .55365-.44572.99938-.99938.99938s-.99938-.44572-.99938-.99938v-3.4978c0-.55365.44572-.99938.99938-.99938z" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+ <g class="ColorScheme-Text" transform="matrix(1.2171 0 0 1.2171 -1.6479 -2.4428)" style="stroke-width:.82159">
+  <g style="stroke-width:.82159">
+   <path class="ColorScheme-Text" d="m2.6175 5.7318 2.5473 3.4088c.61367.82121.62392 1.9455.025324 2.7778l-3.1184 4.3357c-.70238.97656-.29662 1.7673.9063 1.7671 1.1235-.00019 2.2249 7.4e-5 3.4237 7.4e-5h8.094m-4.9437-14.784-6.3884 3e-7c-.77524 0-1.4037.62846-1.4037 1.4037" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.82159"/>
+  </g>
+ </g>
+ <g class="ColorScheme-Text" transform="matrix(-1.2171 0 0 1.2171 13.602 -2.4428)" style="stroke-width:.82159">
+  <g style="stroke-width:.82159">
+   <path class="ColorScheme-Text" d="m4.7734 18.021h-1.6098c-.77524 0-1.971-.83636-1.4037-1.4037l.85758-1.0903 2.5473-3.4088c.61367-.82121.62392-1.9455.025324-2.7778l-3.1184-4.3357c-.70238-.97656-.29662-1.7673.9063-1.7671" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.82159"/>
+  </g>
+ </g>
+</g></svg>
