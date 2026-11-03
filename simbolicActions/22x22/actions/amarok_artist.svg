@@ -2,10 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" class="ColorScheme-Text">
   <defs><style type="text/css">.ColorScheme-Text { color:#232629; }</style><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style></defs>
-  <g fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 8.2,10 V 6 A 2.8,2.8 0 0 1 11,3.2 2.8,2.8 0 0 1 13.8,6 V 10" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M 6.5,9.5 V 10.8 A 4.5,4.5 0 0 0 11,15.3 4.5,4.5 0 0 0 15.5,10.8 V 9.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M 11,15.4 V 19.2 M 8.3,20.1 H 13.7" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M 9.1,5.7 H 12.9 M 8.6,7.7 H 13.4 M 8.8,9.6 H 13.2" stroke="currentColor" class="ColorScheme-Text"/>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 13.1,7.1 6.7,13.5" stroke-width="2.4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 6.9,13.4 C 5.5,14.2 4.3,15 4.5,16.2 4.7,17.5 6.3,18 7.3,17 L 9.7,14.6 C 11.7,12.6 14.8,12.6 16.8,14.6" stroke-width="1.25" stroke="currentColor" class="ColorScheme-Text"/>
+    <g transform="rotate(45 15.1 5.05)" stroke-width="1.25">
+      <path d="M 13,7.8 V 4.4 A 2.1,2.1 0 0 1 17.2,4.4 V 7.8" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M 13.5,4.8 H 16.7 M 13.2,6.2 H 17" stroke="currentColor" class="ColorScheme-Text"/>
+    </g>
   </g>
 </svg>
