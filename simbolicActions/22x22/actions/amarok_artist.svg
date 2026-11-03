@@ -4,7 +4,7 @@
   <style type="text/css">.ColorScheme-Text { color:#232629; }</style>
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style></defs>
- <path d="m4.8252 15.496c-.88519.73705-1.4328 1.5553-1.267 2.5845.26977 1.8139 2.2059 2.2559 3.7767 1.1162l3.2372-2.3487c2.6998-1.9588 5.7324-2.7354 8.3589-1.0117.42976.28205.83844.61927 1.2178 1.0117" stroke-width="1.25" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m4.8252 15.496-.55031.55031a2.6992 2.6992 50.121 003.4474 4.1262l3.3498-2.3245c2.7404-1.9016 5.7324-2.7354 8.3589-1.0117.42976.28205.83844.61927 1.2178 1.0117" stroke-width="1.25" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1" class="ColorScheme-Text" stroke="currentColor"/>
  <path transform="rotate(45 17.545 4.3075)" d="m19.945 5.734c-.24246-1.0904-.99222-1.9921-1.9913-2.4412-.72154-.32429-2.0784-.33461-2.7997-.010605-1.1882.53373-2.0059 1.7315-2.1516 3.1266-.12271 1.1757 4.111 1.3239 6.0644.82385.60174-.15404.97985-.039346.76956.5726-.47966 1.3958-1.8039 2.3989-3.3625 2.3989-1.3521-.01554-2.5171-.79263-3.0919-1.9189" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
  <path d="m13.939 9.9879-6.492 5.6465c-1.7799 1.5481-4.0461-.71768-2.5026-2.5013l5.3965-6.2361" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
