@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m8.8531 18.444.2913.04161c.12309.01758.24636.02822.36914.03125.85947.02124 1.697-.31034 2.3125-.92578l7.1406-7.1406c2.0037-2.0037 2.0649-5.2136.18359-7.291-2.0616-2.2764-5.5491-2.1922-7.586-.10939l-7.1406 7.1406c-.70338.70336-1.0333 1.6969-.89258 2.6816l.58594 4.1016c.068659.48059.44518.85713.92578.92578l.9388.13412m-3.3816 1.2766c1-.42036.3356-1.8057-.6-1.8106-2-.0104-2 3-.048799 3h3.7493c1.644 0 1.7995-.71468 1.7995-2.9927 0-1.0294-.23281-1.2674-.9846-2.0192-.51208-.5125-.51208-1.343 0-1.8555.51274-.51333 1.3447-.51333 1.8574 0 .51208.5125.51208 1.343 0 1.8555" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+</svg>
