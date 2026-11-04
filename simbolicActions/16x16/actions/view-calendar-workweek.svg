@@ -11,15 +11,17 @@
    <path class="ColorScheme-Text" d="m1.7607 5.7702v5.1872c0 .63613.51569 1.1518 1.1518 1.1518h8.7839c.63613 0 1.1518-.51569 1.1518-1.1518v-7.1425c0-.72666-.58907-1.3157-1.3157-1.3157h-.53213a.36958.36958 135 00-.36958.36958v.000911a.36958.36958 135 01-.36958.36958h-1.4783a.36958.36958 45 01-.36958-.36958v-.000911a.36958.36958 45 00-.36958-.36958h-1.4606a.37854.37854 135.69 00-.37843.36947l-2.69e-5.00112a.37854.37854 135.69 01-.37843.36947h-1.4783a.36958.36958 45 01-.36958-.36958v-.000911a.36958.36958 45 00-.36958-.36958l-.81624 1e-7c-.57009 1e-7-1.0322.46215-1.0322 1.0322v.19707c0 .54799.44116.98915.98915.98915h9.1097" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913"/>
   </g>
  </g>
- <path class="ColorScheme-Text" d="m4.4.5h1.1567" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m10.4.5h1.1567" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
- <g fill="none" stroke="currentColor">
-  <rect class="ColorScheme-Highlight" x="5.5" y="7.5" width="1" height="1" rx=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Highlight" x="8.5" y="7.5" width="1" height="1" rx=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="11.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="2.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="5.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="8.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="11.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+ <g stroke="currentColor">
+  <path class="ColorScheme-Text" d="m4.4.5h1.1567" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m10.4.5h1.1567" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <g fill="none">
+   <rect class="ColorScheme-Highlight" x="5.5" y="7.5" width="1" height="1" rx=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Highlight" x="8.5" y="7.5" width="1" height="1" rx=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Text" x="12.5" y="7.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Text" x="2.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Text" x="5.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Text" x="8.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+   <rect class="ColorScheme-Text" x="12.5" y="11.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+  </g>
  </g>
 </svg>
