@@ -16,10 +16,10 @@
   <rect class="ColorScheme-Text" x="2.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
   <rect class="ColorScheme-Text" x="5.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
   <rect class="ColorScheme-Highlight" x="7.5" y="6.5" width="3" height="3" rx=".3" ry=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="11.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="12.5" y="7.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
   <rect class="ColorScheme-Text" x="2.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
   <rect class="ColorScheme-Text" x="5.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
   <rect class="ColorScheme-Text" x="8.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="11.5" y="11.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="12.5" y="11.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
  </g>
 </svg>
