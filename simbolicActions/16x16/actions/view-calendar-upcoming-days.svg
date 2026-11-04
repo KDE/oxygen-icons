@@ -4,7 +4,7 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
- <rect class="ColorScheme-Highlight" x="8.5" y="11.5" width="1" height="1" rx=".3" ry=".3" fill="none" stroke="currentColor"/>
+ <rect class="ColorScheme-Highlight" x="8.5" y="10.5" width="1" height="1" rx=".3" ry=".3" fill="none" stroke="currentColor"/>
  <path class="ColorScheme-Text" d="m15.133 1.8673v2.2662h-14.266v-2.2662z" fill="currentColor" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="opacity:.1" paint-order="stroke fill markers"/>
  <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.73913">
   <g style="stroke-width:.73913">
@@ -14,11 +14,11 @@
  <path class="ColorScheme-Text" d="m4.4.5h1.1567" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
  <path class="ColorScheme-Text" d="m10.4.5h1.1567" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
  <g fill="none" stroke="currentColor">
-  <rect class="ColorScheme-Text" x="2.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="5.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="8.5" y="7.5" width="1" height="1" rx=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Text" x="11.5" y="7.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
-  <rect class="ColorScheme-Highlight" x="11.5" y="11.5" width="1" height="1" rx=".3" stroke="currentColor"/>
-  <path class="ColorScheme-Highlight" d="m2.5 12h4m-1.5-1.5 1.5 1.5-1.5 1.5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="2.5" y="6.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="5.5" y="6.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="8.5" y="6.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Text" x="11.5" y="6.5" width="1" height="1" rx=".3" ry=".3" opacity=".3" stroke="currentColor"/>
+  <rect class="ColorScheme-Highlight" x="11.5" y="10.5" width="1" height="1" rx=".3" ry=".3" stroke="currentColor"/>
+  <path class="ColorScheme-Highlight" d="m2.5 11h4m-1.5-1.5 1.5 1.5-1.5 1.5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
  </g>
 </svg>
