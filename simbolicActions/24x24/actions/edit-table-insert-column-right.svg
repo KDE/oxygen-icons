@@ -5,15 +5,15 @@
 .ColorScheme-Highlight { color:#3daee9; }</style>
   </defs>
   <g transform="translate(1,1)"><g transform="translate(22 0) scale(-1 1)">
-    <path class="ColorScheme-Text" d="M9 6h10a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H9Z" fill="currentColor" opacity=".1"/>
-    <path class="ColorScheme-Highlight" d="M3 6h5v9H6.5v-.52473A1.4753 1.4753 0 0 0 5.0247 13h-.04946A1.4753 1.4753 0 0 0 3.5 14.4753V15H2V7a1 1 0 0 1 1-1ZM2 18h1.5v1H3a1 1 0 0 1-1-1ZM6.5 18H8v1H6.5Z" fill="currentColor" fill-opacity=".24314"/>
+    <path class="ColorScheme-Text" d="M8 3h11a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H8Z" fill="currentColor" opacity=".1"/>
+    <path class="ColorScheme-Highlight" d="M 3 3 A 1 1 0 0 0 2 4 L 2 15.001953 A 1.5 1.5 0 0 1 2.0546875 15 L 3 15 L 3 14.054688 A 1.5 1.5 0 0 1 4.5 12.554688 A 1.5 1.5 0 0 1 6 14.054688 L 6 15 L 6.9453125 15 A 1.5 1.5 0 0 1 7 15.001953 L 7 3 L 3 3 z M 2 17.998047 L 2 18 A 1 1 0 0 0 3 19 L 3.0019531 19 A 1.5 1.5 0 0 1 3 18.945312 L 3 18 L 2.0546875 18 A 1.5 1.5 0 0 1 2 17.998047 z M 7 17.998047 A 1.5 1.5 0 0 1 6.9453125 18 L 6 18 L 6 18.945312 A 1.5 1.5 0 0 1 5.9980469 19 L 7 19 L 7 17.998047 z " fill="currentColor" fill-opacity=".24314" fill-rule="evenodd"/>
     <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M1.5 13V7A1.5 1.5 0 0 1 3 5.5h.5m6 0H19A1.5 1.5 0 0 1 20.5 7v11a1.5 1.5 0 0 1-1.5 1.5H7m-4 0A1.5 1.5 0 0 1 1.5 18" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="M8.5 5.5V15m0 3v1.5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="M14.5 5.5v14M8.5 10.5h12M8.5 14.5h12" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="M1.5 10.5h7" opacity=".3" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="M10.5 4V3.5a2.5 2.5 0 0 0-5 0V7M4 5.5 5.5 7 7 5.5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="M2.554 16.5h4.892M5 14.054v4.892" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M1.5 12V4A1.5 1.5 0 0 1 3 2.5h1m7.8 0H19A1.5 1.5 0 0 1 20.5 4v14a1.5 1.5 0 0 1-1.5 1.5H6.5m-3.5 0A1.5 1.5 0 0 1 1.5 18" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M7.5 9v5m0 4v1.5" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M14.5 2.5v17M7.5 8.5h13M7.5 13.5h13" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M1.5 8.5h2" opacity=".3" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M10.5 6V4.5a2.5 2.5 0 0 0-5 0V8M4 6.5 5.5 8 7 6.5" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M2.054 16.5h4.892M4.5 14.054v4.892" stroke="currentColor" class="ColorScheme-Text"/>
     </g>
   </g>
 </g></svg>
