@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m1.5 14h13c.27614 0 .5-.22386.5-.5v-7.5h-14v7.5c0 .27614.22386.5.5.5z" fill="currentColor" opacity=".1"/>
+ <path class="ColorScheme-Highlight" d="m1 6v-3.5c0-.27614.22386-.5.5-.5h10v.5h-1c-.55228 0-1 .44772-1 1s.44772 1 1 1h1v1c0 .17269.04377.33515.12083.4769-.89678.0231-10.621.0231-10.621.0231zm12.373-.0125c.08068-.14422.12667-.31049.12667-.4875v-1h1c.17886 0 .34675-.04696.49202-.12921.008.67201.008 1.6292.008 1.6292zm1.6196-3.3578c-.14547-.08256-.31368-.12971-.49289-.12971h-1v-.5h1c.27614 0 .5.22386.5.5 0 .04778 0 .10792-.0071.12971z" fill="currentColor" fill-opacity=".24314" fill-rule="evenodd"/>
+ <g stroke="currentColor">
+  <path class="ColorScheme-Text" d="m.5 11v2.5c0 .55228.44772 1 1 1h13c.55228 0 1-.44772 1-1v-8.9286m-.07631-2.4552c-.1505-.3618-.50739-.61619-.92369-.61619m-4 0h-3.9071m-3.9071 0h-1.1857c-.55228 0-1 .44772-1 1" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m6.7 6.5 3.8-.019011m4.0133.019011h.98672" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m1.5 10.5h14m-10 4v-7.1m5 7.1v-9" opacity=".5" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m4.6965 8.5h-1.6792c-3.3564-.00198-3.3564-4.9807 0-4.9787h3.3584m-1.6792 1.6596 1.6792-1.6596-1.6792-1.6596" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99999" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m10.5 3.5h4m-2 2v-4" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m1.5 6.5h14" opacity=".5" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ </g>
+</svg>
