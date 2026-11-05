@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path class="ColorScheme-Highlight" d="m1.5 2c-.27614 0-.5.22386-.5.5v.125l.83203-.625zm1.6621 0c.051243.045258.09771.095652.13867.15039.0039551.11863-.01324.73701-.050781.84961h.75c.55228 0 1 .94772 1 1.5v-2.5zm1.8379 2.5c0 .55228-.44772 1.5-1 1.5h-.75c.037541.1126.054736.73098.050781.84961-.040961.054739-.087428.10513-.13867.15039h1.8379zm1-2.5v5h4v-5zm5 0v1.1348c.15194-.088045.32439-.13453.5-.13477h.75c-.037541-.1126-.054736-.73098-.050781-.84961.040962-.054739.087429-.10513.13867-.15039zm2.668 0 .93164.69922c.25216.18895.40053.48568.40039.80078v-1c0-.27614-.22386-.5-.5-.5zm1.332 1.5c.000138.3151-.14823 2.1118-.40039 2.3008l-.93164 1.1992h1.332zm-4 2.3652v1.1348h1.3379c-.051243-.045258-.09771-.095652-.13867-.15039-.003955-.11863.01324-.73701.050781-.84961h-.75c-.17561-.0002404-.34806-.046721-.5-.13477zm-10 .0097656v1.125h.83203z" fill="currentColor" fill-opacity=".24314" fill-rule="evenodd"/>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m.5 5v-2.5c0-.55228.44772-1 1-1h13c.55228 0 1 .44772 1 1v11c0 .55228-.44772 1-1 1h-13c-.55228 0-1-.44772-1-1v-5.5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m.5 7.5h15" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m.5 11.5h15m-10-6v9m5-9v9m-5-13v4m5-4v4" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Text" d="m4 4.5h-2.5m1-.75-1 .75 1 .75m9-.75h2.5m-1-.75 1 .75-1 .75" stroke="currentColor"/>
+ </g>
+</svg>
