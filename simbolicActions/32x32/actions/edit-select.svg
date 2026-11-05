@@ -3,6 +3,6 @@
   <defs>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <circle class="ColorScheme-Text" cx="8.5" cy="4.5" r=".5" fill="currentColor"/>
-  <path class="ColorScheme-Text" d="M16.5 26.5l1.1 1.05c.9.86 2.4.23 2.4-1.03V25a2 2 0 0 0-2-2h-6.5a1 1 0 0 1-1-1V7.5a.4.4 0 0 1 .68-.28l12.8 12.73a1.2 1.2 0 0 1 0 1.7l-2.2 2.2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="ColorScheme-Text" cx="9.1" cy="3.9" r="0.7" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m 17.5 26.3 1.54 1.47 c 0.98 0.938 2.66 0.252 2.66 -1.106 v -1.064 c 0 -1.159802 -0.940198 -2.1 -2.1 -2.1 h -7.7 c -0.773192 0 -1.4 -0.626808 -1.4 -1.4 v -15.12 c 0.0069174 -0.492422 0.600348 -0.736778 0.952 -0.392 l 11.12244 9.95946 c 0.522592 0.467936 0.62195 1.72088 0.153888 2.24336 l -1.99738 2.22964" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
 </svg>
