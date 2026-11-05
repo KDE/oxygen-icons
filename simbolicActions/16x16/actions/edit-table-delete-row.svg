@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-NegativeText { color:#720000; }</style>
+ </defs>
+ <path class="ColorScheme-NegativeText" d="m1 6v4h8.6348a1 1 0 01.1582-.20703l1.293-1.293-1.293-1.293a1 1 0 01-.1582-1.207h-8.6348zm10.414 0 1.0859 1.0859 1.0859-1.0859h-2.1719zm3.5859 1.4141-1.0859 1.0859 1.0859 1.0859v-2.1719zm-2.5 2.5-.085938.085938h.17188l-.085938-.085938z" fill="currentColor" fill-opacity=".24314" fill-rule="evenodd"/>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m.5 4v-1.5a1 1 0 011-1h13a1 1 0 011 1v2.9m0 2.2v1.8m0 2.2v1.9a1 1 0 01-1 1h-13a1 1 0 01-1-1v-6.5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="M.5 5.5H9M.5 10.5H9" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m5.5 1.5v4m0 5v4m5-13v3m0 7.5v2.5" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path class="ColorScheme-NegativeText" d="m10.5 6.5 4 4m0-4-4 4" stroke="currentColor"/>
+ </g>
+</svg>
