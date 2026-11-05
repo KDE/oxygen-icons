@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="currentColor">
+   <circle class="ColorScheme-Text" cx="8.5" cy="7.5" r="3" stroke="currentColor"/>
+   <circle class="ColorScheme-Text" cx="8.5" cy="24.5" r="3" stroke="currentColor"/>
+   <circle class="ColorScheme-Text" cx="23.5" cy="7.5" r="3" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m8.5 10.5v5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="m8.5 21.5v-2c0-1.6569 1.3431-3 3-3h12m0-6v2.8405c0 .61433-.17533 1.1877-.47868 1.6728" stroke="currentColor"/>
+  <circle cx="23.5" cy="7.5" r="3" fill="none" opacity=".3" stroke="#a30000"/>
+ </g>
+ <g transform="matrix(1 0 0 -1 4 44.006)">
+  <g transform="matrix(-1,0,0,1,35,10.97)">
+   <g transform="translate(9.0221,-10.024)">
+    <path class="ColorScheme-Text" d="m12.4 23.108c1.5611-2.7059 1.1118-6.1236-1.0954-8.3326-2.2071-2.209-5.6217-2.6587-8.3253-1.0963-2.7035 1.5624-4.0218 4.7471-3.214 7.765.78454 2.9316 3.3853 4.9954 6.3948 5.1107" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+   </g>
+  </g>
+  <path d="m22.667 17.508-6.2202 6.2202" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#720000"/>
+  <path d="m22.565 23.628-6.0182-6.0182" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#720000"/>
+  <path transform="rotate(-45)" d="m-7.4047 26.601a6.8948 6.8948 0 016.5853-5.0877 6.8948 6.8948 0 016.6852 4.9558 6.8948 6.8948 0 01-2.9536 7.7799 6.8948 6.8948 0 01-8.2897-.72925" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#720000"/>
+ </g>
+</svg>
