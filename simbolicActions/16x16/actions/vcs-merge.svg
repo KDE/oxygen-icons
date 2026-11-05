@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
-  <defs id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
-  </defs>
-  <circle cx="7.5" cy="2.5" r="2" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text" id="circle1"/>
-  <circle cx="2.5" cy="13.5" r="2" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text" id="circle2"/>
-  <circle cx="12.5" cy="13.5" r="2" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text" id="circle3"/>
-  <path d="m 7.5,4.5 v 2 C 7.5,7.5641387 8.331079,8.4341686 9.3795819,8.4964346 9.4194186,8.4988003 10.5,8.5 10.5,8.5 c 1.104569,0 2,0.8954305 2,2 m 0,0 v 1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path3"/>
-  <path d="M 6,8.5 H 4.5 c -1.1045695,0 -2,0.8954305 -2,2 v 1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path4"/>
+ </defs>
+ <g fill="none" stroke="currentColor">
+  <circle class="ColorScheme-Text" cx="7.5" cy="2.5" r="2" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="2.5" cy="13.5" r="2" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="12.5" cy="13.5" r="2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m7.5 4.5v2c0 1.0641.83108 1.9342 1.8796 1.9964.039837.0023657 1.1204.0035654 1.1204.0035654 1.1046 0 2 .89543 2 2m0 0v1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m6 8.5h-1.5c-1.1046 0-2 .89543-2 2v1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+ </g>
 </svg>
