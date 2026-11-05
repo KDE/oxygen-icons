@@ -1,14 +1,3 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style>
- </defs>
- <g fill="none" stroke="currentColor">
-  <circle class="ColorScheme-Text" cx="8.5" cy="7.5" r="3" stroke="currentColor"/>
-  <circle class="ColorScheme-Text" cx="8.5" cy="24.5" r="3" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m8.5 10.5v4.5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m8.5 21.5v-3q0-2 2-2h11q2 0 2-2v-4" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
-  <circle class="ColorScheme-Highlight" cx="23.5" cy="7.5" r="3" stroke="currentColor"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs><circle cx="8.5" cy="7.5" r="3" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/><circle cx="8.5" cy="24.5" r="3" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/><circle cx="23.5" cy="7.5" r="3" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Highlight"/><path d="M8.5 10.5 V15.0" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><path d="M8.5 21.5 V19.5 A3 3 0 0 1 11.5 16.5 H20.5 A3 3 0 0 0 23.5 13.5 V10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/></svg>
