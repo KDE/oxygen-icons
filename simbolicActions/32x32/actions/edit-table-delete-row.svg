@@ -4,14 +4,14 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-NegativeText { color:#720000; }</style>
  </defs>
- <path class="ColorScheme-Text" d="M5.5 8h21A1.5 1.5 0 0 1 28 9.5V13H4V9.5A1.5 1.5 0 0 1 5.5 8ZM4 21h24v3.5a1.5 1.5 0 0 1-1.5 1.5h-21A1.5 1.5 0 0 1 4 24.5Z" fill="currentColor" opacity=".1"/>
- <path class="ColorScheme-NegativeText" d="m4 14v6l7.8828.5c-.53079-.5931-.50593-1.4975.05664-2.0605l1.4395-1.4395-1.4395-1.4395c-.56257-.56304-.58744-1.4675-.056641-2.0605zm10.121-.5 1.3789 1.3789 1.3789-1.3789zm4.9961 0c.53079.5931.50593 1.4975-.05664 2.0605l-1.4395 1.4395 1.4395 1.4395c.56257.56304.58744 1.4675.05664 2.0605l8.8828-.5v-6zm-3.6172 5.6211-1.3789 1.3789h2.7578z" fill="currentColor" fill-opacity=".24314"/>
+ <path class="ColorScheme-Text" d="m5.5 8h21c.82843 0 1.5.67157 1.5 1.5v3.5h-24v-3.5c0-.82843.67157-1.5 1.5-1.5zm-1.5 13h24v3.5c0 .82843-.67157 1.5-1.5 1.5h-21c-.82843 0-1.5-.67157-1.5-1.5z" fill="currentColor" opacity=".1"/>
+ <path class="ColorScheme-NegativeText" d="m4 14v6l13.883.5c-.53079-.5931-.50593-1.4975.05664-2.0605l1.4395-1.4395-1.4395-1.4395c-.56257-.56304-.58744-1.4675-.056641-2.0605zm16.121-.5 1.3789 1.3789 1.3789-1.3789zm4.9961 0c.53079.5931.50593 1.4975-.05664 2.0605l-1.4395 1.4395 1.4395 1.4395c.56257.56304.58744 1.4675.05664 2.0605l2.8828-.5v-6zm-3.6172 5.6211-1.3789 1.3789h2.7578z" fill="currentColor" fill-opacity=".24314"/>
  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m3.5 11.8v-2.3c0-1.1046.89543-2 2-2h21c1.1046 0 2 .89543 2 2v15c0 1.1046-.89543 2-2 2h-21c-1.1046 0-2-.89543-2-2v-9" stroke="currentColor" class="ColorScheme-Text"/>
-  <path d="m11.5 7.5v6m0 7v6m8-19v6m0 7v6" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
-  <path d="m3.5 13.5h8.0828m2.5383 0h2.7578m2.6211 0h9m-25 7h7.9828m2.5155 0h3.3274m2.1743 0h9" stroke="currentColor" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Text" d="m3.5 11.8v-2.3c0-1.1046.89543-2 2-2h21c1.1046 0 2 .89543 2 2v15c0 1.1046-.89543 2-2 2h-21c-1.1046 0-2-.89543-2-2v-9" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m11.5 7.5v6m0 7v6m8-19v6m0 7v6" opacity=".5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3.5 13.5h14.083m2.5383 0h2.7578m2.6211 0h3m-25 7h13.983m2.5155 0h3.3274m2.1743 0h3" stroke="currentColor"/>
  </g>
  <g class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m13 14.5 5 5m0-5-5 5" stroke="currentColor" class="ColorScheme-NegativeText"/>
+  <path class="ColorScheme-NegativeText" d="m19 14.5 5 5m0-5-5 5" stroke="currentColor"/>
  </g>
 </svg>
