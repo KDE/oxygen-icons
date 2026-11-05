@@ -1,3 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style></defs><g><path d="M9.583333333333334 2.0 L7.5 4.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><path d="M9.583333333333334 7.0 l-0.93625 -1.1235000000000002 c-0.4555166666666667 -0.546625 -0.0668175 -1.3765 0.644725 -1.3765 H9.957416666666667 A2.5425833333333334 2.5425833333333334 0 0 1 12.5 7.042583333333333 V10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><circle cx="12.5" cy="12.5" r="2" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/></g><g transform="rotate(180 8.0 8.0)"><path d="M9.583333333333334 2.0 L7.5 4.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><path d="M9.583333333333334 7.0 l-0.93625 -1.1235000000000002 c-0.4555166666666667 -0.546625 -0.0668175 -1.3765 0.644725 -1.3765 H9.957416666666667 A2.5425833333333334 2.5425833333333334 0 0 1 12.5 7.042583333333333 V10.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><circle cx="12.5" cy="12.5" r="2" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g fill="none" stroke="currentColor">
+  <path class="ColorScheme-Text" d="m9.5833 1-2.0833 2.5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m9.5833 6-.93625-1.1235c-.45552-.54662-.066818-1.3765.64472-1.3765h.66561c1.4042 2e-7 2.5426 1.1384 2.5426 2.5426v4.4574" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="12.5" cy="12.5" r="2" stroke="currentColor"/>
+ </g>
+ <g transform="rotate(180,7.5,8.5)" fill="none" stroke="currentColor">
+  <path class="ColorScheme-Text" d="m9.5833 2-2.0833 2.5" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m9.5833 7-.93625-1.1235c-.45552-.54662-.066818-1.3765.64472-1.3765h.66561c1.4042 0 2.5426 1.1384 2.5426 2.5426v4.4574" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="12.5" cy="13.5" r="2" stroke="currentColor"/>
+ </g>
+</svg>
