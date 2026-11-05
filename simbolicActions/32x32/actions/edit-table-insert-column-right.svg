@@ -4,17 +4,16 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
   </defs>
-  <g transform="matrix(0 1 1 0 0 0)">
-    <g class="ColorScheme-Text" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-      <path d="m15.5 18.5v8" opacity=".3" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-      <path d="m8.5 11.5h21m-14 7v-13m7 13v-13" opacity=".5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-    </g>
-    <path class="ColorScheme-Highlight" d="m9 19v5.5c0 .82843.67157 1.5 1.5 1.5h11.912c-.25225-.27183-.41211-.62797-.41211-1v-1h-1c-.7854 0-1.5-.7146-1.5-1.5s.7146-1.5 1.5-1.5h1v-1c0-.37203.15986-.72817.41211-1zm15.588 0c.25225.27183.41211.62797.41211 1v1h1c.7854 0 1.5.7146 1.5 1.5s-.7146 1.5-1.5 1.5h-1v1c0 .37203-.15986.72817-.41211 1h2.9121c.82843 0 1.5-.67157 1.5-1.5v-5.5z" fill="currentColor" fill-opacity=".24314"/>
-    <path class="ColorScheme-Text" d="m9 18h20v-10.5a1.5 1.5 0 0 0-1.5-1.5h-17a1.5 1.5 0 0 0-1.5 1.5z" fill="currentColor" opacity=".1"/>
+  <g transform="translate(32 0) scale(-1 1)">
+    <path class="ColorScheme-Text" d="M12 9h14.5a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H12Z" fill="currentColor" opacity=".1"/>
+    <path class="ColorScheme-Highlight" d="M5.5 9H11V26H5.5A1.5 1.5 0 0 1 4 24.5v-14A1.5 1.5 0 0 1 5.5 9Z" fill="currentColor" fill-opacity=".24314"/>
     <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-      <path d="m8.5 23.5v1c0 1.1046.89543 2 2 2h11.983m2.203 0h2.8139c1.1046 0 2-.89543 2-2v-17c0-1.1046-.89543-2-2-2h-17c-1.1046 0-2 .89543-2 2v5.1661m0 3.4719v1.062" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m21 22.5h5m-2.5 2.5v-5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m9.8 18.5h12.7m2.2238 0h4.7762m-21.6-4h-2.5a3 3 135 0 0-3 3 3 3 45 0 0 3 3h3.5m-2 2 2-2-2-2" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M5 8.5h.5m4 0h17a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-18m-2 0h-1a2 2 0 0 1-2-2m0-3v-11" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M11.5 8.5v12m0 4v2" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M20.5 8.5v18M11.5 14.5h17M11.5 20.5h17" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M3.5 14.5h8M3.5 20.5h2m4 0h2" opacity=".3" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M13.5 6V5a3 3 0 0 0-6 0v4m-2-2 2 2 2-2" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="M5 22.5h5M7.5 20v5" stroke="currentColor" class="ColorScheme-Text"/>
     </g>
   </g>
 </svg>
