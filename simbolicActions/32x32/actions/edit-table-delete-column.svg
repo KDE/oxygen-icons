@@ -4,15 +4,13 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-NegativeText { color:#720000; }</style>
   </defs>
-  <g transform="rotate(90 16 16)">
-    <path class="ColorScheme-Text" d="m5.5 8h21c.82843 0 1.5.67157 1.5 1.5v3.5h-24v-3.5c0-.82843.67157-1.5 1.5-1.5zm-1.5 13h24v3.5c0 .82843-.67157 1.5-1.5 1.5h-21c-.82843 0-1.5-.67157-1.5-1.5z" fill="currentColor" opacity=".1"/>
-    <path class="ColorScheme-NegativeText" d="m4 14v6l13.883.5c-.53079-.5931-.50593-1.4975.05664-2.0605l1.4395-1.4395-1.4395-1.4395c-.56257-.56304-.58744-1.4675-.056641-2.0605zm16.121-.5 1.3789 1.3789 1.3789-1.3789zm4.9961 0c.53079.5931.50593 1.4975-.05664 2.0605l-1.4395 1.4395 1.4395 1.4395c.56257.56304.58744 1.4675.05664 2.0605l2.8828-.5v-6zm-3.6172 5.6211-1.3789 1.3789h2.7578z" fill="currentColor" fill-opacity=".24314"/>
-    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-      <path d="m3.5 11.8v-2.3c0-1.1046.89543-2 2-2h21c1.1046 0 2 .89543 2 2v15c0 1.1046-.89543 2-2 2h-21c-1.1046 0-2-.89543-2-2v-9" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m11.5 7.5v6m0 7v6m8-19v5.4m0 8.1v5.5" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m3.5 13.5h14.083m2.8383 0h2.0578m3.0211 0h3m-25 7h13.983m2.5155 0h3.3274m2.1743 0h3" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m11.5 14v6" opacity=".2" stroke="currentColor" class="ColorScheme-Text"/>
-    </g>
-    <path class="ColorScheme-NegativeText" d="m19 14.5 5 5m0-5-5 5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="ColorScheme-Text" d="M5.5 9H11v17H5.5A1.5 1.5 0 0 1 4 24.5v-14A1.5 1.5 0 0 1 5.5 9ZM21 9h5.5a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5H21Z" fill="currentColor" opacity=".1"/>
+  <path class="ColorScheme-NegativeText" d="M12 9v11a1.5 1.5 0 0 1 .439453-1.060547A1.5 1.5 0 0 1 13.5 18.5a1.5 1.5 0 0 1 1.060547.439453L16 20.378906l1.439453-1.439453A1.5 1.5 0 0 1 18.5 18.5a1.5 1.5 0 0 1 1.060547.439453A1.5 1.5 0 0 1 20 20V9ZM20 20a1.5 1.5 0 0 1-.439453 1.060547L18.121094 22.5l1.439453 1.439453A1.5 1.5 0 0 1 19.617188 26H20ZM12 20v6h.382812a1.5 1.5 0 0 1 .056641-2.060547L13.878906 22.5l-1.439453-1.439453A1.5 1.5 0 0 1 12 20ZM16 24.621094 14.621094 26h2.757812Z" fill="currentColor" fill-opacity=".24314"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.5 12v-1.5a2 2 0 0 1 2-2h21a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-21a2 2 0 0 1-2-2v-9" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M11.5 8.5v10m0 3.5v1m0 3v.5M20.5 8.5v10m0 3.5v1m0 3v.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M3.5 14.5h8m9 0h8M3.5 20.5h8m9 0h8" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M11.5 14.5h9" opacity=".2" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
+  <path class="ColorScheme-NegativeText" d="m13.5 20 5 5m0-5-5 5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
