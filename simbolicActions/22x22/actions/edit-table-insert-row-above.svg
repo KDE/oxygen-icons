@@ -1,19 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg9">
+  <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
   </defs>
-  <g transform="translate(0 22) scale(1 -1)">
-    <path class="ColorScheme-Text" d="m3 3h16c.55228 0 1 .44772 1 1v9h-18v-9c0-.55228.44772-1 1-1z" fill="currentColor" opacity=".1"/>
-    <path class="ColorScheme-Highlight" d="m2 14v4c0 .55228.44772 1 1 1h12v-1h-.52473a1.4753 1.4753 45 0 1-1.4753-1.4753v-.04946a1.4753 1.4753 135 0 1 1.4753-1.4753h.52473v-1zm16 0v1h.52879a1.4712 1.4712 45 0 1 1.4712 1.4712v.05759a1.4712 1.4712 135 0 1-1.4712 1.4712h-.52879v1h1c.55228 0 1-.44772 1-1v-4z" fill="currentColor" fill-opacity=".24314" fill-rule="evenodd"/>
-    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-      <path d="m1.5 10v-6c0-.82843.67157-1.5 1.5-1.5h16c.82843 0 1.5.67157 1.5 1.5v14c0 .82843-.67157 1.5-1.5 1.5h-.5m-4.1 0h-11.4c-.82843 0-1.5-.67157-1.5-1.5v-.5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m6.5 13.5h8.5m3 0h2.5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m2.5 8.5h18m-13-5v10m7-10v10" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m7.5 13.5v5" opacity=".3" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m5 11.5h-1.5c-2.6667 0-2.6667 4 0 4h2.5m-1.5-1.5 1.5 1.5-1.5 1.5" stroke="currentColor" class="ColorScheme-Text"/>
-      <path d="m14.054 16.5h4.892m-2.446-2.446v4.892" stroke="currentColor" class="ColorScheme-Text"/>
+  <g transform="translate(0 22) scale(1 -1)" id="g9">
+    <path class="ColorScheme-Highlight" d="m2 14v4c0 .55228.44772 1 1 1h12v-1h-.52473a1.4753 1.4753 45 0 1-1.4753-1.4753v-.04946a1.4753 1.4753 135 0 1 1.4753-1.4753h.52473v-1zm16 0v1h.52879a1.4712 1.4712 45 0 1 1.4712 1.4712v.05759a1.4712 1.4712 135 0 1-1.4712 1.4712h-.52879v1h1c.55228 0 1-.44772 1-1v-4z" fill="currentColor" fill-opacity=".24314" fill-rule="evenodd" id="path2"/>
+    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g8">
+      <path d="m1.5 10v-6c0-.82843.67157-1.5 1.5-1.5h16c.82843 0 1.5.67157 1.5 1.5v14c0 .82843-.67157 1.5-1.5 1.5h-.5m-4.1 0h-11.4c-.82843 0-1.5-.67157-1.5-1.5v-.5" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
+      <path d="m6.5 13.5h8.5m3 0h2.5" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+      <path d="m2.5 8.5h18m-13-5v10m7-10v10" opacity=".5" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
+      <path d="m7.5 13.5v5" opacity=".3" stroke="currentColor" class="ColorScheme-Text" id="path6"/>
+      <path d="m5 11.5h-1.5c-2.6667 0-2.6667 4 0 4h2.5m-1.5-1.5 1.5 1.5-1.5 1.5" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
+      <path d="m14.054 16.5h4.892m-2.446-2.446v4.892" stroke="currentColor" class="ColorScheme-Text" id="path8"/>
     </g>
   </g>
 </svg>
