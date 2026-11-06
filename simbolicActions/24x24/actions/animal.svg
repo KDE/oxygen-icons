@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
- </defs>
- <g transform="translate(1,1)"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m8.87 3.4284c-.2669-.4566-.75669-.89182-1.2851-1.1658m-2.7704-1.4613c1.5534-.073792 3.6962.20931 5.7673 1.021 2.5558-1.8183 5.291.85133 4.3664 3.1459.55478 3.2099 5.4001 7.1232 3.1809 13.211 0-1.6092-.43429-2.9537-1.3029-4.0333" style="stroke-linejoin:round" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m9.8619 5.3493c.9986 2.9886-2.8284 5.5245-3.9379 8.9559-.88764 2.7672-.22191 3.8741.55478 4.4275 0-.97855.22119-2.0133.64431-2.6419" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m8.828 12.891c-1.2011 2.5628-.35562 5.5761 1.2475 6.6674m5.3693-5.2087c.40388 1.7126.29618 3.7821-.78203 5.1938" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m10.253 20.614-1.1096.8855h1.4863m3.6054-.8855-1.1527.8855 1.4854.01813" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m11.805 3.1257v.055344" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m4.7665 1.2554c1.5534-.073792 3.8295-.49228 5.9006.31943 2.5558-1.8183 5.291.85133 4.3664 3.1459.55478 3.2099 5.4001 7.1232 3.1809 13.211 0-1.6092-.05132-2.8883-.9199-3.968-2.038-5.1308-6.4276-11.254-12.528-12.708z" style="opacity:.2" fill="currentColor" stroke="currentColor"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg5">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="translate(1,1)"><path d="M 8.8699849,3.4283804 C 8.6030882,2.971781 8.1132929,2.5365646 7.5848568,2.2625538 M 4.8144254,0.80124754 c 1.5533758,-0.0737922 3.6961583,0.20930936 5.7673256,1.02101976 2.555756,-1.81832941 5.291027,0.851326 4.366375,3.1459136 0.554777,3.2099456 5.400057,7.1232201 3.180949,13.2110481 0,-1.609207 -0.43429,-2.953655 -1.302869,-4.033344" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path1" style="stroke-linejoin:round"/>
+  <path d="m 9.8619246,5.3493015 c 0.9985984,2.9885701 -2.828391,5.5245345 -3.937945,8.9558555 -0.8876433,2.767194 -0.2219109,3.874072 0.554777,4.427511 0,-0.978549 0.2211893,-2.013272 0.6443053,-2.641859" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path2"/>
+  <path d="m 8.8279503,12.89118 c -1.2010729,2.562829 -0.3556178,5.576088 1.2475377,6.667427 m 5.369272,-5.208652 c 0.403875,1.712583 0.296181,3.782053 -0.782034,5.193796" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path3"/>
+  <path d="M 10.252642,20.61436 9.1430877,21.499862 H 10.62943 m 3.605415,-0.885502 -1.152715,0.885502 1.485437,0.01813" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path4"/>
+  <path d="m 11.804616,3.1256909 v 0.055344" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path5"/>
+  <path d="m 4.7664772,1.2553795 c 1.553376,-0.073792 3.8294615,-0.49228263 5.9006288,0.3194278 2.555756,-1.81832943 5.291027,0.851326 4.366375,3.1459136 0.554777,3.2099456 5.400057,7.1232201 3.180949,13.2110481 0,-1.609207 -0.05132,-2.888269 -0.919897,-3.967958 C 15.256536,8.833061 10.866914,2.709608 4.7664772,1.2553795 Z" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="use6" style="opacity:0.1;fill-opacity:1;stroke:none;stroke-linejoin:round"/>
 </g></svg>
