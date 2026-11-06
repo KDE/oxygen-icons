@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m3.5 21.242.25242.57338c.18337.41652.58776.68426 1.0335.68426h3.8147m7.1255-3.6821.62683 2.0551c.36625 1.0847.95631 1.627 1.7702 1.627h-2.4416m-4.9604-3.7854.25104-.56932c.1749-.39665.56015-.65154.98474-.65154h1.4026c.95434 0 1.6318-.95337 1.3392-1.8846l-2.1665-6.8954c-.16053-.51094-.86566-.51095-1.0262-1.92e-5l-3.8208 12.159c-.36625 1.0847-.95631 1.627-1.7702 1.627" opacity=".6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m20.396 13.113c.40694-1.2516 1.4243-1.8774 3.0521-1.8774 2.0347 0 3.0521 1.043 3.0521 3.1289v6.2579c0 1.2516.61041 1.8774 1.8312 1.8774m-4.3316-6.004h-1.2208c-4.8833 0-4.8246 6.004-.55172 6.004 1.6278 0 3.0521-.83438 4.2729-2.5031" opacity=".6" stroke="currentColor"/>
+  <path id="path3" class="ColorScheme-Text" d="m3.5259 21.242.25242.57338c.18337.41652.58776.68426 1.0335.68426h3.8147m9.5224 0h-2.4416m-4.9604-3.7854.25104-.56932c.1749-.39665.56015-.65154.98474-.65154" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".93362"/>
+  <path id="path4" class="ColorScheme-Text" d="m26.806 21.843c.29501.43768.8035.65651 1.5254.65651" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".93362"/>
+ </g>
+ <use xlink:href="#path3"/>
+ <use xlink:href="#path4"/>
+</svg>
