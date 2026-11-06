@@ -4,13 +4,13 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
   </defs>
-  <g transform="matrix(.72727 0 0 .72727 -.11576 .68178)">
-    <g stroke="currentColor">
+  <g transform="matrix(.72727 0 0 .72727 -.11576 .68178)" style="stroke-width:1.375">
+    <g stroke="currentColor" style="stroke-width:1.375">
       <g class="ColorScheme-Text" transform="matrix(.85849 0 0 .85721 -.64616 -2.7225)" fill="none" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:1.6028">
         <path class="ColorScheme-Text" d="m20.06 25.341h.76131c.96026 0 1.7387-.77844 1.7387-1.7387v-16.058c0-.80214-.65026-1.4524-1.4524-1.4524h-.89516 4.6442m-1.8977 18.619c.31892.38506.80067.63036 1.3397.63036h.26131" stroke="currentColor" style="stroke-width:1.6028"/>
       </g>
-      <path class="ColorScheme-Text" d="m8.0708 3.483c-2.3213 0-.042425 1.6055-2.1339 2.6134-2.1637 1.0428-1.9666-1.7639-3.4876.095935-1.4702 1.7977 1.2272 1.0334.71073 3.2982-.53438 2.343-2.6038.43916-2.0992 2.7888.4878 2.2712 1.5741-.31596 3.0214 1.5003 1.4973 1.879-1.2825 2.3108.86777 3.381 2.0785 1.0344.73484-1.4274 3.0561-1.4274.66144-1e-6 1.0098.1242 1.2455.24208.27274.13635.76144.20782 1.0698.20782h.59536c.69684-6e-6 1.3679-.26392 1.8777-.73937l3.5686-4.0062c.42877-.39991.42877-1.0788 0-1.4787l-3.5686-4.0458c-.50976-.47545-1.1808-.73937-1.8777-.73938h-.91321c-.36651 0-.64585-.29758-.66114-.66395-.024607-.5896-.20983-1.0265-1.2719-1.0265z" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1795"/>
-      <ellipse class="ColorScheme-Text" cx="8.3211" cy="10.716" rx="2.3593" ry="2.3611" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1795"/>
+      <path class="ColorScheme-Text" d="m8.0708 3.483c-2.3213 0-.042425 1.6055-2.1339 2.6134-2.1637 1.0428-1.9666-1.7639-3.4876.095935-1.4702 1.7977 1.2272 1.0334.71073 3.2982-.53438 2.343-2.6038.43916-2.0992 2.7888.4878 2.2712 1.5741-.31596 3.0214 1.5003 1.4973 1.879-1.2825 2.3108.86777 3.381 2.0785 1.0344.73484-1.4274 3.0561-1.4274.66144-1e-6 1.0098.1242 1.2455.24208.27274.13635.76144.20782 1.0698.20782h.59536c.69684-6e-6 1.3679-.26392 1.8777-.73937l3.5686-4.0062c.42877-.39991.42877-1.0788 0-1.4787l-3.5686-4.0458c-.50976-.47545-1.1808-.73937-1.8777-.73938h-.91321c-.36651 0-.64585-.29758-.66114-.66395-.024607-.5896-.20983-1.0265-1.2719-1.0265z" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.375"/>
+      <ellipse class="ColorScheme-Text" cx="8.3211" cy="10.716" rx="2.3593" ry="2.3611" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.375"/>
     </g>
   </g>
 </svg>
