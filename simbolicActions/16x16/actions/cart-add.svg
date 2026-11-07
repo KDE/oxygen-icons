@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path id="bag-fill" d="m 11.5,4.5 h 0.8 a 0.89283678,0.89283678 53.349622 0 1 0.855183,1.1493915 L 12.9,6.5 H 7.5 a 1,1 135 0 0 -1,1 v 7 h -2 A 2.4396078,2.4396078 39.345034 0 1 2.1077677,12.538839 L 0.73533936,5.6766968 A 0.98376468,0.98376468 129.34503 0 1 1.7,4.5 H 2.9 A 1.1211103,1.1211103 28.154966 0 1 3.8328201,4.9992302 L 4.1671799,5.5007698 A 1.1211103,1.1211103 28.154966 0 0 5.1,6 h 3.4" fill="currentColor" fill-opacity="0.1" stroke="none" class="ColorScheme-Text"/>
+    <path id="bag-left" d="m 5.5,14.5 h -1 A 2.4396078,2.4396078 39.345034 0 1 2.1077677,12.538839 L 0.73533936,5.6766968 A 0.98376468,0.98376468 129.34503 0 1 1.7,4.5 H 2.9 A 1.1211103,1.1211103 28.154966 0 1 3.8328201,4.9992302 L 4.1671799,5.5007698 A 1.1211103,1.1211103 28.154966 0 0 5.1,6 h 3.4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="bag-right" d="m 11.5,4.5 h 0.8 a 0.89283678,0.89283678 53.349622 0 1 0.855183,1.1493915 L 12.9,6.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="bag-handle" d="M4.5 4C6.5 .5 9.5 1 10.5 6.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <circle cx="2.5" cy="8.5" r=".5" fill="currentColor" stroke="none" id="circle1" class="ColorScheme-Text"/>
+  </g>
+  <g transform="translate(-.00021917 .90283)" id="comment-add-g13">
+    <g transform="matrix(.96687 0 0 .96125 -.48782 -2.4079)" style="stroke-width:1.4023" id="comment-add-g7"/>
+    <g transform="translate(-6.0004,-5.0001)" id="comment-add-g12">
+      <path d="m16.916 12.1v2.431c0 .26854-.2177.48624-.48624.48624h-2.431v1.1669h2.431c.26854 0 .48624.2177.48624.48624v2.431h1.1669v-2.431c0-.26854.2177-.48624.48624-.48624h2.431v-1.1669h-2.431c-.26854 0-.48624-.2177-.48624-.48624v-2.431z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke;stroke-width:.58345" id="comment-add-path7"/>
+      <g transform="matrix(1.3529 0 0 1.3509 -.8823 -1.5263)" id="comment-add-g9">
+        <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke" id="comment-add-g8">
+          <path d="M15.98486 11.92851l-1.4917-2.4e-5c-.09035 0-.16356-.0735-.16348-.16412l.0017-1.7444c.000251-.17238-.13941-.31225-.31179-.31227h-.85913c-.17264-.000275-.31274.13962-.3127.31227v1.7444c0 .09064-.07326.16412-.16363.16412h-1.7418c-.17239-4e-5-.31208.14026-.31181.31316v.85418c-8e-5.17282.1395.313.31181.31316l1.7418.0017c.09039 8.3e-5.16363.0736.16363.16426v1.7428c-4e-5.17264.14005.31254.3127.31227h.85292c.17256 8e-5.31254-.1397.3127-.31227l.0053-1.6753c0-.12599.1018-.22814.22742-.2282l1.6726-8e-4c.17212.000235.31179-.13964.31181-.31227l1.6e-5-.33517" style="stroke-width:.73971" id="comment-add-path8" stroke="currentColor" class="ColorScheme-Text"/>
+        </g>
+      </g>
+      <g transform="translate(.93832 .96386)" id="comment-add-g11">
+        <g transform="translate(-.57221 .10149)" id="comment-add-g10"/>
+      </g>
+    </g>
+  </g>
+</svg>
