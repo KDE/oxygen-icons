@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path id="comment-upper" d="M 14.5,5.5 V 3 A 1.5,1.5 45 0 0 13,1.5 H 1.5 a 1,1 135 0 0 -1,1 1,1 45 0 0 1,1 l 11,0" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="comment-lower" d="m 0.5,6.5 v 6.6 a 0.16568542,0.16568542 22.5 0 0 0.28284271,0.117157 L 3.0050253,10.994975 A 1.6899495,1.6899495 157.5 0 1 4.2,10.5 h 0.3" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g id="comment-edit-g11" transform="translate(0.01784323,0.05789296)">
+    <g class="ColorScheme-Text" transform="matrix(0.66345,0,0,0.66464,5.7288,2.6703)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:1.506;paint-order:stroke fill markers" id="comment-edit-g4-3">
+      <path d="M 7.7536363,16.247713 13.57839,10.42179 c 0.31292,-0.31293 0.31292,-0.82027 0,-1.1332 L 12.7116,8.4218 c -0.31293,-0.31292 -0.82027,-0.31292 -1.1332,0 L 6.5072726,13.495426 4,16 2.9415,18.1171 c -0.3015949,0.603171 0.3382886,1.243055 0.94146,0.94146 l 2.1171,-1.0585 -0.6930182,-0.693828" style="stroke-width:1.506" id="comment-edit-path3" stroke="currentColor" class="ColorScheme-Text"/>
+      <path d="m 12.846,8.1548 0.73455,-0.73455 c 0.15703,-0.15703 0.41162,-0.15703 0.56864,-1e-7 l 0.41249,0.41249 c 0.15703,0.15703 0.15703,0.41161 0,0.56864 l -0.71568,0.71568" style="stroke-width:1.506" id="comment-edit-path4-5" stroke="currentColor" class="ColorScheme-Text"/>
+    </g>
+  </g>
+</svg>
