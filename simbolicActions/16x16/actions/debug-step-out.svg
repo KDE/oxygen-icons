@@ -5,10 +5,10 @@
 .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
  <g class="ColorScheme-Text" transform="translate(0,-1)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m1.5 6.5h10c1.3333 0 2 .66667 2 2v5c0 .66667-.33333 1-1 1h-9c-1.3333 0-2-.66667-2-2z" fill="currentColor" opacity=".1"/>
+  <path class="ColorScheme-Text" d="m1.5 6.5h10c1.3333 0 2 .66667 2 2v6c0 .66667-.33333 1-1 1h-9c-1.3333 0-2-.66667-2-2z" fill="currentColor" opacity=".1"/>
   <g stroke="currentColor">
-   <path class="ColorScheme-Text" d="m1.5 11.5v-4c0-.66667.33333-1 1-1h3.2945m3.2945 0h1.5165m2.57.71315c.2164.32075.3246.7497.3246 1.2869v5c0 .66667-.33333 1-1 1h-9c-1.3333 0-2-.66667-2-2" stroke="currentColor"/>
-   <path class="ColorScheme-Text" d="m4.5 8h-.4c-.4 0-.6.23333-.6.7v.8m-.6.8c.4 0 .6.23333.6.7v1.2c0 .53333.26667.8.8.8h.2m6-5h.2c.53333 0 .8.26667.8.8v1.2c0 .46667.2.7.6.7m-.6.8v.8c0 .46667-.2.7-.6.7h-.4" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m1.5 12.5v-5c0-.66667.33333-1 1-1h3.2945m3.2945 0h1.5165m2.57.71315c.2164.32075.3246.7497.3246 1.2869v6c0 .66667-.33333 1-1 1h-9c-1.3333 0-2-.66667-2-2" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m4.5 8.5h-.4c-.4 0-.6.23333-.6.7v.5m-.6.8c.4 0 .6.23333.6.7v1.5c0 .53333.26667.8.8.8h.2m6-5h.2c.53333 0 .8.26667.8.8v.5c0 .46667.2.7.6.7m-.6.8v1.5c0 .46667-.2.7-.6.7h-.4" stroke="currentColor"/>
    <path class="ColorScheme-Text" d="m7.5 7.5v-2q0-2 2-2h4" stroke="currentColor"/>
    <path class="ColorScheme-Text" d="m12.5 1.5 2 2-2 2" stroke="currentColor"/>
   </g>
