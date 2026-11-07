@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m24.5 9.5h3a1.8005 1.8005 48.005 011.7906 1.989l-1.3719 13.033a4.4432 4.4432 138 01-4.4187 3.978h-15a4.4432 4.4432 41.995 01-4.4187-3.978l-1.3719-13.033a1.8005 1.8005 132 011.7906-1.989h2a1.618 1.618 31.717 011.4472.89443l.10557.21115a1.618 1.618 31.717 001.4472.89443h12.2" style="opacity:.1;stroke:none" class="ColorScheme-Text" fill="currentColor"/>
+  <path id="bag" d="m24.5 9.5h3a1.8005 1.8005 48.005 011.7906 1.989l-1.3719 13.033a4.4432 4.4432 138 01-4.4187 3.978h-15a4.4432 4.4432 41.995 01-4.4187-3.978l-1.3719-13.033a1.8005 1.8005 132 011.7906-1.989h2a1.618 1.618 31.717 011.4472.89443l.10557.21115a1.618 1.618 31.717 001.4472.89443h12.2" stroke="currentColor" class="ColorScheme-Text"/>
+  <path id="bag-handle" d="m9.9393 8.62c4.593-8.1164 12.678-5.826 14.561 6.88" stroke="currentColor" class="ColorScheme-Text"/>
+  <circle cx="7.5" cy="15.5" r=".5" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+ </g>
+</svg>
