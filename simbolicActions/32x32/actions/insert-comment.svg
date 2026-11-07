@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path id="comment-upper" d="M 25.5,17.5 V 9 A 3.5,3.5 45 0 0 22,5.5 H 5.5 a 2,2 135 0 0 -2,2 2,2 45 0 0 2,2 h 18" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="comment-lower" d="m 3.5,12.5 v 13.3 a 0.28994949,0.28994949 22.5 0 0 0.4949747,0.205025 L 8.0857864,21.914214 A 4.8284271,4.8284271 157.5 0 1 11.5,20.5 h 2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g transform="translate(-1.0019 -4.0014)" id="comment-add-g11">
+    <path d="m22 19v4.1666a.83338.83338 0 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 0 01.83338.83338v4.1666h2v-4.1666a.83338.83338 0 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 0 01-.83338-.83338v-4.1666z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke" id="comment-add-path7"/>
+    <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)" id="comment-add-g9">
+      <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke" id="comment-add-g8">
+        <path d="m 19.7,16.305 -2.1537,-3.4e-5 c -0.14682,0 -0.26581,-0.11945 -0.26568,-0.26671 l 0.0027,-2.9271 c 3.81e-4,-0.28014 -0.22659,-0.50744 -0.50672,-0.50747 H 15.574 c -0.28057,-4.48e-4 -0.50823,0.22691 -0.50817,0.50747 v 2.9271 c 0,0.1473 -0.11906,0.26671 -0.26592,0.26671 h -2.9231 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1942 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 2.9231,0.0027 c 0.1469,1.35e-4 0.26592,0.11961 0.26592,0.26695 v 2.9328 c -6.4e-5,0.28057 0.2276,0.50792 0.50817,0.50747 h 1.1925 c 0.28044,1.29e-4 0.50791,-0.22704 0.50817,-0.50747 l 0.0086,-2.8231 c 0,-0.20474 0.16544,-0.37075 0.36958,-0.37085 l 2.8194,-0.0013 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 3.69e-4,-0.45096 c 6.08e-4,-0.695726 -0.563073,-1.260124 -1.2588,-1.2604 l -1.2814,-5.55e-4" style="stroke-width:0.73971" id="comment-add-path8" stroke="currentColor" class="ColorScheme-Text"/>
+      </g>
+    </g>
+    <g transform="matrix(0 1.3529 -1.3509 0 45.526 -.88237)" id="comment-add-g10"/>
+  </g>
+</svg>
