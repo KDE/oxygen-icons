@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
-    </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
-    <path id="bag-fill" d="m 23.5,8.5 h 0.8 a 1.0859851,1.0859851 47.855297 0 1 1.080596,1.1940446 L 24.9,14.5 h -9.4 a 1,1 135 0 0 -1,1 v 10 H 8 A 3.9359029,3.9359029 41.645082 0 1 4.0910556,22.023973 L 2.6402095,9.6917807 A 1.0670995,1.0670995 131.64508 0 1 3.7,8.5 H 5.9 A 1.1211103,1.1211103 28.154966 0 1 6.8328201,8.9992302 L 7.1671799,9.5007698 A 1.1211103,1.1211103 28.154966 0 0 8.1,10 h 10.4" fill="currentColor" fill-opacity="0.1" stroke="none" class="ColorScheme-Text"/>
-    <path id="bag-left" d="M 13.5,25.5 H 8 A 3.9359029,3.9359029 41.645082 0 1 4.0910556,22.023973 L 2.6402095,9.6917807 A 1.0670995,1.0670995 131.64508 0 1 3.7,8.5 H 5.9 A 1.1211103,1.1211103 28.154966 0 1 6.8328201,8.9992302 L 7.1671799,9.5007698 A 1.1211103,1.1211103 28.154966 0 0 8.1,10 h 10.4" stroke="currentColor" class="ColorScheme-Text"/>
-    <path id="bag-right" d="m 23.5,8.5 h 0.8 a 1.0859851,1.0859851 47.855297 0 1 1.080596,1.1940446 L 24.9,14.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <path id="bag-handle" d="M8.5 7.5C12.5 .5 19.5 2.5 21.5 12.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <circle cx="6.5" cy="14.5" r=".5" fill="currentColor" stroke="none" id="circle1" class="ColorScheme-Text"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <path id="bag-fill" class="ColorScheme-Text" d="m3.6992 8.5c-.63876 0-1.1332.55702-1.0586 1.1914l1.4512 12.332c.2332 1.9822 1.9124 3.4766 3.9082 3.4766h6.5 4.207v-1.2207l-2.5234-.001953a1.7909 1.7882 0 00-.001953 0c-1.3528-.001206-2.4772-1.1313-2.4766-2.4785v-1.6094c-.002163-1.3489 1.1241-2.4808 2.4785-2.4805h2.5234v-2.5254c-.000288-1.3441 1.1297-2.4753 2.4785-2.4746h.003906 1.625c.9033 9.7e-5 1.7081.51068 2.1406 1.25l.42578-4.2656c.06393-.6393-.43758-1.1934-1.0801-1.1934h-.80078l-5 1.5h-10.4c-.37485 0-.72371-.18811-.93164-.5l-.33594-.5c-.20793-.31189-.55679-.5-.93164-.5h-2.2012z" style="opacity:.1;stroke-linecap:round;stroke-linejoin:round" fill="currentColor"/>
+ <g stroke="currentColor">
+  <path id="bag-left" class="ColorScheme-Text" d="m13.5 25.5h-5.5a3.9359 3.9359 0 01-3.9089-3.476l-1.4508-12.332a1.0671 1.0671 0 011.0598-1.1918h2.2a1.1211 1.1211 0 01.93282.49923l.33436.50154a1.1211 1.1211 0 00.93282.49923h10.4" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path id="bag-right" class="ColorScheme-Text" d="m23.5 8.5h.8a1.086 1.086 0 011.0806 1.194l-.4806 4.806" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path id="bag-handle" class="ColorScheme-Text" d="m8.5 7.5c4-7 11-5 13 5" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ </g>
+ <circle class="ColorScheme-Text" cx="6.5" cy="14.5" r=".5" fill="currentColor" style="stroke-linecap:round;stroke-linejoin:round"/>
+ <g transform="translate(-1.0019 -4.0014)">
+  <path d="m22 19v4.1666a.83338.83338 0 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 0 01.83338.83338v4.1666h2v-4.1666a.83338.83338 0 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 0 01-.83338-.83338v-4.1666z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke"/>
+  <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)">
+   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke">
+    <path class="ColorScheme-Text" d="m19.7 16.305-2.1537-3.4e-5c-.14682 0-.26581-.11945-.26568-.26671l.0027-2.9271c.000381-.28014-.22659-.50744-.50672-.50747h-1.2026c-.28057-.000448-.50823.22691-.50817.50747v2.9271c0 .1473-.11906.26671-.26592.26671h-2.9231c-.28015-6.4e-5-.50717.22794-.50672.50892v1.1942c-.00013.28085.2267.50867.50672.50892l2.9231.0027c.1469.000135.26592.11961.26592.26695v2.9328c-6.4e-5.28057.2276.50792.50817.50747h1.1925c.28044.000129.50791-.22704.50817-.50747l.0086-2.8231c0-.20474.16544-.37075.36958-.37085l2.8194-.0013c.27972.000382.50669-.22692.50672-.50747l.000369-.45096c.000608-.69573-.56307-1.2601-1.2588-1.2604l-1.2814-.000555" stroke="currentColor" style="stroke-width:.73971"/>
+    <path d="m19.7 16.305-2.1537-3.4e-5c-.14682 0-.26581-.11945-.26568-.26671l.0027-2.9271c.000381-.28014-.22659-.50744-.50672-.50747h-1.2026c-.28057-.000448-.50823.22691-.50817.50747v2.9271c0 .1473-.11906.26671-.26592.26671h-2.9231c-.28015-6.4e-5-.50717.22794-.50672.50892v1.1942c-.00013.28085.2267.50867.50672.50892l2.9231.0027c.1469.000135.26592.11961.26592.26695v2.9328c-6.4e-5.28057.2276.50792.50817.50747h1.1925c.28044.000129.50791-.22704.50817-.50747l.0086-2.8231c0-.20474.16544-.37075.36958-.37085l2.8194-.0013c.27972.000382.50669-.22692.50672-.50747l.000369-.45096c.000608-.69573-.56307-1.2601-1.2588-1.2604l-1.2814-.000555" style="stroke-width:.73971" stroke="currentColor" class="ColorScheme-Text"/>
+   </g>
   </g>
-  <g transform="translate(-1.0019 -4.0014)" id="comment-add-g11">
-    <path d="m22 19v4.1666a.83338.83338 0 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 0 01.83338.83338v4.1666h2v-4.1666a.83338.83338 0 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 0 01-.83338-.83338v-4.1666z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke" id="comment-add-path7"/>
-    <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)" id="comment-add-g9">
-      <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke" id="comment-add-g8">
-        <path d="m 19.7,16.305 -2.1537,-3.4e-5 c -0.14682,0 -0.26581,-0.11945 -0.26568,-0.26671 l 0.0027,-2.9271 c 3.81e-4,-0.28014 -0.22659,-0.50744 -0.50672,-0.50747 H 15.574 c -0.28057,-4.48e-4 -0.50823,0.22691 -0.50817,0.50747 v 2.9271 c 0,0.1473 -0.11906,0.26671 -0.26592,0.26671 h -2.9231 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1942 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 2.9231,0.0027 c 0.1469,1.35e-4 0.26592,0.11961 0.26592,0.26695 v 2.9328 c -6.4e-5,0.28057 0.2276,0.50792 0.50817,0.50747 h 1.1925 c 0.28044,1.29e-4 0.50791,-0.22704 0.50817,-0.50747 l 0.0086,-2.8231 c 0,-0.20474 0.16544,-0.37075 0.36958,-0.37085 l 2.8194,-0.0013 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 3.69e-4,-0.45096 c 6.08e-4,-0.695726 -0.563073,-1.260124 -1.2588,-1.2604 l -1.2814,-5.55e-4" style="stroke-width:0.73971" id="comment-add-path8" stroke="currentColor" class="ColorScheme-Text"/>
-      </g>
-    </g>
-    <g transform="matrix(0 1.3529 -1.3509 0 45.526 -.88237)" id="comment-add-g10"/>
-  </g>
+ </g>
 </svg>
