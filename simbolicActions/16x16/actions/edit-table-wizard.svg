@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="M.5 4.5V2.5q0-1 1-1H12q3.5 0 3.5 3.5 M.5 6.5v6q0 1 1 1h4 M12.5 13.5h2q1 0 1-1v-1" stroke="currentColor"/><path class="ColorScheme-Text" d="M5.5 1.5v12M10.5 1.5v3M.5 5.5h7M.5 9.5h5" opacity=".5" stroke="currentColor"/><path class="ColorScheme-Text" d="M18.3 27.4 28.4 17.3q.65-.65 0-1.3l-.9-.9q-.6-.6-1.2 0L16.1 25.3q-.85.85 0 1.7l.5.5q.85.85 1.7-.1Z" stroke="currentColor" transform="translate(0.5 0.5) scale(0.5)" stroke-width="2.0"/><path class="ColorScheme-Text" d="M24.5 16.9l2.1 2.1" opacity=".5" stroke="currentColor" transform="translate(0.5 0.5) scale(0.5)" stroke-width="2.0"/><path class="ColorScheme-Highlight" d="M11.5 5.5v2M10.5 6.5h2" stroke="currentColor" fill="none"/><path class="ColorScheme-Highlight" d="M14.5 4.5v1M14 5h1" stroke="currentColor" fill="none"/></g>
+</svg>
