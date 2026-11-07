@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" transform="matrix(1.2 0 0 1.2561 -1.1 .8707)" d="m6.3.5h3.4a.8.8 45 01.8.8v2.4a.8.8 135 01-.8.8h-3.4a.8.8 45 01-.8-.8v-2.4a.8.8 135 01.8-.8z" fill="none" stroke="currentColor" stroke-width=".8145"/>
+  <g stroke-width=".8165">
+   <path class="ColorScheme-Text" transform="matrix(1.2 0 0 1.25 -.1 -4.875)" d="m1.3 11.5h3.4a.8.8 45 01.8.8v2.4a.8.8 135 01-.8.8h-3.4a.8.8 45 01-.8-.8v-2.4a.8.8 135 01.8-.8z" fill="currentColor" opacity=".2"/>
+   <path class="ColorScheme-Text" transform="matrix(1.2 0 0 1.25 -.1 -4.875)" d="m1.3 11.5h3.4a.8.8 45 01.8.8v2.4a.8.8 135 01-.8.8h-3.4a.8.8 45 01-.8-.8v-2.4a.8.8 135 01.8-.8z" fill="none" stroke="currentColor"/>
+   <path class="ColorScheme-Text" transform="matrix(1.2,0,0,1.25,-1.9,-4.875)" d="m10.3 11.5h3.4a.8.8 45 01.8.8v2.4a.8.8 135 01-.8.8h-3.4a.8.8 45 01-.8-.8v-2.4a.8.8 135 01.8-.8z" fill="currentColor" opacity=".1"/>
+   <path class="ColorScheme-Text" transform="matrix(1.2,0,0,1.25,-1.9,-4.875)" d="m10.3 11.5h3.4a.8.8 45 01.8.8v2.4a.8.8 135 01-.8.8h-3.4a.8.8 45 01-.8-.8v-2.4a.8.8 135 01.8-.8z" fill="none" stroke="currentColor"/>
+  </g>
+ </g>
+</svg>
