@@ -3,6 +3,21 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;}</style>
  </defs>
- <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="M2.5 7.5V5.5q0-1 1-1h13q3 0 3 3v2 M2.5 9.5V17q0 1.5 1.5 1.5h6" stroke="currentColor"/><path class="ColorScheme-Text" d="M5.5 8.5h8M5.5 11.5h5M5.5 14.5h2" opacity=".5" stroke="currentColor"/><path class="ColorScheme-Text" d="M18.5 25.5l-2-2q-.8-.8 0-1.6l7.5-7.5q.8-.8 1.6 0l3.8 3.8q.8.8 0 1.6l-6.7 6.7h-5.2" stroke="currentColor" transform="scale(0.7)" stroke-width="1.4285714285714286"/><path class="ColorScheme-Text" d="M20 18.5l5 5" opacity=".5" stroke="currentColor" transform="scale(0.7)" stroke-width="1.4285714285714286"/><path class="ColorScheme-Text" d="M16.5 21.9l3.5-3.4 5 5-3 3h-3.5l-2-2q-.8-.8 0-1.6Z" fill="currentColor" stroke="none" opacity=".1" transform="scale(0.7)" stroke-width="1.4285714285714286"/></g>
+ <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" transform="scale(.7)" d="m16.929 21.471 3.5-3.4 5 5-3 3h-3.5l-2-2c-.53333-.53333-.53333-1.0667 0-1.6z" fill="currentColor" opacity=".1" stroke-width="1.4286" style="fill:#9c0000"/>
+  <g stroke="currentColor">
+   <path class="ColorScheme-Text" d="m2.5 8.5v-2c0-.66667.33333-1 1-1h13c2 0 3 1 3 3v1m-17 1v5.5c0 1 .5 1.5 1.5 1.5h6" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m5.5 8.5h8m-8 3h5m-5 3h2" opacity=".5" style="stroke:#4c0000"/>
+   <path class="ColorScheme-Text" d="m12.457 17.307-.90664-.90664c-.37333-.37333-.37333-.74667 0-1.12l5.25-5.25c.37333-.37333.74667-.37333 1.12 0l2.66 2.66c.37333.37333.37333.74667 0 1.12l-4.0607 4.0607a2.1487 2.1487 157.5 01-1.5193.62932h-2.75" stroke="currentColor"/>
+   <path class="ColorScheme-Text" transform="scale(.7)" d="m20 18.5 5 5" opacity=".5" stroke-width="1.4286" stroke="currentColor"/>
+  </g>
+ </g>
+ <path d="m2.5 4v-2" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m2.5 21v-2" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m1.5 5.5h-.5" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m1.3333 17.5h-.66667" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m19.5 4v-2" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m19.5 21.177v-1.2909" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m20.5 5.5h.5" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m20.667 17.5h.66667" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </g></svg>
