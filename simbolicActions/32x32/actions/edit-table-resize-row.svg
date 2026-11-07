@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <g transform="rotate(-90 16 16)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4">
+    <path class="ColorScheme-Text" d="m 12.5,14.5 v -8 c 0,-0.6666667 0.333333,-1 1,-1 h 4 c 1.333333,0 2,0.6666667 2,2 V 14 a 2.5,2.5 45 0 0 2.5,2.5 h 4.5" id="path1" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="M12.5 12.5h7M12.5 20.5h7" opacity=".5" id="path2" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="M12.5 5.5h5q2 0 2 2v5h-7Z" fill="currentColor" stroke="none" opacity=".1" id="path3"/>
+    <path class="ColorScheme-Text" d="m 5.5,16.5 h 5.528372 A 1.4716277,1.4716277 45 0 1 12.5,17.971628 V 24.5 c 0,1.333333 0.666667,2 2,2 h 4 c 0.666667,0 1,-0.333333 1,-1 v -7 M 6.5,13.5 5,15 4.5003147,15.499685 a 1.4146587,1.4146587 90.000001 0 0 -10e-8,2.00063 L 5.4464988,18.446499 6.5,19.5 m 19,-6 1.5,1.5 0.459402,0.459402 a 1.4716277,1.4716277 90 0 1 0,2.081196 L 26.402439,18.597561 25.5,19.5" id="path4" stroke="currentColor"/>
+  </g>
+</g></svg>
