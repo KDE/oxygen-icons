@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m12.5 8h2.83a1.17 1.17 45 011.17 1.17v13.66a1.17 1.17 45 001.17 1.17h1.83" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.5 11h3" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.67 4.5h5.66a1.17 1.17 45 011.17 1.17v4.66a1.17 1.17 135 01-1.17 1.17h-5.66a1.17 1.17 45 01-1.17-1.17v-4.66a1.17 1.17 135 011.17-1.17z" stroke="currentColor"/>
+ </g>
+ <g stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m20.67 7.5h5.66a1.17 1.17 45 011.17 1.17v4.66a1.17 1.17 135 01-1.17 1.17h-5.66a1.17 1.17 45 01-1.17-1.17v-4.66a1.17 1.17 135 011.17-1.17z" fill="currentColor" opacity=".1" style="opacity:.2"/>
+  <path class="ColorScheme-Text" d="m20.67 7.5h5.66a1.17 1.17 45 011.17 1.17v4.66a1.17 1.17 135 01-1.17 1.17h-5.66a1.17 1.17 45 01-1.17-1.17v-4.66a1.17 1.17 135 011.17-1.17z" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m20.67 20.5h5.66a1.17 1.17 45 011.17 1.17v4.66a1.17 1.17 135 01-1.17 1.17h-5.66a1.17 1.17 45 01-1.17-1.17v-4.66a1.17 1.17 135 011.17-1.17z" fill="currentColor" opacity=".1"/>
+  <path class="ColorScheme-Text" d="m20.67 20.5h5.66a1.17 1.17 45 011.17 1.17v4.66a1.17 1.17 135 01-1.17 1.17h-5.66a1.17 1.17 45 01-1.17-1.17v-4.66a1.17 1.17 135 011.17-1.17z" fill="none" stroke="currentColor"/>
+ </g>
+</svg>
