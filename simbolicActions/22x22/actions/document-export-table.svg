@@ -4,7 +4,7 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;}</style>
  </defs>
  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M1.5 6.5V4.5q0-1 1-1H17.5q3 0 3 3v3 M1.5 8.5V17q0 1.5 1.5 1.5h7.5q2 0 2-2v-.5q0-1.5 1.5-1.5h3 M20.5 17q0 1.5-1.5 1.5h-5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="M1.5 6.5V4.5q0-1 1-1H17.5q3 0 3 3v3 M1.5 8.5V17q0 1.5 1.5 1.5h7.5q2 0 2-2v-.5q0-1.5 1.5-1.5h1.5 M20.5 17q0 1.5-1.5 1.5h-5" stroke="currentColor" class="ColorScheme-Text"/>
   <path d="M7.5 3.5v15M14.5 3.5v7M1.5 13.5h7" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
   <path d="M1.5 8.5H20.5" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
  </g>
