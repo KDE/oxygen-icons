@@ -2,10 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg4">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
-    </defs>
+  </defs>
   <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
-    <path id="comment-upper" d="M 19.5,12.5 V 5 A 2.5,2.5 45 0 0 17,2.5 H 3 A 1.5,1.5 135 0 0 1.5,4 1.5,1.5 45 0 0 3,5.5 h 14.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <path id="comment-lower" d="M 1.5,8.5 V 18 a 0.24031242,0.24031242 25.670096 0 0 0.3904344,0.187652 L 5.7191312,15.124695 A 2.8507811,2.8507811 160.6701 0 1 7.5,14.5 h 3" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="comment-upper" d="M 19.5,10.5 V 5 C 19.5,3.6192881 18.380712,2.5 17,2.5 H 3 C 2.1715729,2.5 1.5,3.1715729 1.5,4 1.5,4.8284271 2.1715729,5.5 3,5.5 h 14.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="comment-lower" d="M 1.5,8.5 V 18 c 4e-7,0.201503 0.2330868,0.31353 0.3904344,0.187652 L 5.7191312,15.124695 C 6.2246119,14.72031 6.8526689,14.5 7.5,14.5 h 4" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
   <g transform="translate(-.00068165 -.00069768)" id="comment-add-g15">
     <path transform="matrix(.58345 0 0 .58345 4.0806 4.0296)" d="m22 15.375v4.1666a.83338.83338 135 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 45 01.83338.83338v4.1666h2v-4.1666a.83338.83338 135 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 45 01-.83338-.83338v-4.1666z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke" id="comment-add-path7"/>
