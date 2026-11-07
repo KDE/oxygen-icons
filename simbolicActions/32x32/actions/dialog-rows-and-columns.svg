@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path id="grid-object-0-0" d="M 4.2,3.5 H 8.1 A 1.4,1.4 45 0 1 9.5,4.9 V 8.8 A 0.7,0.7 135 0 1 8.8,9.5 l -4.3,0 a 1,1 45 0 1 -1,-1 V 4.2 A 0.7,0.7 135 0 1 4.2,3.5 Z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-0-1" d="m 13.2,3.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 l -4.3,0 a 1,1 45 0 1 -1,-1 V 4.2 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-0-2" d="m 22.2,3.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 l -4.3,0 a 1,1 45 0 1 -1,-1 V 4.2 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-1-0" d="m 4.2,12.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 A 0.7,0.7 135 0 1 8.8,18.5 H 4.5 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-1-1" d="m 13.2,12.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 h -4.3 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-1-2" d="m 22.2,12.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 h -4.3 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-2-0" d="m 4.2,21.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 l -4.3,0 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-2-1" d="m 13.2,21.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 l -4.3,0 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="grid-object-2-2" d="m 22.2,21.5 h 3.9 a 1.4,1.4 45 0 1 1.4,1.4 v 3.9 a 0.7,0.7 135 0 1 -0.7,0.7 l -4.3,0 a 1,1 45 0 1 -1,-1 v -4.3 a 0.7,0.7 135 0 1 0.7,-0.7 z" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+  </g>
+</svg>
