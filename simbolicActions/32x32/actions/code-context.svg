@@ -5,5 +5,5 @@
 .ColorScheme-Highlight { color:#3daee9; }</style>
  </defs>
  <path class="ColorScheme-Text" d="m4.5 19.5v-11.2a1.8 1.8 135 011.8-1.8h16.889a4.311 4.311 45 014.311 4.311v12.889a1.8 1.8 135 01-1.8 1.8h-17.778a3.4216 3.4216 45 01-3.4216-3.4216v-.57837" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
- <path class="ColorScheme-Text" d="m10.5 10.5h-1c-.66667 0-1 .33333-1 1v3.5c0 .66667-.33333 1-1 1 .66667 0 1 .33333 1 1v3.5c0 .66667.33333 1 1 1h1m11-11h1c.66667 0 1 .33333 1 1v3.5c0 .66667.33333 1 1 1-.66667 0-1 .33333-1 1v3.5c0 .66667-.33333 1-1 1h-1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" d="m10.5 10.5h-.85425a1.1458 1.1458 135 00-1.1458 1.1458v3.3542m-1 1c.66667 0 1 .33333 1 1v2.7154a1.7846 1.7846 45 001.7846 1.7846h.21544m11-11h.21544a1.7846 1.7846 45 011.7846 1.7846v2.7154c0 .66667.33333 1 1 1m-1 1v3.3542a1.1458 1.1458 135 01-1.1458 1.1458h-.85425" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
