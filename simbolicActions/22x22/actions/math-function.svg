@@ -4,11 +4,11 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;}</style>
     </defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g3">
-    <path id="f-lower" d="m 1.5,20.5 h 1 a 2,2 135 0 0 2,-2 V 12 A 1.5,1.5 135 0 1 6,10.5 h 0.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <path id="f-upper" d="M 1.5,10.5 H 3 A 1.5,1.5 135 0 0 4.5,9 V 5 A 2.5,2.5 135 0 1 7,2.5 h 1.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="f-lower" d="m 1.5,20.5 h 1 a 2,2 135 0 0 2,-2 V 11 A 1.5,1.5 135 0 1 6,9.5 h 0.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path id="f-upper" d="M 1.5,9.5 H 3 A 1.5,1.5 135 0 0 4.5,8 V 5 A 2.5,2.5 135 0 1 7,2.5 h 1.5" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M10.5 5.5C7.5 8.5 7.5 14.5 10.5 17.5M19.5 5.5C22.5 8.5 22.5 14.5 19.5 17.5" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M12.5 8.5 17.5 14.5" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M17.5 8.5 16.5 9.7Q16.2 10 16.3 10.4" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M12.5 14.5 13.5 13.3Q13.8 13 13.7 12.6" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 17.5,8.5 -1.4,1.6 c -0.2,0.2 -0.266667,0.433333 -0.2,0.7" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 12.5,14.5 1.4,-1.6 c 0.2,-0.2 0.266667,-0.433333 0.2,-0.7" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
 </svg>
