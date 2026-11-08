@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
-    </defs>
-  <path id="back-sheet" d="M 2.5,16.5 H 2 A 0.5,0.5 45 0 1 1.5,16 V 2.2 A 0.7,0.7 135 0 1 2.2,1.5 l 11.3,0 a 2.5980619,2.5980619 19.440035 0 1 1.7,0.6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="page" d="M 9.5,18.5 H 5.3 A 0.8,0.8 45 0 1 4.5,17.7 V 4.3 A 0.8,0.8 135 0 1 5.3,3.5 H 15 A 2.5,2.5 45 0 1 17.5,6 v 13.1 a 2.7253742,2.7253742 98.349622 0 1 -0.114939,0.783131 L 17.2,20.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-stem" d="m 14.7,13.5 -0.121554,0.607768 A 4.0396078,4.0396078 95.654966 0 0 14.5,14.9 v 4.2 a 2.7253742,2.7253742 98.349622 0 1 -0.114939,0.783131 L 14.2,20.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-upper" d="m 12.5,16.2 0.521087,0.156326 A 3.4067178,3.4067178 8.3496221 0 0 14,16.5 h 5 a 2.4359622,2.4359622 11.599295 0 1 0.959573,0.19696 L 20.2,16.8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-lower" d="M 9.5,18.5 H 19 a 2.4359622,2.4359622 11.599295 0 1 0.959573,0.19696 L 20.2,18.8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="rear-continuations" d="M6 16.5H10.5M15.5 5.5V12.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity=".2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path id="back-sheet" class="ColorScheme-Text" d="m2.5 16.5h-.5c-.27614 0-.5-.22386-.5-.5v-14.8c0-.3866.3134-.7.7-.7h12.3c.62012-.00931 1.2231.20351 1.7.6" stroke="currentColor"/>
+  <path id="page" class="ColorScheme-Text" d="m10.5 19.5h-5.2c-.44183 0-.8-.35817-.8-.8v-14.4c0-.44183.35817-.8.8-.8h10.7c1.3807 0 2.5 1.1193 2.5 2.5v14.1c0 .26525-.03872.52907-.11494.78313l-.18506.61687" stroke="currentColor"/>
+  <path id="hash-stem" class="ColorScheme-Text" d="m15.7 14.2-.12155.60777c-.05217.26085-.078446.52622-.078446.79223v4.5c0 .26525-.03872.52907-.11494.78313l-.18506.61687" stroke="currentColor"/>
+  <path id="hash-upper" class="ColorScheme-Text" d="m13.1 16.2.52109.15633c.31757.095272.64736.14367.97891.14367h5.4c.3299 0 .65635.06701.95957.19696l.24043.10304" stroke="currentColor"/>
+  <path id="hash-lower" class="ColorScheme-Text" d="m10.5 19.5h9.5a2.436 2.436 0 01.95957.19696l.24043.10304" stroke="currentColor"/>
+  <path id="rear-continuations" class="ColorScheme-Text" d="m6 16.5h5.5m5-11v7" opacity=".2" stroke="currentColor"/>
+ </g>
 </svg>
