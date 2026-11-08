@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+    </defs>
+  <path id="button-backing" d="m 6,7.5 h 18.5 a 4,4 45 0 1 4,4 V 20 A 4.5,4.5 135 0 1 24,24.5 H 6.5 a 3,3 45 0 1 -3,-3 V 10 A 2.5,2.5 135 0 1 6,7.5 Z" fill="currentColor" opacity="0.1" class="ColorScheme-Text"/>
+  <path id="frame" d="m 23.390834,7.5 h 2.814174 A 2.2949916,2.2949916 45 0 1 28.5,9.7949916 V 20 A 4.5,4.5 135 0 1 24,24.5 H 6.7993755 A 3.2993755,3.2993755 45 0 1 3.5,21.200624 V 10.799376 A 3.2993755,3.2993755 135 0 1 6.7993755,7.5 H 19.645036 a 2.8552937,2.8552937 45.001321 0 1 2.855293,2.855425 l -2.3e-4,4.987843 A 2.1568317,2.1568317 135.00132 0 1 20.343268,17.5 H 11.656732 A 0.89334777,0.89334777 67.5 0 1 11.02504,15.97496 L 13.5,13.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="arrow-lower" d="m 9.6,17.5 3.9,4" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+</svg>
