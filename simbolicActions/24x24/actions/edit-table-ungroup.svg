@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+    </defs>
+  <g transform="translate(1,1)"><path id="outline-top" d="M 8.5,5 V 3.5 a 1,1 135 0 1 1,-1 h 9 a 2,2 45 0 1 2,2 V 9" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="outline-bottom" d="m 20.5,12 v 6 A 1.5,1.5 135 0 1 19,19.5 h -8.5 a 2,2 45 0 1 -2,-2 V 16" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="outline-middle" d="M8.5 13V8" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="bracket-upper" d="m 6.5,4.5 h -3 a 1,1 135 0 0 -1,1 v 3" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Highlight" opacity="0.7"/>
+  <path id="bracket-lower" d="M 2.5,13.5 V 16 A 1.5,1.5 45 0 0 4,17.5 h 2.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Highlight" opacity="0.7"/>
+  <path id="row-top" d="m 9.5,6.5 h 9 a 2,2 135 0 0 2,-2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text" opacity="0.5"/>
+  <path id="row-middle" d="m 8.5,8.5 a 2,2 45 0 0 2,2 h 9" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text" opacity="0.5"/>
+  <path id="row-bottom" d="m 9.5,14.5 h 9 a 2,2 135 0 0 2,-2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text" opacity="0.5"/>
+</g></svg>
