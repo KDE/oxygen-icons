@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+    </defs>
+  <path id="cell-backing" d="m 19,18.5 h 8 a 1.5,1.5 45 0 1 1.5,1.5 l 0,6 A 2.5,2.5 135 0 1 26,28.5 H 19 A 1.5,1.5 45 0 1 17.5,27 V 20 A 1.5,1.5 135 0 1 19,18.5 Z" fill="currentColor" opacity="0.1" class="ColorScheme-Text"/>
+  <path id="page-and-cell" d="M 15.5,27.5 H 6.7234919 A 1.2234919,1.2234919 45 0 1 5.5,26.276508 V 5.7234919 A 1.2234919,1.2234919 135 0 1 6.7234919,4.5 H 20.69229 A 3.8077099,3.8077099 45 0 1 24.5,8.3077099 V 17 a 1.5,1.5 45 0 0 1.5,1.5 h 1 a 1.5,1.5 45 0 1 1.5,1.5 l 0,6 A 2.5,2.5 135 0 1 26,28.5 H 19 A 1.5,1.5 45 0 1 17.5,27 V 20 A 1.5,1.5 135 0 1 19,18.5 h 2.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="cell-content" d="m 17,14.9 c 0.251788,-0.43611 1.1,-0.4 1.8,-0.4 1.3,0 1.7,0.6 1.7,1.8 v 4.2 m -1.655258,-3 h -0.827629 c -2.017113,0 -2.117342,3 0,3 0.993155,0 1.820784,-0.413815 2.482887,-0.827629" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text" transform="translate(4 6)"/>
+</svg>
