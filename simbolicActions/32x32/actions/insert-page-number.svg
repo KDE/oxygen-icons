@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <path id="page" class="ColorScheme-Text" d="M 15.5,27.5 H 6.7234919 A 1.2234919,1.2234919 45 0 1 5.5,26.276508 V 5.7234919 A 1.2234919,1.2234919 135 0 1 6.7234919,4.5 H 20.69229 A 3.8077099,3.8077099 45 0 1 24.5,8.3077099 v 9.0343091 1.864738 8.211561 0.674033 a 7.0016861,7.0016861 97.585084 0 1 -0.243989,1.832248 L 24.1,30.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" style="stroke-linejoin:round"/>
+  <path id="number" class="ColorScheme-Text" d="m 20.8,20.5 -0.08563,0.3752 A 8.5526087,8.5526087 96.427715 0 0 20.5,22.778085 v 5.372131 a 6.8146923,6.8146923 98.047613 0 1 -0.267121,1.889268 L 20.1,30.5 m -2.6,-7.3 0.110321,0.03195 a 6.7901556,6.7901556 8.0763107 0 0 1.889,0.268048 h 6.624755 a 3.5156395,3.5156395 15.326501 0 1 1.792404,0.491238 L 28.1,24.1 m -12.743349,3.4 h 1.322451 9.35596 a 3.7828736,3.7828736 14.289699 0 1 1.809636,0.460924 L 28.1,28.1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg>
