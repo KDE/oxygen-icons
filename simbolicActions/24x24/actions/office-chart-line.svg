@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style>
+    </defs>
+  <g transform="translate(1,1)"><path id="axes" d="M 3.5,2.5 V 18 A 1.5,1.5 45 0 0 5,19.5 h 15.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="series-blue" d="M 5.5,16.5 8.8445696,15.245786 A 2.5427079,2.5427079 144.05188 0 0 9.9372865,14.453392 L 14.875305,8.2808688 A 3.7930517,3.7930517 143.4292 0 1 16.428477,7.1286093 L 20.5,5.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Highlight"/>
+  <path id="series-dark-left" d="M 5.5,12.5 9.899755,9.860147 a 0.8173074,0.8173074 9.6153362 0 1 1.048374,0.177608 L 11.5,10.7" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="series-dark-right" d="m 13.3,13 2.61637,2.452847 a 1.0396134,1.0396134 5.5735033 0 0 1.262029,0.123154 L 20.5,13.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path id="ticks" d="M1.5 7.5H3.5M1.5 13.5H3.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text" opacity=".3"/>
+</g></svg>
