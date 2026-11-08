@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <path id="body-fill" class="ColorScheme-Text" transform="translate(3)" d="m9.346 14.5h14.654a1.5 1.5 45 011.5 1.5v9.5a3 3 135 01-3 3h-13.5a1.5 1.5 45 01-1.5-1.5v-10.654a1.846 1.846 135 011.846-1.846z" fill="currentColor" opacity=".1" stroke-linecap="round"/>
+ <path id="lock-contour" class="ColorScheme-Text" transform="translate(3)" d="m2.4769 11.5v-2c0-3.0376 2.4676-5.5 5.5116-5.5 3.0439 0 5.5116 2.4624 5.5116 5.5v3.154a1.846 1.846 135 01-1.846 1.846h-2.308a1.846 1.846 135 00-1.846 1.846v9.154a3 3 45 003 3h10.458a4.5415 4.5415 135 004.5415-4.5415v-7.9585a1.5 1.5 45 00-1.5-1.5h-7.5" fill="none" stroke="currentColor" stroke-linecap="round" style="stroke-linejoin:round"/>
+</svg>
