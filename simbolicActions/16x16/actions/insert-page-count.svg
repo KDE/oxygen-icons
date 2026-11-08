@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <path id="back-sheet" d="M 2,11.5 H 1.8 A 0.3,0.3 45 0 1 1.5,11.2 L 1.5,1 A 0.5,0.5 135 0 1 2,0.5 h 7.3 a 2.1,2.1 18.434949 0 1 1.26,0.42 L 10.8,1.1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="page" d="M 7.5,13.5 H 4.1 A 0.6,0.6 45 0 1 3.5,12.9 V 3.1 A 0.6,0.6 135 0 1 4.1,2.5 h 6.7 a 1.7,1.7 45 0 1 1.7,1.7 V 14 a 2.4369317,2.4369317 97.018122 0 1 -0.07276,0.591043 L 12.3,15.1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="hash-stem" d="M 9.7,9.5 9.5824163,9.9115428 A 2.1420165,2.1420165 97.972698 0 0 9.5,10.5 V 14 a 2.4369317,2.4369317 97.018122 0 1 -0.072761,0.591043 L 9.3,15.1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="hash-upper" d="m 7.5,11.3 0.4115428,0.117584 A 2.1420165,2.1420165 7.972698 0 0 8.5,11.5 h 5 a 2.1420165,2.1420165 7.972698 0 1 0.588457,0.08242 L 14.5,11.7" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="hash-lower" d="m 7.5,13.5 h 6 a 2.1420165,2.1420165 7.972698 0 1 0.588457,0.08242 L 14.5,13.7" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="rear-continuations" d="M5 11.5H6M10.5 4.5V8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity=".2"/>
+</svg>
