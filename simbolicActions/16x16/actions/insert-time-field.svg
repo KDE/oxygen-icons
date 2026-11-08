@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+    </defs>
+  <circle id="clock-backing" class="ColorScheme-Text" cx="11.5" cy="11.5" r="3.5" fill="currentColor" opacity=".1"/>
+  <path id="page-and-hands" class="ColorScheme-Text" d="M 6.5,11.5 H 1.1 A 0.6,0.6 45 0 1 0.5,10.9 V 4.1 A 0.6,0.6 135 0 1 1.1,3.5 h 8.7 a 1.7,1.7 45 0 1 1.7,1.7 V 11 a 0.93425855,0.93425855 61.845034 0 0 0.416025,0.77735 L 13,12.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <path id="clock-face" class="ColorScheme-Text" d="M13.0 8.33772233983162A3.5 3.5 0 1 1 10.0 8.33772233983162" fill="none" stroke="currentColor" stroke-linecap="round"/>
+</svg>
