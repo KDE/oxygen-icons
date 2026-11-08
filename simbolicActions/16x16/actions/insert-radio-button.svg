@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <circle id="radio-boundary" class="ColorScheme-Text" cx="8.0" cy="8.0" r="6.5" fill="none" opacity=".5" stroke="currentColor" style="opacity:1"/>
+ <circle id="selected-backing" class="ColorScheme-Text" cx="8.0" cy="8.0" r="2.5" fill="currentColor" opacity=".1"/>
+ <circle id="selected-mark" class="ColorScheme-Text" cx="8.0" cy="8.0" r="2.5" fill="none" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="M 8.0 10.5 A 4.5 4.5 0 0 1 8.0 1.5" fill="none" stroke="currentColor" style="opacity:.3;stroke-linecap:round;stroke-linejoin:bevel"/>
+</svg>
