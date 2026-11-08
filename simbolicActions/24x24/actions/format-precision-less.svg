@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg3">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
     </defs>
-  <g transform="translate(1,1)"><path id="zero-0" class="ColorScheme-Text" d="M 8,2.5 A 2.5,2.5 45 0 1 10.5,5 V 7 A 2.5,2.5 135 0 1 8,9.5 2.5,2.5 45 0 1 5.5,7 V 5 A 2.5,2.5 135 0 1 8,2.5 Z" fill="none" stroke="currentColor" stroke-width="1" opacity="1"/>
-  <path id="zero-1" class="ColorScheme-Text" d="M 16,2.5 A 2.5,2.5 45 0 1 18.5,5 V 7 A 2.5,2.5 135 0 1 16,9.5 2.5,2.5 45 0 1 13.5,7 l 0,-2 A 2.5,2.5 135 0 1 16,2.5 Z" fill="none" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+  <g transform="translate(1,1)"><path id="zero-0" d="M 9.0725939,3.6020177 C 9.3511671,4.0150194 9.5,4.50183 9.5,5 V 7 A 2.5,2.5 135 0 1 7,9.5 2.5,2.5 45 0 1 4.5,7 V 5 A 2.5,2.5 135 0 1 7,2.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="1"/>
+  <path id="connector-0" d="m 7,2.5 h 4.2 a 1.3,1.3 45 0 1 1.3,1.3 V 5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+  <path id="zero-1" d="M 17.072594,3.6020177 C 17.351167,4.0150194 17.5,4.50183 17.5,5 V 7 A 2.5,2.5 135 0 1 15,9.5 2.5,2.5 45 0 1 12.5,7 V 5 A 2.5,2.5 135 0 1 15,2.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+  <path id="connector-1" d="m 15,2.5 h 4.2 a 1.3,1.3 45 0 1 1.3,1.3 V 5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
   <path class="ColorScheme-Text" d="M2.5 9.5h.1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path1"/>
   <g transform="translate(9 9) scale(.385)" id="g3">
     <path d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="#720000" opacity=".1" id="path2"/>
     <path d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="#720000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5974" id="path3"/>
   </g>
-</g></svg>
+<path d="M 17.072594,3.6020177 C 17.351167,4.0150194 17.5,4.50183 17.5,5 V 7 A 2.5,2.5 135 0 1 15,9.5 2.5,2.5 45 0 1 12.5,7 V 5 A 2.5,2.5 135 0 1 15,2.5 m 15,2.5 h 4.2 a 1.3,1.3 45 0 1 1.3,1.3 V 5" fill="none" stroke="#720000" opacity=".1" stroke-linecap="round"/></g></svg>
