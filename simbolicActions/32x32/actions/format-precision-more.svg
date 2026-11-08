@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <path id="zero-0" class="ColorScheme-Text" d="M 13.912536,13.941578 C 14.283639,13.385998 14.5,12.718266 14.5,12 V 7 C 14.5,5.067003 12.932997,3.5 11,3.5 9.067003,3.5 7.5,5.067003 7.5,7 v 5 c 0,1.932997 1.567003,3.5 3.5,3.5" fill="none" stroke="currentColor" stroke-width="1" opacity="1" style="stroke-linecap:round"/>
+  <path id="zero-1" class="ColorScheme-Text" d="M 24.862362,4.9853224 C 25.264065,5.5549983 25.5,6.2499463 25.5,7 v 5 c 0,1.932997 -1.567003,3.5 -3.5,3.5 -1.932997,0 -3.5,-1.567003 -3.5,-3.5 V 7 c 0,-1.9329966 1.567003,-3.5 3.5,-3.5 v 0" fill="none" stroke="currentColor" stroke-width="1" opacity="1" style="stroke-linecap:round" transform="matrix(1,0,0,-1,0,19)"/>
+  <path class="ColorScheme-Text" d="M4.5 15.5h.1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path1"/>
+  <path style="opacity:0.3;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" d="m 12,3.5 h 5.539988 A 1.9600122,1.9600122 45 0 1 19.5,5.4600122 V 7" id="path4" transform="matrix(1,0,0,-1,-1,19)" class="ColorScheme-Text" stroke="currentColor"/>
+  <g transform="translate(-1.0019 -2.0014)" id="comment-add-g11">
+    <path d="m22 19v4.1666a.83338.83338 0 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 0 01.83338.83338v4.1666h2v-4.1666a.83338.83338 0 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 0 01-.83338-.83338v-4.1666z" style="fill-opacity:.25734;fill:#3ab8ff;paint-order:markers fill stroke" id="comment-add-path7"/>
+    <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)" id="comment-add-g9">
+      <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke" id="comment-add-g8">
+        <path d="m 19.7,16.305 -2.1537,-3.4e-5 c -0.14682,0 -0.26581,-0.11945 -0.26568,-0.26671 l 0.0027,-2.9271 c 3.81e-4,-0.28014 -0.22659,-0.50744 -0.50672,-0.50747 H 15.574 c -0.28057,-4.48e-4 -0.50823,0.22691 -0.50817,0.50747 v 2.9271 c 0,0.1473 -0.11906,0.26671 -0.26592,0.26671 h -2.9231 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1942 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 2.9231,0.0027 c 0.1469,1.35e-4 0.26592,0.11961 0.26592,0.26695 v 2.9328 c -6.4e-5,0.28057 0.2276,0.50792 0.50817,0.50747 h 1.1925 c 0.28044,1.29e-4 0.50791,-0.22704 0.50817,-0.50747 l 0.0086,-2.8231 c 0,-0.20474 0.16544,-0.37075 0.36958,-0.37085 l 2.8194,-0.0013 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 3.69e-4,-0.45096 c 6.08e-4,-0.695726 -0.563073,-1.260124 -1.2588,-1.2604 l -1.2814,-5.55e-4" style="stroke-width:0.73971" id="comment-add-path8" stroke="currentColor" class="ColorScheme-Text"/>
+      </g>
+    </g>
+    <g transform="matrix(0 1.3529 -1.3509 0 45.526 -.88237)" id="comment-add-g10"/>
+  </g>
+</svg>
