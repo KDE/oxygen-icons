@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <path id="page" d="M 0.5,11.5 V 1.1 A 0.6,0.6 135 0 1 1.1,0.5 h 12.4 a 2,2 45 0 1 2,2 v 12 a 1,1 135 0 1 -1,1 H 1.1 A 0.6,0.6 45 0 1 0.5,14.9 V 14" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="chapter-lines" d="M3.5 4.5H6.5 M3.5 8.5H6.5 M3.5 12.5H6.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" transform="matrix(-1 0 0 1 16 0)"/>
+  <path id="leaders" d="M8.5 4.5H9.5 M8.5 8.5H9.5 M8.5 12.5H9.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" transform="matrix(-1 0 0 1 16 0)"/>
+  <path id="one" d="m24 7.8475.53817-.29609a.64975.65071 0 01.96262.57032l-4.2e-5 3.9359" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1.8181818181818181" stroke-linecap="round" transform="translate(-10 0) matrix(0.55 0 0 0.55 -0.5250000000000004 -1.2750000000000004)" stroke-linejoin="round"/>
+  <path id="two" d="m23.5 15.2v-.05451a1.1442 1.1458 0 011.1438-1.1458c.61138-.000196 1.107.5125 1.1066 1.1452-3e-6.0062-7e-6.01243-1e-5.01863-3e-4.55869-.33926 1.3116-.7572 1.6816l-1.3888 1.2295a.22868.22902 0 00.14861.40059l1.997.02494" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1.8181818181818181" stroke-linecap="round" transform="translate(-10 0) matrix(0.55 0 0 0.55 -0.5250000000000004 -1.125)" stroke-linejoin="round"/>
+  <path id="three" d="m23.5 21.998c.33358-.48229.64638-.51155 1.4714-.4985.51172.0081.92652.42751.92634.93996l-.000113.13895c-.000419.51249-.41555.9279-.92796.9279h-.99024.99024c.51381 1.1e-5.93168.41398.9366.92784l.0049.91793c.0049.51243-.40655.92922-.91884.93894-.90468.01715-1.0196.0083-1.4924-.45461" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1.8181818181818181" stroke-linecap="round" transform="translate(-10 0) matrix(0.55 0 0 0.55 -0.5250000000000004 -0.9750000000000014)" stroke-linejoin="round"/>
+</svg>
