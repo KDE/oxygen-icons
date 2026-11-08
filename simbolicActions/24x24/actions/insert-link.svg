@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <g transform="translate(1,1)"><g class="ColorScheme-Text" transform="matrix(.5804 0 0 .58001 2.5694 .61167)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7235">
+  <path id="upper-link" d="m25.039-.19336c-2.1743.003058-4.4678.93855-6.3809 2.8516l-1.6685 1.667v.00195c-.96287.96421-.96354 2.7161 0 3.6797l.002.002c.96354.96354 2.7155.96287 3.6797 0h.002l1.6685-1.667c1.1238-1.1227 2.019-1.3996 2.707-1.3984.688.00121 1.2956.29905 1.8008.83789.99322 1.0594 1.544 2.6416-.69141 4.877l-7 7c-.84113.84114-1.648 1.1465-2.4082 1.1465s-1.5671-.30535-2.4082-1.1465h-.002c-.96422-.96287-2.7155-.96287-3.6797 0l-.002.002c-.96287.96422-.96287 2.7155 0 3.6797v.002c3.3939 3.3939 8.7896 3.3939 12.184 0l7-7c3.8175-3.8176 3.63-9.1137.80859-12.123-1.4174-1.5119-3.4366-2.4152-5.6113-2.4121z" style="stop-color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1.7235" class="ColorScheme-Text" stroke="currentColor"/>
+ </g>
+ <g class="ColorScheme-Text" transform="matrix(-.5804 0 0 -.58001 19.559 21.351)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7235">
+  <path d="m25.039-.19336c-2.1743.003058-4.4678.93855-6.3809 2.8516l-1.4962 1.4946v.00195c-.96287.96421-.96354 2.7161 0 3.6797l.002.002c.96354.96354 2.7155.96287 3.6797 0h.002l1.4962-1.4946c1.1239-1.1226 2.019-1.3996 2.707-1.3984.688.00121 1.2956.29905 1.8008.83789.99322 1.0594 1.544 2.6416-.69141 4.877l-7 7c-.84113.84114-1.648 1.1465-2.4082 1.1465s-1.5671-.30535-2.4082-1.1465h-.002c-.96422-.96287-2.7155-.96287-3.6797 0l-.002.002c-.96287.96422-.96287 2.7155 0 3.6797v.002c3.3939 3.3939 8.7896 3.3939 12.184 0l7-7c3.8175-3.8176 3.63-9.1137.80859-12.123-1.4174-1.5119-3.4366-2.4152-5.6113-2.4121z" style="stop-color:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1.7235" class="ColorScheme-Text" stroke="currentColor"/>
+ </g>
+</g></svg>
