@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
-    </defs>
-  <g transform="translate(1,1)"><path id="page" d="M 9.5,18.5 H 5.3 A 0.8,0.8 45 0 1 4.5,17.7 V 4.3 A 0.8,0.8 135 0 1 5.3,3.5 H 15 A 2.5,2.5 45 0 1 17.5,6 v 13.1 a 2.7253742,2.7253742 98.349622 0 1 -0.114939,0.783131 L 17.2,20.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-stem" d="m 14.7,13.5 -0.121554,0.607768 A 4.0396078,4.0396078 95.654966 0 0 14.5,14.9 v 4.2 a 2.7253742,2.7253742 98.349622 0 1 -0.114939,0.783131 L 14.2,20.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-upper" d="m 12.5,16.2 0.521087,0.156326 A 3.4067178,3.4067178 8.3496221 0 0 14,16.5 h 5 a 2.4359622,2.4359622 11.599295 0 1 0.959573,0.19696 L 20.2,16.8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  <path id="hash-lower" d="M 9.5,18.5 H 19 a 2.4359622,2.4359622 11.599295 0 1 0.959573,0.19696 L 20.2,18.8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-  </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <g transform="translate(1,1)"><g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path id="page" class="ColorScheme-Text" d="m9.5 18.5h-5.2c-.44183 0-.8-.35817-.8-.8v-15.4c0-.44183.35817-.8.8-.8h10.7c1.3807 0 2.5 1.1193 2.5 2.5v15.1c0 .26525-.03872.52907-.11494.78313l-.18506.61687" stroke="currentColor"/>
+  <path id="hash-stem" class="ColorScheme-Text" d="m14.7 13.5-.12155.60777a4.0396 4.0396 95.655 00-.078446.79223v4.2a2.7254 2.7254 98.35 01-.11494.78313l-.18506.61687" stroke="currentColor"/>
+  <path id="hash-upper" class="ColorScheme-Text" d="m12.5 15.2.52109.15633a3.4067 3.4067 0 00.97891.14367h5a2.436 2.436 0 01.95957.19696l.24043.10304" stroke="currentColor"/>
+  <path id="hash-lower" class="ColorScheme-Text" d="m9.5 18.5h9.5a2.436 2.436 11.599 01.95957.19696l.24043.10304" stroke="currentColor"/>
+ </g>
+</g></svg>
