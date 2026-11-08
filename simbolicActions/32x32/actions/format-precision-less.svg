@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+    </defs>
+  <path id="zero-0" class="ColorScheme-Text" d="M 12,3.5 A 3.5,3.5 45 0 1 15.5,7 v 5 A 3.5,3.5 135 0 1 12,15.5 3.5,3.5 45 0 1 8.5,12 V 7 A 3.5,3.5 135 0 1 12,3.5 Z" fill="none" stroke="currentColor" stroke-width="1" opacity="1"/>
+  <path id="zero-1" class="ColorScheme-Text" d="M 23,3.5 A 3.5,3.5 45 0 1 26.5,7 v 5 A 3.5,3.5 135 0 1 23,15.5 3.5,3.5 45 0 1 19.5,12 V 7 A 3.5,3.5 135 0 1 23,3.5 Z" fill="none" stroke="currentColor" stroke-width="1" opacity="0.5"/>
+  <path class="ColorScheme-Text" d="M4.5 15.5h.1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path1"/>
+  <g transform="translate(13 13) scale(.55)" id="g3">
+    <path d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="#720000" opacity=".1" id="path2"/>
+    <path d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="#720000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8182" id="path3"/>
+  </g>
+</svg>
