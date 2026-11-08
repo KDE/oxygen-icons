@@ -1,2 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style></defs><circle id="thumb-backing" class="ColorScheme-Text" cx="8.5" cy="8.5" r="2.5" fill="currentColor" opacity=".1"/><path id="track-and-thumb" class="ColorScheme-Text" d="M0.5 8.5H1.5C3.5 8.5 4.5 6.0 8.5 6.0A2.5 2.5 0 0 1 11.0 8.5A2.5 2.5 0 0 1 8.5 11.0A2.5 2.5 0 0 1 6.0 8.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/><path id="track-right" class="ColorScheme-Text" d="M12.5 8.5H15.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <circle id="thumb-backing" class="ColorScheme-Text" cx="8.5" cy="8.5" r="2.5" fill="currentColor" opacity=".1"/>
+  <path id="track-and-thumb" class="ColorScheme-Text" d="M 0.5,8.5 H 4.6345397 C 6.2820614,8.5 6.1365067,6 8.5,6 9.8807119,6 11,7.1192881 11,8.5 11,9.8807119 9.8807119,11 8.5,11 7.6002411,11 6.8114997,10.524678 6.3711796,9.8114375" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path id="track-right" class="ColorScheme-Text" d="M12.5 8.5H15.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg>
