@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path id="rows-outline" class="ColorScheme-Text" d="m14 4.5h11.5a3 3 45 013 3v18a2 2 135 01-2 2h-11.5a2.5 2.5 45 01-2.5-2.5v-19a1.5 1.5 135 011.5-1.5z" stroke="currentColor"/>
+  <path id="group-bracket" class="ColorScheme-Highlight" d="m9.5 6.5h-3.5a1.5 1.5 135 00-1.5 1.5v15.5a2 2 45 002 2h3" stroke="currentColor"/>
+  <path id="row-dividers" class="ColorScheme-Text" d="m14.5 10.5h11a3 3 135 003-3m-16 6.1298a2.9358 2.9358 43.733 003 2.8702h10m-10 6h10a2.9855 2.9855 135.28 003-2.9709" opacity=".5" stroke="currentColor"/>
+ </g>
+</svg>
