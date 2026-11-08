@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+    <clipPath id="paint-level">
+      <rect x="0" y="5.5" width="16" height="16" id="rect1"/>
+    </clipPath>
+  </defs>
+  <path id="bucket-fill" d="M 6.5,2.5 2.9748737,6.0251263 a 3.5,3.5 90 0 0 0,4.9497477 l 0.050253,0.05025 a 3.5,3.5 180 0 0 4.9497474,0 L 11.5,7.5 c -1,1 -6,-4 -5,-5 z" class="ColorScheme-Text" fill="currentColor" stroke="none" stroke-width="1" stroke-linecap="round" opacity="0.1"/>
+  <path id="bucket-outline" d="M 6.5,2.5 2.9748737,6.0251263 a 3.5,3.5 90 0 0 0,4.9497477 l 0.050253,0.05025 a 3.5,3.5 0 0 0 4.9497474,0 L 9.5,9.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path d="M11.5 7.5C12.5 6.5 7.5 1.5 6.5 2.5C5.5 3.5 10.5 8.5 11.5 7.5" class="ColorScheme-Highlight" fill="currentColor" opacity=".5" clip-path="url(#paint-level)" id="path1"/>
+  <path d="M11.5 7.5C12.5 6.5 7.5 1.5 6.5 2.5C5.5 3.5 10.5 8.5 11.5 7.5" class="ColorScheme-Text" fill="currentColor" opacity=".4" id="path2"/>
+  <path d="M11.5 7.5C12.5 6.5 7.5 1.5 6.5 2.5C5.5 3.5 10.5 8.5 11.5 7.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path3"/>
+  <path id="paint-drop" d="m15.288 12.519c0 1.2638-1.0312 2.2883-2.3033 2.2883s-2.3033-1.0245-2.3033-2.2883c0-1.8307 1.1612-3.8444 2.7524-4.3021-.43318 3.2239 1.8542 2.3409 1.8542 4.3021z" class="ColorScheme-Highlight" fill="currentColor" fill-opacity=".5" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
