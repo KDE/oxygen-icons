@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+ </defs>
+ <g transform="translate(1,1)"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="M9.5 18.5H3Q1.5 18.5 1.5 17V4Q1.5 2.5 3 2.5H14Q15.5 2.5 15.5 4V6.5M15.5 10.5V11.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M4.5 5.5H11.5M4.5 11.5H10.5M4.5 14.5H7.5" opacity=".5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M3.5 8.5H18.5" stroke="currentColor"/>
+ </g>
+ <g transform="translate(12 12) scale(.55)">
+  <path class="ColorScheme-Text" transform="matrix(1 0 0 1 0 0)" d="m1.05 7.56 8.02-6.07c.95-.78 2.43-.08 2.43 1.13v1.25q0 .63.63.63h2.17a1.2 1.2 0 011.2 1.2v4.6a1.2 1.2 0 01-1.2 1.2h-2.17q-.63 0-.63.63v1.25c0 1.21-1.48 1.91-2.43 1.13l-8.02-6.07q-.55-.44 0-.88z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8181818181818181"/>
+ </g>
+</g></svg>
