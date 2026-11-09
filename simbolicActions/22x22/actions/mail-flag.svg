@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg8" width="22" height="22"><defs id="defs1">
-  <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-</defs>
- width="22" height="22" viewBox="0 0 22 22"
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>width="22" height="22" viewBox="0 0 22 22"
    version="1.1"
    xml:space="preserve"
    id="svg4"
@@ -13,38 +11,14 @@
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"&gt;
-  
-<defs id="defs2">
-  <style id="style1" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  <style type="text/css" id="style2">.ColorScheme-Text { color:#232629; }</style>
-  
-  <style type="text/css" id="style1-3">.ColorScheme-Text { color:#232629; }</style>
-  <style type="text/css" id="style4">.ColorScheme-Text { color:#232629; }</style>
-  <style type="text/css" id="style5">.ColorScheme-Text { color:#232629; }</style>
-</defs>
-<g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.73913" id="g3">
-  <g style="stroke-width:0.73913" id="g2">
-    <path class="ColorScheme-Text" d="m 1.7608,6.8611 1.366e-4,7.0959 c 5.52e-5,0.612334 0.4964657,1.1087 1.1088,1.1087 H 9.405006 m 2.334517,0 h 4.435214 c 0.612318,0 1.1087,-0.496382 1.1087,-1.1087 l -6.8e-5,-0.45898 M 17.283197,10.261213 17.28286,5.0872 c -5.5e-5,-1.020891 -0.82711,-1.8487515 -1.848,-1.8498 L 3.1018596,3.224747 c -0.7435158,-7.588e-4 -1.3501021,0.5951872 -1.3625,1.3386 -0.00828,0.5556313 0.2770114,1.0744617 0.75064,1.3651 l 6.0889,3.7513 C 8.7708719,9.7980161 8.9796133,9.8766898 9.1938821,9.9158123 M 13.747822,7.6123401 16.294,6.015947" style="fill:none;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path2" stroke="currentColor"/>
+ <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.73913">
+  <g style="stroke-width:.73913">
+   <path class="ColorScheme-Text" d="m1.7608 6.8611.0001366 7.0959c5.52e-5.61233.49647 1.1087 1.1088 1.1087h6.5353m2.3345 0h4.4352c.61232 0 1.1087-.49638 1.1087-1.1087l-6.8e-5-.45898m-.000172-3.2368-.000337-5.174c-5.5e-5-1.0209-.82711-1.8488-1.848-1.8498l-12.333-.012653c-.74352-.0007588-1.3501.59519-1.3625 1.3386-.00828.55563.27701 1.0745.75064 1.3651l6.0889 3.7513c.19197.11827.40071.19694.61498.23607m4.5539-2.3035 2.5462-1.5964" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.73913" stroke="currentColor"/>
   </g>
-</g>
-<path d="M 0.5,16 A 3.5276,3.5276 0 0 1 2.6062,12.9469 L 6.5,11" style="opacity:0.24217;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path3" class="ColorScheme-Text" stroke="currentColor"/>
-<g id="g7" transform="matrix(0.77113444,0,0,0.77374395,-2.5383878,-2.022861)" style="stroke-width:1.2946">
-  <path d="m 19.5,22.707 v -7.7073 c 6.4455,-1.0245 7.0942,5.3415 12.086,5.4718 -1.253,5.5282 -9.3292,-1.2002 -10.35,2.2643" style="opacity:0.2;stroke-width:1.2946;paint-order:markers fill stroke" id="path1-0" class="ColorScheme-Text" fill="currentColor"/>
-  <g transform="matrix(1.1902,0,0,1.1872,2.9107,3.5356)" style="stroke-width:1.08906" id="g4">
-    <defs id="defs1-9">
-      <style id="style3" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-      <style type="text/css" id="style6">.ColorScheme-Text { color:#232629; }</style>
-    </defs>
-    <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.804957" id="g3-8">
-      <g style="stroke-width:0.804957" id="g2-5"/>
-    </g>
-  </g>
-  <g transform="matrix(1.1902,0,0,1.1872,2.9107,5.5356)" style="stroke-width:1.08906" id="g5">
-    <defs id="defs5">
-      <style type="text/css" id="style7">.ColorScheme-Text { color:#232629; }</style>
-      <style type="text/css" id="style8">.ColorScheme-Text { color:#232629; }</style>
-    </defs>
-  </g>
-  <path d="M 19.5,29.107 V 15 c 6.4455,-1.0245 6.705163,5.3415 11.696963,5.4718 C 29.943963,26 22.2568,19.2716 21.236,22.7361" style="fill:none;stroke-width:1.2946;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path6" class="ColorScheme-Text" stroke="currentColor"/>
-</g>
+ </g>
+ <path d="m.5 16a3.5276 3.5276 0 012.1062-3.0531l3.8938-1.9469" style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <g transform="matrix(.77113 0 0 .77374 -2.5384 -2.0229)" style="stroke-width:1.2946">
+  <path d="m19.5 22.707v-7.7073c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" style="opacity:.2;paint-order:markers fill stroke;stroke-width:1.2946" class="ColorScheme-Text" fill="currentColor"/>
+  <path d="m19.5 29.107v-14.107c6.4455-1.0245 6.7052 5.3415 11.697 5.4718-1.253 5.5282-8.9402-1.2002-9.961 2.2643" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2946" class="ColorScheme-Text" stroke="currentColor"/>
+ </g>
 </svg>
