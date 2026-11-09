@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path d="M6 26.5Q4.9 26.5 4.4 25.5L2.8 22.3Q2.5 21.7 2.5 21V9Q2.5 8.3 2.8 7.7L4.4 4.5Q4.9 3.5 6 3.5H25Q26.1 3.5 26.6 4.5L28.2 7.7Q28.5 8.3 28.5 9V21Q28.5 21.7 28.2 22.3L26.6 25.5Q26.1 26.5 25 26.5H6Z" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 6.5H23Q25.5 6.5 25.5 9V21Q25.5 23.5 23 23.5H8Q5.5 23.5 5.5 21V9Q5.5 6.5 8 6.5Z" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".6"/><g class="ColorScheme-Text" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(5 7)" stroke="currentColor">
+    <path d="m 8.5,5.5 h -2 v 3 h 2 v 3 h -2" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 4.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 11.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 15.5,8.5 v 3 h -2 m 0,-3 h 2 v -3 h -2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  </svg>
