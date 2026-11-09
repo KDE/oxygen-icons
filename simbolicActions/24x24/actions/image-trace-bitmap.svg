@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
+  <defs id="defs5">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+  </defs>
+  <g transform="translate(1,1)"><path class="ColorScheme-Text" d="M10.5 19.5H.5V2.5H18Q21.5 2.5 21.5 6V9.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><g class="ColorScheme-Text" transform="matrix(.84999 0 0 .8541 7.0723 7.0799)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.1736" id="g10">
+    <path d="M-1.6251 11.029H-3.5" style="opacity:.84677;stroke-width:1.1736" id="path6" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m-1.1531 7.8092c-.37545-.026587-.75-.063033-1.1221-.10933-1.2035-.14973-2.0252-1.3568-2.0252-2.5608 0-2.7807 1.1966-5.9364 2.9048-7.5486.40011-.37763 1.2386-.71574 1.7876-.7298.077068-.00197.1548-.0027.2318-.00211.54732.00415 1.358.39281 1.7377.79171 1.661 1.7449 2.8795 4.4682 2.8795 7.4918 0 1.2054-.75383 2.3878-1.9574 2.5381-.37931.04734-.75663.085505-1.132.11449" style="stroke-width:1.1736" id="path7" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m.50319.85849v11.171" style="stroke-width:1.1736" id="path8" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m-1.4968 2.2585 2 2" style="stroke-width:1.1736" id="path9" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m2.5032 4.2585-2 2" style="stroke-width:1.1736" id="path10" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g transform="translate(.93832 .96386)" id="g14">
+    <g transform="matrix(.9969 0 0 1.001 -.72915 .21356)" style="stroke-width:1.3533" id="g11"/>
+    <g transform="translate(-.57221 .10149)" id="g13">
+      <g class="ColorScheme-Text" transform="translate(-1,-1)" id="g12"/>
+    </g>
+  </g>
+<path class="ColorScheme-Highlight" d="M14 18C14 12 20 18 20 14" fill="none" stroke="currentColor" stroke-linecap="round"/><rect class="ColorScheme-Highlight" x="12.5" y="18.5" width="3" height="3" rx=".35" fill="none" stroke="currentColor"/><rect class="ColorScheme-Highlight" x="18.5" y="10.5" width="3" height="3" rx=".35" fill="none" stroke="currentColor"/></g></svg>
