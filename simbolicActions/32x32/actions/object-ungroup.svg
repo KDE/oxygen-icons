@@ -3,17 +3,17 @@
  <defs>
   <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
  </defs>
- <path class="ColorScheme-Text" d="m6.5 3.5h8q2 0 2 2v1.5h-5.5q-3 0-3 3v5.5h-1.5q-2 0-2-2v-8q0-2 2-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m7.5 15.5h-1a2 2 0 01-2-2v-7" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m7.5 3.5h7a2 2 0 012 2v1" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m11.5 8.5h8q2 0 2 2v1.5h-5.5q-3 0-3 3v5.5h-1.5q-2 0-2-2v-8q0-2 2-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m12.5 20.5h-1a2 2 0 01-2-2v-7" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m12.5 8.5h7a2 2 0 012 2v1" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
- <path class="ColorScheme-Text" d="m16.5 13.5h8a2 2 0 012 2v7a3 3 0 01-3 3h-7a2 2 0 01-2-2v-8a2 2 0 012-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m6.5 4.5h8q2 0 2 2v1.5h-5.5q-3 0-3 3v5.5h-1.5q-2 0-2-2v-8q0-2 2-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m7.5 16.5h-1a2 2 0 01-2-2v-7" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m7.5 4.5h7a2 2 0 012 2v1" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m11.5 9.5h8q2 0 2 2v1.5h-5.5q-3 0-3 3v5.5h-1.5q-2 0-2-2v-8q0-2 2-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m12.5 21.5h-1a2 2 0 01-2-2v-7" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m12.5 9.5h7a2 2 0 012 2v1" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m16.5 14.5h8a2 2 0 012 2v7a3 3 0 01-3 3h-7a2 2 0 01-2-2v-8a2 2 0 012-2z" fill="currentColor" opacity=".1" style="stroke-linecap:round;stroke-linejoin:round"/>
  <g stroke="currentColor">
-  <path class="ColorScheme-Text" d="m17.5 13.5h7a2 2 0 012 2v7" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m23.5 25.5h-7a2 2 0 01-2-2v-7" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m21.5 16v2.5c0 1.1046-.89543 2-2 2h-2.7" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m16.5 11v.79263m-.06519 2.2158c-.18456.70428-.74348 1.257-1.4513 1.4327m-2.228.05884h-.95548" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m17.5 14.5h7a2 2 0 012 2v7" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m23.5 26.5h-7a2 2 0 01-2-2v-7" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m21.5 17v2.5c0 1.1046-.89543 2-2 2h-2.7" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.5 12v.79263m-.06519 2.2158c-.18456.70428-.74348 1.257-1.4513 1.4327m-2.228.05884h-.95548" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
  </g>
 </svg>
