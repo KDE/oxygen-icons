@@ -3,7 +3,10 @@
   <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 23.5H5Q2.5 23.5 2.5 21V8.5Q2.5 6.5 4.5 6.5H25Q28.5 6.5 28.5 10V11.5M28.5 19.5V21.5Q28.5 23.5 26.5 23.5H22.5" stroke="currentColor" class="ColorScheme-Text"/></g><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers" transform="translate(7.99681,9.47069)" id="g2">
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path d="M 9.5,23.5 H 5 C 3.3333333,23.5 2.5,22.666667 2.5,21 V 8.5 c 0,-1.3333333 0.6666667,-2 2,-2 H 25 c 2.333333,0 3.5,1.1666667 3.5,3.5 v 0.5 m 0,9 v 2 c 0,1.333333 -0.666667,2 -2,2 h -4" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
+  </g>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers" transform="translate(7.99681,9.47069)" id="g2">
     <path d="m 4,16 -1.0585,2.1171 a 0.70172,0.70172 45 0 0 0.94146,0.94146 l 2.1171,-1.0585 -1.1452,-1.1452" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M 7,17 5,15 16.433,3.567 a 0.8013,0.8013 -180 0 1 1.1332,0 l 0.86679,0.86679 a 0.8013,0.8013 90 0 1 0,1.1332 z" id="path2-1" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M 16,4 15.86067,3.86067 a 1.2172,1.2172 0 0 0 -1.7213,0 l -4.1393,4.1393" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
