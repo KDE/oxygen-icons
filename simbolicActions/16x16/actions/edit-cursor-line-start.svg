@@ -4,8 +4,8 @@
   <style id="current-color-scheme">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
  </defs>
  <g transform="matrix(-1 0 0 1 15 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m12.142 14.5h.36536c.54409 0 .98515-.4853.98515-1.0839v-10.011c0-.50007-.36844-.90546-.82293-.90546h-.4412 2.5654m-1.0758 11.607c.1807.24006.45366.39298.75908.39298h.14806" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m1.5 2.5h6m-6 12h6" opacity=".4" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m.47549 9.49h6.7234l-.97576.94976c-.3304.32159-.32603.8546 0 1.1806l.38542.38542c.32342.32341.8499.3163 1.1645-.01573l2.737-2.8891c.32227-.34017.32311-.87271.0019-1.2139l-2.7409-2.9114c-.31321-.3327-.83946-.34064-1.1626-.017535l-.38542.38542c-.32548.32548-.32398.85366.00334 1.1773l.99027.9791h-6.7412" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m11.142 14.5h.36536c.54409 0 .98515-.4853.98515-1.0839v-10.011c0-.50007-.36844-.90546-.82293-.90546h-.4412 2.5654m-1.0758 11.607c.1807.24006.45366.39298.75908.39298h.14806" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m.5 2.5h6m-6 12h6" opacity=".4" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m.27549 9.49h6.7234l-.97576.94976c-.3304.32159-.32603.8546 0 1.1806l.38542.38542c.32342.32341.8499.3163 1.1645-.01573l2.737-2.8891c.32227-.34017.32311-.87271.0019-1.2139l-2.7409-2.9114c-.31321-.3327-.83946-.34064-1.1626-.017535l-.38542.38542c-.32548.32548-.32398.85366.00334 1.1773l.99027.9791h-6.7412" stroke="currentColor"/>
  </g>
 </svg>
