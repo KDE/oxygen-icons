@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg5">
+  <defs id="defs2">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+    </defs>
+  <path class="ColorScheme-Highlight" d="m 13.5,4.5 h 2 q 1,0 1,1 v 6 q 0,1 1,1 h 6 q 1,0 1,1 v 2 q 0,1 -1,1 h -6 q -1,0 -1,1 v 6 q 0,1 -1,1 h -2 q -1,0 -1,-1 v -6 q 0,-1 -1,-1 h -6 q -1,0 -1,-1 v -2 q 0,-1 1,-1 h 6 q 1,0 1,-1 v -6 q 0,-1 1,-1 z" fill="currentColor" fill-opacity="0.25734" stroke="none" id="path1"/>
+  <path class="ColorScheme-Text" d="M 16.5,6.0560189 V 11.5 c 0,0.666667 0.333333,1 1,1 h 5 a 2,2 45 0 1 2,2 v 1 a 1,1 135 0 1 -1,1 h -6 c -0.666667,0 -1,0.333333 -1,1 v 6 a 1,1 135 0 1 -1,1 h -2 a 1,1 45 0 1 -1,-1 v -6 c 0,-0.666667 -0.333333,-1 -1,-1 h -6 a 1,1 45 0 1 -1,-1 V 14.122345 A 1.6223446,1.6223446 135 0 1 6.1223446,12.5 H 11.5 c 0.666667,0 1,-0.333333 1,-1 v -6 a 1,1 135 0 1 1,-1 h 1.443981 A 1.5560189,1.5560189 45 0 1 16.5,6.0560189 Z" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path class="ColorScheme-Text" d="M 21.5,18.5 H 28 a 1.5,1.5 45 0 1 1.5,1.5 v 8.5 a 1,1 135 0 1 -1,1 H 22 A 1.5,1.5 45 0 1 20.5,28 v -8.5 a 1,1 135 0 1 1,-1 z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path3" transform="translate(0,1)"/>
+  <path class="ColorScheme-Text" d="m 24.5,22.5 h 3 m -3,3 h 3" fill="none" stroke="currentColor" stroke-linecap="round" id="path4"/>
+  <path class="ColorScheme-Text" d="m 22.5,22.5 h 0.01 m -0.01,3 h 0.01" fill="none" stroke="currentColor" stroke-linecap="round" id="path5"/>
+  <path class="ColorScheme-Text" d="m 24.5,28.5 h 3" fill="none" stroke="currentColor" stroke-linecap="round" id="path6"/>
+  <path class="ColorScheme-Text" d="m 22.5,28.5 h 0.01" fill="none" stroke="currentColor" stroke-linecap="round" id="path7"/>
+</svg>
