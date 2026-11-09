@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+</defs>
+<path class="ColorScheme-Text" d="M6 8.5H25.5Q27.5 8.5 27.5 10.5V23.5Q27.5 24.5 26.5 24.5H5.5Q4.5 24.5 4.5 23.5V10Q4.5 8.5 6 8.5Z" fill="currentColor" opacity=".1"/>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+<path d="M6 8.5H25.5Q27.5 8.5 27.5 10.5V23.5Q27.5 24.5 26.5 24.5H5.5Q4.5 24.5 4.5 23.5V10Q4.5 8.5 6 8.5Z" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M8.5 18.5L10.2 12.8Q10.5 12 10.8 12.8L12.5 18.5M9.5 16.5H11.5" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M16.5 13.5V13.6M16.5 17.5V17.6" opacity=".7" stroke="currentColor" class="ColorScheme-Text"/>
+<path transform="matrix(.75 0 0 .75 16.5 9.5)" d="m7.2 8a1.8285 1.8285 134.11 001.8-1.8566v-.28681a1.8566 1.8566 45 00-1.8566-1.8566h-3.1434v8h3.1434a1.8566 1.8566 135 001.8566-1.8566v-.28681a1.8566 1.8566 45 00-1.8566-1.8566h-1.1434" style="fill:none;stroke-width:1.3333333;stroke-linecap:round;stroke-linejoin:round" id="uml-object-B" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="M8.5 21.5H24.5" opacity=".7" stroke="currentColor" class="ColorScheme-Text"/>
+</g></svg>
