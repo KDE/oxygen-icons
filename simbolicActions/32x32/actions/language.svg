@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <path id="language-front-bubble" d="M 3.5,5.7605019 C 3.5107822,5.0583197 4.0974565,4.4893802 4.799639,4.5001504 H 17.26007 c 1.228801,0 2.239951,1.0111504 2.239951,2.2399513 v 7.5199473 c 0,1.228801 -1.01115,2.239951 -2.239951,2.239951 l -9.3133922,-1.17e-4 c -0.7764124,-1e-6 -1.5210553,0.308431 -2.0700289,0.857453 l -1.507717,1.507717 c -0.316644,0.316588 -0.8580188,0.09261 -0.858423,-0.355155 L 3.5033189,7.786406" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="language-A" d="m 13.377855,12.158218 0.567849,1.838976 M 10.567819,11.5 h 1.6136 c 0.482483,0 0.824959,-0.476137 0.677049,-0.941176 L 11.763203,7.1152009 c -0.08115,-0.2551667 -0.437635,-0.255171 -0.518799,-9.4e-6 L 9.054296,14" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="language-wen" d="M 22.5,15.914481 V 16.56086 M 18.5,18.5 h 7 m -2,1.292759 q -1.5,1.93914 -5,3.231899 m 2,-3.231899 q 1.5,1.93914 5,3.231899" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="path1" d="M 28.500021,13.760502 C 28.489239,13.05832 27.902565,12.48938 27.200382,12.50015 H 20.970167 M 12.5,18.440131 l 0,4.820035 c 0,1.228801 1.01115,2.239951 2.239951,2.239951 L 24.053343,25.5 c 0.776413,-1e-6 1.521056,0.308431 2.070029,0.857453 l 1.507717,1.507717 c 0.316644,0.316588 0.858019,0.09261 0.858423,-0.355155 l 0.0072,-11.723609" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
