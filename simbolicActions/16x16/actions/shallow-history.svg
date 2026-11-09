@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <ellipse class="ColorScheme-Text" cx="7.5012066" cy="7.499118" fill="currentColor" opacity="0.1" id="circle1" style="stroke-width:1" rx="6.3450912" ry="6.3449658"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <path id="history-H" d="M 4.500042719999998,7.500165179999998 L 7.9964283965893195,7.500165179999998 L 10.502579999999998,7.500165179999998" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+  </g>
+  <path id="path1" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" d="M 8.373699119394718,13.799438640753959 C 5.326060128589559,14.221507049597157 2.4133550245067257,12.40127288434368 1.4569618309101227,9.47696802703068 C 0.6537329050406511,7.020984129571918 1.423890551639099,4.37789064065532 3.3004890671737908,2.73102625902576 C 3.901951406055119,2.2031953192287235 4.492063097003399,2.555880249588971 4.492799158137359,3.357791918652347 L 4.500042719999998,11.251750979999997" class="ColorScheme-Text" stroke="currentColor"/>
+  <path id="path2" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" d="M 6.4275617346932385,1.2320735498447508 C 9.48072080884452,0.7090549942485227 12.466567429937875,2.461964251179227 13.497891872066756,5.382871447296598 C 14.355896051504278,7.812901874190958 13.585122244454034,10.488582387683518 11.744431432150318,12.18874779972516 C 11.122010333975279,12.7636513121574 10.502579999999998,12.40110331266552 10.502579999999998,11.551818568944357 L 10.502579999999998,3.748579379999999" class="ColorScheme-Text" stroke="currentColor"/>
+</svg>
