@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m15.502 4.9238a10.575 10.575 0 00-10.574 10.574 10.575 10.575 0 0010.574 10.576 10.575 10.575 0 0010.576-10.576 10.575 10.575 0 00-.53711-3.3242c-.27645.27468-.6501.45117-1.041.45117-.7854 0-1.5-.7146-1.5-1.5v-.69531l-.62695.35742c-.68227.39253-1.6606.12698-2.0508-.55664a1.0001 1.0001 0 000-.001953c-.38793-.68266-.12-1.6567.5625-2.0449l.58594-.33594-.58594-.33594c-.5174-.2943-.79665-.92625-.73242-1.5117a10.575 10.575 0 00-4.6504-1.0762z" style="opacity:.1" fill="currentColor"/>
+ <g class="ColorScheme-Text" transform="matrix(1.2505 0 0 1.2505 -3.881 -3.8829)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79967">
+  <path id="history-H" d="m11.5 15.5h8" style="stroke-width:.79967" stroke="currentColor" class="ColorScheme-Text"/>
+ </g>
+ <path transform="matrix(1.2505 0 0 1.2505 -3.881 -3.8829)" d="m16.663 23.895c-4.0618.56252-7.9438-1.8634-9.2184-5.7609-1.0705-3.2733-.044076-6.7959 2.457-8.9908.80161-.70348 1.5881-.23343 1.5891.83533l.009654 10.521" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.79967" class="ColorScheme-Text" stroke="currentColor"/>
+ <path transform="matrix(1.2505 0 0 1.2505 -3.881 -3.8829)" d="m14.069 7.1461c.47957-.082153.9579-.12217 1.4309-.12248 1.1409-.0007375 2.2507.22964 3.2714.6572m4.7209 4.9973c.08819.24976.16346.50147.22617.75438.91468 3.689-.84479 7.6336-4.2182 9.5169v-10.93" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.79967" class="ColorScheme-Text" stroke="currentColor"/>
+ <path id="deep-history-star" class="ColorScheme-Text" d="m24.5 4.5685v6.5572m-2.8735-4.9179 5.7471 3.2786m-5.7471 0 5.7471-3.2786" style="fill:none;stroke-linecap:round" stroke="currentColor"/>
+</svg>
