@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" xml:space="preserve"><defs><style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+
+  
+
+  </defs><g stroke="currentColor"><path class="ColorScheme-Text" d="m20.762 27.5h-15.667c-.32874 0-.59524-.2667-.59524-.59569v-3.4041l1.3376-.01551c.57816-.0067 1.0433-.47766 1.0433-1.0563v-2.6539c0-.70378-.57009-1.2743-1.2733-1.2743h-.51243c-.32874 0-.59524-.2667-.59524-.59569v-3.8261c2.8e-6-.31216.25059-.5664.56248-.57069l.54531-.0075c.70599-.0097 1.2732-.58523 1.2732-1.2918v-2.4339c0-.70378-.57009-1.2743-1.2733-1.2743h-.51243c-.32874 0-.59524-.2667-.59524-.59569v-2.8087c0-.32899.2665-.59569.59524-.59569h14.889c2.4939 0 4.5156 2.0232 4.5156 4.5191v1.7344V25Q24.5 27.5 22 27.5H20.762" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/><path class="ColorScheme-Text" d="m3.5 19.691v2.5895" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/><path class="ColorScheme-Text" d="m17.3 16.5a2.7428 2.7428 0 002.7-2.7849v-.43022a2.7849 2.7849 0 00-2.7849-2.7849h-4.7151v12h4.7151a2.7849 2.7849 0 002.7849-2.7849v-.43022a2.7849 2.7849 0 00-2.7849-2.7849h-1.7151" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+ <path class="ColorScheme-Text" d="m3.5 9.691v2.5895" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/></g></svg>
