@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+  </defs>
+  <g transform="translate(1,1)"><g id="standalone-font" transform="matrix(0.75 0 0 0.75 1.25 -1.375)">
+    <g fill="none" stroke="currentColor" stroke-linecap="round" id="g1">
+      <path id="font-letter" class="ColorScheme-Text" d="M 17.241526,19.225696 18.1765,22.2536 18.852,24.4412 M 9.538553,21.345004 10.094154,20.023853 A 2.4885651,2.4885651 146.40443 0 1 12.388122,18.5 H 14.6545 c 1.1479,0 1.9627,-1.1328 1.6108,-2.2392 L 13.6595,8.0679 C 13.46642,7.46082 12.6183,7.46081 12.4252,8.0678778 L 6.9302021,22.728665 a 2.3773419,2.3773419 145.35988 0 1 -2.2333047,1.542963" opacity=".6" stroke-linejoin="round" style="opacity:1" stroke="currentColor" stroke-width="1.3333333333333333"/>
+    </g>
+  </g>
+  <path id="artistic-text-baseline" d="M2.5 19.1C8 15.5 13.5 22.5 19.5 18" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity=".5"/>
+  <rect id="baseline-node-0" x="0.5" y="18.5" width="2" height="2" rx=".4" class="ColorScheme-Highlight" fill="none" stroke="currentColor" stroke-width="1"/>
+  <rect id="baseline-node-1" x="19.5" y="16.5" width="2" height="2" rx=".4" class="ColorScheme-Highlight" fill="none" stroke="currentColor" stroke-width="1"/>
+</g></svg>
