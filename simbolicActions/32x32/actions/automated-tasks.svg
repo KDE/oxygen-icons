@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg7">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g6">
+    <path d="M 13.5,24.5 V 27 A 1.5,1.5 135 0 1 12,28.5 H 9.5 m 8,-4 V 27 a 1.5,1.5 45 0 0 1.5,1.5 h 2.5" opacity="0.7" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 15.5,8.5 V 5.6" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
+    <path fill="currentColor" fill-opacity="0.1" id="circle2" d="M 15.5,5.6042485 A 2.1042485,2.1042485 0 0 1 13.483294,4.1006333 2.1042485,2.1042485 0 0 1 14.34871,1.738639 a 2.1042485,2.1042485 0 0 1 2.510751,0.1552078 2.1042485,2.1042485 0 0 1 0.567914,2.4505988" style="fill:none" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5.5 18.5V11Q5.5 8.5 8 8.5H23.5Q25.5 8.5 25.5 10.5V22Q25.5 24.5 23 24.5H7Q5.5 24.5 5.5 23V20.5" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5.5 18.5V11Q5.5 8.5 8 8.5H23.5Q25.5 8.5 25.5 10.5V22Q25.5 24.5 23 24.5H7Q5.5 24.5 5.5 23V20.5" fill="currentColor" fill-opacity=".1" stroke="none" id="path4" class="ColorScheme-Text"/>
+    <path d="M2.5 13.5V19.5M28.5 13.5V19.5" opacity=".5" id="path5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M11.5 20.5H19.5" opacity=".5" id="path6" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path class="ColorScheme-Highlight" d="M 10,12.5 H 21 A 1.5,1.5 45 0 1 22.5,14 1.5,1.5 135 0 1 21,15.5 H 10 A 1.5,1.5 45 0 1 8.5,14 1.5,1.5 135 0 1 10,12.5 Z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" id="path7"/>
+</svg>
