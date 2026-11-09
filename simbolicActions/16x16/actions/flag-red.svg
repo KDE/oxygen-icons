@@ -2,7 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve"><defs>
      <style id="current-color-scheme" type="text/css">
      .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-.ColorScheme-NegativeText { color:#ff0018; }</style></defs>
+     .ColorScheme-Highlight { color:#3daee9; }</style></defs>
   
-<g transform="matrix(.90148 0 0 .96917 -14.079 -12.986)" style="stroke-width:1.6572"><path class="ColorScheme-NegativeText" d="m19.5 22.707v-7.7073c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" fill="currentColor" style="opacity:.6;paint-order:markers fill stroke;stroke-width:1.0698"/><path class="ColorScheme-Text" d="m19.5 29.107v-14.107c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0698"/></g></svg>
+<g transform="matrix(.90148 0 0 .96917 -14.079 -12.986)" style="stroke-width:1.6572"><path class="ColorScheme-Text" d="m19.5 22.707v-7.7073c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" fill="#ff0018" style="opacity:.6;paint-order:markers fill stroke;stroke-width:1.0698"/><path class="ColorScheme-Text" d="m19.5 29.107v-14.107c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.0698"/></g></svg>
