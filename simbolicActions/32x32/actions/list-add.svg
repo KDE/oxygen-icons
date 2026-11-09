@@ -5,11 +5,11 @@
  </defs>
  <path class="ColorScheme-Highlight" d="m13.5 4.5h2q1 0 1 1v6q0 1 1 1h6q1 0 1 1v2q0 1-1 1h-6q-1 0-1 1v6q0 1-1 1h-2q-1 0-1-1v-6q0-1-1-1h-6q-1 0-1-1v-2q0-1 1-1h6q1 0 1-1v-6q0-1 1-1z" fill="currentColor" fill-opacity=".25734"/>
  <path class="ColorScheme-Text" d="m16.5 6.056v5.444c0 .66667.33333 1 1 1h5a2 2 45 012 2v1a1 1 135 01-1 1h-6c-.66667 0-1 .33333-1 1v6a1 1 135 01-1 1h-2a1 1 45 01-1-1v-6c0-.66667-.33333-1-1-1h-6a1 1 45 01-1-1v-1.3777a1.6223 1.6223 135 011.6223-1.6223h5.3777c.66667 0 1-.33333 1-1v-6a1 1 135 011-1h1.444a1.556 1.556 45 011.556 1.556z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
- <path class="ColorScheme-Text" transform="translate(0,1)" d="m21.5 18.5h6.5a1.5 1.5 45 011.5 1.5v8.5a1 1 135 01-1 1h-6.5a1.5 1.5 45 01-1.5-1.5v-8.5a1 1 135 011-1z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="fill:none"/>
+ <path class="ColorScheme-Text" transform="translate(0,1)" d="m21.5 18.5h6.5a1.5 1.5 45 011.5 1.5v8.5a1 1 135 01-1 1h-6.5a1.5 1.5 45 01-1.5-1.5v-8.5a1 1 135 011-1z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="fill:none;opacity:.6"/>
  <g fill="none" stroke="currentColor" stroke-linecap="round">
-  <path class="ColorScheme-Text" d="m24.5 22.5h3m-3 3h3" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m22.5 22.5h.01m-.01 3h.01" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m24.5 28.5h3" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m22.5 28.5h.01" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m24.5 22.5h3m-3 3h3" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m22.5 22.5h.01m-.01 3h.01" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m24.5 28.5h3" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m22.5 28.5h.01" style="opacity:.6" stroke="currentColor"/>
  </g>
 </svg>
