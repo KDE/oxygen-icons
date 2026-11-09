@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path id="hourglass-outline" d="m9.2597 7.8096c-.97184-1.2755-.50071-1.9752 1.0799-1.7071 3.6011.61088 7.2023.63881 10.803.083772" style="opacity:.7" stroke="currentColor" class="ColorScheme-Text"/>
+  <path id="upper-sand" d="m11.5 9.5 4.5.5 4.5-.5-3.5 4.7c-.66667.8-1.3333.8-2 0z" fill="currentColor" opacity=".1" stroke="none" class="ColorScheme-Text"/>
+  <path id="lower-sand" d="m9.5 26.312 4.8495-4.5874c1.0485-.69903 2.0971-.69903 3.1456 0l5.5049 4.8495c-4.1922 1.4512-8.9544 1.1891-13.5-.26214z" fill="currentColor" opacity=".1" stroke="none" class="ColorScheme-Text"/>
+  <path d="m12.631 4.6087c3.0088-.2967 6.0176-.19591 9.0264.30237 1.5816.26193 2.0546 1.623 1.0827 2.8985l-4.7253 6.2019c-.89496 1.1746-.89496 2.8024 0 3.977l4.7253 6.2019c.97184 1.2755.50256 2.6513-1.0769 2.9256-3.7756.65571-7.5512.65571-11.327 1e-6-1.5795-.27431-2.0488-1.65-1.0769-2.9256l4.7253-6.2019c.89496-1.1746.89496-2.8024 0-3.977l-4.7253-6.2019c-.97184-1.2755-.49889-2.6366 1.0827-2.8985" stroke="currentColor" class="ColorScheme-Text"/>
+ </g>
+</svg>
