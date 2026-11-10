@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style>.ColorScheme-Text{color:#232629}</style>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+ <path class="ColorScheme-Text" d="m9.3 22.7 4.2-10.2 10.2-4.2q.8-.8.3.5l-4.5 9.7-10.2 4.2z" fill="currentColor" opacity=".1"/>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m5.5172 20.335c-2.2399-5.0879-.69195-11.048 3.7406-14.403 4.0427-3.06 9.5196-3.2221 13.705-.54329.67478.43185 1.7571.57042 2.4782.22041l.655-.31789c.40206-.19513.82773.21994.6428.62679l-6.1942 13.627-9.5852 4.356" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m16.5 3.5v2m12 10h-2m-10 12v-2m-12-10h2" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+  <circle cx="16.5" cy="15.5" r="1" opacity=".6" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m27.661 11.091c2.0044 5.0734.33461 10.86-4.0644 14.086-3.8411 2.8167-8.9191 3.0618-12.966.79062-.98444-.55254-2.5248-.76924-3.5535-.30126l-.22129.10066a.47044.47044 44.992 01-.62307-.62289l5.9433-13.075c.17986-.3957.497-.71284.89271-.89271l8.6514-3.9324" stroke="currentColor" class="ColorScheme-Text"/>
+ </g>
+</svg>
