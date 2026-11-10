@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style>.ColorScheme-Text{color:#232629}</style><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+<g transform="translate(1,1)"><path d="M 11.2179,8.5095 L 11.7408,2.5323 A 8.5,8.5 0 0 1 17.9628,6.1246 L 13.0479,9.5661 A 2.5,2.5 0 0 0 11.2179,8.5095 Z" fill="#ed333b" opacity=".12"/>
+<path class="ColorScheme-Text" d="M 11.2179,8.5095 L 11.7408,2.5323 A 8.5,8.5 0 0 1 17.9628,6.1246 L 13.0479,9.5661 A 2.5,2.5 0 0 0 11.2179,8.5095 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 11.2179,8.5095 L 11.7408,2.5323 A 8.5,8.5 0 0 1 17.9628,6.1246 L 13.0479,9.5661 A 2.5,2.5 0 0 0 11.2179,8.5095 Z" fill="none" stroke="#ed333b" stroke-opacity=".4" stroke-linejoin="round"/>
+<path d="M 13.2658,9.9435 L 18.7036,7.4077 A 8.5,8.5 0 0 1 18.7036,14.5923 L 13.2658,12.0565 A 2.5,2.5 0 0 0 13.2658,9.9435 Z" fill="#f6a623" opacity=".12"/>
+<path class="ColorScheme-Text" d="M 13.2658,9.9435 L 18.7036,7.4077 A 8.5,8.5 0 0 1 18.7036,14.5923 L 13.2658,12.0565 A 2.5,2.5 0 0 0 13.2658,9.9435 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 13.2658,9.9435 L 18.7036,7.4077 A 8.5,8.5 0 0 1 18.7036,14.5923 L 13.2658,12.0565 A 2.5,2.5 0 0 0 13.2658,9.9435 Z" fill="none" stroke="#f6a623" stroke-opacity=".4" stroke-linejoin="round"/>
+<path d="M 13.0479,12.4339 L 17.9628,15.8754 A 8.5,8.5 0 0 1 11.7408,19.4677 L 11.2179,13.4905 A 2.5,2.5 0 0 0 13.0479,12.4339 Z" fill="#d9c629" opacity=".12"/>
+<path class="ColorScheme-Text" d="M 13.0479,12.4339 L 17.9628,15.8754 A 8.5,8.5 0 0 1 11.7408,19.4677 L 11.2179,13.4905 A 2.5,2.5 0 0 0 13.0479,12.4339 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 13.0479,12.4339 L 17.9628,15.8754 A 8.5,8.5 0 0 1 11.7408,19.4677 L 11.2179,13.4905 A 2.5,2.5 0 0 0 13.0479,12.4339 Z" fill="none" stroke="#d9c629" stroke-opacity=".4" stroke-linejoin="round"/>
+<path d="M 10.7821,13.4905 L 10.2592,19.4677 A 8.5,8.5 0 0 1 4.0372,15.8754 L 8.9521,12.4339 A 2.5,2.5 0 0 0 10.7821,13.4905 Z" fill="#27ae60" opacity=".12"/>
+<path class="ColorScheme-Text" d="M 10.7821,13.4905 L 10.2592,19.4677 A 8.5,8.5 0 0 1 4.0372,15.8754 L 8.9521,12.4339 A 2.5,2.5 0 0 0 10.7821,13.4905 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 10.7821,13.4905 L 10.2592,19.4677 A 8.5,8.5 0 0 1 4.0372,15.8754 L 8.9521,12.4339 A 2.5,2.5 0 0 0 10.7821,13.4905 Z" fill="none" stroke="#27ae60" stroke-opacity=".4" stroke-linejoin="round"/>
+<path d="M 8.7342,12.0565 L 3.2964,14.5923 A 8.5,8.5 0 0 1 3.2964,7.4077 L 8.7342,9.9435 A 2.5,2.5 0 0 0 8.7342,12.0565 Z" fill="currentColor" opacity=".12" class="ColorScheme-Highlight"/>
+<path class="ColorScheme-Text" d="M 8.7342,12.0565 L 3.2964,14.5923 A 8.5,8.5 0 0 1 3.2964,7.4077 L 8.7342,9.9435 A 2.5,2.5 0 0 0 8.7342,12.0565 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 8.7342,12.0565 L 3.2964,14.5923 A 8.5,8.5 0 0 1 3.2964,7.4077 L 8.7342,9.9435 A 2.5,2.5 0 0 0 8.7342,12.0565 Z" fill="none" stroke="currentColor" stroke-opacity=".4" stroke-linejoin="round" class="ColorScheme-Highlight"/>
+<path d="M 8.9521,9.5661 L 4.0372,6.1246 A 8.5,8.5 0 0 1 10.2592,2.5323 L 10.7821,8.5095 A 2.5,2.5 0 0 0 8.9521,9.5661 Z" fill="#9b59b6" opacity=".12"/>
+<path class="ColorScheme-Text" d="M 8.9521,9.5661 L 4.0372,6.1246 A 8.5,8.5 0 0 1 10.2592,2.5323 L 10.7821,8.5095 A 2.5,2.5 0 0 0 8.9521,9.5661 Z" fill="none" stroke="currentColor" stroke-linejoin="round"/>
+<path d="M 8.9521,9.5661 L 4.0372,6.1246 A 8.5,8.5 0 0 1 10.2592,2.5323 L 10.7821,8.5095 A 2.5,2.5 0 0 0 8.9521,9.5661 Z" fill="none" stroke="#9b59b6" stroke-opacity=".4" stroke-linejoin="round"/>
+</g></svg>
