@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
-  </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
-    <circle cx="16.5" cy="15.5" r="6.5" id="circle1" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="m 16.5,1.5 v 5 m 0,18 v 5 m -14,-14 h 5 m 18,0 h 5 M 6.6,5.6 10.1,9.1 m 12.8,12.8 3.5,3.5 m -19.8,0 3.5,-3.5 M 22.9,9.1 26.4,5.6" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
-  </g>
-  <path class="ColorScheme-Text" d="M 16.5,9 V 22 A 6.5,6.5 0 0 0 23,15.5 A 6.5,6.5 0 0 0 16.5,9 Z" fill="currentColor" opacity=".3" id="path2" style="opacity:0.05"/>
-  <path style="opacity:0.5;fill-opacity:0;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke" d="m 16.5,10.5 v 10" id="path3" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="ColorScheme-Text" cx="16.5" cy="15.5" r="6.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.5 1.5v5m0 18v5m-14-14h5m18 0h5m-23.9-9.9 3.5 3.5m12.8 12.8 3.5 3.5m-19.8 0 3.5-3.5m12.8-12.8 3.5-3.5" stroke="currentColor"/>
+ </g>
+ <path class="ColorScheme-Text" d="m16.5 9v13a6.5 6.5 0 006.5-6.5 6.5 6.5 0 00-6.5-6.5z" fill="currentColor" opacity=".3" style="opacity:.05"/>
+ <path d="m16.5 10.5v10" style="fill-opacity:0;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
