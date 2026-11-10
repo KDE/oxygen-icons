@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg4">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
-  </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="0.833333" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1.2,0,0,1.2,-0.5,-0.5)" id="reset-subicon">
-    <path d="M 2.6010205,6.5 C 3.4204101,2.4858269 8.3790282,1.179902 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path11"/>
-    <path d="M 12.5,5.6 V 3.1" stroke="currentColor" class="ColorScheme-Text" id="path12"/>
-    <g transform="rotate(180,7.5,7.5)" id="g14">
-      <path d="M 2.6010205,6.5 C 3.4204101,2.4858269 8.3790282,1.179902 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path13"/>
-      <path d="M 12.5,5.6 V 3.1" stroke="currentColor" class="ColorScheme-Text" id="path14"/>
-      <path d="M 12.5,5.6 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path15"/>
-    </g>
-    <path d="M 12.5,5.6 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path16"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <g id="reset-subicon" class="ColorScheme-Text" transform="matrix(1.2 0 0 1.2 -.5 -.5)" stroke-width=".83333">
+   <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" stroke="currentColor"/>
+   <g transform="rotate(180,7.5,7.5)">
+    <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" stroke="currentColor"/>
+   </g>
+   <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" stroke="currentColor"/>
   </g>
-  <path class="ColorScheme-Text" d="m 17.499992,14.500007 c -0.424593,-4.61e-4 -0.856772,0.01933 -1.26274,0.06968 l -1.408718,0.174671 c -0.375264,0.04655 -0.692753,0.293592 -0.928275,0.559272 -0.256779,0.289659 -0.400248,0.658192 -0.40026,1.027909 v 2.811595 c -1.73e-4,0.400517 0.180832,0.792173 0.49736,1.075395 l 7.5e-5,6.5e-5 2.89e-4,3.2e-4 1.025592,0.836 c 0.316356,0.283015 0.753671,0.44509 1.201067,0.44509 h 2.18e-4 1.275392 1.275393 2.22e-4 c 0.447397,0 0.884712,-0.162075 1.201069,-0.445089 l 1.025593,-0.835999 2.96e-4,-3.21e-4 7.4e-5,-6.6e-5 c 0.316528,-0.283231 0.497545,-0.674887 0.49736,-1.075405 v -2.811585 c -2.6e-5,-0.369717 -0.143495,-0.73825 -0.400274,-1.027908 -0.235521,-0.26568 -0.553012,-0.512726 -0.928274,-0.559272 l -1.408718,-0.174671 c -0.405969,-0.05035 -0.838149,-0.07013 -1.262741,-0.06968" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
-  <path class="ColorScheme-Text" d="m 16.5,12.5 h 2 m -1,0 v 2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
-  <path class="ColorScheme-Text" d="m 16.5,16.9 v 2 m 2,-2 v 2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" id="path4"/>
+  <g>
+   <path class="ColorScheme-Text" d="m17.5 14.5c-.42459-.000461-.85677.01933-1.2627.06968l-1.4087.17467c-.37526.04655-.69275.29359-.92828.55927-.25678.28966-.40025.65819-.40026 1.0279v2.8116c-.000173.40052.18083.79217.49736 1.0754l7.5e-5 6.5e-5.000289.00032 1.0256.836c.31636.28302.75367.44509 1.2011.44509h2.5512c.4474 0 .88471-.16208 1.2011-.44509l1.0256-.836.000296-.000321 7.4e-5-6.6e-5c.31653-.28323.49754-.67489.49736-1.0754v-2.8116c-2.6e-5-.36972-.1435-.73825-.40027-1.0279-.23552-.26568-.55301-.51273-.92827-.55927l-1.4087-.17467c-.40597-.05035-.83815-.07013-1.2627-.06968" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m16.5 12.5h2m-1 0v2" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m16.5 16.9v2m2-2v2" opacity=".6" stroke="currentColor"/>
+  </g>
+ </g>
 </svg>
