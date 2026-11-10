@@ -1,20 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg6">
-  <defs id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <path d="m 15.999978,4.5000268 c -1.326852,-0.00158 -2.677412,0.066237 -3.946065,0.238884 L 7.6516721,5.3377845 C 6.478973,5.4973732 5.4868171,6.3443862 4.7508115,7.2552892 3.9483779,8.248406 3.5000368,9.5119454 3.5000004,10.77955 v 9.63975 c -5.437e-4,1.373203 0.5650992,2.716023 1.5542503,3.687066 l 2.314e-4,2.27e-4 9.023e-4,0.0011 3.2049776,2.866284 C 9.2489743,27.944313 10.615581,28.5 12.013695,28.5 h 6.83e-4 3.9856 3.985604 6.94e-4 c 1.398114,0 2.764723,-0.555687 3.753338,-1.526019 l 3.204978,-2.866284 9.26e-4,-0.0011 2.31e-4,-2.27e-4 C 27.9349,23.135291 28.500578,21.792471 28.5,20.419269 V 10.77955 C 28.499919,9.5119454 28.051578,8.248406 27.249144,7.2552892 26.513139,6.3443862 25.520982,5.4973732 24.348284,5.3377845 L 19.946043,4.7389108 C 18.677389,4.5662641 17.32683,4.4984505 15.999978,4.5000268" class="ColorScheme-Text" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1" fill-opacity="0.1"/>
-  <g class="ColorScheme-Text" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(5,8)" stroke="currentColor" id="g6">
-    <path d="m 7.5,5.5 h -2 v 3 h 2 v 3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
-    <path d="m 3.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
-    <path d="m 13.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
-    <path d="m 17.5,8.5 v 3 h -2 m 0,-3 h 2 v -3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path6"/>
-    <path d="m 10.5,10.5 v 1" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
-    <path d="m 10.5,6.5 v 1" stroke="currentColor" class="ColorScheme-Text" id="path8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m16 4.5c-1.3269-.00158-2.6767.065634-3.9453.23828l-4.4023.59961c-1.1727.15959-2.1663 1.0071-2.9023 1.918-.80243.99312-1.25 2.2558-1.25 3.5234v9.6406c-.0005437 1.3732.56554 2.7145 1.5547 3.6855v.002l3.2051 2.8672c.98861.97029 2.3558 1.5253 3.7539 1.5253h7.9727c1.3981 0 2.7653-.55506 3.7539-1.5254l3.2051-2.8672v-.002c.98915-.97103 1.5553-2.3123 1.5547-3.6855v-9.6406c-8.1e-5-1.2676-.44757-2.5303-1.25-3.5234-.736-.9109-1.7296-1.7584-2.9023-1.918l-4.4023-.59961c-1.2687-.17265-2.6185-.23986-3.9453-.23828zm-7.5 5.5h15c1.3764 0 2.5 1.1236 2.5 2.5v8c0 1.3764-1.1236 2.5-2.5 2.5h-15c-1.3764 0-2.5-1.1236-2.5-2.5v-8c0-1.3764 1.1236-2.5 2.5-2.5z" style="opacity:.1" fill="currentColor"/>
+ <g stroke="currentColor">
+  <path class="ColorScheme-Text" d="m16 4.5c-1.3269-.00158-2.6774.066237-3.9461.23888l-4.4022.59887c-1.1727.15959-2.1649 1.0066-2.9009 1.9175-.80243.99312-1.2508 2.2567-1.2508 3.5243v9.6398c-.0005437 1.3732.5651 2.716 1.5543 3.6871l.0002314.000227.0009023.0011 3.205 2.8663c.98861.97034 2.3552 1.526 3.7533 1.526h7.9726c1.3981 0 2.7647-.55569 3.7533-1.526l3.205-2.8663.000926-.0011.000231-.000227c.98915-.97108 1.5548-2.3139 1.5543-3.6871v-9.6397c-8.1e-5-1.2676-.44842-2.5311-1.2509-3.5243-.736-.9109-1.7282-1.7579-2.9009-1.9175l-4.4022-.59887c-1.2687-.17265-2.6192-.24046-3.9461-.23888" fill="currentColor" fill-opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="fill-opacity:0" stroke="currentColor"/>
+  <g class="ColorScheme-Text" transform="translate(5,8)" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round">
+   <path class="ColorScheme-Text" d="m7.5 5.5h-2v3h2v3h-2" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m3.5 5.5v6" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m13.5 5.5v6" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m17.5 8.5v3h-2m0-3h2v-3h-2" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m10.5 10.5v1" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m10.5 6.5v1" stroke="currentColor"/>
   </g>
-  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
-    <rect id="centre-button" x="14.5" y="2.5" width="4" height="2" rx="0.5" ry="0.5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-    <path id="side-buttons" d="M 7.5,5 V 3.5 l 3,0 m 12,0 3,0 V 5" style="fill:none" stroke="currentColor" class="ColorScheme-Text"/>
+  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke-linecap="round" stroke-linejoin="round">
+   <rect id="centre-button" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" stroke="currentColor" class="ColorScheme-Text" fill="currentColor"/>
+   <path id="side-buttons" d="m7.5 5v-1.5h3m12 0h3v1.5" style="fill:none" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
-  <rect style="opacity:0.5;fill-opacity:0;fill-rule:evenodd;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="rect1" width="19" height="12" x="6.5000005" y="10.5" rx="2" ry="1.9999999" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/>
+ </g>
+ <rect x="6.5" y="10.5" width="19" height="12" rx="2" ry="2" style="fill-opacity:0;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <rect x="6.5" y="10.5" width="19" height="12" rx="2" ry="2" style="fill-opacity:0;opacity:.5;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <g style="opacity:.5">
+  <path d="m8.5 10.5h15c1.108 0 2 .892 2 2v8c0 1.108-.892 2-2 2h-15c-1.108 0-2-.892-2-2v-8c0-1.108.892-2 2-2z" style="fill-opacity:0;paint-order:markers fill stroke;stop-color:#000000;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+ </g>
 </svg>
