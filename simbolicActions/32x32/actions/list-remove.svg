@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}.ColorScheme-NegativeText {color:#a30000}</style>
+ </defs>
+ <path class="ColorScheme-NegativeText" d="M 6.1223,12.5 H 22.5 A 2,2 0 0 1 24.5,14.5 V 15.5 A 1,1 0 0 1 23.5,16.5 H 5.5 A 1,1 0 0 1 4.5,15.5 V 14.1223 A 1.6223,1.6223 0 0 1 6.1223,12.5 Z" fill="currentColor" opacity=".1"/><path class="ColorScheme-NegativeText" d="M 6.1223,12.5 H 22.5 A 2,2 0 0 1 24.5,14.5 V 15.5 A 1,1 0 0 1 23.5,16.5 H 5.5 A 1,1 0 0 1 4.5,15.5 V 14.1223 A 1.6223,1.6223 0 0 1 6.1223,12.5 Z" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-Text" transform="translate(0,1)" d="m21.5 18.5h6.5a1.5 1.5 45 011.5 1.5v8.5a1 1 135 01-1 1h-6.5a1.5 1.5 45 01-1.5-1.5v-8.5a1 1 135 011-1z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="fill:none;opacity:.6"/>
+ <g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path class="ColorScheme-Text" d="m24.5 22.5h3m-3 3h3" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m22.5 22.5h.01m-.01 3h.01" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m24.5 28.5h3" style="opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m22.5 28.5h.01" style="opacity:.6" stroke="currentColor"/>
+ </g>
+</svg>
