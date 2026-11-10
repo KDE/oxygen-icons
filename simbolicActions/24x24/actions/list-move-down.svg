@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+ </defs>
+ <g transform="translate(1,1)"><path class="ColorScheme-Text" d="M3.05 11.06 12.07 4.49C13.02 3.71 14.5 4.41 14.5 5.62V7.87Q14.5 8.5 15.13 8.5H17.3A1.2 1.2 0 0 1 18.5 9.7V13.3A1.2 1.2 0 0 1 17.3 14.5H15.13Q14.5 14.5 14.5 15.13V17.38C14.5 18.59 13.02 19.29 12.07 18.51L3.05 11.94Q2.5 11.5 3.05 11.06Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0 -1 1 0 -3 21)"/>
+<g stroke="currentColor" stroke-linecap="round">
+  <path class="ColorScheme-Text" d="m15.25 13.5h5.25c.55228 0 1 .44772 1 1v6.25c0 .41421-.33579.75-.75.75h-5.25c-.55228 0-1-.44772-1-1v-6.25c0-.41421.33579-.75.75-.75z" fill="currentColor" fill-opacity=".1" stroke-linejoin="round" style="fill-opacity:0;opacity:.6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m17.8 15.5h1.7m-1.7 2h1.7m-1.7 2h1.7m-3-4h.01m-.01 2h.01m-.01 2h.01" fill="none" style="opacity:.6" stroke="currentColor"/>
+ </g>
+</g></svg>
