@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 22.4,11.5 c -0.6,-4 -3.8,-7 -8,-7 -3.866,0 -7,3.134 -7,7 h -1 c -5.9999974,0 -5.9999974,9 0,9 H 17.921409 L 17.45193,18.113172 C 17.238751,17.02937 20.249747,17.964303 20.4,16.87 L 20.823585,13.784992 22.4,13.5 Z" fill="currentColor" opacity="0.1" id="path1"/>
+  <path class="ColorScheme-Text" d="m 22.4,11.5 c -0.6,-4 -3.8,-7 -8,-7 -3.866,0 -7,3.134 -7,7 h -1 c -5.9999974,0 -5.9999974,9 0,9 h 9.410188 a 4.2456336,4.2456336 26.439728 0 1 3.38533,1.68342 L 23.56,27.95 c 0.293333,0.366667 0.586667,0.366667 0.88,0 l 6.07,-8.02 c 0.78,-0.95 0.08,-2.43 -1.13,-2.43 h -1.25 c -0.42,0 -0.63,-0.21 -0.63,-0.63 V 14.7 c 0,-0.662742 -0.537258,-1.2 -1.2,-1.2 h -4.6 c -0.662742,0 -1.2,0.537258 -1.2,1.2 v 2.17 c 0,0.42 -0.21,0.63 -0.63,0.63 h -1.25 c -0.498555,0 -0.910529,0.251257 -1.16807,0.613172" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <g transform="translate(16,13)" id="download-arrow">
+    <path class="ColorScheme-Text" d="M 10.886828,1.45193 C 11.248743,1.709471 11.5,2.1214446 11.5,2.62 v 1.25 c 0,0.42 0.21,0.63 0.63,0.63 h 2.17 c 0.662742,0 1.2,0.5372583 1.2,1.2 v 4.6 c 0,0.662742 -0.537258,1.2 -1.2,1.2 h -2.17 c -0.42,0 -0.63,0.21 -0.63,0.63 v 1.25 c 0,1.21 -1.48,1.91 -2.43,1.13 L 1.05,8.44 C 0.68333333,8.1466667 0.68333333,7.8533333 1.05,7.56 L 8.5,1.921409" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-90,8,8)" id="path4" style="fill-opacity:1;stroke:none;opacity:0.2"/>
+  </g>
+</svg>
