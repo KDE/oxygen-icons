@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style>.ColorScheme-Text{color:#232629}</style>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+ <g transform="translate(1,1)"><path d="M 11.0,5.499999999999999 A 6.5,6.5 0.0 0,0 5.264672710710103,15.0591137812866 L 11.0,12.000281958964125 L 11.0,5.5" fill="#ed333b" opacity=".12"/>
+ <path d="M 5.264672710710103,15.058549863358346 A 6.5,6.5 0.0 0,0 16.73546826877196,15.058549863358346 L 11.000140979482063,11.999718041035871 L 5.264672710710103,15.058549863358346" fill="#27ae60" opacity=".12"/>
+ <path d="M 16.73504533032577,15.058549863358346 A 6.5,6.5 0.0 0,0 10.999718041035873,5.499436082071746 L 10.999718041035873,11.999436082071746 L 16.735045330325768,15.058549863358348" fill="currentColor" opacity=".12" class="ColorScheme-Highlight"/>
+ <circle cx="11" cy="12" r="6.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="M 11.0,5.85244870515768 L 11.0,12.05406563137119 L 5.617121415867783,15.15490933934846 M 11.0,12.05406563137119 L 16.382878584132218,15.15490933934846" opacity=".6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" d="M 1.5,8.5 L 1.5,2.5998676961783715" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 0) scale(-1 1)"/>
+ <path class="ColorScheme-Text" d="M 1.5,8.5 L 3.791973929640394,5.830271548171605" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 0) scale(-1 1)"/>
+ <path d="M 3.791973929640394,5.830271548171605 A 9.516115039257363,9.516115039257363 0.0 0,1 13.809975925042293,2.927785971457077 A 9.516115039257363,9.516115039257363 0.0 0,1 20.471608901227608,10.953042987897454 A 9.516115039257363,9.516115039257363 0.0 0,1 15.774031579403983,20.26544267557368" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="translate(22 0) scale(-1 1)"/>
+</g></svg>
