@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g1" transform="matrix(0.81818182,0,0,0.81818182,3,2.8181818)" style="stroke-width:1.22222">
+    <circle cx="16.5" cy="15.5" r="6.5" id="circle1" style="stroke-width:1.22222" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 16.5,3.2383513 0,1.8727598 m 0,20.7777779 0,1.87276 M 4.2383513,15.5 l 1.8727598,0 m 20.7777779,0 1.87276,0 M 7.8053763,6.8053763 9.1123457,8.1123457 m 14.7753083,14.7753083 1.30697,1.30697 m -17.3892477,0 1.3069694,-1.30697 M 23.887654,8.1123457 25.194624,6.8053763 M 16.5,9 v 13" id="path1" style="stroke-width:1.22222" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path class="ColorScheme-Text" d="M 16.5,10.181818 V 20.818182 A 5.3181818,5.3181818 0 0 0 21.818182,15.5 5.3181818,5.3181818 0 0 0 16.5,10.181818 Z" fill="currentColor" opacity=".3" style="opacity:0.6;stroke-width:0.999998" id="path2"/>
+  <path class="ColorScheme-Text" d="M 16.5,10.181818 V 20.818182 A 5.3181818,5.3181818 0 0 1 11.181818,15.5 5.3181818,5.3181818 0 0 1 16.5,10.181818 Z" fill="currentColor" opacity=".3" style="opacity:0.1;stroke-width:0.999998" id="path3"/>
+</svg>
