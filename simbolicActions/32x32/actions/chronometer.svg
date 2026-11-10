@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg6">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path d="m 15.999978,4.5000268 c -1.326852,-0.00158 -2.677412,0.066237 -3.946065,0.238884 L 7.6516721,5.3377845 C 6.478973,5.4973732 5.4868171,6.3443862 4.7508115,7.2552892 3.9483779,8.248406 3.5000368,9.5119454 3.5000004,10.77955 v 9.63975 c -5.437e-4,1.373203 0.5650992,2.716023 1.5542503,3.687066 l 2.314e-4,2.27e-4 9.023e-4,0.0011 3.2049776,2.866284 C 9.2489743,27.944313 10.615581,28.5 12.013695,28.5 h 6.83e-4 3.9856 3.985604 6.94e-4 c 1.398114,0 2.764723,-0.555687 3.753338,-1.526019 l 3.204978,-2.866284 9.26e-4,-0.0011 2.31e-4,-2.27e-4 C 27.9349,23.135291 28.500578,21.792471 28.5,20.419269 V 10.77955 C 28.499919,9.5119454 28.051578,8.248406 27.249144,7.2552892 26.513139,6.3443862 25.520982,5.4973732 24.348284,5.3377845 L 19.946043,4.7389108 C 18.677389,4.5662641 17.32683,4.4984505 15.999978,4.5000268" class="ColorScheme-Text" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1" fill-opacity="0.1"/>
+  <g class="ColorScheme-Text" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(5,8)" stroke="currentColor" id="g6">
+    <path d="m 7.5,5.5 h -2 v 3 h 2 v 3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
+    <path d="m 3.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+    <path d="m 13.5,5.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
+    <path d="m 17.5,8.5 v 3 h -2 m 0,-3 h 2 v -3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path6"/>
+    <path d="m 10.5,10.5 v 1" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
+    <path d="m 10.5,6.5 v 1" stroke="currentColor" class="ColorScheme-Text" id="path8"/>
+  </g>
+  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g1">
+    <rect id="centre-button" x="14.5" y="2.5" width="4" height="2" rx="0.5" ry="0.5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+    <path id="side-buttons" d="M 7.5,5 V 3.5 l 3,0 m 12,0 3,0 V 5" style="fill:none" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <rect style="opacity:0.5;fill-opacity:0;fill-rule:evenodd;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="rect1" width="19" height="12" x="6.5000005" y="10.5" rx="2" ry="1.9999999" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/>
+</svg>
