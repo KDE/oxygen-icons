@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg14">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 26.944634,24.107777 9.26e-4,-0.0011 2.31e-4,-2.27e-4 m 1.504617,-5.527977 0.04968,-7.798823 c -8.1e-5,-1.2676 -0.44842,-2.5311 -1.2509,-3.5243 -0.736,-0.9109 -1.7282,-1.7579 -2.9009,-1.9175 l -4.4022,-0.59887 c -1.2687,-0.17265 -2.6192,-0.24046 -3.9461,-0.23888 L 16,4.5 C 14.6731,4.49842 13.3226,4.566237 12.0539,4.73888 L 7.6517,5.33775 C 6.479,5.49734 5.4868,6.34435 4.7508,7.25525 3.94837,8.24837 3.5,9.51195 3.5,10.77955 v 9.6398 c -5.437e-4,1.3732 0.5651,2.716 1.5543,3.6871 l 2.314e-4,2.27e-4 9.023e-4,0.0011 3.205,2.8663 c 0.98861,0.97034 2.3552423,1.536807 3.7533003,1.526 l 6.560997,-0.05072 m 0,0 C 17.877937,26.848898 17.736133,24.959532 18.428932,23 H 8.5 C 7.1192881,23 6,21.880712 6,20.5 v -8 C 6,11.119288 7.1192881,10 8.5,10 h 15 c 1.380712,0 2.5,1.119288 2.5,2.5 v 5.516685 c 0.892223,0.05961 1.711424,0.255991 2.450408,0.561788" fill="currentColor" fill-rule="evenodd" opacity="0.1" id="path1"/>
+  <path class="ColorScheme-Text" d="M 16.0,4.5 C 14.6731,4.49842 13.3226,4.566237 12.0539,4.73888 L 7.651700000000001,5.33775 C 6.479000000000001,5.4973399999999994 5.486800000000001,6.3443499999999995 4.750800000000001,7.25525 C 3.9483700000000006,8.24837 3.500000000000001,9.51195 3.500000000000001,10.77955 L 3.500000000000001,20.41935 C 3.4994563000000007,21.792550000000002 4.065100000000001,23.135350000000003 5.054300000000001,24.106450000000002 L 5.054531400000001,24.106677 L 5.055433700000001,24.107777000000002 L 8.2604337,26.974077 C 9.2490437,27.944417 10.6156337,28.500077 12.0137337,28.500077 L 17.5,28.500077" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path class="ColorScheme-Text" d="M 28.500090699999998,17.5 L 28.500090699999998,10.779650000000002 C 28.500009699999996,9.512050000000002 28.0516707,8.248550000000002 27.249190699999996,7.255350000000002 C 26.513190699999996,6.344450000000002 25.520990699999995,5.4974500000000015 24.348290699999996,5.337850000000001 L 19.946090699999996,4.7389800000000015 C 18.677390699999997,4.5663300000000016 17.326890699999996,4.498520000000002 15.999990699999996,4.5001000000000015" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
+  <g class="ColorScheme-Text" transform="translate(5,8)" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" id="g9">
+    <path class="ColorScheme-Text" d="m7.5 5.5h-2v3h2v3h-2" stroke="currentColor" id="path4"/>
+    <path class="ColorScheme-Text" d="m3.5 5.5v6" stroke="currentColor" id="path5"/>
+    <path class="ColorScheme-Text" d="m13.5 5.5v6" stroke="currentColor" id="path6"/>
+    <path class="ColorScheme-Text" d="m17.5 8.5v3h-2m0-3h2v-3h-2" stroke="currentColor" id="path7"/>
+    <path class="ColorScheme-Text" d="m10.5 10.5v1" stroke="currentColor" id="path8"/>
+    <path class="ColorScheme-Text" d="m10.5 6.5v1" stroke="currentColor" id="path9"/>
+  </g>
+  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" id="g10">
+    <rect id="centre-button" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" stroke="currentColor" class="ColorScheme-Text" fill="currentColor"/>
+    <path id="side-buttons" d="m7.5 5v-1.5h3m12 0h3v1.5" style="fill:none" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path class="ColorScheme-Text" d="M 25.5,17.5 V 12.5 A 2,2 0 0 0 23.5,10.5 H 8.5 A 2,2 0 0 0 6.5,12.5 V 20.5 A 2,2 0 0 0 8.5,22.5 H 17.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity=".5" id="path10"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="translate(18 18)" id="reset-subicon">
+    <path d="M 2.6010205,6.5 C 3.42041013,2.4858269175 8.379028196749998,1.1799020075000008 11.091338781100003,4.017341599243752" stroke="currentColor" class="ColorScheme-Text" id="path11"/>
+    <path d="M 12.5,5.6 V 3.1" stroke="currentColor" class="ColorScheme-Text" id="path12"/>
+    <g transform="rotate(180 7.5 7.5)" id="g14">
+      <path d="M 2.6010205,6.5 C 3.42041013,2.4858269175 8.379028196749998,1.1799020075000008 11.091338781100003,4.017341599243752" stroke="currentColor" class="ColorScheme-Text" id="path13"/>
+      <path d="M 12.5,5.6 V 3.1" stroke="currentColor" class="ColorScheme-Text" id="path14"/>
+      <path d="M 12.5,5.6 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path15"/>
+    </g>
+    <path d="M 12.5,5.6 11.091339,4.0173416" stroke="currentColor" class="ColorScheme-Text" id="path16"/>
+  </g>
+</svg>
