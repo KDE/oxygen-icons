@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-PositiveText {color:#27ae60}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="M 5,5.5 H 24.5 A 4,4 0 0 1 28.5,9.5 V 12.5 H 3.5 V 7 A 1.5,1.5 0 0 1 5,5.5 Z" fill="currentColor" opacity=".1"/><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 3.5,10.5 V 7 A 1.5,1.5 0 0 1 5,5.5 H 24.5 A 4,4 0 0 1 28.5,9.5 V 18 M 3.5,12.5 V 24.5 A 2,2 0 0 0 5.5,26.5 H 17" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="M11.5 5.5v21M20.5 5.5v9M3.5 19.5h10" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m3.5 12.5h25" opacity=".5" stroke="currentColor" class="ColorScheme-Text"/>
+ </g>
+<path d="M 21.318692,27.672242000000004 C 22.00451,28.359068000000004 23.119051999999996,28.354028000000003 23.798642,27.661028 L 29.352902,21.996878000000002 C 29.666777000000003,21.676793000000004 29.664490999999998,21.163685 29.347772000000003,20.846408000000004 L 28.627223000000004,20.124590000000005 C 28.311638000000002,19.808465000000005 27.799403000000005,19.808429000000007 27.483773000000003,20.124506300000004 L 22.497053000000005,25.118606300000003 L 20.583923000000006,23.202506300000003 C 20.363117000000006,22.981367300000002 20.004962000000006,22.981655300000003 19.784030000000005,23.202662900000004 L 18.319550000000007,24.667682900000003 L 21.318692000000002,27.672242" class="ColorScheme-PositiveText" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="constraint-check"/>
+</svg>
