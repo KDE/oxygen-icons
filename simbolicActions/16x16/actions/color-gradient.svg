@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<defs><style>.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style><linearGradient id="gradient" x1="2.5" y1="13.5" x2="13.5" y2="2.5" gradientUnits="userSpaceOnUse"><stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".05"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/></linearGradient><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+<path d="M 3.5,2.5 H 11.5 V 4.5 H 13.5 V 12.5 Q 13.5,13.5 12.5,13.5 H 4.5 V 11.5 H 2.5 V 3.5 Q 2.5,2.5 3.5,2.5 Z" fill="url(#gradient)"/>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path opacity=".6" d="M 2.5,10.5 V 3.5 Q 2.5,2.5 3.5,2.5 H 10.5 M 13.5,5.5 V 12.5 Q 13.5,13.5 12.5,13.5 H 5.5" stroke="currentColor" class="ColorScheme-Text"/><path d="M 3.3,12.7 L 12.7,3.3" stroke="currentColor" class="ColorScheme-Text"/></g>
+<g class="ColorScheme-Highlight" stroke="currentColor" fill="none" stroke-linejoin="round"><rect x="1.5" y="12.5" width="2" height="2" rx=".55" stroke="currentColor" class="ColorScheme-Highlight"/><rect x="12.5" y="1.5" width="2" height="2" rx=".55" stroke="currentColor" class="ColorScheme-Highlight"/></g></svg>
