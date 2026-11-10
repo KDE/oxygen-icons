@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}</style>
+  <linearGradient id="fill-gradient" class="ColorScheme-Text" x1="6.5" y1="25.5" x2="25.5" y2="6.5" gradientUnits="userSpaceOnUse">
+   <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".05"/>
+   <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/>
+  </linearGradient>
+  </defs>
+ <path d="M 8,6.5 H 22.5 V 9.5 H 25.5 V 23 A 2.5,2.5 0 0 1 23,25.5 H 9.5 V 22.5 H 6.5 V 8 A 1.5,1.5 0 0 1 8,6.5 Z" fill="url(#fill-gradient)"/>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M 6.5,20.5 V 8 A 1.5,1.5 0 0 1 8,6.5 H 21.5 M 25.5,10.5 V 23 A 2.5,2.5 0 0 1 23,25.5 H 10.5" opacity=".6" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="M 8.3974874,23.6025126 L 23.6025126,8.3974874" stroke="currentColor" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Highlight" d="m16.703 15.692h2.5493c.41459 0 .75068.33609.75068.75068v2.4696c0 .43064-.34911.77975-.77975.77975h-2.3405c-.43064 0-.77975-.34911-.77975-.77975v-2.6202c0-.33137.26863-.6.6-.6z" transform="translate(-11.603 7.808)" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-Highlight" d="m16.703 15.692h2.5493c.41459 0 .75068.33609.75068.75068v2.4696c0 .43064-.34911.77975-.77975.77975h-2.3405c-.43064 0-.77975-.34911-.77975-.77975v-2.6202c0-.33137.26863-.6.6-.6z" transform="translate(7.3974 -11.192)" fill="none" stroke="currentColor"/>
+ </g>
+</svg>
