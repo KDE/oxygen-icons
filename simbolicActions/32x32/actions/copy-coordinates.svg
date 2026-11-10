@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style>.ColorScheme-Text{color:#232629}</style>
+<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10.5,6 V15 A1.5,1.5 0 0 0 12,16.5 H26" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M5.267767,21.732233 L10.93934,16.06066" stroke="currentColor" class="ColorScheme-Text"/>
+</g><circle cx="28.5" cy="16.5" r="2" fill="#ed333b" fill-opacity=".15" stroke="#ed333b" stroke-width="1"/><circle cx="10.5" cy="3.5" r="2" fill="#27ae60" fill-opacity=".15" stroke="#27ae60" stroke-width="1"/><circle cx="3.5" cy="23.5" r="2" fill="currentColor" fill-opacity=".15" stroke="currentColor" stroke-width="1" class="ColorScheme-Highlight"/><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M 21.14486666666667,29.5 L 19.5,29.5 L 19.5,20.5 L 25.459333333333333,20.5 C 25.723673333333334,20.5 25.970573333333334,20.574646666666666 26.180133333333334,20.70400666666667" stroke="currentColor" class="ColorScheme-Text"/>
+   <path d="M 22.5,30.5 L 22.5,21.5 L 28.126,21.5 C 28.884866666666667,21.5 29.5,22.448493333333335 29.5,23.207333333333334 L 29.5,30.5 L 22.5,30.5" stroke="currentColor" class="ColorScheme-Text"/>
+   <path d="M 26.5,22.896933333333333 L 26.5,29.5 L 23.317,29.5" style="opacity:.22766" stroke="currentColor" class="ColorScheme-Text"/>
+  </g></svg>
