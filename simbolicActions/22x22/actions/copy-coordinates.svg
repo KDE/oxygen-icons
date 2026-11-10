@@ -1,6 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><defs><style>.ColorScheme-Text{color:#232629}</style><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style></defs><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5,4.5 V10.5 Q7.5,11.5 8.5,11.5 H17.5" stroke="currentColor" class="ColorScheme-Text"/><path d="M3.914213562373095,15.085786437626904 L7.792893,11.207107" stroke="currentColor" class="ColorScheme-Text"/></g><circle cx="19.5" cy="11.5" r="1.5" fill="#ed333b" fill-opacity=".15" stroke="#ed333b" stroke-width="1"/><circle cx="7.5" cy="2.5" r="1.5" fill="#27ae60" fill-opacity=".15" stroke="#27ae60" stroke-width="1"/><circle cx="2.5" cy="16.5" r="1.5" fill="#1d99f3" fill-opacity=".15" stroke="#1d99f3" stroke-width="1"/><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M 13.815893333333332,20.5 L 11.5,20.5 L 11.5,13.5 L 17.267466666666664,13.5 C 17.478938666666664,13.5 17.676458666666665,13.559717333333332 17.844106666666665,13.663205333333332" stroke="currentColor" class="ColorScheme-Text"/>
-   <path d="M 13.5,21.5 L 13.5,14.5 L 19.4008,14.5 C 20.007893333333335,14.5 20.5,15.058794666666666 20.5,15.665866666666666 L 20.5,21.5 L 13.5,21.5" stroke="currentColor" class="ColorScheme-Text"/>
-   <path d="M 18.5,15.417546666666667 L 18.5,20.5 L 15.5536,20.5" style="opacity:.22766" stroke="currentColor" class="ColorScheme-Text"/>
-  </g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg6">
+  <defs id="defs1">
+    <style id="style1">.ColorScheme-Text{color:#232629}</style>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g2">
+    <path d="m 7.5,4.5 v 6 c 0,0.666667 0.3333333,1 1,1 h 1.3489378" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
+    <path d="M3.914213562373095,15.085786437626904 L7.792893,11.207107" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
+  </g>
+  <circle cx="19.5" cy="11.5" r="1.5" fill="#ed333b" fill-opacity=".15" stroke="#ed333b" stroke-width="1" id="circle2"/>
+  <circle cx="7.5" cy="2.5" r="1.5" fill="#27ae60" fill-opacity=".15" stroke="#27ae60" stroke-width="1" id="circle3"/>
+  <circle cx="2.5" cy="16.5" r="1.5" fill="#1d99f3" fill-opacity=".15" stroke="#1d99f3" stroke-width="1" id="circle4"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g6">
+    <path d="M 12.115893,19.5 H 11.5 v -8 h 5.767467 c 0.211472,0 0.408992,0.05972 0.57664,0.163205" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+    <path d="m 13.5,21.5 v -8 h 5.9008 c 0.607093,0 1.0992,0.558795 1.0992,1.165867 V 21.5 h -7" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
+    <path d="M 18.5,14.917547 V 19.5 h -2.9464" style="opacity:0.22766" stroke="currentColor" class="ColorScheme-Text" id="path6"/>
+  </g>
+</svg>
