@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style>.ColorScheme-Text{color:#232629}</style>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+ <path d="M 8.0,4.0 A 4.5,4.5 0.0 0,0 4.029388799722379,10.617848002429184 L 8.0,8.500195202359778 L 8.0,3.999999999999999" fill="#ed333b" opacity=".12"/>
+ <path d="M 4.029388799722379,10.617457597709624 A 4.5,4.5 0.0 0,0 11.970708801457512,10.617457597709624 L 8.000097601179888,8.499804797640218 L 4.029388799722378,10.617457597709624" fill="#27ae60" opacity=".12"/>
+ <path d="M 11.970415997917842,10.617457597709624 A 4.5,4.5 0.0 0,0 7.99980479764022,3.9996095952804396 L 7.99980479764022,8.49960959528044 L 11.970415997917842,10.617457597709626" fill="currentColor" opacity=".12" class="ColorScheme-Highlight"/>
+ <circle cx="8" cy="8.5" r="4.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="M 8.0,4.244002949724548 L 8.0,8.537430052487746 L 4.273391749446926,10.684168004164318 M 8.0,8.537430052487746 L 11.726608250553074,10.684168004164318" opacity=".6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" d="M 1.5,6.5 L 1.5,2.4152930204311804" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <path class="ColorScheme-Text" d="M 1.5,6.5 L 3.0867511820587343,4.651726456426496" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M 3.0867511820587343,4.651726456426495 A 6.58807964256279,6.58807964256279 0.0 0,1 10.02229102502928,2.642313364854899 A 6.58807964256279,6.58807964256279 0.0 0,1 14.634190777772957,8.198260530082852 A 6.58807964256279,6.58807964256279 0.0 0,1 11.382021862664295,14.645306467704854" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
