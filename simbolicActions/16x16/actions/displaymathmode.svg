@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
 <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-<path class="ColorScheme-Text" d="M5.5,.5 H12.5 M5.5,15.5 H12.5" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".4"/>
+<path class="ColorScheme-Text" d="M9.5,.5 H14.5 M5.5,15.5 H12.5" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".4"/>
 <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
   <path id="f-lower" class="ColorScheme-Text" d="m1.5 14.5h1.5c.82843 0 1.5-.67157 1.5-1.5v-5c0-.82843.67157-1.5 1.5-1.5h1.5" stroke="currentColor"/>
   <path id="f-upper" class="ColorScheme-Text" d="m1.5 6.5h1.5c.82843 0 1.5-.67157 1.5-1.5v-1.5c0-1.1046.89543-2 2-2h1" stroke="currentColor"/>
