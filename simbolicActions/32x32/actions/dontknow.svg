@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#b91e00}</style></defs>
+<path class="ColorScheme-Text" transform="translate(-2.65 -1.15167464) scale(1.9)" d="M5.674,6.3A2.826,2.826 0 1 1 10.4983,8.2983L8.9983,9.7983Q8.5,10.2966 8.5,10.95" fill="none" stroke="currentColor" stroke-width=".5263157895" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="ColorScheme-Text" d="M13.5,22.5v.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<g transform="matrix(0.55,0,0,0.55,15,15)" id="g3">
+    <path d="m 16.467,12.033 5.5999,-5.5999 q 0.93338,-0.93338 1.8668,0 l 1.9302,1.9302 q 0.6364,0.6364 0,1.2728 L 19.967,15.533 q -0.46669,0.46669 0,0.93338 l 5.8545,5.8545 q 0.67882,0.67882 0,1.3576 l -1.9726,1.9726 q -0.84853,0.84853 -1.6971,0 l -5.6424,-5.6424 q -0.50912,-0.50912 -1.0182,0 l -5.7696,5.7696 q -0.72125,0.72125 -1.4425,0 l -2.2272,-2.2272 q -0.55154,-0.55154 0,-1.1031 l 6.0242,-6.0242 q 0.42426,-0.42426 0,-0.84852 L 6.0519,9.55106 q -0.55154,-0.55154 0,-1.1031 l 2.1848,-2.1848 q 0.76368,-0.76368 1.5274,0 l 5.7696,5.7696 q 0.46669,0.46669 0.93338,0 z" fill="currentColor" opacity="0.1" id="path2" class="ColorScheme-NegativeText"/>
+    <path d="m 21.713,6.7869 0.35355,-0.35355 q 0.93338,-0.93338 1.8668,0 l 1.9302,1.9302 q 0.6364,0.6364 0,1.2728 l -5.8969,5.8969 q -0.46669,0.46669 0,0.93338 l 5.8545,5.8545 q 0.67882,0.67882 0,1.3576 l -1.9726,1.9726 q -0.84853,0.84853 -1.6971,0 l -5.6424,-5.6424 q -0.50912,-0.50912 -1.0182,0 l -5.7696,5.7696 q -0.72125,0.72125 -1.4425,0 l -2.2272,-2.2272 q -0.55154,-0.55154 0,-1.1031 l 6.0242,-6.0242 q 0.42426,-0.42426 0,-0.84852 l -6.0242,-6.0242 q -0.55154,-0.55154 0,-1.1031 l 2.1848,-2.1848 q 0.76368,-0.76368 1.5274,0 l 5.7696,5.7696 q 0.46669,0.46669 0.93338,0 l 3.62,-3.62" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8182" id="path3" class="ColorScheme-NegativeText"/>
+  </g>
+
+</svg>
