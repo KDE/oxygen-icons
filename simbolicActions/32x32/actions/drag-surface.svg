@@ -6,5 +6,5 @@
 <use xlink:href="#grip-square"/><use xlink:href="#grip-square" x="8"/><use xlink:href="#grip-square" x="16"/>
 <use xlink:href="#grip-square" y="8"/><use xlink:href="#grip-square" x="8" y="8"/><use xlink:href="#grip-square" x="16" y="8"/>
 <use xlink:href="#grip-square" y="16"/><use xlink:href="#grip-square" x="8" y="16"/>
-<defs><path id="horizontal-drag-arrow" class="ColorScheme-Text" d="M28.5,23.5H22.914214A.585786,.585786 0 0 1 22.5,22.5L23.5,21.5 M21.5,23.5 23.5,25.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></defs>
-<use xlink:href="#horizontal-drag-arrow"/><use xlink:href="#horizontal-drag-arrow" transform="rotate(180 25 25.5)"/></svg>
+<defs><path id="horizontal-drag-arrow" class="ColorScheme-Text" d="M24.5,24.5H21.914214A.585786,.585786 0 0 1 21.5,23.5L22.5,22.5 M20.5,24.5 22.5,26.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></defs>
+<use xlink:href="#horizontal-drag-arrow"/><use xlink:href="#horizontal-drag-arrow" transform="rotate(180 25.5 24.5)"/></svg>
