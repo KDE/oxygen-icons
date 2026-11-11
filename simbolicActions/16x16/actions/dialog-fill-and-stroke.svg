@@ -1,1 +1,14 @@
-format-fill-color.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+    <clipPath id="paint-level">
+      <rect x="0" y="5.5" width="16" height="16" id="rect1"/>
+    </clipPath>
+  </defs>
+  <path id="bucket-fill" d="M 6.5,1.0 L 2.9748737,4.5251263 A 3.5,3.5 90.0 0,0 2.9748737,9.474874 L 3.0251267,9.525124 A 3.5,3.5 180.0 0,0 7.974874099999999,9.525124 L 11.5,6.0 C 10.5,7.0 5.5,2.0 6.5,1.0" class="ColorScheme-Text" fill="currentColor" stroke="none" stroke-width="1" stroke-linecap="round" opacity="0.1"/>
+  <path id="bucket-outline" d="M 6.5,1.0 L 2.9748737,4.5251263 A 3.5,3.5 90.0 0,0 2.9748737,9.474874 L 3.0251267,9.525124 A 3.5,3.5 0.0 0,0 7.974874099999999,9.525124 L 9.5,8.0" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path d="M 11.5,6.0 C 12.5,5.0 7.5,0.0 6.5,1.0 C 5.5,2.0 10.5,7.0 11.5,6.0" class="ColorScheme-Highlight" fill="currentColor" opacity=".5" clip-path="url(#paint-level)" id="path1"/>
+  <path d="M 11.5,6.0 C 12.5,5.0 7.5,0.0 6.5,1.0 C 5.5,2.0 10.5,7.0 11.5,6.0" class="ColorScheme-Text" fill="currentColor" opacity=".4" id="path2"/>
+  <path d="M 11.5,6.0 C 12.5,5.0 7.5,0.0 6.5,1.0 C 5.5,2.0 10.5,7.0 11.5,6.0" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path3"/>
+  <path class="ColorScheme-Text" d="M13.5,9.5 V12.5 A1,1 0 0 1 12.5,13.5 H9.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-Highlight" d="M 12.807674999999998,7.5 L 14.115025,7.5 C 14.327635,7.5 14.49999,7.668044999999999 14.49999,7.87534 L 14.49999,9.11014 C 14.49999,9.32546 14.32096,9.500015 14.10012,9.500015 L 12.89987,9.500015 C 12.67903,9.500015 12.5,9.32546 12.5,9.11014 L 12.5,7.800039999999999 C 12.5,7.634354999999999 12.63776,7.50004 12.807690000000001,7.50004 L 12.807674999999998,7.5" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/><path class="ColorScheme-Highlight" d="M 7.807674999999998,12.5 L 9.115025,12.5 C 9.327635,12.5 9.49999,12.668045 9.49999,12.87534 L 9.49999,14.11014 C 9.49999,14.32546 9.32096,14.500015 9.10012,14.500015 L 7.89987,14.500015 C 7.679029999999999,14.500015 7.5,14.32546 7.5,14.11014 L 7.5,12.80004 C 7.5,12.634355 7.63776,12.50004 7.807690000000001,12.50004 L 7.807674999999998,12.5" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/></svg>
