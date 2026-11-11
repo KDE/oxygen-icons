@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
  <defs>
-  <style>.ColorScheme-Text{color:#232629}</style>
+  
  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style></defs>
  <path d="M 11.0,5.499999999999999 A 6.5,6.5 0.0 0,0 5.264672710710103,15.0591137812866 L 11.0,12.000281958964125 L 11.0,5.5" fill="#ed333b" opacity=".12"/>
