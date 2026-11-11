@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+<defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+<path id="grip-square" class="ColorScheme-Text" d="M7.2,6.5H9.7A.8,.8 0 0 1 10.5,7.3V9.9A.6,.6 0 0 1 9.9,10.5H7.1A.6,.6 0 0 1 6.5,9.9V7.2A.7,.7 0 0 1 7.2,6.5Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linejoin="round"/>
+</defs>
+<use xlink:href="#grip-square"/><use xlink:href="#grip-square" x="8"/><use xlink:href="#grip-square" x="16"/>
+<use xlink:href="#grip-square" y="8"/><use xlink:href="#grip-square" x="8" y="8"/><use xlink:href="#grip-square" x="16" y="8"/>
+<use xlink:href="#grip-square" y="16"/><use xlink:href="#grip-square" x="8" y="16"/><use xlink:href="#grip-square" x="16" y="16"/>
+</svg>
