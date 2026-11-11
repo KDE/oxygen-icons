@@ -1,1 +1,15 @@
-vcs-diff.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M1.5,1.5H4A1.5,1.5 0 0 1 5.5,3V4.5A1,1 0 0 1 4.5,5.5H1.5Z" fill="currentColor" stroke="none" opacity=".1" class="ColorScheme-Text"/>
+<path d="M2,5.5H1.5V1.5H4A1.5,1.5 0 0 1 5.5,3V4.5A1,1 0 0 1 4.5,5.5H3.5V9.9574A2.5426,2.5426 0 0 0 6.0426,12.5H6.70821C7.419748,12.5 7.875272,11.67012 7.41975,11.1235L6.4835,10" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M6.4835,15 8.5668,12.5" stroke="currentColor" class="ColorScheme-Text"/>
+</g>
+<g transform="rotate(180 8 8)">
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M1.5,1.5H4A1.5,1.5 0 0 1 5.5,3V4.5A1,1 0 0 1 4.5,5.5H1.5Z" fill="currentColor" stroke="none" opacity=".1" class="ColorScheme-Text"/>
+<path d="M2,5.5H1.5V1.5H4A1.5,1.5 0 0 1 5.5,3V4.5A1,1 0 0 1 4.5,5.5H3.5V9.9574A2.5426,2.5426 0 0 0 6.0426,12.5H6.70821C7.419748,12.5 7.875272,11.67012 7.41975,11.1235L6.4835,10" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M6.4835,15 8.5668,12.5" stroke="currentColor" class="ColorScheme-Text"/>
+</g>
+</g>
+</svg>
