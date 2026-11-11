@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
 <g transform="translate(3.5 0)">
-<g transform="rotate(180 16.0 16.0)"><path d="M18.833333333333332 4.5 L15.5 8.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><path d="M18.833333333333332 12.5 l-1.4979999999999998 -1.7976 c-0.7288266666666666 -0.8746 -0.106908 -2.2024 1.0315599999999998 -2.2024 H19.431866666666668 A4.068133333333333 4.068133333333333 0 0 1 23.5 12.568133333333332 V21.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><circle cx="23.5" cy="24.5" r="3" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/></g>
-
-</g></svg>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M5.5,3.5H9.5A2,2 0 0 1 11.5,5.5V10.5A1,1 0 0 1 10.5,11.5H5.5Z" fill="currentColor" stroke="none" opacity=".1" class="ColorScheme-Text"/>
+<path d="M6.5,11.5H5.5V3.5H9.5A2,2 0 0 1 11.5,5.5V10.5A1,1 0 0 1 10.5,11.5H8.5V19.431867A4.068133,4.068133 0 0 0 12.568133,23.5H13.633107C14.771575,23.5 15.393494,22.1722 14.664667,21.2976L13.166667,19.5" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M13.166667,27.5 16.5,23.5" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M7.5,6.5H9.5 M7.5,8.5H9.5" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
+</g>
+</g>
+</svg>
