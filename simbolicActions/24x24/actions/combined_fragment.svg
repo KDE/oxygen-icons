@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style>.ColorScheme-Text{color:#232629}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs>
 <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style></defs>
 <g transform="translate(1,1)"><path class="ColorScheme-Text" d="M 3.316,4.5 L 9.3,4.5 L 9.3,6.2105263157894735 L 6.92,8.605263157894736 L 2.5,8.605263157894736 L 2.5,5.321052631578947 C 2.5,4.870636483287585 2.8683556433904314,4.5 3.3160000000000003,4.5" fill="currentColor" opacity=".1"/>
