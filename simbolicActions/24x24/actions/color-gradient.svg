@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-<defs><style>.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style><linearGradient id="gradient" x1="4.5" y1="17.5" x2="17.5" y2="4.5" gradientUnits="userSpaceOnUse"><stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".05"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/></linearGradient><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
-.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style><linearGradient id="gradient" x1="4.5" y1="17.5" x2="17.5" y2="4.5" gradientUnits="userSpaceOnUse"><stop class="ColorScheme-Text" stop-color="currentColor" stop-opacity=".05"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/></linearGradient></defs>
 <g transform="translate(1,1)"><path d="M 5.5,4.5 H 15.0 V 7.0 H 17.5 V 16.5 Q 17.5,17.5 16.5,17.5 H 7.0 V 15.0 H 4.5 V 5.5 Q 4.5,4.5 5.5,4.5 Z" fill="url(#gradient)"/>
 <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path opacity=".6" d="M 4.5,14.0 V 5.5 Q 4.5,4.5 5.5,4.5 H 14.0 M 17.5,8.0 V 16.5 Q 17.5,17.5 16.5,17.5 H 8.0" stroke="currentColor" class="ColorScheme-Text"/><path d="M 5.8,16.2 L 16.2,5.8" stroke="currentColor" class="ColorScheme-Text"/></g>
 <g class="ColorScheme-Highlight" stroke="currentColor" fill="none" stroke-linejoin="round"><rect x="2.5" y="15.5" width="3" height="3" rx=".55" stroke="currentColor" class="ColorScheme-Highlight"/><rect x="15.5" y="2.5" width="3" height="3" rx=".55" stroke="currentColor" class="ColorScheme-Highlight"/></g></g></svg>
