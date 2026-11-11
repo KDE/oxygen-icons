@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
+<g transform="translate(-3.5 0)">
+<g><path d="M18.833333333333332 4.5 L15.5 8.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><path d="M18.833333333333332 12.5 l-1.4979999999999998 -1.7976 c-0.7288266666666666 -0.8746 -0.106908 -2.2024 1.0315599999999998 -2.2024 H19.431866666666668 A4.068133333333333 4.068133333333333 0 0 1 23.5 12.568133333333332 V21.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/><circle cx="23.5" cy="24.5" r="3" fill="none" stroke="currentColor" stroke-width="1" class="ColorScheme-Text"/></g>
+
+</g></svg>
