@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+<path class="ColorScheme-Text" d="M12.5,8.803124A11,8 0 1 0 25.697273,19.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<path class="ColorScheme-Highlight" d="m25.104 14.491h2.6273a.77365.75361 0 01.77365.75361v2.4792a.80361.78279 0 01-.80361.78279h-2.4121a.80361.78279 0 01-.80361-.78279v-2.6304a.61836.60234 0 01.61836-.60234z" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+<path class="ColorScheme-Highlight" d="m14.104 6.4914h2.6273a.77365.75361 0 01.77365.75361v2.4792a.80361.78279 0 01-.80361.78279h-2.4121a.80361.78279 0 01-.80361-.78279v-2.6304a.61836.60234 0 01.61836-.60234z" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+<path class="ColorScheme-Highlight" d="m14.937 15.701h1.0556a.31084.30279 0 01.31084.30279v.99612a.32288.31452 0 01-.32288.31452h-.96916a.32288.31452 0 01-.32288-.31452v-1.0569a.24845.24201 0 01.24845-.24201z" style="fill:none;opacity:.5;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99997" stroke="currentColor"/>
+
+</svg>
