@@ -9,5 +9,6 @@
 <use xlink:href="#grip-square" x="12" y="6"/>
 <use xlink:href="#grip-square" x="0" y="12"/>
 <use xlink:href="#grip-square" x="6" y="12"/>
-<use xlink:href="#grip-square" x="12" y="12"/>
-</svg>
+
+<defs><path id="horizontal-drag-arrow" class="ColorScheme-Text" d="M20.5,15.5H15.7Q14.9,15.5 15.5,14.9L16.4,14 M14.5,15.5 16,17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></defs>
+<use xlink:href="#horizontal-drag-arrow"/><use xlink:href="#horizontal-drag-arrow" transform="rotate(180 17.5 17.5)"/></svg>
