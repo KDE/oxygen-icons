@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+<defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+</defs>
+<path id="tile" class="ColorScheme-Text" d="M5.5,4.5 H12.7 A.8,.8 0 0 1 13.5,5.3 V12.3 A1.2,1.2 0 0 1 12.3,13.5 H5.1 A.6,.6 0 0 1 4.5,12.9 V5.5 A1,1 0 0 1 5.5,4.5 Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linejoin="round"/>
+<use xlink:href="#tile" transform="translate(14 0)"/><use xlink:href="#tile" transform="translate(0 14)"/>
+<g transform="translate(17 17) scale(.7)" stroke-width="1.4285714">
+<path d="m8.3214 3.746 1.3943-1.3943c1.0982-1.0982 2.8665-1.0982 3.9648 0 1.0982 1.0982 1.0982 2.8665 1e-6 3.9648l-2.5871 2.5871c-1.0982 1.0982-2.8665 1.0982-3.9648-5e-7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+<path d="m7.75 12.247-1.3943 1.3943c-1.0982 1.0982-2.8665 1.0982-3.9648 0-1.0982-1.0982-1.0982-2.8665-1e-7-3.9648l2.5871-2.5871c1.0982-1.0982 2.8665-1.0982 3.9648 4e-7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+</g></svg>
