@@ -1,1 +1,21 @@
-acrobat.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg6">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <g transform="translate(1.3103e-8 -.060279)" id="g3">
+    <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)" id="g2">
+      <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke" id="g1">
+        <path d="m 17.283,16.72 -4.6e-5,0.74302 c -5.5e-5,1.020434 -0.827266,1.847645 -1.8477,1.8477 l -12.196,4.19e-4 9.39e-5,-4.0719 m 2.578e-4,-4.071247 -7.32e-5,-8.882853 h 6.5791532 m 4.6284703,0 h 0.472377 c 1.3057,0 2.3641,1.0584 2.3641,2.3641 l -1.59e-4,2.832" style="stroke-width:0.73971" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
+      </g>
+    </g>
+  </g>
+  <g transform="matrix(-1 0 0 1 31.003 6.5)" id="g6">
+    <g transform="matrix(.78694 0 0 .78694 2.4139 1.9408)" style="stroke-width:1.2708" id="g5">
+      <g class="ColorScheme-Text" transform="translate(9.9968,9.4707)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.2708" id="g4">
+        <path transform="translate(-3.8122)" d="M 23.155,11.572 V 7.76 c 0,-1.7546086 -1.422391,-3.177 -3.177,-3.177 H 2.638 l 1.8692,1.8194 c 0.63292,0.61606 0.62455,1.6371 0,2.2617 L 3.76888,9.40242 c -0.61955,0.61954 -1.6281,0.60592 -2.2307,-0.03013 l -5.2432,-5.5344 C -4.32238,3.18625 -4.32399,2.16609 -3.70869,1.51249 l 5.2506,-5.5773 c 0.6,-0.63734 1.6081,-0.65254 2.2271,-0.03359 l 0.73832,0.73832 c 0.62351,0.62351 0.62064,1.6353 -0.0064,2.2553 l -1.897,1.8756 c 2.1717222,0 5.4884034,-3.3262e-4 7.2090048,-3.3262e-4 1.9849852,0 3.1768622,-1.18187227 3.1768622,-3.07680128 0,-1.9477078 -0.119918,-4.0822947 -0.622374,-6.0481465 -0.996565,-3.4831726 -2.6553889,-6.6017506 -4.8802996,-8.2354086 -0.290951,-0.213635 -0.7897044,-0.203513 -1.0929372,-0.0075 -0.6335591,0.409649 -0.7391262,1.602337 -0.00801,2.497856 1.2480494,1.528831 3.0378836,2.868314 4.9699448,3.79176 0.85619,0.4092166 2.31764,0.9105003 3.244172,1.1149699 1.294383,0.2856434 2.533961,0.3992032 3.545199,0.4546409 1.153097,0.063217 2.130329,-0.8404824 2.181709,-1.9950138 0.0643,-1.448321 -0.975767,-2.097155 -2.185874,-1.239253 -2.864824,2.0307314 -6.336118,4.3499007 -8.4627032,7.1829579 -0.567699,0.756294 -1.5416094,1.8653093 0.248493,2.9873441" style="stroke-width:1.2708" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
+      </g>
+    </g>
+  </g>
+  <path class="ColorScheme-Text" d="m 5.5005586,16.500262 c 0.495173,0 6.3826924,-2.62e-4 6.7378384,-2.62e-4" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path6"/>
+</svg>
