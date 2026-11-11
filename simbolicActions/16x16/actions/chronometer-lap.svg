@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="lap-subicon" transform="translate(1)">
-    <path d="M 11.5,6.6 V 4.1" stroke="currentColor" class="ColorScheme-Text" id="path12"/>
-    <path d="M 11.5,6.6 9.680824,4.5866687" stroke="currentColor" class="ColorScheme-Text" id="path16"/>
-    <path class="ColorScheme-Text" d="m 9.5,8.5 h 4" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path1"/>
-  </g>
-  <path style="opacity:1;fill:none;fill-opacity:0;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke" id="path2" d="M 9.5134282,13.438867 A 5.6366854,5.6271162 0 0 1 2.0777832,11.793223 5.6366854,5.6271162 0 0 1 3.0718939,4.2550204 5.6366854,5.6271162 0 0 1 10.680824,4.5866692" class="ColorScheme-Text" stroke="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g id="lap-subicon" class="ColorScheme-Text" transform="translate(1)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m11.5 6.6v-2.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m11.5 6.6-1.8192-2.0133" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m9.5 8.5h4" fill="none" stroke-linecap="round" stroke="currentColor"/>
+ </g>
+ <path d="m9.5134 13.439a5.6367 5.6271 0 01-7.4356-1.6456 5.6367 5.6271 0 01.99411-7.5382 5.6367 5.6271 0 017.6089.33165" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
