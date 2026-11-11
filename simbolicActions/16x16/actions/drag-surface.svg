@@ -10,5 +10,5 @@
 <use xlink:href="#grip-square" x="0" y="8"/>
 <use xlink:href="#grip-square" x="4" y="8"/>
 
-<defs><path id="horizontal-drag-arrow" class="ColorScheme-Text" d="M14.5,10.5H10.5Q9.9,10.5 10.3,10.1L10.9,9.5 M9.5,10.5 10.5,11.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></defs>
-<use xlink:href="#horizontal-drag-arrow"/><use xlink:href="#horizontal-drag-arrow" transform="rotate(180 12 12.5)"/></svg>
+<defs><path id="horizontal-drag-arrow" class="ColorScheme-Text" d="M12,11.5H10.5L11.5,10.5 M10.5,11.5 11.5,12.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></defs>
+<use xlink:href="#horizontal-drag-arrow"/><use xlink:href="#horizontal-drag-arrow" transform="rotate(180 13 11.5)"/></svg>
