@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <path d="m8.1502 2.3137c-3.7536 6.49e-5-6.7965 3.0459-6.7965 6.8032 6.65e-5 3.7573 3.0429 6.8031 6.7965 6.8032 3.7536-6.5e-5 6.7965-3.0459 6.7965-6.8032-2.2e-5-1.2088-.315-2.344-.86728-3.3278-.10824-.19281.74107-.47472.86652-1.001.12083-.5069-.48125-1.2591-.6178-1.4206-.17524-.20732-.79425-.58367-1.2356-.43456-.45536.15385-.734.83426-.96112.66967-1.1189-.81083-2.4943-1.2888-3.9813-1.2888zm-2.1766 2.7468c.66603-.0001252 1.206.54036 1.2059 1.207.000125.66668-.53983 1.2072-1.2059 1.207-.66603.0001253-1.206-.54036-1.2059-1.207-.0001242-.66668.53983-1.2072 1.2059-1.207z" style="fill-rule:evenodd;opacity:.1;paint-order:markers fill stroke" class="ColorScheme-Text" fill="currentColor"/>
+ <path transform="matrix(.6178 0 0 .6184 -1.7346 -.77752)" d="m23.246 6.4444.1748-.2022c.44297-.51241 1.2418-.59667 1.7387-.13669.6912.63988 1.3135 1.3504 1.8566 2.12.39041.55321.18509 1.3073-.40152 1.6459l-.45763.26417c-.58661.33863-.78004 1.0868-.51161 1.7083 1.9291 4.4663.53476 9.7583-3.4969 12.67-4.3669 3.1538-10.412 2.4922-13.993-1.5313-3.5815-4.0236-3.5381-10.104.10038-14.076 3.0997-3.3839 7.9524-4.3025 11.994-2.512" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.6179" class="ColorScheme-Text" stroke="currentColor"/>
+ <path transform="matrix(.6178 0 0 .6184 -1.7346 -.77752)" d="m26 7 .87135-.83733a2.0819 2.0819 89.086 00-.0486-3.0475l-.48944-.44119c-.03165-.02853-.082026-.075808-.1137-.10431-1.5889-1.4301-4.3686.48924-6.8867.37737m-2.1365-.77825c-.03527-.028303-.07037-.05751-.10528-.087643-.03052-.026336-.060903-.053379-.091146-.081143" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.6179" class="ColorScheme-Text" stroke="currentColor"/>
+</svg>
