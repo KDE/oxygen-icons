@@ -67,7 +67,7 @@ SPDX-License-Identifier: CC0-1.0
   <summary xml:lang="sr-Latn">Slobodna tema ikonica otvorenog koda, za upotrebu uz stil Kiseonika za Plasmu</summary>
   <summary xml:lang="sr-ijekavian">Слободна тема иконица отвореног кода, за употребу уз стил Кисеоника за Плазму</summary>
   <summary xml:lang="sr-ijekavianlatin">Slobodna tema ikonica otvorenog koda, za upotrebu uz stil Kiseonika za Plasmu</summary>
-  <summary xml:lang="tr">Oksijen Plasma biçemi ile kullanılmak üzere ücretsiz ve açık kaynaklı bir simge teması</summary>
+  <summary xml:lang="tr">Oksijen Plasma stili ile kullanılmak üzere ücretsiz ve açık kaynaklı bir simge teması</summary>
   <summary xml:lang="ug">ئوكسىگېن پىلازما ئۇسلۇبىغا ئىشلىتىلىدىغان ئەركىن ۋە ئوچۇق كودلۇق سىنبەلگە ئۆرنىكى</summary>
   <summary xml:lang="uk">Вільна тема з відкритим початковим кодом для використання зі стилем Плазми Oxygen</summary>
   <summary xml:lang="zh-CN">适合与 Oxygen 轻氧 Plasma 主题搭配使用的自由开源图标主题</summary>
@@ -98,7 +98,7 @@ SPDX-License-Identifier: CC0-1.0
     <p xml:lang="sr-Latn">Ikonice Kiseonika su tema ikonica saglasna sa freedesktop.org, prvobitno razvijena za KDE okruženje površi Plasma, u kombinaciji sa stilom Kiseonika. Odlikuju je glatki prelivi, meke senke i blago sjajan izgled.</p>
     <p xml:lang="sr-ijekavian">Иконице Кисеоника су тема иконица сагласна са freedesktop.org, првобитно развијена за КДЕ окружење површи Плазма, у комбинацији са стилом Кисеоника. Одликују је глатки преливи, меке сијенке и благо сјајан изглед.</p>
     <p xml:lang="sr-ijekavianlatin">Ikonice Kiseonika su tema ikonica saglasna sa freedesktop.org, prvobitno razvijena za KDE okruženje površi Plasma, u kombinaciji sa stilom Kiseonika. Odlikuju je glatki prelivi, meke sijenke i blago sjajan izgled.</p>
-    <p xml:lang="tr">Oksijen Simgeleri, özgün olarak KDE Plasma masaüstü ortamı için Oksijen biçemi ile birlikte geliştirilmiş, freedesktop.org ile uyumlu bir simge temasıdır. Pürüzsüz geçişler, yumuşak gölgeler ve hafif parlak bir görünüme sahiptir.</p>
+    <p xml:lang="tr">Oksijen Simgeleri, özgün olarak KDE Plasma masaüstü ortamı için Oksijen stili ile birlikte geliştirilmiş, freedesktop.org ile uyumlu bir simge temasıdır. Pürüzsüz geçişler, yumuşak gölgeler ve hafif parlak bir görünüme sahiptir.</p>
     <p xml:lang="ug">ئوكسىگېن سىنبەلگە freedesktop.org ئۆلچىمى بىلەن ماسلىشىدىغان سىنبەلگە ئۆرنىكى، ئەسلىدە ئوكسىگېن ئۇسلۇبىدىكى KDE Plasma ئۈستەلئۈستى مۇھىتى ئۈچۈن ئىجاد قىلىنغان. ئۇنىڭ رەڭ ئۆزگىرىشى سىلىق، سايىسى تەبىئىي بولۇپ ئەينەكسىمان كۆرۈنۈشكە ئىگە.</p>
     <p xml:lang="uk">Піктограми Oxygen — це тема піктограм, сумісна з freedesktop.org, спочатку розроблена для стільничного середовища Плазма KDE у поєднанні зі стилем Oxygen. Вона містить плавні градієнти, м'які тіні та злегка глянцевий вигляд.</p>
     <p xml:lang="zh-CN">Oxygen 图标主题是一款兼容 freedesktop.org 规范的图标主题，专为在 KDE Plasma 桌面环境下与 Oxygen 轻氧样式主题搭配使用。它的图标具有平滑的渐变、柔和的阴影以及略带光泽的外观。</p>
@@ -135,7 +135,7 @@ SPDX-License-Identifier: CC0-1.0
       <caption xml:lang="sr-Latn">Snimak ekrana K‑pošte sa stilom i temom ikonica Kiseonika.</caption>
       <caption xml:lang="sr-ijekavian">Снимак екрана К‑поште са стилом и темом иконица Кисеоника.</caption>
       <caption xml:lang="sr-ijekavianlatin">Snimak ekrana K‑pošte sa stilom i temom ikonica Kiseonika.</caption>
-      <caption xml:lang="tr">KMail’in Oksijen biçemi ve simgeleri ile ekran görüntüsü</caption>
+      <caption xml:lang="tr">KMail’in Oksijen stili ve simgeleri ile ekran görüntüsü</caption>
       <caption xml:lang="ug">KMail نىڭ ئوكسىگېن ئۇسلۇبى ۋە سىنبەلگە ئۆرنىكىدىكى ئېكران كۆرۈنۈشى.</caption>
       <caption xml:lang="uk">Знімок вікна KMail зі стилем і темою піктограм Oxygen.</caption>
       <caption xml:lang="zh-CN">使用 Oxygen 样式与图标主题的 KMail 屏幕截图。</caption>
