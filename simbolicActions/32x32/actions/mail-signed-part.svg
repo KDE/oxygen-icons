@@ -1,29 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg16">
   <defs id="defs5">
-    <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-    <style type="text/css" id="style1">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-    <style type="text/css" id="style2">.ColorScheme-Text { color:#232629; }</style>
-    <style type="text/css" id="style3">.ColorScheme-Text { color:#232629; }</style>
-    <style type="text/css" id="style4">.ColorScheme-Text { color:#232629; }</style>
-    <style type="text/css" id="style5">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
+    
+    
+    
+    
+    
+    
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
   <defs id="defs6">
-    <style type="text/css" id="style6">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
+    
   </defs>
   <g transform="matrix(1.1902 0 0 1.1872 14.925 6.5461)" style="stroke-width:.84123" id="g9">
     <defs id="defs8">
-      <style type="text/css" id="style7">.ColorScheme-Text { color:#232629; }</style>
-      <style type="text/css" id="style8">.ColorScheme-Text { color:#232629; }</style>
+      
+      
     </defs>
     <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178" id="g8"/>
   </g>
@@ -37,8 +29,8 @@
   </g>
   <g transform="matrix(1.1902,0,0,1.1872,2.9107,5.5356)" style="stroke-width:.84123" id="g15">
     <defs id="defs13">
-      <style type="text/css" id="style12">.ColorScheme-Text { color:#232629; }</style>
-      <style type="text/css" id="style13">.ColorScheme-Text { color:#232629; }</style>
+      
+      
     </defs>
     <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.62178" id="g14">
       <g style="stroke-width:.62178" id="g13">
