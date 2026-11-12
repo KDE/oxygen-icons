@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path class="ColorScheme-Text" d="M4.5,3.5V2.5A1,1 0 0 1 5.5,1.5H12.5A2,2 0 0 1 14.5,3.5V13.5A1,1 0 0 1 13.5,14.5H5.5A1,1 0 0 1 4.5,13.5V12.5" stroke="currentColor"/>
+<path class="ColorScheme-Text" d="M8.5,3.5H11.5" opacity=".4" stroke="currentColor"/>
+<path class="ColorScheme-Highlight" d="M12.5,7.5V9.5" stroke="currentColor"/>
+<path class="ColorScheme-Text" d="M.5,12V11A1.5,1.5 0 0 1 2,9.5H7.2234L6.24764,10.44976C5.91724,10.77135 5.92161,11.30436 6.24764,11.63036L6.63306,12.01578C6.95648,12.33919 7.48296,12.33208 7.79756,12.00005L10.53456,9.11095C10.85683,8.77078 10.85767,8.23824 10.53646,7.89705L7.79556,4.98565C7.48235,4.65295 6.95610,4.64501 6.63296,4.968115L6.24754,5.353535C5.92206,5.679015 5.92356,6.207195 6.25088,6.530835L7.24115,7.5H2A1.5,1.5 0 0 1 .5,6V4.5" stroke="currentColor"/>
+</g></svg>
