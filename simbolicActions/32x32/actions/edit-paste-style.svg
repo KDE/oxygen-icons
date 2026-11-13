@@ -1,1 +1,2 @@
-draw-brush.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M26.5 13.5a3 3 0 0 0-3-3h-5v-7a2.5 2.5 0 0 0-5 0v7h-5a3 3 0 0 0-3 3v3h20a1 1 0 0 1 1 1v6.5a5.5 5.5 0 0 1-5.5 5.5h-7v-3l-3 3h-7c2.5-1.5 3-3.5 3-6v-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-Text" d="M26.5 13.5a3 3 0 0 0-3-3h-5v-7a2.5 2.5 0 0 0-5 0v7h-5a3 3 0 0 0-3 3v3h21Z" fill="currentColor" opacity=".1"/></svg>
