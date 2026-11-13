@@ -3,14 +3,14 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <g id="reset-subicon" class="ColorScheme-Text" transform="matrix(2.2016 0 0 2.2074 -.019382 -.086343)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".45362">
-  <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.45362" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.45362" stroke="currentColor"/>
-  <g transform="rotate(180,7.5,7.5)" style="stroke-width:.45362">
-   <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.45362" stroke="currentColor"/>
-   <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.45362" stroke="currentColor"/>
-   <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.45362" stroke="currentColor"/>
+ <g id="reset-subicon" class="ColorScheme-Text" transform="matrix(2.1016 0 0 2.1072 .23041 .16384)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".47519">
+  <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.47519" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.47519" stroke="currentColor"/>
+  <g transform="rotate(180,7.5,7.5)" style="stroke-width:.47519">
+   <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.47519" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.47519" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.47519" stroke="currentColor"/>
   </g>
-  <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.45362" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.47519" stroke="currentColor"/>
  </g>
 </svg>
