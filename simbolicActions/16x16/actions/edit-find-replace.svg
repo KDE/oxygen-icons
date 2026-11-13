@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16" xml:space="preserve"><defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs>
+  
+<g transform="translate(0 3.5) scale(.5)"><g transform="matrix(.98178 0 0 .9823 -.16009 -7.7433)" style="stroke-width:1.0183"><g transform="rotate(180,15.395,14.75)" style="stroke-width:1.0183"><g transform="matrix(.78694 0 0 .78694 2.4139 1.9408)" style="stroke-width:1.294"><g class="ColorScheme-Text" transform="translate(9.9968,9.4707)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="paint-order:stroke fill markers;stroke-width:1.294"><path class="ColorScheme-Text" d="m8.613 7.1243h-7.8808l1.8692 1.8194c.63292.61606.62455 1.6371 0 2.2617l-.73832.73832c-.61955.61954-1.6281.60592-2.2307-.03013l-5.2432-5.5344c-.61736-.65164-.61897-1.6718-.00367-2.3254l5.2506-5.5773c.6-.63734 1.6081-.65254 2.2271-.03359l.73832.73832c.62351.62351.62064 1.6353-.00639 2.2553l-1.8355 1.8068 14.91 1e-7-1.8692 1.8194c-.63292.61606-.62455 1.6371 0 2.2617l.73832.73832c.61955.61954 1.6281.60592 2.2307-.03013l5.2432-5.5344c.61736-.65164.61897-1.6718.0037-2.3254l-5.2506-5.5773c-.6-.63734-1.6081-.65254-2.2271-.03359l-.73832.73832c-.62351.62351-.62064 1.6353.0064 2.2553l1.8355 1.8068h-10.065" stroke="currentColor" style="stroke-width:1" vector-effect="non-scaling-stroke" stroke-width="1"/></g></g></g></g></g></svg>
