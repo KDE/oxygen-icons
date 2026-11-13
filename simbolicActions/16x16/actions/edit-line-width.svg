@@ -4,9 +4,9 @@
   <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
  </defs>
  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m2.5 1.5h11" fill="none" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m2.9 4.5h10.2c.2216 0 .4.1784.4.4v.2c0 .2216-.1784.4-.4.4h-10.2c-.2216 0-.4-.1784-.4-.4v-.2c0-.2216.1784-.4.4-.4z" fill="currentColor" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m2.9 8.5h10.2c.2216 0 .4.1784.4.4v1.2c0 .2216-.1784.4-.4.4h-10.2c-.2216 0-.4-.1784-.4-.4v-1.2c0-.2216.1784-.4.4-.4z" fill="currentColor" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m2.5.5h11" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m2.9 3.5h10.2c.2216 0 .4.1784.4.4v.2c0 .2216-.1784.4-.4.4h-10.2c-.2216 0-.4-.1784-.4-.4v-.2c0-.2216.1784-.4.4-.4z" fill="currentColor" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m2.9 7.5h10.2c.2216 0 .4.1784.4.4v1.2c0 .2216-.1784.4-.4.4h-10.2c-.2216 0-.4-.1784-.4-.4v-1.2c0-.2216.1784-.4.4-.4z" fill="currentColor" stroke="currentColor"/>
   <rect class="ColorScheme-Text" x="2.5" y="12.5" width="11" height="3" rx=".4" fill="currentColor" stroke="currentColor"/>
  </g>
 </svg>
