@@ -3,12 +3,12 @@
  <defs>
   <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
  </defs>
- <g transform="translate(-0.32 -0.32) scale(0.52)" stroke-width="1.923076923076923"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m18.137 22.463-.79788-1.1661a1.6039 1.6039 180 00-2.6475 0l-2.1915 3.203c-.4.6-.6 1.2-1 1.8-2.4664 3.6292-8.1362 1.9429-8.2205-2.4429s5.5164-6.2888 8.1205-2.7571l1.9003-2.7624m1.0028-6.4411.4497.65411a1.532 1.532 1.9313e-5 002.5249 1e-6l6.2223-9.0506c1.3 2 .8 3.7-.6 5.8l-4.379 6.4001" stroke="currentColor" class="ColorScheme-Text"/>
-  <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
+ <g transform="matrix(.6697 0 0 .66991 -2.7991 -3.6719)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.493">
+  <g class="ColorScheme-Text" style="stroke-width:1.493">
+   <path class="ColorScheme-Text" d="m18.137 22.463-.79788-1.1661c-.63695-.93102-2.0105-.93102-2.6475 0l-2.1915 3.0601c-.32853.49279-.49279.98558-.82132 1.4784-2.0257 2.9807-6.6824 1.5957-6.7516-2.0064-.064577-3.3597 3.6329-4.6856 5.8796-3.0519l1.2109-1.5985m2.1883-7.2464.4497.65411c.60873.88547 1.9162.88547 2.5249 1e-6l4.1244-5.8779c1.3 2 .8 3.7-.6 5.8l-.81028 1.1843" stroke="currentColor" style="stroke-width:1.493"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(-1,0,0,1,32.031,0)" style="stroke-width:1.493">
+   <path class="ColorScheme-Text" d="m11.417 21.552 9.888-14.844c1.3 2 .8 3.7-.6 5.8l-8.2053 11.992c-.4.6-.66948.85261-1 1.3484-2.038 2.9988-6.7229 1.6054-6.7926-2.0186-.069692-3.624 4.5582-5.1965 6.71-2.2782z" stroke="currentColor" style="stroke-width:1.493"/>
+  </g>
  </g>
- <g class="ColorScheme-Text" transform="matrix(-1 0 0 1 32.031 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m11.4 21.1 12.1-17.6c1.3 2 .8 3.7-.6 5.8l-10.4 15.2c-.4.6-.6 1.2-1 1.8a4.5 4.5 0 11-.1-5.2z" stroke="currentColor" class="ColorScheme-Text"/>
-  <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
- </g>
-</g></svg>
+</svg>
