@@ -3,12 +3,14 @@
  <defs>
   <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
  </defs>
- <g transform="translate(1,1)"><g transform="translate(-0.52 -0.52) scale(0.72)" stroke-width="1.3888888888888888"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m18.137 22.463-.79788-1.1661a1.6039 1.6039 180 00-2.6475 0l-2.1915 3.203c-.4.6-.6 1.2-1 1.8-2.4664 3.6292-8.1362 1.9429-8.2205-2.4429s5.5164-6.2888 8.1205-2.7571l1.9003-2.7624m1.0028-6.4411.4497.65411a1.532 1.532 1.9313e-5 002.5249 1e-6l6.2223-9.0506c1.3 2 .8 3.7-.6 5.8l-4.379 6.4001" stroke="currentColor" class="ColorScheme-Text"/>
-  <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
+ <g transform="translate(1,1)"><g transform="matrix(.77417 0 0 .77425 -1.3876 -1.3819)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2916">
+  <g class="ColorScheme-Text" style="stroke-width:1.2916">
+   <path d="m18.137 22.463-.79788-1.1661c-.63695-.93102-2.0105-.93102-2.6475 0l-2.1915 3.203c-.4.6-.6 1.2-1 1.8-2.4664 3.6292-8.1362 1.9429-8.2205-2.4429s5.5164-6.2888 8.1205-2.7571l1.4878-2.1627m1.4153-7.0408.4497.65411c.60873.88547 1.9162.88547 2.5249 1e-6l6.2223-9.0506c1.3 2 .8 3.7-.6 5.8l-3.7305 5.4523" style="stroke-width:1.2916" stroke="currentColor" class="ColorScheme-Text"/>
+   <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" style="stroke-width:.64582" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(-1,0,0,1,32.031,0)" style="stroke-width:1.2916">
+   <path d="m11.4 21.1 12.1-17.6c1.3 2 .8 3.7-.6 5.8l-10.4 15.2c-.4.6-.6 1.2-1 1.8a4.5 4.5 0 11-.1-5.2z" style="stroke-width:1.2916" stroke="currentColor" class="ColorScheme-Text"/>
+   <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" style="stroke-width:.64582" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
  </g>
- <g class="ColorScheme-Text" transform="matrix(-1 0 0 1 32.031 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path d="m11.4 21.1 12.1-17.6c1.3 2 .8 3.7-.6 5.8l-10.4 15.2c-.4.6-.6 1.2-1 1.8a4.5 4.5 0 11-.1-5.2z" stroke="currentColor" class="ColorScheme-Text"/>
-  <circle cx="7.8154" cy="23.777" r="1.8456" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
- </g>
-</g></g></svg>
+</g></svg>
