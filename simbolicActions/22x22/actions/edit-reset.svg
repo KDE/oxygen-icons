@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+ </defs>
+ <g id="reset-subicon" class="ColorScheme-Text" transform="matrix(1.7001 0 0 1.7015 -1.7511 -1.7613)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".58795">
+  <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.58795" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.58795" stroke="currentColor"/>
+  <g transform="rotate(180,7.5,7.5)" style="stroke-width:.58795">
+   <path class="ColorScheme-Text" d="m2.601 6.5c.81939-4.0142 5.778-5.3201 8.4903-2.4827" style="stroke-width:.58795" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m12.5 5.6v-2.5" style="stroke-width:.58795" stroke="currentColor"/>
+   <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.58795" stroke="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="m12.5 5.6-1.4087-1.5827" style="stroke-width:.58795" stroke="currentColor"/>
+ </g>
+</svg>
