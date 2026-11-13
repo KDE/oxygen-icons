@@ -3,13 +3,8 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <path d="m7 23.505-2.5-.005279v-6.1775m0 0v-13.822h14.211c1.2552 0 2.3167.82822 2.6664 1.9673.07929.25835.12196.83268.12196 1.117" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
- <path d="m9.4999 17.834 1e-7-9.3331h14.211c1.54 0 2.7883 1.2465 2.7883 2.7842v17.216h-16.999l-1e-7-4.5483" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
  <path d="m9.4999 14a2.5001 2.5001 0 01-1.6752 2.3601 2.5001 2.5001 0 01-2.7807-.80264 2.5001 2.5001 0 01-.15983-2.8898 2.5001 2.5001 0 012.6752-1.1044" style="fill:none;opacity:.46707;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#f00"/>
  <path d="m6.5099 18.548a2.5001 2.5001 0 012.6334 1.165 2.5001 2.5001 0 01-.21036 2.8719 2.5001 2.5001 0 01-2.7751.76889 2.5001 2.5001 0 01-1.6584-2.3542" style="fill:none;opacity:.46707;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#f00"/>
- <g style="opacity:.2">
-  <path d="m21.499 10.459v13.042h-10.054" style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
-  <path d="m26.5 16.9a2.5001 2.5001 0 01-1.6752 2.3601 2.5001 2.5001 0 01-2.7807-.80264 2.5001 2.5001 0 01-.15983-2.8898 2.5001 2.5001 0 012.6752-1.1044" style="fill:none;opacity:.56148;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#f00"/>
-  <path d="m23.51 21.448a2.5001 2.5001 0 012.6334 1.165 2.5001 2.5001 0 01-.21036 2.8719 2.5001 2.5001 0 01-2.7751.76889 2.5001 2.5001 0 01-1.6584-2.3542" style="fill:none;opacity:.56148;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke:#f00"/>
- </g>
+ <path d="m7 23.505-2.5-.005279v-6.1775m0 0v-13.822h14.211c1.2552 0 2.3167.82822 2.6664 1.9673.07929.25835.12196.83268.12196 1.117" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m9.4999 23.953 1e-7-15.452h14.211c1.54 0 2.7883 1.2465 2.7883 2.7842v17.216h-16.999l-1e-7-4.5483" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
