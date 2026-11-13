@@ -8,7 +8,7 @@
  <path d="m9.4999 14a2.5001 2.5001 0 01-1.6752 2.3601 2.5001 2.5001 0 01-2.7807-.80264 2.5001 2.5001 0 01-.15983-2.8898 2.5001 2.5001 0 012.6752-1.1044" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
  <path d="m6.5099 18.548a2.5001 2.5001 0 012.6334 1.165 2.5001 2.5001 0 01-.21036 2.8719 2.5001 2.5001 0 01-2.7751.76889 2.5001 2.5001 0 01-1.6584-2.3542" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
  <g style="opacity:.2">
-  <path d="m21.499 10.459v13.042h-10.054" style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+  <path d="m21.499 10.459v13.042h-10.054" style="fill:none;opacity:1;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Highlight" stroke="currentColor"/>
   <path d="m26.5 16.9a2.5001 2.5001 0 01-1.6752 2.3601 2.5001 2.5001 0 01-2.7807-.80264 2.5001 2.5001 0 01-.15983-2.8898 2.5001 2.5001 0 012.6752-1.1044" style="fill:none;opacity:1;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
   <path d="m23.51 21.448a2.5001 2.5001 0 012.6334 1.165 2.5001 2.5001 0 01-.21036 2.8719 2.5001 2.5001 0 01-2.7751.76889 2.5001 2.5001 0 01-1.6584-2.3542" style="fill:none;opacity:1;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
  </g>
