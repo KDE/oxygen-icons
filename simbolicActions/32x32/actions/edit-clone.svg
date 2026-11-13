@@ -5,12 +5,11 @@
  </defs>
  <g transform="matrix(1.3529 0 0 1.3509 1.1177 1.4737)">
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke">
-   <path d="m2.5 14.486v-.74605m0-5.5139v-6.7264h10.504c.92782 0 1.7124.61309 1.9709 1.4563.05861.19124.09015.61639.09015.82683" stroke="currentColor" class="ColorScheme-Text"/>
-   <path d="m6.1957 10.753 1e-7-5.551h10.504c1.1383 0 2.061.92274 2.061 2.061v12.744h-12.565l-1e-7-2.6387" stroke="currentColor" class="ColorScheme-Text"/>
+   <path d="m2.5 14.486v-2.7544m0-4.9314v-5.3007h10.504c.92782 0 1.7124.61309 1.9709 1.4563.05861.19124.09015.61639.09015.82683" stroke="currentColor" class="ColorScheme-Text"/>
+   <path d="m6.1957 12.111 1e-7-6.9088h10.504c1.1383 0 2.061.92274 2.061 2.061v12.744h-12.565l-1e-7-3.3669" stroke="currentColor" class="ColorScheme-Text"/>
    <path d="m15.065 6.6512v9.6542h-7.4312" style="opacity:.22766" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
  </g>
- <path d="m6.9997 18.5a2.5001 2.5001 0 01-2.3226-1.5749 2.5001 2.5001 0 01.60354-2.7406 2.5001 2.5001 0 012.7694-.45352" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
- <path d="m6.9997 18.5a2.5001 2.5001 0 012.3098 1.5434 2.5001 2.5001 0 01-.54196 2.7246 2.5001 2.5001 0 01-2.7246.54196 2.5001 2.5001 0 01-1.5434-2.3098" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
- <path d="m9.4999 16a2.5001 2.5001 0 01-.42774 1.3985" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m9.4999 14a2.5001 2.5001 0 01-1.6752 2.3601 2.5001 2.5001 0 01-2.7807-.80264 2.5001 2.5001 0 01-.15983-2.8898 2.5001 2.5001 0 012.6752-1.1044" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
+ <path d="m6.5099 18.548a2.5001 2.5001 0 012.6334 1.165 2.5001 2.5001 0 01-.21036 2.8719 2.5001 2.5001 0 01-2.7751.76889 2.5001 2.5001 0 01-1.6584-2.3542" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" stroke="currentColor"/>
 </svg>
