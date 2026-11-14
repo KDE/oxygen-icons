@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg8">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 5.5,24.5 h -1 c -0.5522847,0 -1,-0.447715 -1,-1 v -17 c 0,-1.1045695 0.8954305,-2 2,-2 h 17 c 1.592694,0 2.895506,1.2411358 2.994017,2.8089908 0.004,0.06316 0.006,3.3088412 0.006,3.3730012 M 7.5,7.5 h 13" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+  <g transform="translate(7,9)" id="g8">
+    <path d="m 3,3.5 h 16 c 0.666667,0 1.166667,0.3333333 1.5,1 l 1,2.5 v 9 c -0.871105,2.406827 -1.343003,3.5 -2.5,3.5 H 3 c -0.6666667,0 -1.1666667,-0.333333 -1.5,-1 L 0.5,16 V 7 l 1,-2.5 C 1.8333333,3.8333333 2.3333333,3.5 3,3.5 Z" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+    <path d="m 5,6.5 h 12 c 1,0 1.5,0.5 1.5,1.5 v 7 c 0,1 -0.5,1.5 -1.5,1.5 H 5 C 4,16.5 3.5,16 3.5,15 V 8 C 3.5,7 4,6.5 5,6.5 Z" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" id="path3"/>
+    <g class="ColorScheme-Text" style="fill:none;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" transform="translate(1,2)" stroke="currentColor" id="g7">
+      <path d="m 8.5,6.5 h -2 v 3 h 2 v 3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+      <path d="m 4.5,6.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
+      <path d="m 11.5,6.5 v 6" stroke="currentColor" class="ColorScheme-Text" id="path6"/>
+      <path d="m 15.5,9.5 v 3 h -2 m 0,-3 h 2 v -3 h -2" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
+    </g>
+  </g>
+  <path class="ColorScheme-Text" d="m 7.5,10.5 h 9" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="use8" style="opacity:0.6"/>
+</svg>
