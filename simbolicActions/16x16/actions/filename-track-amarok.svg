@@ -1,1 +1,7 @@
-filename-discnumber-amarok.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1">
+  <defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
+  <path d="M4.5 14.5h3M15.5 7.5v-3a3 3 0 0 0-3-3h-11a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-10" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 1)"><path id="hash-stem" class="ColorScheme-Text" d="m9.7 8.5162-.11758.48385a2.142 2.5183 0 00-.082416.69184v4.1149a2.4369 2.8651 0 01-.072761.69488l-.12724.59837" stroke="currentColor"/>
+  <path id="hash-upper" class="ColorScheme-Text" d="m7.5 10.3.41154.11758a2.142 2.142 0 00.58846.082416h5a2.142 2.142 0 01.58846.08242l.41154.11758" stroke="currentColor"/>
+  <path id="hash-lower" class="ColorScheme-Text" d="m7.5 13.5h6a2.142 2.142 7.9727 01.58846.08242l.41154.11758" stroke="currentColor"/>
+ <path d="M12.5 8.5v5.5c0 .19925-.02444.39774-.07276.59104l-.12724.50896" stroke="currentColor" class="ColorScheme-Text"/></g></svg>
