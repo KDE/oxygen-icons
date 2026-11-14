@@ -1,1 +1,2 @@
-dialog-cancel.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M16.5 3.5v14" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="2 3" stroke-linecap="round"/><path class="ColorScheme-Text" d="M11.5 18.5l10 10m-10 0 10-10" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/></svg>
