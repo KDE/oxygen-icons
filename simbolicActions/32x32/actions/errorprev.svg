@@ -3,9 +3,8 @@
   <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#da4453}</style>
   </defs>
-  <g transform="translate(0 1) scale(.75)" id="g1">
-    </g>
+  <g transform="translate(0 1) scale(.75)" id="g1"/>
   <path d="m 21.78,16.93 a 0.83,0.83 0 0 1 1.44,0 l 5,9.1 a 1,1 0 0 1 -0.88,1.47 h -9.68 a 1,1 0 0 1 -0.88,-1.47 z" class="ColorScheme-NegativeText" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
   <path d="m 22.5,20.5 v 3 m 0,2 h 0.01" class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path3"/>
-<path class="ColorScheme-Text" d="M 4.824999999999999,12.67 L 14.350000000000001,5.3725000000000005 C 15.28,4.66 16.5,5.237500000000001 16.5,6.3549999999999995 L 16.5,9.1525 Q 16.375,9.625 16.8475,9.5 L 19.6,9.5 C 19.823792583765318,9.5 20.043689937280682,9.683921318292183 20.2375,9.795817610174842 C 20.43131006271932,9.9077139020575 20.5922860979425,10.068689937280679 20.704182389825156,10.2625 C 20.816078681707815,10.45631006271932 20.5,10.676207416234684 20.5,10.899999999999999 L 20.5,15.100000000000001 C 20.5,15.323792583765316 20.816078681707815,15.543689937280678 20.70418238982516,15.737499999999999 C 20.5922860979425,15.93131006271932 20.43131006271932,16.092286097942498 20.2375,16.204182389825156 C 20.043689937280682,16.316078681707815 19.823792583765318,16.5 19.6,16.5 L 16.8475,16.5 Q 16.375,16.375 16.5,16.8475 L 16.5,19.645 C 16.5,20.762500000000003 15.28,21.34 14.350000000000001,20.6275 L 4.824999999999999,13.330000000000002 Q 4.412500000000001,13.0 4.824999999999999,12.67" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1" style="stroke-linecap:round;stroke-linejoin:round"/>
-  </svg>
+  <path class="ColorScheme-Text" d="M 4.825,12.67 14.35,5.3725 C 15.28,4.66 16.5,5.2375 16.5,6.355 V 8.7654881 A 0.73451195,0.73451195 45 0 0 17.234512,9.5 h 2.289392 A 0.97609562,0.97609562 45 0 1 20.5,10.476096 v 5.047808 A 0.97609562,0.97609562 135 0 1 19.523904,16.5 H 17.234512 A 0.73451195,0.73451195 135 0 0 16.5,17.234512 V 19.645 c 0,1.1175 -1.22,1.695 -2.15,0.9825 L 4.825,13.33 c -0.275,-0.22 -0.275,-0.44 0,-0.66" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1" style="stroke-linecap:round;stroke-linejoin:round"/>
+</svg>
