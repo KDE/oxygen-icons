@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg5">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g5" transform="matrix(0,-1,-1,0,32,32)">
+    <path d="M 10.5,27.5 H 6 C 5.1715729,27.5 4.5,26.828427 4.5,26 V 6 C 4.5,5.1715729 5.1715729,4.5 6,4.5 h 12 m 3.5,0 h 2 c 2.209139,0 4,1.790861 4,4 V 26 c 0,0.828427 -0.671573,1.5 -1.5,1.5 H 14" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 7,8.5 H 8 A 0.5,0.5 0 0 1 8.5,9 v 2 A 0.5,0.5 0 0 1 8,11.5 H 7 A 0.5,0.5 0 0 1 6.5,11 V 9 A 0.5,0.5 0 0 1 7,8.5 Z m 0,6 H 8 A 0.5,0.5 0 0 1 8.5,15 v 2 A 0.5,0.5 0 0 1 8,17.5 H 7 A 0.5,0.5 0 0 1 6.5,17 V 15 A 0.5,0.5 0 0 1 7,14.5 Z m 0,6 H 8 A 0.5,0.5 0 0 1 8.5,21 v 2 A 0.5,0.5 0 0 1 8,23.5 H 7 A 0.5,0.5 0 0 1 6.5,23 V 21 A 0.5,0.5 0 0 1 7,20.5 Z" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 24,8.5 h 1 A 0.5,0.5 0 0 1 25.5,9 v 2 A 0.5,0.5 0 0 1 25,11.5 H 24 A 0.5,0.5 0 0 1 23.5,11 V 9 A 0.5,0.5 0 0 1 24,8.5 Z m 0,6 h 1 a 0.5,0.5 0 0 1 0.5,0.5 v 2 A 0.5,0.5 0 0 1 25,17.5 H 24 A 0.5,0.5 0 0 1 23.5,17 V 15 A 0.5,0.5 0 0 1 24,14.5 Z m 0,6 h 1 a 0.5,0.5 0 0 1 0.5,0.5 v 2 A 0.5,0.5 0 0 1 25,23.5 H 24 A 0.5,0.5 0 0 1 23.5,23 V 21 A 0.5,0.5 0 0 1 24,20.5 Z" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 12.5,9.5 h 0.01 m 5.99,1 h 0.01 m 2.99,3 h 0.01 m -7.01,1 h 0.01 m 2.99,3 h 0.01 m -6.01,2 h 0.01 m 8.99,1 h 0.01 m -5.01,3 h 0.01 m -4.01,1 h 0.01 m 6.99,1 h 0.01" opacity="0.65" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 18.51,13.5 H 18.5 m -5.99,-8 H 12.5 m 7.01,0 H 19.5 m -5.99,2 H 13.5" opacity="0.3" id="path5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 13.5,25.5 h 0.01 m 5.99,-8 h 0.01 m -7.01,0 h 0.01 m 5.99,2 h 0.01" opacity="0.3" id="path10" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path style="stroke-linecap:round;stroke-linejoin:round" d="M 27.5,21.5 H 4.5" id="path6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1"/>
+  <path style="stroke-linecap:round;stroke-linejoin:round" d="M 27.5,10.5 H 4.5" id="path7" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1"/>
+  <path style="stroke-linecap:round;stroke-linejoin:round" d="m 23.5,10.5 v 11" id="path8" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1"/>
+  <path style="stroke-linecap:round;stroke-linejoin:round" d="m 9.5,10.5 v 11" id="path9" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1"/>
+</svg>
