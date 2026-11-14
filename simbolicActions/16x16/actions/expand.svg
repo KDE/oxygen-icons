@@ -1,1 +1,2 @@
-./go-down.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M10.5 1.5v2a1 1 0 0 0 1 1h1.6c.75 0 1.2.86.74 1.46L8.4 14.08Q8 14.6 7.6 14.08L2.16 5.96c-.46-.6-.01-1.46.74-1.46h1.6a1 1 0 0 0 1-1v-2" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-Text" d="M10.5 1.5v2a1 1 0 0 0 1 1h1.6c.75 0 1.2.86.74 1.46L8.4 14.08Q8 14.6 7.6 14.08L2.16 5.96c-.46-.6-.01-1.46.74-1.46h1.6a1 1 0 0 0 1-1v-2Z" fill="currentColor" opacity=".1"/></svg>
