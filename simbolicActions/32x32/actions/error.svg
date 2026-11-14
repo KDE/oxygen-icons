@@ -1,1 +1,9 @@
-dialog-cancel.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-NegativeText{color:#da4453}</style>
+  </defs>
+  <path id="path1" style="stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1;opacity:0.1" d="M 7.2597656 4.5 A 2.76 2.76 0 0 0 4.5 7.2597656 L 4.5 25.660156 A 1.84 1.84 0 0 0 6.3398438 27.5 L 24.740234 27.5 A 2.76 2.76 0 0 0 27.5 24.740234 L 27.5 9.0996094 A 4.6 4.6 0 0 0 22.900391 4.5 L 7.2597656 4.5 z M 10.939453 9.59375 C 11.291902 9.5938034 11.641433 9.739035 11.890625 9.9882812 L 16 14.097656 L 20.109375 9.9882812 C 20.607826 9.4899371 21.513268 9.4899371 22.011719 9.9882812 C 22.510063 10.486732 22.510063 11.392174 22.011719 11.890625 L 17.902344 16 L 22.011719 20.109375 C 22.510063 20.607826 22.510063 21.513268 22.011719 22.011719 C 21.513268 22.510063 20.607826 22.510063 20.109375 22.011719 L 16 17.902344 L 11.890625 22.011719 C 11.392174 22.510063 10.486732 22.510063 9.9882812 22.011719 C 9.4899371 21.513268 9.4899371 20.607826 9.9882812 20.109375 L 14.097656 16 L 9.9882812 11.890625 C 9.4899371 11.392174 9.4899371 10.486732 9.9882812 9.9882812 C 10.237473 9.7390357 10.587005 9.5938041 10.939453 9.59375 z " class="ColorScheme-NegativeText" fill="currentColor"/>
+  <path d="m 10.94,10.94 10.12,10.12 m -10.12,0 10.12,-10.12" fill="none" id="path2" style="stroke-width:1;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-NegativeText" stroke="currentColor"/>
+  <path d="M 7.26,4.5 H 22.9 a 4.6,4.6 0 0 1 4.6,4.6 V 24.74 A 2.76,2.76 0 0 1 24.74,27.5 H 6.34 A 1.84,1.84 0 0 1 4.5,25.66 V 7.26 A 2.76,2.76 0 0 1 7.26,4.5 Z" fill="currentColor" fill-opacity="0.1" id="path4" style="stroke-width:1;stroke-linecap:round;stroke-linejoin:round;fill:none" class="ColorScheme-NegativeText" stroke="currentColor"/>
+</svg>
