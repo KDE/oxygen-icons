@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g3">
+    <path d="M 13.5,27.5 H 7 C 6.1715729,27.5 5.5,26.828427 5.5,26 V 6 C 5.5,5.1715729 6.1715729,4.5 7,4.5 h 13 c 2.485281,0 4.5,2.0147186 4.5,4.5 v 3.5" id="path1" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 20.5,26.5 v -8.874423 a 2.5905483,2.5905483 129.36931 0 1 2.084652,-2.540671 l 2.628289,-0.523342 A 3.9376323,3.9376323 131.14873 0 0 28.5,10.8 v 5.489343 M 22.5,18.5 26.89292,17.474985 A 1.3095186,1.3095186 38.432989 0 1 28.5,18.750249 V 22.236228 24.5" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <circle style="fill-opacity:0.169681;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path3" cx="18" cy="26.5" r="2.5" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/>
+  <circle style="fill-opacity:0.169681;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="circle3" cx="26" cy="24.5" r="2.5" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/>
+</svg>
