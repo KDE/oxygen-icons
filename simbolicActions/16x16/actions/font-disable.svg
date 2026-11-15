@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-NegativeText {color:#720000;}</style>
+    </defs>
+  <g id="standalone-font" transform="translate(-3 0)"><path id="font-letter" d="M 6.5,10.5 H 9.6 A 0.6486833,0.6486833 125.78253 0 0 10.215395,9.646185 L 7.6264911,1.8794733 a 0.12818602,0.12818602 179.33389 0 0 -0.2441254,0.00284 L 3.5,14.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" opacity="1"/>
+  </g><g class="ColorScheme-NegativeText" stroke="currentColor" stroke-width="1" stroke-linecap="round"><circle cx="11.5" cy="11.5" r="3" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-NegativeText"/><path d="M 10.0,11.5 H 13.0" fill="none" stroke="currentColor" class="ColorScheme-NegativeText"/></g></svg>
