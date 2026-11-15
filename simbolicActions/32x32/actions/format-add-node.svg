@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m8.5 10.5h5m4 0h5" style="fill:none;opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ <g fill="currentColor" fill-opacity=".1">
+  <rect class="ColorScheme-Text" x="4.5" y="8.5" width="3" height="3" rx=".7" ry=".7" style="opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="23.5" y="8.5" width="3" height="3" rx=".7" ry=".7" style="opacity:.4;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" fill="currentColor"/>
+  <rect class="ColorScheme-Highlight" x="13.5" y="8.5" width="4" height="4" rx=".7" ry=".7" stroke="currentColor" style="stroke-linecap:round;stroke-linejoin:round" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m22.5 16.5h1c.55228 0 1 .44772 1 1v2c0 .55228.44772 1 1 1h2c.55228 0 1 .44772 1 1v1c0 .55228-.44772 1-1 1h-2c-.55228 0-1 .44772-1 1v2c0 .55228-.44772 1-1 1h-1c-.55228 0-1-.44772-1-1v-2c0-.55228-.44772-1-1-1h-2c-.55228 0-1-.44772-1-1v-1c0-.55228.44772-1 1-1h2c.55228 0 1-.44772 1-1v-2c0-.55228.44772-1 1-1z" style="stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" fill="currentColor"/>
+ </g>
+</svg>
