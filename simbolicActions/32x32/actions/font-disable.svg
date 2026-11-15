@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;} .ColorScheme-NegativeText {color:#720000;}</style>
+ </defs>
+ <g id="standalone-font" transform="translate(-1 0)"><g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path id="font-letter" class="ColorScheme-Text" d="M10.8155 18.5h3.839c1.1479 0 1.9627-1.1328 1.6108-2.2392l-2.6058-8.1929c-.19308-.60708-1.0412-.60709-1.2343-.0000222l-5.2106 16.38" opacity=".6" stroke-linejoin="round" style="opacity:1" stroke="currentColor"/>
+  </g>
+</g><g id="card-block-sign" class="ColorScheme-NegativeText" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><circle cx="22.5" cy="22.5" r="5.5" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-NegativeText"/><path d="M 19.5,22.5 H 25.5" fill="none" stroke="currentColor" class="ColorScheme-NegativeText"/></g></svg>
