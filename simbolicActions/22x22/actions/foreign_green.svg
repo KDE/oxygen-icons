@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-PositiveText {color:#27ae60;}</style>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 20.5H3a1.5 1.5 0 0 1-1.5-1.5V8a3 3 0 0 1 .6-1.8l2.4-3.2a2.5 2.5 0 0 1 2-1.5h8.5a2.5 2.5 0 0 1 2 1l2.9 3.7a3 3 0 0 1 .6 1.8v2.5" stroke="currentColor" class="ColorScheme-Text"/><path d="M2.5 6.5h17m-8-5v10" stroke="currentColor" class="ColorScheme-Text"/><path d="M5.5 16.5h2" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/></g><g transform="matrix(.4 0 0 .4 8.9 9.7)">
+  <path class="ColorScheme-PositiveText" transform="matrix(1.2426,0,0,1.2426,-6.0987,-3.8344)" d="m21.525 10.913-6.157 6.1611a.67261.67261.004072 01-.95159-6.8e-5l-2.8115-2.8142a.64678.64678 8.3517e-7 00-.91511 0l-2.1027 2.1047a.648.648 90 000 .91597l5.3101 5.3151a1.547 1.547 179.75 002.1983-.0095l10.481-10.674a1.3172 1.3172 89.753 00-.008-1.8538l-.63527-.63589a2.0286 2.0286 1.047 00-2.8693-.052441" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.011875"/>
+  <g class="ColorScheme-PositiveText" transform="matrix(1.7403,0,0,1.7405,-13.338,4.8926)" fill="currentColor" style="stroke-width:1.436375">
+   <g class="ColorScheme-PositiveText" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" fill="currentColor" style="stroke-width:1.061675">
+    <g class="ColorScheme-PositiveText" fill="currentColor" style="stroke-width:1.061675">
+     <path class="ColorScheme-PositiveText" d="m19.001 3.5532-6.6186 6.638-3.6271-3.6286 1.5932-1.5945 1.9754 1.9785 5.0848-5.085z" fill="currentColor" style="opacity:.1;paint-order:fill markers stroke"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
