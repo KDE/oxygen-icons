@@ -1,2 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style></defs><g fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><g class="ColorScheme-Text" stroke="currentColor" opacity=".4"><path d="M8.5 9.5h16M14.5 14.5l2 2 2-2" stroke="currentColor" class="ColorScheme-Text"/><rect x="4.5" y="7.5" width="4" height="4" rx=".7" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/><rect x="24.5" y="7.5" width="4" height="4" rx=".7" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/><rect x="4.5" y="23.5" width="4" height="4" rx=".7" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/><rect x="24.5" y="23.5" width="4" height="4" rx=".7" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/></g><path class="ColorScheme-Highlight" stroke="currentColor" d="M8.5 24.5Q16.5 18.5 24.5 24.5"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+ <defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style></defs>
+ <g fill="none" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" stroke="currentColor" d="M15 18l3-3" opacity=".4"/>
+  <g class="ColorScheme-Highlight" stroke="currentColor">
+   <path d="M8.5 24.5l4-4m8-8 4-4" stroke="currentColor" class="ColorScheme-Highlight"/>
+   <circle cx="13.5" cy="19.5" r="1.5" fill="currentColor" fill-opacity=".1" class="ColorScheme-Highlight" stroke="currentColor"/>
+   <circle cx="19.5" cy="13.5" r="1.5" fill="currentColor" fill-opacity=".1" class="ColorScheme-Highlight" stroke="currentColor"/>
+  </g>
+  <g class="ColorScheme-Text" stroke="currentColor" opacity=".4" fill="currentColor" fill-opacity=".1">
+   <rect x="4.5" y="24.5" width="4" height="4" rx=".7" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+   <rect x="24.5" y="4.5" width="4" height="4" rx=".7" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+  </g>
+ </g>
+</svg>
