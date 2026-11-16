@@ -1,150 +1,100 @@
 # Oxygen Icons
 
-Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look.
+Oxygen is KDE's detailed, full-color icon theme. It brings a consistent visual
+language to applications, folders, files, devices and everyday desktop actions,
+using familiar objects, rich materials, smooth gradients, soft shadows and a
+slightly glossy look.
+
+Originally developed alongside the Oxygen widget style for the KDE Plasma
+desktop, the theme follows the freedesktop.org icon theme conventions and can
+also be used by other desktops and applications that support them. The icon
+theme can be selected independently of the widget style.
 
 ![Oxygen icons: places, file types, devices, applications, full-color actions and new symbolic actions](docs/images/oxygen-icons-montage.png)
 
-## Declarative icon configuration (prototype)
+## The artwork
 
-The experimental Plasma settings implementation and build instructions are
-maintained in [pinheiro/oxygen2, `plasma-icon-configuration`](https://invent.kde.org/pinheiro/oxygen2/-/tree/master/plasma-icon-configuration).
-That directory contains a patch against Plasma Workspace **v6.7.4**, including
-the generic renderer and regression tests, plus an opt-in CMake build/installer.
-Enable `INSTALL_PATCHED_ICON_SETTINGS=ON` there to build the patched settings;
-installation backs up replaced files and provides a rollback command. See its
-README for dependencies, distribution-specific paths and installation commands.
-This feature requires that patched
-Plasma implementation; Oxygen itself needs no compiled configuration component.
-Unpatched desktops continue to use Oxygen normally and ignore the extra
-configuration metadata.
+Oxygen gives icons depth and character while keeping their purpose recognizable.
+Metal, glass, paper and other materials help distinguish objects; color and
+silhouette make related actions and file types easier to identify. Small icons
+receive size-specific adjustments so that details remain readable in menus,
+toolbars and lists, while larger versions have room for richer illustration.
 
-Oxygen supplies only data: `index.theme` declares
-`X-KDE-IconConfiguration=DeclarativeV1`, and `icon-settings.json` describes
-the configuration title, description, tabs, checkboxes, defaults and actions.
-No theme-side executable, C++, Python, script or compiled UI is needed.
+The collection includes:
 
-The corresponding Plasma System Settings implementation provides a generic
-Qt Widgets renderer. For example, a checkbox is declared as:
+- **Applications:** identities for KDE applications and other desktop software.
+- **Places:** home folders, documents, music, pictures, network locations and trash.
+- **File types:** documents, images, audio, video, archives and development files.
+- **Devices:** computers, phones, cameras, storage, printers and audio equipment.
+- **Actions:** editing, navigation, communication, playback and desktop controls.
+- **Status and supporting artwork:** notifications, emblems, categories and more.
 
-```json
-{
-  "id": "symbolic22",
-  "type": "checkbox",
-  "label": "Include 22 px symbolic artwork",
-  "default": true
-}
+Oxygen continues to grow through new application icons, revised artwork and
+broader coverage of application actions.
+
+## Symbolic icons
+
+Alongside the traditional full-color artwork, the repository includes symbolic
+icons for desktop applets and a growing collection of application actions.
+These use fine contours, restrained fills and selective accents, carrying the
+Oxygen character into compact interfaces. Theme-aware SVG colors let them
+follow the application's color scheme.
+
+The montage above shows examples of both collections. Symbolic action coverage
+is still being developed; the proposed settings for choosing between colorful
+and symbolic actions are described separately below.
+
+## Using Oxygen
+
+Install the Oxygen icon theme through your distribution's package manager,
+then select **Oxygen** in your desktop's icon-theme settings. On KDE Plasma,
+use the Icons page in System Settings. Other compatible desktops provide their
+own theme selector.
+
+Applications choose which icon names and sizes they request. Oxygen supplies
+the matching artwork where available, with inherited themes providing fallback
+icons for names it does not cover. An application's bundled artwork or custom
+icon loader may behave differently.
+
+## Building and installing from source
+
+The project uses CMake and KDE Extra CMake Modules (ECM). With the build
+dependencies installed, configure and build it with:
+
+```sh
+cmake -S . -B build -DCMAKE_INSTALL_PREFIX="$HOME/.local"
+cmake --build build
+cmake --install build
 ```
 
-Checkboxes belong to `pages`, each with a title and a controls array. All UI
-text is plain text. Controls describe only UI and defaults. A separate top-level
-`installation` object requests changes to the user's theme installation:
+This example installs under your user account. Select Oxygen in your desktop's
+icon settings after installation. Packagers can choose a system installation
+prefix instead.
 
-```json
-{
-  "type": "userThemeCopy",
-  "rules": [
-    {
-      "when": {"control": "symbolic22", "equals": false},
-      "operation": {
-        "type": "omitDirectories",
-        "directories": ["applets/22x22"]
-      }
-    }
-  ]
-}
-```
+Artwork sources live in `scalable/`; raster artwork is organized by size and
+category in directories such as `32x32/` and `128x128/`. Desktop applet artwork
+is in `applets/`, and symbolic application actions are in `simbolicActions/`
+(the directory's existing spelling).
 
-Plasma validates the requested installation type, condition, operation and
-paths. This rule says: when `symbolic22` is false, omit `applets/22x22` and its
-index entries from the user copy. External themes can use their own control IDs,
-directories and conditions, including omission when a checkbox is true.
-A control can trigger multiple rules, and each rule may list several
-registered directories. Rules must not overlap. The only supported control is
-`checkbox`; the permitted installation is `userThemeCopy`, with conditional
-`omitDirectories` operations. Unknown fields, action types,
-unsupported versions, escaping paths and invalid data are rejected.
+## Contributing
 
-Save applies settings to **Oxygen**, preserving its name, translations and
-theme ID. System-wide themes get a same-ID user override, normally
-`~/.local/share/icons/oxygen/`; there is no separate configured-theme tile.
-Source artwork is
-copied, not linked; aliases are dereferenced only within the original theme.
-Output contains no symlinks or executable files. System-wide root-owned themes
-work identically as long as their artwork and metadata are readable; no write
-permission on the source is needed. System-installed artwork is read-only
-to this operation. The system fixes the output path; theme data cannot choose
-destinations, run commands, load plugins or request administrator access.
+New icons, improvements to existing artwork and reports of missing coverage
+are welcome. Please coordinate artwork contributions with the Oxygen team so
+that the visual style and licensing remain consistent. See
+[CONTRIBUTING](CONTRIBUTING) for contact details and the review process, and
+[AUTHORS](AUTHORS) for the people behind the theme.
 
-User choices are INI booleans in the generated `index.theme` under
-`[X-KDE-IconConfigurationValues]`. The managed source is recorded under
-`[X-KDE-GeneratedIconConfiguration]`; reopening that copy uses the original
-declaration, so disabled artwork can be restored. Restore Defaults uses the
-declared checkbox defaults. Cancel writes nothing; Save applies the settings
-and activates the same theme immediately, without requiring the enclosing Apply.
-If the theme was originally user-installed, its original artwork is retained
-under `~/.local/share/icons/.icon-config-sources/<theme-id>/` before replacing
-the visible installation. This hidden source is not a second theme tile.
-The pencil is also available for declarative system-wide installations; it
-requests a per-user override, not permission to edit the packaged installation.
-The dialog identifies its original source directory.
+Licensing information is recorded in [REUSE.toml](REUSE.toml), the
+[LICENSES](LICENSES/) directory and the accompanying copyright and license
+notices.
 
-The pencil appears only for a supported declaration and an installed generic
-System Settings renderer. Editing this JSON needs no compilation. The common
-renderer is part of Plasma, not Oxygen. This is a proposed KDE extension, not a
-feature of unmodified released Plasma. Older desktops ignore the metadata.
+## Experimental icon configuration
 
-Normal KDE fallback remains unchanged. Another enabled size or an inherited
-theme may still provide symbolic artwork. These are artwork-directory controls,
-not strict logical requested-size rules. The applet controls cover 16, 22, 24
-and 32 px. The 64 px display-layout artwork is always included.
-GTK/private loaders retain their own fallback rules.
+An optional prototype explores configuring which artwork is installed through
+Plasma System Settings. It requires a patched Plasma implementation and is
+separate from normal installation and use of Oxygen. Selection of symbolic
+rather than colorful application actions is planned but not implemented in
+that prototype.
 
-A future **Actions** tab is planned to select symbolic rather than colorful
-action artwork at 16, 22, 32 and 48 px. It is not enabled yet: the current
-schema supports directory omission only, requires a real installation rule
-for every checkbox and does not support inactive placeholder tabs. Adding that
-tab requires renderer/schema support and a defined action-artwork switching
-operation; omitting colorful action directories is not an equivalent replacement.
-
-The following tab is reserved for future usage, not part of the active
-`icon-settings.json`. Defaults retain colorful action artwork. Do not activate
-these controls until their installation operation is implemented:
-
-```jsonc
-// For future usage: symbolic action selection is not implemented yet.
-// Proposed entry in the "pages" array:
-// {
-//   "title": "Actions",
-//   "controls": [
-//     {
-//       "id": "symbolicActions16",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 16 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions22",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 22 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions32",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 32 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions48",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 48 px",
-//       "default": false
-//     }
-//   ]
-// }
-```
-
-The copy operation is bounded, serialized with a user-icon lock, staged before
-activation and refuses to overwrite an unrelated same-ID user theme. It rejects external
-symlinks and special files. The original installation must remain available for
-future reconfiguration; source changes become visible after another Save.
+Implementation details, examples and the current limitations are documented in
+[Declarative icon configuration](docs/declarative-icon-configuration.md).
