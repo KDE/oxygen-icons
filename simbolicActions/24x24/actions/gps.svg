@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g transform="translate(1,1)"><g transform="matrix(.7 0 0 .7 .3 .3)"><path class="ColorScheme-Text" d="m27.755 16.114c0-3.6528-2.9794-6.6139-6.6547-6.6139-3.6753-3e-7-6.6547 2.9611-6.6547 6.6139 0 3.6528 2.9794 12.549 6.6547 12.549 2.2821 0 4.2958-3.4298 5.4946-6.9046.11742-.34034.32804-.98208.53794-1.7657.5204-1.9428-.98342-3.2564-2.9568-2.8458l-.01919.004c-.52064.10834-1.1589.59126-1.5815.90836-.41037.30787-.92125.49043-1.475.49043-1.3534 0-2.4506-1.0905-2.4506-2.4356 0-1.3451 1.0972-2.4356 2.4506-2.4356.96132 0 1.7934.55013 2.1948 1.3509" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke-width="1.4285714285714286"/>
+ <rect transform="rotate(-45)" x="-1.3942" y="11.724" width="3.0712" height="4.0949" rx=".4642" ry=".4642" style="fill-opacity:0;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text" stroke-width="0.7142857142857143" fill="none"/>
+ <rect transform="rotate(-45)" x="3.7245" y="10.701" width="2.0475" height="6.1424" rx=".4642" ry=".4642" style="fill-opacity:.22475;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text" fill="currentColor" stroke-width="0.7142857142857143"/>
+ <rect transform="rotate(-45)" x="-5.4891" y="10.701" width="2.0475" height="6.1424" rx=".4642" ry=".4642" style="fill-opacity:.22475;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text" fill="currentColor" stroke-width="0.7142857142857143"/>
+ <path d="m7.6664 11.81.72389-.72388" style="fill-opacity:.22475;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text" fill="currentColor" stroke-width="0.7142857142857143"/>
+ <path d="m11.286 8.1903.72389-.72389" style="fill-opacity:.22475;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text" fill="currentColor" stroke-width="0.7142857142857143"/>
+</g></g></svg>
