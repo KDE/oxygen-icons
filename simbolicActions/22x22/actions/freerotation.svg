@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M1.5 10.5V19a1.5 1.5 0 0 0 1.5 1.5h2" opacity="0.3" stroke="currentColor" id="path1" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
+  <path class="ColorScheme-Text" d="m 9.2368603,15.187822 8.2272417,-4.75 a 3,3 0 0 1 4.098076,1.098076 l 4.5,7.794229 a 2,2 0 0 1 -0.732051,2.732051 l -9.093267,5.25 A 1.5,1.5 0 0 1 14.187822,26.76314 L 8.6878222,17.23686 a 1.5,1.5 0 0 1 0.5490381,-2.049038 z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="path2" style="stroke-width:1.3333333333333333;stroke-linecap:round;stroke-linejoin:round" transform="matrix(0.75 0 0 0.75 -1 -1)" stroke-width="1.3333333333333333"/>
+  <path class="ColorScheme-Highlight" d="M 7.1256031,11.316306 C 8.3498694,5.9119362 13.769475,2.5177106 18.834265,3.7320195 m 0,0 4.348889,1.0426678 -3.445856,2.8506254" stroke="currentColor" id="path3" style="fill:none;stroke-width:1.3333333333333333;stroke-linecap:round;stroke-linejoin:round" transform="matrix(0.75 0 0 0.75 -1 -1)" stroke-width="1.3333333333333333"/>
+</svg>
