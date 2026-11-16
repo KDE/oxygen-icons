@@ -2,7 +2,7 @@
 
 Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look.
 
-![Screenshot of KMail with the Oxygen style and icon theme](https://cdn.kde.org/screenshots/oxygen/kmail-oxygen.png)
+![Oxygen icons: places, file types, devices, applications, full-color actions and new symbolic actions](docs/images/oxygen-icons-montage.png)
 
 ## Declarative icon configuration (prototype)
 
