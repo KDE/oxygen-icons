@@ -1,16 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
-  </defs>
-  <path d="m 12.5,24.5 h -7 c -1.1045695,0 -2,-0.895431 -2,-2 v -10 c 0,-1.43594 1.1640597,-2.6 2.6,-2.6 h 3.8 c 0.883656,0 1.6,-0.7163444 1.6,-1.6 V 6.7 c 0,-1.2150264 0.984974,-2.2 2.2,-2.2 H 25 c 1.380712,0 2.5,1.1192881 2.5,2.5 v 12.894965" fill="none" stroke="currentColor" class="ColorScheme-Text" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
-  <g transform="translate(-2.0019,-2.0014)" id="g11">
-    <path d="m 22,19 v 4.1666 a 0.83338,0.83338 0 0 1 -0.83338,0.83338 h -4.1666 v 2 h 4.1666 A 0.83338,0.83338 0 0 1 22,26.83336 v 4.1666 h 2 v -4.1666 a 0.83338,0.83338 0 0 1 0.83338,-0.83338 h 4.1666 v -2 h -4.1666 A 0.83338,0.83338 0 0 1 24,23.1666 V 19 Z" style="fill-opacity:0.25734;paint-order:markers fill stroke" id="path7" fill="currentColor" class="ColorScheme-Highlight"/>
-    <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)" id="g9">
-      <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.73971" style="paint-order:fill markers stroke" id="g8">
-        <path d="m 20.979,15.026 c 0,0.70636 -0.57263,1.279 -1.279,1.279 l -2.1537,-3.4e-5 c -0.14682,0 -0.26581,-0.11945 -0.26568,-0.26671 l 0.0027,-2.9271 c 3.81e-4,-0.28014 -0.22659,-0.50744 -0.50672,-0.50747 H 15.574 c -0.28057,-4.48e-4 -0.50823,0.22691 -0.50817,0.50747 v 2.9271 c 0,0.1473 -0.11906,0.26671 -0.26592,0.26671 h -2.9231 c -0.28015,-6.4e-5 -0.50717,0.22794 -0.50672,0.50892 v 1.1942 c -1.3e-4,0.28085 0.2267,0.50867 0.50672,0.50892 l 2.9231,0.0027 c 0.1469,1.35e-4 0.26592,0.11961 0.26592,0.26695 v 2.9328 c -6.4e-5,0.28057 0.2276,0.50792 0.50817,0.50747 h 1.1925 c 0.28044,1.29e-4 0.50791,-0.22704 0.50817,-0.50747 l 0.0086,-2.8231 c 0,-0.20474 0.16544,-0.37075 0.36958,-0.37085 l 2.8194,-0.0013 c 0.27972,3.82e-4 0.50669,-0.22692 0.50672,-0.50747 l 3.69e-4,-0.45096 a 1.2593,1.2593 45.036 0 0 -1.2588,-1.2604 l -1.2814,-5.55e-4" style="stroke-width:0.73971" id="path8" stroke="currentColor" class="ColorScheme-Text"/>
-      </g>
-    </g>
-    <g transform="matrix(0,1.3529,-1.3509,0,45.526,-0.88237)" id="g10"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m12.5 24.5h-7c-1.1046 0-2-.89543-2-2v-10.4c0-1.4359 1.1641-2.6 2.6-2.6h3.8c.88366 0 1.6-.71634 1.6-1.6v-1.2c0-1.215.98497-2.2 2.2-2.2h11.3c1.3807 0 2.5 1.1193 2.5 2.5v1.3857m-14.5 1.1143h12.487a2.0128 2.0128 45 012.0128 2.0128v8.3822" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <g transform="translate(-2.0019,-2.0014)">
+  <path class="ColorScheme-Highlight" d="m22 19v4.1666a.83338.83338 0 01-.83338.83338h-4.1666v2h4.1666a.83338.83338 0 01.83338.83338v4.1666h2v-4.1666a.83338.83338 0 01.83338-.83338h4.1666v-2h-4.1666a.83338.83338 0 01-.83338-.83338v-4.1666z" fill="currentColor" style="fill-opacity:.25734;paint-order:markers fill stroke"/>
+  <g transform="matrix(1.3529,0,0,1.3509,1.1177,1.4737)">
+   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".73971" style="paint-order:fill markers stroke">
+    <path class="ColorScheme-Text" d="m20.979 15.026c0 .70636-.57263 1.279-1.279 1.279l-2.1537-3.4e-5c-.14682 0-.26581-.11945-.26568-.26671l.0027-2.9271c.000381-.28014-.22659-.50744-.50672-.50747h-1.2026c-.28057-.000448-.50823.22691-.50817.50747v2.9271c0 .1473-.11906.26671-.26592.26671h-2.9231c-.28015-6.4e-5-.50717.22794-.50672.50892v1.1942c-.00013.28085.2267.50867.50672.50892l2.9231.0027c.1469.000135.26592.11961.26592.26695v2.9328c-6.4e-5.28057.2276.50792.50817.50747h1.1925c.28044.000129.50791-.22704.50817-.50747l.0086-2.8231c0-.20474.16544-.37075.36958-.37085l2.8194-.0013c.27972.000382.50669-.22692.50672-.50747l.000369-.45096a1.2593 1.2593 45.036 00-1.2588-1.2604l-1.2814-.000555" stroke="currentColor" style="stroke-width:.73971"/>
+   </g>
   </g>
+ </g>
 </svg>
