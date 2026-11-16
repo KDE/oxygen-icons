@@ -58,6 +58,27 @@ the matching artwork where available, with inherited themes providing fallback
 icons for names it does not cover. An application's bundled artwork or custom
 icon loader may behave differently.
 
+## Installing without building
+
+Oxygen is an artwork theme and can be installed without compiling anything.
+Create a `.tar.gz` containing a single `Oxygen/` folder with:
+
+- `index.theme`
+- `icon-settings.json`
+- The artwork folders listed in the `Directories=` entry of `index.theme`, preserving their relative paths.
+
+Build files, documentation and editable artwork sources from `scalable/` are
+not needed for installation. Keep symbolic artwork and icon aliases intact.
+
+In KDE Plasma, open the Icons page in System Settings, choose **Install from
+File**, and select the archive. Then select **Oxygen** and apply it.
+
+Alternatively, extract the `Oxygen/` folder into `~/.local/share/icons/` for a
+manual installation under your user account.
+
+The configuration metadata is included for desktops that support it. Normal
+use of the theme does not require the experimental configuration interface.
+
 ## Building and installing from source
 
 The project uses CMake and KDE Extra CMake Modules (ECM). With the build
