@@ -1,1 +1,7 @@
-format-number-accounting.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path id="donation-heart" d="M 8.5545291,4.1163408 C 8.5194968,4.0672955 7.9289334,3.2423101 7.8919475,3.1941265 7.5594159,2.7609186 7.1499538,2.3649676 6.7,2.05 5.9,1.5 5.04,1.377 4.05,1.65 2.6,2.05 1.5,3.45 1.5,5 c 0,3.2 2.53,7.5 5.66,9.34 0.56,0.32 1.12,0.32 1.68,0 C 11.97,12.5 14.5,8.2 14.5,5 14.5,3.42 13.45,2.02 11.99,1.62 10.794578,1.2910584 9.5347881,1.7474062 8.6134395,2.6223837" transform="matrix(2,0,0,2,0,-1)" fill="none" stroke="currentColor" class="ColorScheme-Text" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" transform="translate(8,8)">
+  <path id="currency-stem" class="ColorScheme-Text" d="m7.5 6.6v-1.2876c0-.76863-.44742-1.8575-1.605-1.5473-1.4973.4012-2.395 1.1711-2.395 2.435 0 3.5 9 1 9 4 0 1.2553-1.2059 1.9478-3.3295 2.1857-.97546.10927-1.6705-.75765-1.6705-1.5946v-.79107m-4 1.5c.6.5 1.5.8 2.7.95.8.1 1.3.55 1.3 1.35v.7" stroke="currentColor"/>
+  <path id="currency-contour" class="ColorScheme-Text" d="m11.5 4.5c-.9-.8-1.9-1-3-1-.6 0-1-.4-1-1v-1" stroke="currentColor"/>
+ </g>
+</svg>
