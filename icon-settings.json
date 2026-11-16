@@ -1,7 +1,7 @@
 {
   "version": 1,
   "title": "Configure Oxygen Icons",
-  "description": "Choose which Oxygen symbolic artwork sizes to include for Plasma widgets (plasmoids), such as those in the system tray. These options control artwork availability, not whether a widget requests symbolic icons. ",
+  "description": "Choose symbolic artwork for Plasma widgets and application actions. Symbolic action icons are a work in progress and are disabled by default.",
   "pages": [
     {
       "title": "Plasma Widgets",

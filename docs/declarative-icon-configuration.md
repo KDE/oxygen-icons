@@ -1,7 +1,7 @@
 # Declarative icon configuration (prototype)
 
 The experimental Plasma settings implementation and build instructions are
-maintained in [pinheiro/oxygen2, `plasma-icon-configuration`](https://invent.kde.org/pinheiro/oxygen2/-/tree/master/plasma-icon-configuration).
+maintained in [Oxygen-Labs, `experimental/plasma-icon-configuration`](https://invent.kde.org/libraries/oxygen-labs/-/tree/master/experimental/plasma-icon-configuration).
 That directory contains a patch against Plasma Workspace **v6.7.4**, including
 the generic renderer and regression tests, plus an opt-in CMake build/installer.
 Enable `INSTALL_PATCHED_ICON_SETTINGS=ON` there to build the patched settings;
@@ -93,50 +93,26 @@ not strict logical requested-size rules. The applet controls cover 16, 22, 24
 and 32 px. The 64 px display-layout artwork is always included.
 GTK/private loaders retain their own fallback rules.
 
-A future **Actions** tab is planned to select symbolic rather than colorful
-action artwork at 16, 22, 32 and 48 px. It is not enabled yet: the current
-schema supports directory omission only, requires a real installation rule
-for every checkbox and does not support inactive placeholder tabs. Adding that
-tab requires renderer/schema support and a defined action-artwork switching
-operation; omitting colorful action directories is not an equivalent replacement.
+## Opt-in symbolic actions
 
-The following tab is reserved for future usage, not part of the active
-`icon-settings.json`. Defaults retain colorful action artwork. Do not activate
-these controls until their installation operation is implemented:
+The Action Icons tab offers work-in-progress symbolic actions at 16, 22, 32
+and 48 px. All four options default to false. The shipped index lists those
+paths in `X-KDE-OptionalDirectories`, outside its active `Directories` list.
+Their directory sections and source artwork remain available for installation.
 
-```jsonc
-// For future usage: symbolic action selection is not implemented yet.
-// Proposed entry in the "pages" array:
-// {
-//   "title": "Actions",
-//   "controls": [
-//     {
-//       "id": "symbolicActions16",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 16 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions22",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 22 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions32",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 32 px",
-//       "default": false
-//     },
-//     {
-//       "id": "symbolicActions48",
-//       "type": "checkbox",
-//       "label": "Use symbolic action icons at 48 px",
-//       "default": false
-//     }
-//   ]
-// }
-```
+The configuration installer validates optional paths using the same confinement
+checks as normal directories. Each optional directory must have a rule that
+excludes it under the declared default values. When saving, selected optional
+directories are prepended to the installed `Directories` list, giving the
+explicit selection priority over base artwork. Unselected directories and
+their sections are omitted. Unchecking a size or restoring defaults removes
+its symbolic action paths again. The retained source allows future changes.
+
+This requires the matching Oxygen-Labs renderer with optional-directory
+support. An older renderer that only accepts active directories cannot apply
+this declaration. Normal desktops ignore the optional key and use the normal
+artwork. Theme archives must include optional artwork and alias targets,
+including padded 24 px sources for the 48 px symbolic links.
 
 The copy operation is bounded, serialized with a user-icon lock, staged before
 activation and refuses to overwrite an unrelated same-ID user theme. It rejects external

@@ -43,8 +43,9 @@ These use fine contours, restrained fills and selective accents, carrying the
 Oxygen character into compact interfaces. Theme-aware SVG colors let them
 follow the application's color scheme.
 
-Symbolic action coverage is still being developed; the proposed settings for choosing between colorful
-and symbolic actions are described separately below.
+Symbolic action icons are a work in progress and are disabled by default.
+The optional configuration interface can enable them separately for each size.
+The installed theme index is updated to use the selected artwork.
 
 ## Using Oxygen
 
@@ -65,10 +66,13 @@ Create a `.tar.gz` containing a single `Oxygen/` folder with:
 
 - `index.theme`
 - `icon-settings.json`
-- The artwork folders listed in the `Directories=` entry of `index.theme`, preserving their relative paths.
+- The artwork folders listed in `Directories=` and `X-KDE-OptionalDirectories=` in `index.theme`, preserving their relative paths.
+- Any additional artwork targeted by icon aliases, including the padded `simbolicActions/24x24/actions/` files used by the 48 px symbolic links.
 
 Build files, documentation and editable artwork sources from `scalable/` are
-not needed for installation. Keep symbolic artwork and icon aliases intact.
+not needed for installation. Keep optional symbolic artwork and icon aliases
+intact so that the configuration interface can enable them later. Optional
+directories are inactive until selected.
 
 In KDE Plasma, open the Icons page in System Settings, choose **Install from
 File**, and select the archive. Then select **Oxygen** and apply it.
@@ -115,9 +119,8 @@ notices.
 
 An optional prototype explores configuring which artwork is installed through
 Plasma System Settings. It requires a patched Plasma implementation and is
-separate from normal installation and use of Oxygen. Selection of symbolic
-rather than colorful application actions is planned but not implemented in
-that prototype.
+separate from normal installation and use of Oxygen. Its Action Icons tab opts into the work-in-progress symbolic actions at
+selected sizes; leaving those options unchecked keeps the normal artwork.
 
 Implementation details, examples and the current limitations are documented in
 [Declarative icon configuration](docs/declarative-icon-configuration.md).
