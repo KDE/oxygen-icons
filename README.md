@@ -16,9 +16,12 @@ theme can be selected independently of the widget style.
 
 Oxygen gives icons depth and character while keeping their purpose recognizable.
 Metal, glass, paper and other materials help distinguish objects; color and
-silhouette make related actions and file types easier to identify. Small icons
-receive size-specific adjustments so that details remain readable in menus,
-toolbars and lists, while larger versions have room for richer illustration.
+silhouette make related actions and file types easier to identify.
+
+Most icons are drawn afresh for each size. Each drawing has its own geometry,
+proportions and level of detail, composed for the pixels available at that
+resolution. Small versions keep their clarity in menus, toolbars and lists;
+larger versions have room for richer illustration and material detail.
 
 The collection includes:
 
@@ -40,8 +43,7 @@ These use fine contours, restrained fills and selective accents, carrying the
 Oxygen character into compact interfaces. Theme-aware SVG colors let them
 follow the application's color scheme.
 
-The montage above shows examples of both collections. Symbolic action coverage
-is still being developed; the proposed settings for choosing between colorful
+Symbolic action coverage is still being developed; the proposed settings for choosing between colorful
 and symbolic actions are described separately below.
 
 ## Using Oxygen
