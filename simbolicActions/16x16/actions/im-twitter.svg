@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+<path class="ColorScheme-Highlight" fill="currentColor" opacity=".1" fill-rule="evenodd" d="M2.5 .5H13.5Q15.5 .5 15.5 2.5V13.5Q15.5 15.5 13.5 15.5H2.5Q.5 15.5 .5 13.5V2.5Q.5 .5 2.5 .5ZM4.5 4C4.5 2.7 6.5 2.7 6.5 4V6.5H11.5C12.8 6.5 12.8 8.5 11.5 8.5H6.5V10.5Q6.5 11.5 7.5 11.5H11.5C12.8 11.5 12.8 13.5 11.5 13.5H7.5Q4.5 13.5 4.5 10.5Z"/>
+<path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M12.5 15.5H2.5Q.5 15.5 .5 13.5V2.5Q.5 .5 2.5 .5H13.5Q15.5 .5 15.5 2.5V13.5Q15.5 14.2 15 14.7M4.5 4C4.5 2.7 6.5 2.7 6.5 4V6.5H11.5C12.8 6.5 12.8 8.5 11.5 8.5H6.5V10.5Q6.5 11.5 7.5 11.5H11.5C12.8 11.5 12.8 13.5 11.5 13.5H7.5Q4.5 13.5 4.5 10.5Z"/>
+</svg>
