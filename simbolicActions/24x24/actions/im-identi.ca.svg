@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.ColorScheme-PositiveText { color:#27ae60; }.ColorScheme-NeutralText { color:#f67400; }</style>
+    <path id="rear-bubble" d="m 10,14.4 c -0.8226059,0.164521 -1.5775437,0.159872 -2.2648135,0.01389 -0.2430184,-0.05162 -0.608939,-0.0119 -0.8232736,0.113905 L 3.0880871,16.77221 A 0.21222726,0.21222726 34.339598 0 1 2.7710957,16.555652 L 3.4210047,12.49372 C 3.4646326,12.221046 3.3473507,11.835503 3.1809474,11.615249 2.3936491,10.573165 2,9.2865825 2,8 2,4.4101467 4.9101492,1.5000028 8.5,1.5000028 12.089851,1.5000028 15,4.4101467 15,8 15,8.6 14.9,9.2 14.8,9.7"/>
+    <path id="front-bubble" d="m 13.3,11.8 c 1.7,-2 5.1,-2.3 7.2,-0.3 1.422101,1.896134 1.226305,5.140515 -0.672601,7.091471 -0.173293,0.178042 -0.399723,0.496572 -0.48894,0.728535 l -0.676918,1.759988 a 0.35186631,0.35186631 163.01477 0 1 -0.530195,0.161948 l -1.22173,-0.855211 C 16.683391,20.228374 16.275595,20.094501 16.001913,20.058509 13.443458,19.722041 11.5,17.537698 11.5,15 c 0,-0.7 0.15,-1.35 0.4,-1.95"/>
+  </defs>
+  <g transform="translate(1,1)"><use href="#rear-bubble" class="ColorScheme-PositiveText" fill="currentColor" fill-opacity="0.08" stroke="none" id="use1"/>
+  <use href="#front-bubble" class="ColorScheme-NeutralText" fill="currentColor" fill-opacity="0.1" stroke="none" id="use2"/>
+  <use href="#rear-bubble" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="use3"/>
+  <use href="#front-bubble" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="use4"/>
+</g></svg>
