@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg5">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}.ColorScheme-NeutralText{color:#f67400}</style>
-  </defs>
-  <path id="path1" class="ColorScheme-Text" d="m 16,4 c -5.3,0 -8,3 -7.5,8 0.6088306,2.272187 -2.9421153,6.507301 -3,8 -0.058124,1.498873 1.5,1.5 3,0 -0.5,4.7 2.5,7.5 7.5,7.5 5,0 8,-2.8 7.5,-7.5 1.5,1.5 3.005326,1.499991 3,0 -0.0053,-1.495702 -3,-5.33449 -3,-8 C 24,7 21.3,4 16,4 Z m 0.08537,1.9518418 c 2.620063,10e-8 4.846097,1.5395299 5.649541,5.2044082 0.457709,2.087823 -1.561079,2.652676 -1.561079,3.660156 0,0.726576 2.066106,1.641541 1.828125,3.226563 -0.648562,4.319603 -3.051525,6.660156 -5.916015,6.660156 -2.872928,0 -5.281775,-2.365094 -5.921876,-6.697266 -0.2212189,-1.497204 1.833985,-2.475193 1.833985,-3.189453 0,-1.097366 -2.1014841,-1.449892 -1.502485,-3.910275 C 11.34401,7.4211562 13.52569,5.9518417 16.08537,5.9518418 Z" style="opacity:0.1;fill-opacity:1" fill="currentColor"/>
-  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.5 12C8 7 10.7 4 16 4C21.3 4 24 7 23.5 12M24.5 15.5C25.6 17.6 26.5 19.1 26.5 20C26.5 21.5 25 21.5 23.5 20C24 24.7 21 27.5 16 27.5C11 27.5 8 24.7 8.5 20C7 21.5 5.5 21.5 5.5 20C5.5 19.1 6.4 17.6 7.5 15.5M13.5 8.5V9.5M18.5 8.5V9.5" id="path2"/>
-  <path class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.5 13.5C12.8 15.5 19.2 15.5 23.5 13.5M11.5 14.5L10.5 18.5" id="path3"/>
-  <path class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M13.5 11.5Q16 10.5 18.5 11.5Q16 13.5 13.5 11.5Z" id="path4" style="stroke-opacity:1;fill:none"/>
-  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M 8.2613357,25.749869 C 7.3713201,26.063998 6.7842082,26.647375 6.5,27.5 c 1.4561443,0.728072 3.0006368,0.837707 4.633477,0.328905 M 23.596713,25.702847 C 24.566517,26.003787 25.200946,26.602838 25.5,27.5 c -1.506488,0.753244 -3.107539,0.844549 -4.803152,0.273914" id="path5" style="stroke-opacity:1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}.ColorScheme-NeutralText{color:#f67400}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m16 4c-5.3 0-8 3-7.5 8 .60883 2.2722-2.9421 6.5073-3 8-.058124 1.4989 1.5 1.5 3 0-.5 4.7 2.5 7.5 7.5 7.5s8-2.8 7.5-7.5c1.5 1.5 3.0053 1.5 3 0-.0053-1.4957-3-5.3345-3-8 .5-5-2.2-8-7.5-8zm.08537 1.9518c2.6201 1e-7 4.8461 1.5395 5.6495 5.2044.45771 2.0878-1.5611 2.6527-1.5611 3.6602 0 .72658 2.0661 1.6415 1.8281 3.2266-.64856 4.3196-3.0515 6.6602-5.916 6.6602-2.8729 0-5.2818-2.3651-5.9219-6.6973-.22122-1.4972 1.834-2.4752 1.834-3.1895 0-1.0974-2.1015-1.4499-1.5025-3.9103.84844-3.485 3.0301-4.9543 5.5898-4.9543z" style="opacity:.1" fill="currentColor"/>
+ <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m8.5 12c-.5-5 2.2-8 7.5-8s8 3 7.5 8m1 3.5c1.1 2.1 2 3.6 2 4.5 0 1.5-1.5 1.5-3 0 .5 4.7-2.5 7.5-7.5 7.5s-8-2.8-7.5-7.5c-1.5 1.5-3 1.5-3 0 0-.9.9-2.4 2-4.5m6-7v1m5-1v1" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-NegativeText" d="m8.5 13.5c4.3 2 10.7 2 15 0m-12 1-1 4" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m13.5 11.5q2.5-1 5 0-2.5 2-5 0z" fill="currentColor" fill-opacity=".1" style="fill:none" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m8.2613 25.75c-.89002.31413-1.4771.89751-1.7613 1.7501 1.4561.72807 3.0006.83771 4.6335.3289m12.463-2.1261c.9698.30094 1.6042.89999 1.9033 1.7972-1.5065.75324-3.1075.84455-4.8032.27391" fill="none" stroke="currentColor"/>
+ </g>
 </svg>
