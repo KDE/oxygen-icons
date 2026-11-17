@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.ColorScheme-PositiveText { color:#27ae60; }.ColorScheme-NeutralText { color:#f67400; }</style>
+    <path id="rear-bubble" d="m 7.2,10.8 c -0.6958089,0.173952 -1.3916179,0.158783 -1.9558346,0.05319 -0.1356558,-0.02539 -0.3389284,0.0064 -0.4558245,0.07986 L 1.753991,12.840349 A 0.11733834,0.11733834 36.485856 0 1 1.5782727,12.710391 L 2.4217273,9.589609 C 2.4649561,9.4296624 2.3993715,9.2107967 2.2833887,9.0925143 1.4277962,8.2199578 1,7.1099789 1,6 1,-0.66666377 11,-0.66666377 11,6 11,6.3 10.95,6.6 10.85,6.9"/>
+    <path id="front-bubble" d="m 10,7.4 c 1.5,-1 3.2,-0.6 4.5,0.6 1.736504,1.640032 1.332413,3.93155 -0.493983,5.258399 -0.111699,0.08115 -0.254139,0.242657 -0.3135,0.367316 l -0.785034,1.64857 a 0.18310062,0.18310062 169.24421 0 1 -0.290247,0.05513 L 11.519317,14.304695 C 11.398191,14.191645 11.165571,14.094738 11.001129,14.074782 9.041042,13.836912 7.5,12.213781 7.5,10.5 7.5,9.7 7.7,9 8.1,8.4"/>
+  </defs>
+  <use href="#rear-bubble" class="ColorScheme-PositiveText" fill="currentColor" fill-opacity="0.08" stroke="none" id="use1"/>
+  <use href="#front-bubble" class="ColorScheme-NeutralText" fill="currentColor" fill-opacity="0.1" stroke="none" id="use2"/>
+  <use href="#rear-bubble" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="use3"/>
+  <use href="#front-bubble" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="use4"/>
+</svg>
