@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.ColorScheme-NegativeText { color:#720000; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 10.78734,8.8121319 c -0.472016,-1.7615866 0.366074,-3.6112891 2.001726,-4.4179037 1.635653,-0.8066144 3.613316,-0.3454878 4.723532,1.1013733 1.110216,1.4468613 1.043773,3.4764865 -0.158695,4.8476385 -1.013698,1.155901 -2.596731,1.572446 -4.030493,1.119333 -0.449418,-0.14203 -1.062647,-0.08492 -1.391429,0.254008 -3.6751232,3.788539 -4.7894266,8.505792 -5.1272968,12.672165 -0.087379,1.077501 0.6034443,2.354743 1.5964207,2.781939 0.9479427,0.298442 1.9636031,0.477843 3.0148671,0.541329 M 18.53896,13.151554 C 19.1,13.8 19.6,14.6 20,15.5" transform="matrix(.75,0,0,.75,.25,-.5)" fill="none" stroke="currentColor" stroke-width="1.33333333" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+  <path class="ColorScheme-NegativeText" d="M8.5 20.5H10.5C12.1 20.5 13.5 20.4 13.5 18.5A2 2 0 0 1 15.5 16.5H18L16.8 17.7C16.4 18.1 16.4 18.7 16.8 19.1L17.1 19.4C17.5 19.8 18.1 19.8 18.5 19.4L21 16.1C21.3 15.7 21.3 15.3 21 14.9L18.5 12.4C18.1 12 17.5 12 17.1 12.4L16.8 12.7C16.4 13.1 16.4 13.7 16.8 14.1L17.2 14.5C16.2 14.5 15.5 13.8 15.5 12.8V12.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
