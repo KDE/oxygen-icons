@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style></defs>
+<path class="ColorScheme-Text" d="M6.5 14L7.4 14.85C8.1 15.5 9.3 15 9.3 14V13.5C9.3 12.95 8.85 12.5 8.3 12.5H3.3C2.85 12.5 2.5 12.15 2.5 11.7V3.8C2.5 3.45 2.9 3.3 3.15 3.55L10.15 9.8C10.5 10.1 10.5 10.6 10.2 10.95L9.1 12.1" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+<g transform="translate(8,-.5) scale(.5)">
+<g transform="translate(-.5,-1)">
+<path class="ColorScheme-Text" d="M4.6332 5.9941C3.4268 6.69044 2.4009 7.7051 1.6834 8.9637m13.7988 0C14.830734 7.8210795 13.925174 6.8794485 12.861077 6.194558M10.715983 5.2283825C10.030635 5.035711 9.3142197 4.9343566 8.5835 4.9341 7.1169 4.9338626 5.9281 6.1347 5.9281 7.6162c0 .670556.2435759 1.2836193.6462188 1.7538463M8.7633016 10.292333C10.077342 10.203467 11.129629 9.1488339 11.230568 7.825067" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".4"/>
+<path class="ColorScheme-Text" d="m1.6834 8.9637c.6399354 1.122386 1.5250486 2.050854 2.5647504 2.732515M6.3773747 12.67826C7.0850641 12.884459 7.8267199 12.993 8.5837 12.993c2.8472-.000645 5.4774-1.5369 6.8985-4.0293" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path class="ColorScheme-Text" d="M13.5 2.5L2.5 13.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+</g>
+</svg>
