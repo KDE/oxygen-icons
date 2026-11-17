@@ -6,8 +6,8 @@
                 color:#232629;
             }
         </style>
-  </defs>
+  </defs><g fill="currentColor">
   
   
-  <path class="ColorScheme-Text" transform="matrix(.87283 0 0 .87534 1.9711 3.4282)" d="m15.386 3.4347h-5.1e-5zm8.1144 8.5653v8.7786c0 3.7209-3.0005 6.7214-6.7214 6.7214h-2.5573c-3.7209 0-6.7214-3.0005-6.7214-6.7214v-8.7786a8 8 135 018-8 8 8 45 018 8z" style="fill-opacity:.10526;stroke-width:1.144" fill="currentColor" stroke="currentColor"/>
-<path d="m15.5 9.4429v5.1143" style="fill-opacity:.15425;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" fill="currentColor" stroke="currentColor"/><path class="ColorScheme-Text" d="m16 6.9473a6.9827 7.0027 0 016.4824 6.9844v1.0684h-5.5137c-.53702 0-.96875-.43174-.96875-.96875z" style="fill-opacity:.10526" fill="currentColor"/><path class="ColorScheme-Text" d="m16.998 5.0093c1.8324.31687 3.5684 1.2025 4.8842 2.522.96593.9687 1.6987 2.1646 2.1451 3.4591" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.874" stroke="currentColor"/><path class="ColorScheme-Text" d="m17.967 3.1295c3.4367.88464 6.4104 3.5332 7.7941 6.8153" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.874" stroke="currentColor"/></svg>
+  <path class="ColorScheme-Text" transform="matrix(.87283 0 0 .87534 1.9711 3.4282)" d="m15.386 3.4347h-5.1e-5zm8.1144 8.5653v8.7786c0 3.7209-3.0005 6.7214-6.7214 6.7214h-2.5573c-3.7209 0-6.7214-3.0005-6.7214-6.7214v-8.7786a8 8 135 018-8 8 8 45 018 8z" stroke="currentColor" style="fill-opacity:.10526;stroke-width:1.144" fill="currentColor"/>
+<path class="ColorScheme-Text" d="m15.5 9.4429v5.1143" stroke="currentColor" style="fill-opacity:.15425;fill-rule:evenodd;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" fill="currentColor"/><path class="ColorScheme-Text" d="m16 6.9473a6.9827 7.0027 0 016.4824 6.9844v1.0684h-5.5137c-.53702 0-.96875-.43174-.96875-.96875z" style="fill-opacity:.10526" fill="currentColor"/></g><path class="ColorScheme-Text" d="m17.967 3.1295c3.4367.88464 6.4104 3.5332 7.7941 6.8153" stroke="currentColor" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.874"/></svg>
