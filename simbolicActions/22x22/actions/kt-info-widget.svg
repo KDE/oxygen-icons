@@ -1,2 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M4 1.5H18Q20.5 1.5 20.5 4V18Q20.5 20.5 18 20.5H14v-6a3 3 0 0 0-6 0v6H4Q1.5 20.5 1.5 18V4Q1.5 1.5 4 1.5ZM11 3.9a1.7 1.7 0 1 0 0 3.4 1.7 1.7 0 0 0 0-3.4Z" fill="currentColor" opacity=".1"/><path class="ColorScheme-Text" d="M8.5 16v-1.5a2.5 2.5 0 0 1 5 0v3.5a2.5 2.5 0 0 1-2.5 2.5H4Q1.5 20.5 1.5 18V4Q1.5 1.5 4 1.5H18Q20.5 1.5 20.5 4V18Q20.5 20.5 18 20.5h-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><circle class="ColorScheme-Text" cx="11" cy="5.6" r="1.7" fill="currentColor" fill-opacity=".1" stroke="currentColor"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m4 1.5h14c1.6667 0 2.5.83333 2.5 2.5v14c0 1.6667-.83333 2.5-2.5 2.5h-4v-6c0-4-6-4-6 0v6h-4c-1.6667 0-2.5-.83333-2.5-2.5v-14c0-1.6667.83333-2.5 2.5-2.5zm7 3.8c-2.2667 0-2.2667 3.4 0 3.4 2.2667 0 2.2667-3.4 0-3.4z" fill="currentColor" opacity=".1"/>
+ <path class="ColorScheme-Text" d="m8.5 16v-1.5a2.5 2.5 0 015 0v3.5a2.5 2.5 0 01-2.5 2.5h-7q-2.5 0-2.5-2.5v-14q0-2.5 2.5-2.5h14q2.5 0 2.5 2.5v14q0 2.5-2.5 2.5h-4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle class="ColorScheme-Text" cx="11" cy="6.95" r="2.05" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
+</svg>
