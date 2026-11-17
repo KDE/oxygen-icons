@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Highlight {color:#3daee9;;} .ColorScheme-Highlight {color:#3daee9;}</style>
-  </defs>
-  <path id="globe-outline" d="m 7.9999999,0.5000002 a 7.5,7.5 0 1 0 0,14.9999998 7.5,7.5 0 1 0 0,-14.9999998" fill="none" stroke="currentColor" class="ColorScheme-Highlight" stroke-width="1" stroke-linecap="round"/>
-  <path id="north-america" d="M 1.726662,3.7847462 C 2.4449001,2.6355949 3.6189204,1.5957091 4.9117491,1.1647774 L 6.762756,2.3471723 6.1881658,3.9272554 5.0389846,4.501831 5.32628,5.6509822 6.3318135,6.6564903 5.7572233,7.3747096 4.4643945,6.6564903 3.4588612,5.3636943 1.8787374,4.9327628 Z" fill="none" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.583331" stroke-linejoin="round" stroke-linecap="round"/>
-  <path id="south-america" d="M 5.5444684,8.5380698 7.2251456,8.9259081 8.388691,9.9601447 C 8.7765399,10.477263 8.0008428,11.640778 7.483711,12.157897 L 6.5787315,14.226369 5.6737514,13.062853 5.5444684,11.25294 4.6394884,10.089424 Z" fill="none" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.524998" stroke-linejoin="round" stroke-linecap="round"/>
-  <path id="europe-africa-asia" d="m 11.22583,1.2901269 c 1.580124,0.8618634 3.006602,2.2061968 3.581192,3.7862801 L 12.939604,5.6509822 11.790422,4.9327628 11.072184,5.7946265 12.50866,6.8001338 13.083252,8.0929291 12.077718,9.9603002 11.215832,11.684027 10.210299,10.534876 9.7793562,8.6675049 8.6301751,7.8056412 8.9174705,6.0819144 10.066651,5.076407 9.348413,4.0708993 10.353946,3.2090358 9.4920607,1.3416648" fill="none" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.583331" stroke-linejoin="round" stroke-linecap="round"/>
-  <path id="path4" d="M 1.726662,3.7847462 C 2.4449001,2.6355949 3.6189204,1.5957091 4.9117491,1.1647774 L 6.762756,2.3471723 6.1881658,3.9272554 5.0389846,4.501831 5.32628,5.6509822 6.3318135,6.6564903 5.7572233,7.3747096 4.4643945,6.6564903 3.4588612,5.3636943 1.8787374,4.9327628 Z" fill="currentColor" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.583331" stroke-linejoin="round" stroke-linecap="round" style="opacity:0.1;fill-opacity:1"/>
-  <path id="path5" d="M 5.5444684,8.5380698 7.2251456,8.9259081 8.388691,9.9601447 C 8.7765399,10.477263 8.0008428,11.640778 7.483711,12.157897 L 6.5787315,14.226369 5.6737514,13.062853 5.5444684,11.25294 4.6394884,10.089424 Z" fill="currentColor" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.524998" stroke-linejoin="round" stroke-linecap="round" style="opacity:0.1;fill-opacity:1"/>
-  <path id="path6" d="m 11.22583,1.2901269 c 1.580124,0.8618634 3.006602,2.2061968 3.581192,3.7862801 L 12.939604,5.6509822 11.790422,4.9327628 11.072184,5.7946265 12.50866,6.8001338 13.083252,8.0929291 12.077718,9.9603002 11.215832,11.684027 10.210299,10.534876 9.7793562,8.6675049 8.6301751,7.8056412 8.9174705,6.0819144 10.066651,5.076407 9.348413,4.0708993 10.353946,3.2090358 9.4920607,1.3416648" fill="currentColor" stroke="currentColor" opacity="0.5" class="ColorScheme-Highlight" stroke-width="0.583331" stroke-linejoin="round" stroke-linecap="round" style="opacity:0.1;fill-opacity:1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Highlight {color:#3daee9;;} .ColorScheme-Highlight {color:#3daee9;}</style>
+ </defs>
+ <g fill="none" stroke="currentColor" stroke-linecap="round">
+  <path id="globe-outline" class="ColorScheme-Highlight" d="m8 .5a7.5 7.5 0 100 15 7.5 7.5 0 100-15" stroke="currentColor"/>
+  <g stroke-linejoin="round">
+   <path id="north-america" class="ColorScheme-Highlight" d="m1.7267 3.7847c.71824-1.1492 1.8923-2.189 3.1851-2.62l1.851 1.1824-.57459 1.5801-1.1492.57458.2873 1.1492 1.0055 1.0055-.57459.71822-1.2928-.71822-1.0055-1.2928-1.5801-.43093z" opacity=".5" stroke-width=".58333" stroke="currentColor"/>
+   <path id="south-america" class="ColorScheme-Highlight" d="m5.5445 8.5381 1.6807.38784 1.1635 1.0342c.38785.51712-.38785 1.6806-.90498 2.1978l-.90498 2.0685-.90498-1.1635-.12928-1.8099-.90498-1.1635z" opacity=".5" stroke-width=".525" stroke="currentColor"/>
+   <path id="europe-africa-asia" class="ColorScheme-Highlight" d="m11.226 1.2901c1.5801.86186 3.0066 2.2062 3.5812 3.7863l-1.8674.57458-1.1492-.71822-.71824.86186 1.4365 1.0055.57459 1.2928-1.0055 1.8674-.86189 1.7237-1.0055-1.1492-.43094-1.8674-1.1492-.86186.2873-1.7237 1.1492-1.0055-.71824-1.0055 1.0055-.86186-.86189-1.8674" opacity=".5" stroke-width=".58333" stroke="currentColor"/>
+  </g>
+ </g>
+ <g fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Highlight" d="m1.7267 3.7847c.71824-1.1492 1.8923-2.189 3.1851-2.62l1.851 1.1824-.57459 1.5801-1.1492.57458.2873 1.1492 1.0055 1.0055-.57459.71822-1.2928-.71822-1.0055-1.2928-1.5801-.43093z" opacity=".5" stroke-width=".58333" style="opacity:.1" fill="currentColor" stroke="currentColor"/>
+  <path class="ColorScheme-Highlight" d="m5.5445 8.5381 1.6807.38784 1.1635 1.0342c.38785.51712-.38785 1.6806-.90498 2.1978l-.90498 2.0685-.90498-1.1635-.12928-1.8099-.90498-1.1635z" opacity=".5" stroke-width=".525" style="opacity:.1" fill="currentColor" stroke="currentColor"/>
+  <path class="ColorScheme-Highlight" d="m11.226 1.2901c1.5801.86186 3.0066 2.2062 3.5812 3.7863l-1.8674.57458-1.1492-.71822-.71824.86186 1.4365 1.0055.57459 1.2928-1.0055 1.8674-.86189 1.7237-1.0055-1.1492-.43094-1.8674-1.1492-.86186.2873-1.7237 1.1492-1.0055-.71824-1.0055 1.0055-.86186-.86189-1.8674" opacity=".5" stroke-width=".58333" style="opacity:.1" fill="currentColor" stroke="currentColor"/>
+ </g>
 </svg>
