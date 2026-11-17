@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+<defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-PositiveText{color:#27ae60}.ColorScheme-Highlight{color:#3daee9}</style><path id="rear" d="M2.3 5.1C1.9 4.1 2.4 3 3.4 2.7C4.4 2.3 5.5 2.9 5.8 3.9C6.1 5 5.4 6.1 4.3 6.3C3.9 6.4 3.5 6.3 3.1 6.2C1.4 8 .7 10.2 .5 12.5C.4 13.3 .7 13.9 1.4 14.1C2.2 14.4 3 14.5 3.8 14.5"/></defs>
+<path class="ColorScheme-PositiveText" opacity=".1" fill="currentColor" d="M2.3 5.1C1.9 4.1 2.4 3 3.4 2.7C4.4 2.3 5.5 2.9 5.8 3.9C6.1 5 5.4 6.1 4.3 6.3L3.1 6.2C1.4 8 .7 10.2 .5 12.5C.4 13.3 .7 13.9 1.4 14.1C2.4 14.5 3.6 14.6 4.7 14.4L6.2 7.4L5 6.8Z"/>
+<use xlink:href="#rear" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<use xlink:href="#rear" class="ColorScheme-PositiveText" opacity=".55" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<path class="ColorScheme-Highlight" opacity=".1" fill="currentColor" d="M8 3.6C7.6 2.3 8.2 1 9.5 .6C10.8 .2 12.1 .9 12.4 2.2C12.8 3.6 11.7 5 10.3 5C9.8 5 9.4 4.9 9 4.8C6.5 7.2 5.6 10.1 5.4 12.9C5.3 13.8 5.7 14.5 6.4 14.7C8.9 15.5 11.3 15.5 13.8 14.7C14.6 14.5 15 13.8 14.9 12.9C14.7 10.4 14 7.9 12.5 6.1Z"/>
+<path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8 3.6C7.6 2.3 8.2 1 9.5 .6C10.8 .2 12.1 .9 12.4 2.2C12.8 3.6 11.7 5 10.3 5C9.8 5 9.4 4.9 9 4.8C6.5 7.2 5.6 10.1 5.4 12.9C5.3 13.8 5.7 14.5 6.4 14.7C8.9 15.5 11.3 15.5 13.8 14.7C14.6 14.5 15 13.8 14.9 12.9C14.7 10.4 14 7.9 12.5 6.1"/>
+</svg>
