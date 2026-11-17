@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M16.5 11.5H5.5A3 3 0 0 0 2.5 14.5V24.5Q2.5 26.5 4.5 26.5H27.5Q29.5 26.5 29.5 24.5V13.5Q29.5 11.5 27.5 11.5H23.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path class="ColorScheme-Text" d="M5.5,9.5 h.01 M20.5,9.5 h.01 M23.5,9.5 h.01 M26.5,9.5 h.01 M5.5,12.5 h2 M10.5,12.5 h2 M15.5,12.5 h2 M20.5,12.5 h2 M25.5,12.5 h1 M5.5,15.5 h.01 M8.5,15.5 h2 M13.5,15.5 h2 M18.5,15.5 h2 M23.5,15.5 h3 M5.5,18.5 h2 M10.5,18.5 h6 M20.5 18.5h2 M25.5 18.5h1" transform="translate(0,5)" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path class="ColorScheme-Text" d="M18.5 11.5V9.5A4 4 0 0 1 22.5 5.5H27.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <path class="ColorScheme-Text" d="m 25,2.5 2.292893,2.2928932 a 1,1 90 0 1 0,1.4142136 L 25,8.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg>
