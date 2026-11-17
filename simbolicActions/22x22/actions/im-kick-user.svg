@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.ColorScheme-NegativeText { color:#720000; }</style>
- </defs>
- <path class="ColorScheme-Text" transform="matrix(.75 0 0 .75 .25 -.5)" d="m10.787 8.8121c-.47202-1.7616.36607-3.6113 2.0017-4.4179 1.6357-.80661 3.6133-.34549 4.7235 1.1014 1.1102 1.4469 1.0438 3.4765-.1587 4.8476-1.0137 1.1559-2.5967 1.5724-4.0305 1.1193-.44942-.14203-1.0626-.08492-1.3914.25401-3.6751 3.7885-4.7894 8.7982-5.1273 12.965-.087379 1.0775.60344 2.3547 1.5964 2.7819.94794.29844 1.9636.47784 3.0149.54133m7.123-14.853c.56104.64845 1.061 1.4484 1.461 2.3484" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3333"/>
- <path class="ColorScheme-NegativeText" d="m8.7598 20.5h1.7402c1.6 0 3-.1 3-2 0-1.1046.89543-2 2-2h2.5l-1.2 1.2c-.4.4-.4 1 0 1.4l.3.3c.4.4 1 .4 1.4 0l2.5-3.3c.3-.4.3-.8 0-1.2l-2.5-2.5c-.4-.4-1-.4-1.4 0l-.3.3c-.4.4-.4 1 0 1.4l.4.4c-1 0-1.7-.7-1.7-1.7v-.3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }.ColorScheme-NegativeText { color:#720000; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 6.34025,6.109075 C 5.986235,4.787875 6.6148025,3.4006 7.841525,2.79565 9.0683,2.1906925 10.5515,2.5365325 11.38415,3.6217 12.2168,4.706875 12.167,6.229075 11.265125,7.2574 10.50485,8.124325 9.3176,8.4367 8.24225,8.096875 7.905185,7.9903525 7.4453,8.033185 7.1987,8.2873825 4.442375,11.128757 3.60665,14.886032 3.353225,18.011132 c -0.065534,0.808125 0.45258,1.766025 1.1973,2.086425 0.710955,0.22383 1.4727,0.35838 2.261175,0.405998 m 5.34225,-11.13975 c 0.42078,0.4863375 0.79575,1.0863 1.09575,1.7613" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.999975" id="path1"/>
+  <path class="ColorScheme-NegativeText" d="M 6.7598,20.5 H 9.5 c 0.96862,0 2,-0.714081 2,-2 0,-1.1046 0.89543,-2 2,-2 H 17 l -1.2,1.2 c -0.4,0.4 -0.4,1 0,1.4 l 0.3,0.3 c 0.4,0.4 1,0.4 1.4,0 L 20,16.1 c 0.3,-0.4 0.3,-0.8 0,-1.2 L 17.1,12 c -0.4,-0.4 -1,-0.4 -1.4,0 l -0.3,0.3 c -0.4,0.4 -0.4,1 0,1.4 l 0.8,0.8 c -0.04646,0 -1.29226,-0.0015 -1.337386,-0.0045 C 13.936472,14.434314 13.3,13.753544 13.3,12.8 v -0.3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
 </svg>
