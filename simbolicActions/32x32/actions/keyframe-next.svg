@@ -1,11 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
- <defs>
-  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
- </defs>
- <path class="ColorScheme-Text" d="m15.5 27.5a10.5 10.5 0 1110.5-10.5m-10.5-11.5v1m0 5v6" fill="none" stroke="currentColor" stroke-linecap="round"/>
- <g transform="translate(-1,1)">
-  <rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
- </g>
- 
-<g transform="translate(14,8)"><path class="ColorScheme-Highlight" d="m 9.038,11.44 5.9239,3.6201 c 0.702961,0.429487 0.702961,1.450413 0,1.8799 L 9.038,20.5601 C 8.364363,20.971838 7.499855,20.487 7.4999,19.6975 V 12.3026 C 7.499855,11.513097 8.364363,11.028262 9.038,11.44 Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" style="paint-order:fill markers stroke"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M26 17A10.5 10.5 0 1 0 15.5 27.5H23.5M15.5 5.5v1M15.5 11.5v6" fill="none" stroke="currentColor" stroke-linecap="round"/><g transform="translate(-1,1)"><rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" fill="currentColor" fill-opacity=".1" stroke="currentColor"/></g><g transform="translate(24.9509,24.97935) scale(-.55,.55)"><path class="ColorScheme-Text" d="M2.638 4.583l1.8692 1.8194c.63292.61606.62455 1.6371 0 2.2617l-.73832.73832c-.61955.61954-1.6281.60592-2.2307-.03013l-5.2432-5.5344c-.61736-.65164-.61897-1.6718-.00367-2.3254l5.2506-5.5773c.6-.63734 1.6081-.65254 2.2271-.03359l.73832.73832c.62351.62351.62064 1.6353-.0064 2.2553l-1.897 1.8756h5.454545" fill="none" stroke="currentColor" stroke-width="1.818181818" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
