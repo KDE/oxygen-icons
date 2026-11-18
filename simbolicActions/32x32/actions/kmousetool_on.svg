@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M14.655400 28.5 h -1.4400000000000002 a 1.16664 1.16664 37.027 0 1 -1.1217599999999999 -0.8461600000000001 l -0.31648800000000005 -1.10768 a 2.17512 2.17512 52.027 0 0 -1.00384 -1.28616 l -1.1112 -0.641536 a 2.17512 2.17512 7.9727 0 0 -1.6157599999999999 -0.22629600000000002 l -1.11752 0.279768 a 1.16664 1.16664 22.973 0 1 -1.2936800000000002 -0.5484 l -0.7200000000000001 -1.2470400000000001 a 1.16664 1.16664 97.027 0 1 0.171904 -1.3945600000000002 l 0.8010400000000001 -0.82792 a 2.17512 2.17512 112.03 0 0 0.611904 -1.5124000000000002 v -1.28304V12.5a8 8 0 0 1 16 0V17.858576" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+  <g transform="translate(29,0) scale(-1,1)" id="g2">
+    <path class="ColorScheme-Text" d="M14.655400 28.5 h -1.4400000000000002 a 1.16664 1.16664 37.027 0 1 -1.1217599999999999 -0.8461600000000001 l -0.31648800000000005 -1.10768 a 2.17512 2.17512 52.027 0 0 -1.00384 -1.28616 l -1.1112 -0.641536 a 2.17512 2.17512 7.9727 0 0 -1.6157599999999999 -0.22629600000000002 l -1.11752 0.279768 a 1.16664 1.16664 22.973 0 1 -1.2936800000000002 -0.5484 l -0.7200000000000001 -1.2470400000000001 a 1.16664 1.16664 97.027 0 1 0.171904 -1.3945600000000002 l 0.8010400000000001 -0.82792 a 2.17512 2.17512 112.03 0 0 0.611904 -1.5124000000000002 v -1.28304" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  </g>
+  <path class="ColorScheme-Text" d="m 14.5,7.5 v 4" fill="none" stroke="currentColor" stroke-linecap="round" id="path3"/>
+  <circle class="ColorScheme-Text" stroke="currentColor" style="opacity:1;fill:none;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path4" cx="14.39878" cy="18.243544" r="3.963938"/>
+</svg>
