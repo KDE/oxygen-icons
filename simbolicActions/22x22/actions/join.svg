@@ -1,13 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg1">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
     </defs>
-  <path class="ColorScheme-Text" d="M4.5 6.5V15.5" fill="none" stroke="currentColor" id="path1"/>
-  <path id="branch" class="ColorScheme-Text" d="m 4.5,8 v 2 A 1.5,1.5 45 0 0 6,11.5 H 16.5 A 1.5,1.5 45 0 1 18,13 v 2.5" fill="none" stroke="currentColor"/>
-  <g class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" id="g3">
-    <circle cx="4.5" cy="4" r="2.5" id="circle1" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-    <circle cx="4.5" cy="18" r="2.5" id="circle2" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-    <circle cx="18" cy="18" r="2.5" id="circle3" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-  </g>
+  <path id="flow" class="ColorScheme-Text" d="M 0,0 5.5,5.5 M 0,0 17.5,5.5 m -6,13 v -5 a 1,1 45 0 0 -1,-1 h -8 a 1,1 45 0 1 -1,-1 v -1 a 1,1 135 0 1 1,-1 h 17 a 1,1 45 0 1 1,1 v 1 a 1,1 135 0 1 -1,1 H 13" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <path class="ColorScheme-Text" d="m3.5 5.5 2 2 2-2m8 0 2 2 2-2m-10 12 2 2 2-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
 </svg>
