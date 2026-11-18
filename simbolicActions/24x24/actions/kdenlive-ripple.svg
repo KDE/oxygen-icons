@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-    </defs>
-  <g transform="translate(1,1)"><path id="trim" class="ColorScheme-Text" d="m 6.5,1.5 h 1.2 a 0.8,0.8 45 0 1 0.8,0.8 v 8.4 A 0.8,0.8 135 0 1 7.7,11.5 H 1.5 m 7,3 v 5.2 A 0.8,0.8 135 0 1 7.7,20.5 H 6.5 m 9,-19 h -1.2 a 0.8,0.8 135 0 0 -0.8,0.8 v 8.4 a 0.8,0.8 45 0 0 0.8,0.8 h 6.2 m -7,3 v 5.2 a 0.8,0.8 45 0 0 0.8,0.8 h 1.2 m -11,-12 -2.6464466,2.646447 a 0.5,0.5 90 0 0 0,0.707106 L 4.5,14.5 m 13,-6 2.646447,2.646447 a 0.5,0.5 90 0 1 0,0.707106 L 17.5,14.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <g transform="translate(1,1)"><path id="trim" class="ColorScheme-Text" d="m6.5 1.5h1.2c.44183 0 .8.35817.8.8v8.4c0 .44183-.35817.8-.8.8h-4.2m5 2v6.2c0 .44183-.35817.8-.8.8h-1.2m9-19h-1.2c-.44183 0-.8.35817-.8.8v8.4c0 .44183.35817.8.8.8h4.2m-5 2v6.2c0 .44183.35817.8.8.8h1.2m-11-12-2.6464 2.6464c-.19526.19526-.19526.51184 0 .70711l2.6464 2.6464m13-6 2.6464 2.6464c.19526.19526.19526.51184 0 .70711l-2.6464 2.6464" fill="none" stroke="currentColor" stroke-linecap="round"/>
 </g></svg>
