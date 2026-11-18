@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m15.5 27.5a10.5 10.5 0 1110.5-10.5m-10.5-11.5v1m0 5v6" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <g transform="translate(-1,1)" id="g1">
+    <rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" fill="currentColor" fill-opacity=".1" stroke="currentColor" id="rect1"/>
+  </g>
+  <circle class="ColorScheme-NegativeText" cx="22.5" cy="23.5" r="5.5" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="circle1"/>
+  <circle class="ColorScheme-NegativeText" cx="22.5" cy="23.5" r="1.8575249" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="circle2" style="stroke-width:1;fill-opacity:1"/>
+</svg>
