@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
-    </defs>
-  <path class="ColorScheme-Text" d="M14.5 6.5V3.5a2 2 0 0 0-2-2H2.5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1H13.5" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  </defs>
+  <path class="ColorScheme-Text" d="m 14.5,5.5 v -3 c 0,-1.1045695 -0.895431,-2 -2,-2 H 9.8884645 m -5.8059588,0 H 2.5 c -0.5522847,0 -1,0.44771525 -1,1 v 4 c 0,0.5522847 0.4477153,1 1,1 h 1.4724981 m 5.5859435,0 H 13.5" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
   <path class="ColorScheme-Text" d="" fill="none" stroke="currentColor" stroke-linecap="round" id="path2"/>
-  <g transform="translate(4.100032,-1) scale(0.32)" stroke-width="3.125" id="g3">
-    <path class="ColorScheme-Text" d="m 9.038,11.44 5.9239,3.6201 c 0.702961,0.429487 0.702961,1.450413 0,1.8799 L 9.038,20.5601 C 8.364363,20.971838 7.499855,20.487 7.4999,19.6975 V 12.3026 C 7.499855,11.513097 8.364363,11.028262 9.038,11.44 Z" fill="none" stroke="currentColor" stroke-linecap="round" id="path3"/>
+  <g transform="matrix(0.32,0,0,0.32,4.100032,-2)" stroke-width="3.125" id="g3">
+    <path class="ColorScheme-Text" d="M 7.4544167,8.0759781 19.166058,15.10162 c 1.389765,0.833519 1.389765,2.814862 0,3.648381 L 7.4544167,25.775642 C 6.122626,26.574715 4.4134803,25.633774 4.4135692,24.101567 V 9.750053 C 4.4134803,8.2178398 6.122626,7.2769053 7.4544167,8.0759781 Z" fill="none" stroke="currentColor" stroke-linecap="round" id="path3" style="stroke-width:3.12501"/>
   </g>
-  <path class="ColorScheme-Highlight" d="M1.5 8.5H14.5" fill="none" stroke="currentColor" stroke-linecap="round" id="path4"/>
-  <path id="wave" class="ColorScheme-Text" d="m 1.5,12.5 h 1.6 a 0.4,0.4 135 0 0 0.4,-0.4 l 0,-1.2 a 0.4,0.4 135 0 1 0.4,-0.4 h 1.2 a 0.4,0.4 45 0 1 0.4,0.4 v 3.2 a 0.4,0.4 45 0 0 0.4,0.4 l 1.2,0 a 0.4,0.4 135 0 0 0.4,-0.4 v -3.2 a 0.4,0.4 135 0 1 0.4,-0.4 h 1.2 a 0.4,0.4 45 0 1 0.4,0.4 v 2.2 a 0.4,0.4 45 0 0 0.4,0.4 h 1.2 a 0.4,0.4 135 0 0 0.4,-0.4 l 0,-1.2 a 0.4,0.4 135 0 1 0.4,-0.4 l 1.2,0 a 0.4,0.4 45 0 1 0.4,0.4 v 0.2 a 0.4,0.4 45 0 0 0.4,0.4 h 0.6" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <path class="ColorScheme-Highlight" d="m 0.5,8.5 h 15" fill="none" stroke="currentColor" stroke-linecap="round" id="path4"/>
+  <path id="wave" class="ColorScheme-Text" d="m 1.5,13.5 h 1.6 c 0.2209139,0 0.4,-0.179086 0.4,-0.4 v -2.2 c 0,-0.220914 0.1790861,-0.4 0.4,-0.4 h 1.2 c 0.2209139,0 0.4,0.179086 0.4,0.4 v 4.2 c 0,0.220914 0.1790861,0.4 0.4,0.4 h 1.2 c 0.2209139,0 0.4,-0.179086 0.4,-0.4 v -4.2 c 0,-0.220914 0.1790861,-0.4 0.4,-0.4 h 1.2 c 0.2209139,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.1790861,0.4 0.4,0.4 h 1.2 c 0.220914,0 0.4,-0.179086 0.4,-0.4 v -1.2 c 0,-0.220914 0.179086,-0.4 0.4,-0.4 h 1.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 0.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 0.6" fill="none" stroke="currentColor" stroke-linecap="round"/>
 </svg>
