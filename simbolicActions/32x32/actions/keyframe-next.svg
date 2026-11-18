@@ -1,2 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M26 17A10.5 10.5 0 1 0 15.5 27.5H23.5M15.5 5.5v1M15.5 11.5v6" fill="none" stroke="currentColor" stroke-linecap="round"/><g transform="translate(-1,1)"><rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" fill="currentColor" fill-opacity=".1" stroke="currentColor"/></g><g transform="translate(24.9509,24.97935) scale(-.55,.55)"><path class="ColorScheme-Text" d="M2.638 4.583l1.8692 1.8194c.63292.61606.62455 1.6371 0 2.2617l-.73832.73832c-.61955.61954-1.6281.60592-2.2307-.03013l-5.2432-5.5344c-.61736-.65164-.61897-1.6718-.00367-2.3254l5.2506-5.5773c.6-.63734 1.6081-.65254 2.2271-.03359l.73832.73832c.62351.62351.62064 1.6353-.0064 2.2553l-1.897 1.8756h5.454545" fill="none" stroke="currentColor" stroke-width="1.818181818" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m26 17c0-9.3552-11.31-14.039-17.924-7.4242-6.6143 6.6143-1.9309 17.924 7.4242 17.924h6.8844m-6.8844-22v1m0 5v6" fill="none" stroke="currentColor" stroke-linecap="round"/>
+ <g transform="translate(-1,1)">
+  <rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx=".5" ry=".5" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
+ </g>
+ <g transform="matrix(-.55 0 0 .55 24.951 24.979)">
+  <path class="ColorScheme-Text" d="m12.638-2.6897-7.9448.026217 2.4902 2.4239c.88838.86471.87663 2.2979 0 3.1746l-1.0363 1.0363c-.86962.8696-2.2852.85048-3.1311-.042291l-7.3595-7.7682c-.86654-.91466-.8688-2.3466-.00515-3.264l7.3699-7.8284c.84217-.89459 2.2572-.91592 3.126-.04715l1.0363 1.0363c.87517.87517.87115 2.2953-.00898 3.1656l-2.6627 2.6326h7.6561" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8182"/>
+ </g>
+</svg>
