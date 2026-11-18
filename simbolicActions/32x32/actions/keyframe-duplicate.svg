@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg8">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 18.5,29.5 A 10.5,10.5 0 1 1 29,19 M 18.5,7.5 v 1 m 0,5 v 6" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <g transform="translate(2,3)" id="g1">
+    <rect class="ColorScheme-Text" x="14.5" y="2.5" width="4" height="2" rx="0.5" ry="0.5" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="rect1"/>
+  </g>
+  <path class="ColorScheme-Text" stroke="currentColor" style="fill:none;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" id="path8" d="M 28.658708,21.704951 A 10.517069,10.517069 0 0 1 18.5,29.500002"/>
+  <g transform="translate(-2)" id="g9">
+    <path id="rect9" class="ColorScheme-Text" style="fill-opacity:0.1;stroke-linecap:round" d="M 16.5,4.5 H 15 C 14.723,4.5 14.5,4.277 14.5,4 V 3 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 3 c 0.277,0 0.5,0.223 0.5,0.5" fill="currentColor" stroke="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="M 6.9999887,23.377351 C 3.2838126,19.543512 2.6452921,13.00622 7.075756,8.575756 9.1030819,6.54843 11.57155,5.5824811 14.020272,5.4871148 M 14.5,4.5 v 1" fill="none" stroke="currentColor" stroke-linecap="round" id="path11"/>
+</svg>
