@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+    </defs>
+  <path class="ColorScheme-Text" d="m 28.5,12.5 v -5 c 0,-2.209139 -1.790861,-4 -4,-4 H 5 C 4.171573,3.5 3.5,4.171573 3.5,5 v 8 c 0,0.828427 0.671573,1.5 1.5,1.5 h 22" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <path class="ColorScheme-Text" d="m 6.5,6.5 h 2 m -2,5 h 2 m 15,-5 h 2 m -2,5 h 2" fill="none" stroke="currentColor" stroke-linecap="round" id="path2"/>
+  <g transform="matrix(0.72926688,0,0,0.72429713,7.0321556,-2.7887628)" stroke-width="1.37593" id="g3">
+    <path class="ColorScheme-Text" d="m 9.038,11.44 5.9239,3.6201 c 0.702961,0.429487 0.702961,1.450413 0,1.8799 L 9.038,20.5601 C 8.364363,20.971838 7.499855,20.487 7.4999,19.6975 V 12.3026 C 7.499855,11.513097 8.364363,11.028262 9.038,11.44 Z" fill="none" stroke="currentColor" stroke-linecap="round" id="path3" style="stroke-width:1.37593"/>
+  </g>
+  <path id="wave" class="ColorScheme-Text" d="m 5.5,24.5 h 2.4 a 0.6,0.6 135 0 0 0.6,-0.6 v -2.8 a 0.6,0.6 135 0 1 0.6,-0.6 h 1.8 a 0.6,0.6 45 0 1 0.6,0.6 v 5.8 a 0.6,0.6 45 0 0 0.6,0.6 h 1.8 a 0.6,0.6 135 0 0 0.6,-0.6 l 0,-6.8 a 0.6,0.6 135 0 1 0.6,-0.6 h 1.8 a 0.6,0.6 45 0 1 0.6,0.6 v 4.8 a 0.6,0.6 45 0 0 0.6,0.6 h 1.8 a 0.6,0.6 135 0 0 0.6,-0.6 v -1.8 a 0.6,0.6 135 0 1 0.6,-0.6 h 1.8 a 0.6,0.6 45 0 1 0.6,0.6 v 0.8 a 0.6,0.6 45 0 0 0.6,0.6 h 3.4" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <path class="ColorScheme-Highlight" d="M3.5 17.5H28.5" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="separator"/>
+</svg>
