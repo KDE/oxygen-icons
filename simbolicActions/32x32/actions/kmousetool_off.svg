@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}</style>
+  </defs>
+  <g transform="translate(-4,0)" id="g1">
+    <circle class="ColorScheme-Text" cx="9.1" cy="3.9" r=".7" fill="currentColor" id="circle1"/>
+    <path class="ColorScheme-Text" d="m 17.09,24.957 c -0.39072,0.60844 -0.41703,1.4645 0.10235,1.976 l 0.94316,0.92879 c 0.895128,0.881489 2.210978,0.721216 2.969453,-0.04826 M 19.60011,23.49962 h -7.7 c -0.77319,0 -1.4,-0.62681 -1.4,-1.4 v -15.12 c 0.0069,-0.49242 0.60035,-0.73678 0.952,-0.392 l 11.122,9.9595" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+  </g>
+  <g id="card-block-sign" class="ColorScheme-NegativeText" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="22.5" cy="22.5" r="5.5" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-NegativeText" id="circle2"/>
+    <path d="M 19.5,22.5 H 25.5" fill="none" stroke="currentColor" class="ColorScheme-NegativeText" id="path2"/>
+  </g>
+</svg>
