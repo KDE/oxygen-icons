@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-    </defs>
-  <g transform="translate(1,1)"><path id="flow" class="ColorScheme-Text" d="M 0,0 5.5,5.5 M 0,0 17.5,5.5 m -6,13 v -5 a 1,1 45 0 0 -1,-1 h -8 a 1,1 45 0 1 -1,-1 v -1 a 1,1 135 0 1 1,-1 h 17 a 1,1 45 0 1 1,1 v 1 a 1,1 135 0 1 -1,1 H 13" fill="none" stroke="currentColor" stroke-linecap="round"/>
-  <path class="ColorScheme-Text" d="m3.5 5.5 2 2 2-2m8 0 2 2 2-2m-10 12 2 2 2-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <g transform="translate(1,1)"><path id="flow" class="ColorScheme-Text" d="m5.5 1.5v4m12-4v4m-6 12.1v-4.1c0-.55228-.44772-1-1-1h-8c-.55228 0-1-.44772-1-1v-1c0-.55228.44772-1 1-1h17c.55228 0 1 .44772 1 1v1c0 .55228-.44772 1-1 1h-6.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
+ <path class="ColorScheme-Text" d="m3.5 5.5 2 2 2-2m8 0 2 2 2-2m-10 12 2 2 2-2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>
