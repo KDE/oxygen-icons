@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-  </defs>
-  <path class="ColorScheme-Text" d="M 11.5,6.9 V 7 c 0,0.8284271 -0.671573,1.5 -1.5,1.5 H 7.25 C 6.8357864,8.5 6.5,8.8357864 6.5,9.25 V 11 c 0,1 0.5,1.5 1.5,1.5 h 4 c 0.666667,0 1.233333,0.233333 1.7,0.7 l 1.1,1.1 c 0.317075,0.317075 0.7,0.119265 0.7,-0.3 V 7 C 15.5,6.1715729 14.828427,5.5 14,5.5 H 12.1 C 11.768629,5.5 11.5,5.2313708 11.5,4.9 V 2.5 c 0,-1.1664809 -0.85078,-2 -2,-2 H 1.8 C 1.0543356,0.5 0.5,1.1191582 0.5,1.8 M 5,8.5 H 4 C 3.3333333,8.5 2.7666667,8.7333333 2.3,9.2 L 1.2,10.3 C 0.94314993,10.55685 0.5,10.385536 0.5,10 V 1.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m11.5 6.9v.1c0 .82843-.67157 1.5-1.5 1.5h-2.75c-.41421 0-.75.33579-.75.75v1.75c0 1 .5 1.5 1.5 1.5h4c.66667 0 1.2333.23333 1.7.7l1.1 1.1c.31708.31708.7.11926.7-.3v-7c0-.82843-.67157-1.5-1.5-1.5h-1.9c-.33137 0-.6-.26863-.6-.6v-2.4c0-1.1665-.85078-2-2-2h-7.7c-.74566 0-1.3.61916-1.3 1.3m4.5 6.7h-1c-.66667 0-1.2333.23333-1.7.7l-1.1 1.1c-.25685.25685-.7.085536-.7-.3v-8.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
