@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg3">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-PositiveText{color:#27ae60}</style>
-  </defs>
-  <rect class="ColorScheme-Text" x="0.49999997" y="0.5" width="11.011484" height="15" rx="1.4999999" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-opacity="0.42" id="rect1" style="stroke-width:1" ry="1.4999999"/>
-  <g transform="matrix(0.47716432,0,0,0.48749999,-1.4575971,-0.24999998)" stroke-width="2.07338" id="g2">
-    <path class="ColorScheme-Text" d="M 14.086,21.221 A 8.0648,8.0597 0 0 1 7.2231,13.9912 8.0648,8.0597 0 0 1 12.637,5.6224 8.0648,8.0597 0 0 1 22.0509,8.9089 8.0648,8.0597 0 0 1 21.07268,18.8263" fill="none" stroke="currentColor" stroke-linecap="round" style="stroke-width:2.07338;paint-order:fill markers stroke" id="path1"/>
-    <path class="ColorScheme-Text" d="m 20.399,24.215 -6.4897,-7.6688 8.1525,5.8629 a 1.3512,1.3512 84.187 0 1 0.20487,2.0124 1.2534,1.2534 6.3115 0 1 -1.8677,-0.20657 z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:2.07338;paint-order:fill markers stroke" id="path2"/>
-  </g>
-  <g transform="matrix(0.26789263,0,0,0.26789263,8.1880226,8.8119462)" stroke-width="2.34635" id="g3">
-    <path transform="matrix(1.2426,0,0,1.2426,-6.0987,-3.8344)" d="m 21.525,10.913 -6.157,6.1611 a 0.67261,0.67261 0.004072 0 1 -0.95159,-6.8e-5 l -2.8115,-2.8142 a 0.64678,0.64678 8.3517e-7 0 0 -0.91511,0 l -2.1027,2.1047 a 0.648,0.648 90 0 0 0,0.91597 l 5.3101,5.3151 a 1.547,1.547 179.75 0 0 2.1983,-0.0095 l 10.481,-10.674 a 1.3172,1.3172 89.753 0 0 -0.008,-1.8538 l -0.63527,-0.63589 a 2.0286,2.0286 1.047 0 0 -2.8693,-0.052441" class="ColorScheme-PositiveText" style="fill:none;stroke-width:3.00406;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path3"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-PositiveText{color:#27ae60}</style>
+ </defs>
+ <rect class="ColorScheme-Text" x=".5" y=".5" width="11.011" height="15" rx="1.5" ry="1.5" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-opacity=".42"/>
+ <g transform="matrix(.47716 0 0 .4875 -1.4576 -.25)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2.0734">
+  <path class="ColorScheme-Text" d="m14.086 21.221a8.0648 8.0597 0 01-6.8629-7.2298 8.0648 8.0597 0 015.4139-8.3688 8.0648 8.0597 0 019.4139 3.2865 8.0648 8.0597 0 01-.97822 9.9174" style="paint-order:fill markers stroke;stroke-width:2.0734" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m20.399 24.215-6.4897-7.6688 8.1525 5.8629a1.3512 1.3512 84.187 01.20487 2.0124 1.2534 1.2534 6.3115 01-1.8677-.20657z" stroke-linejoin="round" style="paint-order:fill markers stroke;stroke-width:2.0734" stroke="currentColor"/>
+ </g>
+ <g transform="matrix(.26789 0 0 .26789 8.188 8.8119)" stroke-width="2.3464">
+  <path class="ColorScheme-PositiveText" transform="matrix(1.2426,0,0,1.2426,-6.0987,-3.8344)" d="m21.525 10.913-6.157 6.1611a.67261.67261.004072 01-.95159-6.8e-5l-2.8115-2.8142a.64678.64678 8.3517e-7 00-.91511 0l-2.1027 2.1047a.648.648 90 000 .91597l5.3101 5.3151a1.547 1.547 179.75 002.1983-.0095l10.481-10.674a1.3172 1.3172 89.753 00-.008-1.8538l-.63527-.63589a2.0286 2.0286 1.047 00-2.8693-.052441" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.0041"/>
+ </g>
 </svg>
