@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <g transform="translate(1,1)"><g class="ColorScheme-Text" transform="translate(1.45 2.4) scale(0.15)" stroke="currentColor" stroke-width="6.666666666666667" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 107.72023,37.45761 110,43" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
-    <g transform="rotate(-22,89,39)">
-      <path d="m 80.413288,42.682167 5.671178,0 A 6.2853767,6.2853767 134.82051 0 0 92.369719,36.35741 L 92.217145,12.006085 c -0.02189,-3.493067 2.308207,-8.0711997 5.658668,-8.994861 9.454227,-2.60635939 21.379217,1.5873984 27.623027,9.660946 1.07142,1.385404 0.33382,2.671254 -1.41873,2.707921 l -10.25752,0.214612 a 6.4182522,6.4182522 134.22122 0 0 -6.28387,6.45706 l 0.0772,12.329021 a 6.122676,6.122676 43.710361 0 0 6.35976,6.079719 l 11.71408,-0.454166 c 2.53901,-0.09844 3.40374,1.507562 1.72368,3.412539 -5.29173,6.000131 -11.62895,10.049966 -19.01168,12.149504 -11.218145,2.821677 -22.635749,-6.745749 -35.238587,-1.396162 l -71.6114,37.118546 c -6.5923745,3.297807 -14.609938,0.627029 -17.90775,-5.965333 -3.297803,-6.592381 -0.627045,-14.609945 5.965333,-17.907762 L 68.386654,39.299946 c 10.008816,-4.24849 11.782939,-17.71199 17.727784,-26.56264" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
-    </g>
-    <path d="M 28.179797,100.12451 43.88034,85.229128" fill="none" opacity="0.5" stroke="currentColor" class="ColorScheme-Text"/>
-    <circle cx="17" cy="112" r="5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <g transform="translate(1,1)"><g class="ColorScheme-Text" transform="matrix(.1664 0 0 .16637 -1.1053 2.0052)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.0103">
+  <path class="ColorScheme-Text" d="M 107.72023,37.45761 110,43" fill="none" stroke="currentColor" style="stroke-width:6.0103"/>
+  <g transform="rotate(-22,89,39)" style="stroke-width:6.0103">
+   <path class="ColorScheme-Text" d="m92.37 36.357-.15257-24.351c-.02189-3.4931 2.3082-8.0712 5.6587-8.9949 9.4542-2.6064 21.379 1.5874 27.623 9.6609 1.0714 1.3854.33382 2.6713-1.4187 2.7079l-10.258.21461c-3.5073.07338-6.3058 2.9491-6.2839 6.4571l.0772 12.329c.0217 3.4593 2.903 6.2137 6.3598 6.0797l11.714-.45417c2.539-.09844 3.4037 1.5076 1.7237 3.4125-5.2917 6.0001-11.629 10.05-19.012 12.15-11.218 2.8217-22.636-6.7457-35.239-1.3962l-54.254 29.751c-6.5924 3.2978-14.61.62703-17.908-5.9653-3.2978-6.5924-.62705-14.61 5.9653-17.908l61.42-20.75c10.009-4.2485 11.783-17.712 17.728-26.563" fill="none" stroke="currentColor" style="stroke-width:6.0103"/>
   </g>
+  <path class="ColorScheme-Text" d="m32.209 98.667c-1e-6 1.0361-.83995 1.8761-1.8761 1.8761s-1.8761-.83995-1.8761-1.8761c2e-6-1.0361.83995-1.8761 1.8761-1.8761s1.8761.83994 1.8761 1.8761z" style="fill:none;stroke-width:6.0102" stroke="currentColor"/>
+ </g>
 </g></svg>
