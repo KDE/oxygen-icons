@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <g transform="translate(1,1)"><path class="ColorScheme-Highlight" d="M4.5 3.5 8.5 11.5 6.5 18.5M16.5 3.5 13.5 10.5 17.5 17.5M8.5 11.5 13.5 10.5" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".72"/>
+  <g class="ColorScheme-Highlight" fill="currentColor">
+    <circle cx="4.5" cy="3.5" r="1.2" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="16.5" cy="3.5" r="1" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="8.5" cy="11.5" r="1" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="11" cy="11" r="1" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="13.5" cy="10.5" r="1" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="6.5" cy="18.5" r="1" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="17.5" cy="17.5" r="1.2" fill="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+</g></svg>
