@@ -1,18 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg5">
-  <defs id="defs1">
-    <style id="current-color-scheme" type="text/css">
-     .ColorScheme-Text { color:#232629; }
-     .ColorScheme-Highlight { color:#3daee9; }
-   </style>
-  </defs>
-  <g transform="matrix(.80159 0 0 .79956 -.53717 1.8707)" style="stroke-width:1.2491" id="g3">
-    <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.92323" id="g2">
-      <g style="stroke-width:.92323" id="g1">
-        <path class="ColorScheme-Text" d="m 5.1140901,8.9066 v 1.6887 c 0,0.343748 -0.2786624,0.62241 -0.62241,0.62241 h -0.60255 c -0.3437507,0 -0.6224207,0.278659 -0.62243,0.62241 l -4.1e-6,0.15223 v 0.17052 c 0,1.0097 1.055,1.8282 2.0647,1.8282 h 9.179295 c 0.412332,0 0.746592,-0.334261 0.746592,-0.746592 v -2.607423 c 0,-0.7004645 -0.442731,-1.2683205 -1.2552,-1.2683205 h -3.916315 l 0.865499,0.7536845 c 0.293063,0.288234 0.289191,0.765955 0,1.058165 l -0.341864,0.345446 c -0.286874,0.289865 -0.7538599,0.283499 -1.0328492,-0.0141 L 7.1487579,8.9224914 C 6.8629053,8.6176058 6.8621553,8.1402974 7.1470585,7.8345117 L 9.5782297,5.2250104 C 9.8560471,4.9268192 10.322826,4.9197029 10.609485,5.2092941 l 0.341864,0.3454457 c 0.288703,0.2917219 0.287372,0.7651206 -0.003,1.0551641 l -0.878372,0.9099314 h 1.872057 c 0.812441,0 1.471079,-0.697886 1.471079,-1.5188025 V 2.3553933 m 1.844177,4.1446063 -0.0022,-4.56993 c -5.88e-4,-0.99782 -0.80965,-1.8064 -1.8075,-1.8064 H 4.390696 c -0.41725,0 -1.1245,0.69017 -1.1243,1.1074 l 2.92e-4,0.74211 h 1.225 c 0.3437476,0 0.62241,0.2786624 0.62241,0.62241 v 1.5285 c 0,0.3437476 -0.2786624,0.62241 -0.62241,0.62241 h -0.60253 c -0.3437475,0 -0.62241,0.2786624 -0.62241,0.62241 v 3.0753752" style="fill:none;stroke-width:0.92323;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path1" stroke="currentColor"/>
-      </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+ </defs>
+ <g transform="matrix(.80159 0 0 .79956 -.53717 1.8707)" style="stroke-width:1.2491">
+  <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.92323">
+   <g style="stroke-width:.92323">
+    <path class="ColorScheme-Text" d="m5.1141 8.9066v1.6887c0 .34375-.27866.62241-.62241.62241h-.60255c-.34375 0-.62242.27866-.62243.62241l-4.1e-6.15223v.17052c0 1.0097 1.055 1.8282 2.0647 1.8282h9.1793c.41233 0 .74659-.33426.74659-.74659v-2.6074c0-.70046-.44273-1.2683-1.2552-1.2683h-3.9163l.8655.75368c.29306.28823.28919.76596 0 1.0582l-.34186.34545c-.28687.28986-.75386.2835-1.0328-.0141l-2.4278-2.5894c-.28585-.30489-.2866-.78219-.0016994-1.088l2.4312-2.6095c.27782-.29819.7446-.30531 1.0313-.015716l.34186.34545c.2887.29172.28737.76512-.003 1.0552l-.87837.90993h1.8721c.81244 0 1.4711-.69789 1.4711-1.5188v-3.6456m1.8442 4.1446-.0022-4.5699c-.000588-.99782-.80965-1.8064-1.8075-1.8064h-9.0569c-.41725 0-1.1245.69017-1.1243 1.1074l.000292.74211h1.225c.34375 0 .62241.27866.62241.62241v1.5285c0 .34375-.27866.62241-.62241.62241h-.60253c-.34375 0-.62241.27866-.62241.62241v3.0754" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.92323"/>
+   </g>
   </g>
-  <path d="m.5 3.3966v1.347" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" id="path3" class="ColorScheme-Text" stroke="currentColor"/>
-  <path d="m.5 10.61v1.1866" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" id="path4" class="ColorScheme-Text" stroke="currentColor"/>
+ </g>
+ <path class="ColorScheme-Text" d="m.5 3.3966v1.347" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+ <path class="ColorScheme-Text" d="m.5 10.61v1.1866" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>
