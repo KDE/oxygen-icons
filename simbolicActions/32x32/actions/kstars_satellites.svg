@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg5">
+  <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
   </defs>
-  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
-    <path class="ColorScheme-Text" stroke="currentColor" d="M12.5 16.5v-1a1.5 1.5 0 0 1 1.5-1.5l1.5-2.5m2.5 1 1.5 2v7.5a1.5 1.5 0 0 1-1.5 1.5h-4a1.5 1.5 0 0 1-1.5-1.5v-3.5H10m9.5 0H22"/>
-    <path class="ColorScheme-Text" stroke="currentColor" d="M13.5 4.5a7.8 7.8 0 0 0 10 8.5z"/>
-    <path class="ColorScheme-Text" stroke="currentColor" d="m18.5 8.75 2.15-2.5"/>
-    <circle class="ColorScheme-Highlight" cx="21.3" cy="5.5" r="1.15" fill="currentColor"/>
-    <g class="ColorScheme-Text" stroke="currentColor" fill="currentColor" fill-opacity=".1">
-      <rect x="1.5" y="14.5" width="8" height="8" rx="1.237" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
-      <rect x="22.5" y="14.5" width="8" height="8" rx="1.237" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round" id="g5">
+    <path class="ColorScheme-Text" stroke="currentColor" d="M 12.5,16.5 V 16 c 0,-0.828427 0.671573,-1.5 1.5,-1.5 h 3 m -3,0 c -0.0532,-1.268697 0.446801,-2.268697 1.5,-3 m 2.868896,1.293443 C 19.20918,13.31566 19.600066,14.240198 19.5,15 v 7 c 0,0.828427 -0.671573,1.5 -1.5,1.5 h -4 c -0.828427,0 -1.5,-0.671573 -1.5,-1.5 V 18.5 H 10 m 9.5,0 H 22" id="path1"/>
+    <path class="ColorScheme-Text" stroke="currentColor" d="M 20.65,6.25 19.39743,7.7064769 A 1.3843174,1.3843174 175.53003 0 1 17.45131,7.8586134 L 13.5,4.5 c -0.75538,5.629053 4.56617,10.15237 10,8.5 L 19.315235,9.4429495" id="path3"/>
+    <circle class="ColorScheme-Highlight" cx="21.3" cy="5.5" r="1.15" fill="currentColor" id="circle3"/>
+    <g class="ColorScheme-Text" stroke="currentColor" fill="currentColor" fill-opacity=".1" id="g4">
+      <rect x="1.5" y="14.5" width="8" height="8" rx="1.237" id="rect3" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
+      <rect x="22.5" y="14.5" width="8" height="8" rx="1.237" id="rect4" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
     </g>
-    <path class="ColorScheme-Text" stroke="currentColor" opacity=".4" d="M5.5 15v7m21-7v7"/>
+    <path class="ColorScheme-Text" stroke="currentColor" opacity=".4" d="M5.5 15v7m21-7v7" id="path4"/>
   </g>
 </svg>
