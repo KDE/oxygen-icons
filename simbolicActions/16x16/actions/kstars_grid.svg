@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+    <linearGradient id="arc0" gradientUnits="userSpaceOnUse" x1="5.488" y1="0.849" x2="0.849" y2="5.488"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+    <linearGradient id="arc1" gradientUnits="userSpaceOnUse" x1="9.977" y1="1.163" x2="1.163" y2="9.977"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+    <linearGradient id="arc2" gradientUnits="userSpaceOnUse" x1="14.466" y1="1.477" x2="1.477" y2="14.466"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ray16" gradientUnits="userSpaceOnUse" x1="2.423" y1="1.051" x2="14.919" y2="4.635"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ray45" gradientUnits="userSpaceOnUse" x1="1.914" y1="1.914" x2="11.107" y2="11.107"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+    <linearGradient id="ray74" gradientUnits="userSpaceOnUse" x1="1.051" y1="2.423" x2="4.635" y2="14.919"><stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/><stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/><stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round">
+    <path d="M5.488,0.849A5 5 0 0 1 0.849,5.488" stroke="url(#arc0)"/>
+    <path d="M9.977,1.163A9.5 9.5 0 0 1 1.163,9.977" stroke="url(#arc1)"/>
+    <path d="M14.466,1.477A14 14 0 0 1 1.477,14.466" stroke="url(#arc2)"/>
+    <path d="M2.423,1.051L14.919,4.635" stroke="url(#ray16)"/>
+    <path d="M1.914,1.914L11.107,11.107" stroke="url(#ray45)"/>
+    <path d="M1.051,2.423L4.635,14.919" stroke="url(#ray74)"/>
+  </g>
+  <circle class="ColorScheme-Text" cx="5.306" cy="1.878" r="0.6" fill="currentColor" opacity="0.8"/>
+  <circle class="ColorScheme-Text" cx="4.036" cy="4.036" r="0.6" fill="currentColor" opacity="1"/>
+  <circle class="ColorScheme-Text" cx="1.878" cy="5.306" r="0.6" fill="currentColor" opacity="0.8"/>
+  <circle class="ColorScheme-Highlight" cx="9.632" cy="3.119" r="0.6" fill="currentColor" opacity="0.8"/>
+  <circle class="ColorScheme-Highlight" cx="7.218" cy="7.218" r="0.6" fill="currentColor" opacity="1"/>
+  <circle class="ColorScheme-Highlight" cx="3.119" cy="9.632" r="0.6" fill="currentColor" opacity="0.8"/>
+  <circle class="ColorScheme-Text" cx="13.958" cy="4.359" r="0.6" fill="currentColor" opacity="0.8"/>
+  <circle class="ColorScheme-Text" cx="10.399" cy="10.399" r="0.6" fill="currentColor" opacity="1"/>
+  <circle class="ColorScheme-Text" cx="4.359" cy="13.958" r="0.6" fill="currentColor" opacity="0.8"/>
+</svg>
