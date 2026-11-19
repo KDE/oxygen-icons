@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 9.5a5 5 0 0 1 5-5v5m0-4a4 4 0 0 1 4 4" stroke="currentColor" class="ColorScheme-Text"/><path d="m10 6.4 1.5-1.5 1.5 1.5-1.7 1.7" stroke="currentColor" class="ColorScheme-Text"/><rect x="1.5" y="9.5" width="12" height="2" rx="0.7" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/><path d="M2.5 11.5v2a1 1 0 0 1-1 1h-1m3 0h8a1 1 0 0 0 1-1v-2m1 3h1m-9 0v-1.25a1 1 0 0 1 2 0v1.25" stroke="currentColor" class="ColorScheme-Text"/></g>
+<g transform="scale(0.5)"><g class="ColorScheme-Highlight" fill="currentColor" id="g6">
+    <path transform="translate(11.8 -4.3) scale(.4)" d="M11.5 11.5Q12.5 18.5 19.5 19.5Q12.5 20.5 11.5 27.5Q10.5 20.5 3.5 19.5Q10.5 18.5 11.5 11.5Z" id="path5" fill="currentColor" class="ColorScheme-Highlight"/>
+    <path transform="translate(18.8 2.9) scale(.34)" d="M23.5 4.5Q24.25 9.75 29.5 10.5Q24.25 11.25 23.5 16.5Q22.75 11.25 17.5 10.5Q22.75 9.75 23.5 4.5Z" id="path6" fill="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+</g></svg>
