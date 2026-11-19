@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg5">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <g transform="translate(0.5)" id="g3">
+    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g2">
+      <path d="M 7.1,11.5 H 3.5035405 C 2.9493006,11.5 2.5000003,11.0507 2.5,10.49646 V 4.5035405 C 2.5,3.9493004 2.9493004,3.5 3.5035405,3.5 h 2.0395868 l 1.2799754,2 H 9.5 c 1.104569,0 2,0.8954305 2,2 v 3 c 0,0.552285 -0.447715,1 -1,1 H 9.9226123 C 9.1369253,11.5 8.5000002,12.136925 8.5,12.922612 v 6.509255 C 8.5,21.678635 10.321365,23.5 12.568133,23.5 h 1.064974 c 1.138468,0 1.760387,-1.3278 1.03156,-2.2024 l -1.498,-1.7976" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
+      <path d="M 13.166667,27.5 16.5,23.5" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
+    </g>
+  </g>
+  <g transform="rotate(180,16.25,16)" id="g5">
+    <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4">
+      <path d="M 7.7,11.1 6.4868283,9.5 H 3.5035405 C 2.9493006,9.5 2.5,9.0506999 2.5,8.49646 V 4.5035405 C 2.5,3.9493004 2.9493004,3.5 3.5035405,3.5 H 9.5 c 1.104569,0 2,0.8954305 2,2 v 5 c 0,0.552285 -0.447715,1 -1,1 H 9.9226123 C 9.1369253,11.5 8.5000002,12.136925 8.5,12.922612 v 6.509255 C 8.5,21.678635 10.321365,23.5 12.568133,23.5 h 1.064974 c 1.138468,0 1.760387,-1.3278 1.03156,-2.2024 l -1.498,-1.7976" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
+      <path d="M 13.166667,27.5 16.5,23.5" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+      <path d="M 7.7,11.1 6.4868283,9.5 H 3.5035405 C 2.9493006,9.5 2.5,9.0506999 2.5,8.49646 V 4.5035405 C 2.5,3.9493004 2.9493004,3.5 3.5035405,3.5 H 9.5 c 1.104569,0 2,0.8954305 2,2 v 5 c 0,0.552285 -0.447715,1 -1,1 H 9.9226123 C 9.1369253,11.5 8.5000002,12.136925 8.5,12.922612 v 6.509255 C 8.5,21.678635 10.321365,23.5 12.568133,23.5 h 1.064974 c 1.138468,0 1.760387,-1.3278 1.03156,-2.2024 l -1.498,-1.7976" stroke="currentColor" class="ColorScheme-Text" id="path5"/>
+    </g>
+  </g>
+</svg>
