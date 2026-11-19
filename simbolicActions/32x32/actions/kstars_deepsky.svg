@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" id="g2" transform="matrix(1.1622502,0,0,1.1635547,-2.5960039,-2.6168744)" style="stroke-width:0.859917">
+    <path d="M 6.0328675,15.289139 C 7.8900764,11.842402 11.202558,8.9324807 15.5,7.5 c 5.5,-2 11.5,0 11.5,4 0,3.5 -4,6 -7.5,6" id="path1" style="stroke-width:0.859917" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M 26.339932,15.970226 C 24.574531,19.737685 21.10203,22.96599 16.5,24.5 11,26.5 5,24.5 5,20.5 c 0,-3.5 4,-6 7.5,-6" id="path2" style="stroke-width:0.859917" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <ellipse class="ColorScheme-Highlight" cx="15.999999" cy="16" fill="currentColor" id="circle2" style="stroke-width:0.999999" rx="2.3245003" ry="2.3271093"/>
+  <path class="ColorScheme-Text" stroke="currentColor" style="opacity:0.4;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke" d="m 19.085286,15.141059 c 2.794988,-0.453124 5.487694,-2.355375 4.456349,-4.115848 -1.84941,-3.156884 -9.425631,-1.4535692 -13.178419,1.851355 m -1.7244777,3.250299 c -0.7648305,0.627387 -0.9596108,1.287947 -1.0115417,1.914388" id="path3"/>
+  <use x="0" y="0" xlink:href="#path3" id="use4" transform="rotate(180,15.874486,15.977378)"/>
+</svg>
