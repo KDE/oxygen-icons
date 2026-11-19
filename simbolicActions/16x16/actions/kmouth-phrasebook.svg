@@ -1,2 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M9.5 6.5V7a1.5 1.5 0 0 1-1.5 1.5H7.25a.75 .75 0 0 0-.75 .75V11Q6.5 12.5 8 12.5H12Q13 12.5 13.7 13.2L14.8 14.3Q15.5 15 15.5 14V7A1.5 1.5 0 0 0 14 5.5H10.1a.6 .6 0 0 1-.6-.6V2.5Q9.5 .5 7.5 .5H1.8Q.5 .5 .5 1.8M5 8.5H4Q3 8.5 2.3 9.2L1.2 10.3Q.5 11 .5 10V1.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 11.5,6.9 V 7 c 0,0.8284271 -0.671573,1.5 -1.5,1.5 H 7.25 C 6.8357864,8.5 6.5,8.8357864 6.5,9.25 V 11 c 0,1 0.5,1.5 1.5,1.5 h 4 c 0.666667,0 1.233333,0.233333 1.7,0.7 l 1.1,1.1 c 0.317075,0.317075 0.7,0.119265 0.7,-0.3 V 7 C 15.5,6.1715729 14.828427,5.5 14,5.5 H 12.1 C 11.768629,5.5 11.5,5.2313708 11.5,4.9 V 2.5 c 0,-1.1664809 -0.85078,-2 -2,-2 H 1.8 C 1.0543356,0.5 0.5,1.1191582 0.5,1.8 M 5,8.5 H 4 C 3.3333333,8.5 2.7666667,8.7333333 2.3,9.2 L 1.2,10.3 C 0.94314993,10.55685 0.5,10.385536 0.5,10 V 1.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1"/>
+</svg>
