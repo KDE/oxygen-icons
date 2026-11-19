@@ -1,2 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs><path class="ColorScheme-Text" d="M14.5 7.5V13a1.5 1.5 0 0 1-1.5 1.5H2A1.5 1.5 0 0 1 .5 13V7A1.5 1.5 0 0 1 2 5.5H2.5M7.5 5.5H14.5" fill="none" stroke="currentColor" stroke-linecap="round"/><g transform="translate(-.5,-.5) scale(.5)" stroke-width="2"><path style="opacity:1;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;stroke-opacity:1;paint-order:markers fill stroke" d="M 10.707125,7.7700178 14.480912,4.369025 a 2.2691577,2.2691577 179.99945 0 1 3.038203,-2.9e-5 l 8.364191,7.537644" transform="matrix(-1,0,0,1,31.883306,1)" class="ColorScheme-Text" stroke="currentColor"/></g><g transform="translate(-.25,-.25) scale(.5)" stroke-width="2"><path style="opacity:1;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" d="M 9.5516841,20.457947 C 8.2756485,20.062842 7.4352703,18.554525 7.6562137,17.18599 c 0.3262815,-2.021005 1.7486837,-4.590171 3.7832913,-4.590171 2.004094,0 3.010379,2.17293 3.560495,4.404181 0.332936,1.350376 -0.318738,2.802627 -1.537341,3.457947" class="ColorScheme-Text" stroke="currentColor"/><path style="opacity:1;fill:none;stroke-linecap:round;stroke-opacity:1" d="M 11.447154,17.9 9.960511,16.792306" class="ColorScheme-Text" stroke="currentColor"/></g><path class="ColorScheme-Text" d="M5.5 7.5V11.5M2.5 12.5H12.5" fill="none" stroke="currentColor" stroke-linecap="round"/><path class="ColorScheme-Text" d="M2.5 10.5H3M8.5 10.5H11.5" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".5"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m15.5 6.5v6.5c0 .82843-.67157 1.5-1.5 1.5h-12c-.82843 0-1.5-.67157-1.5-1.5v-7c0-.82843.67157-1.5 1.5-1.5h.5m5 0h8" fill="none" stroke="currentColor" stroke-linecap="round"/>
+ <g transform="translate(-.5,-.5) scale(.5)" stroke-width="2">
+  <path class="ColorScheme-Text" d="m23.858 6.7548-4.4405-4.0626c-1.0158-.92938-2.5591-.9294-3.575-3.46e-5l-9.8419 9.004" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"/>
+ </g>
+ <g transform="translate(-.25,-.25) scale(.5)" stroke="currentColor" stroke-width="2">
+  <path class="ColorScheme-Text" d="m9.1911 22.054c-1.535-.4753-2.546-2.2898-2.2802-3.9361.39251-2.4312 2.1036-5.5218 4.5512-5.5218 2.4109 0 3.6214 2.614 4.2832 5.2981.40051 1.6245-.38343 3.3715-1.8494 4.1598" style="fill:none;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m11.471 18.977-1.7884-1.3325" style="fill:none;stroke-linecap:round" stroke="currentColor"/>
+ </g>
+ <path class="ColorScheme-Text" d="m5.5174 7.7947v4.8119m-3.0174-.10659h1.3405m3.5313 0h6.1281" fill="none" stroke="currentColor" stroke-linecap="round"/>
+</svg>
