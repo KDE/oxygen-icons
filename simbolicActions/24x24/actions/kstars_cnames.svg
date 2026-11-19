@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg5">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+<g transform="translate(1,1)"><g transform="scale(0.6875)" stroke-width="1.4545454545454546">
+  <path class="ColorScheme-Highlight" d="M 27.42704,11.073979 21.967856,5.6147958 15.416836,13.257653 9.773979,8.7984692 4.3147958,12.073979" fill="none" stroke="currentColor" stroke-linejoin="round" id="path1" style="stroke-width:1.4545454545454546"/>
+  <g class="ColorScheme-Highlight" fill="currentColor" id="g5" transform="matrix(-1.0918367,0,0,1.0918367,32.340306,-1.4821429)" style="stroke-width:1.3322007272727274">
+    <circle cx="4.5" cy="11.5" r="1.25" id="circle1" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="9.5" cy="6.5" r="1.25" id="circle2" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="15.5" cy="13.5" r="1.25" id="circle3" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="20.668224" cy="9.4158878" r="1.25" id="circle4" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="25.668224" cy="12.415888" r="1.25" id="circle5" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+    <circle cx="5.5" cy="19.5" r="1.25" id="circle6" style="stroke-width:1.3322007272727274" fill="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+  <path stroke-width="1.454544" class="ColorScheme-Text" d="m 9.890508,24.314516 0.672713,2.185634 M 6.561436,23.528594 h 1.911653 c 0.571579,0 0.977327,-0.565874 0.802081,-1.118607 L 7.977596,18.317213 C 7.881446,18.013944 7.45913,18.013938 7.362979,18.317201 l -2.5946089,8.182701" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <g transform="translate(-0.999985,8)" id="g4">
+    <path class="ColorScheme-Text" d="m 15.1,13.5 h 1.3963 c 1.1066,0 2.0036,0.99719 2.0036,2.5036 -0.0023,1.294 -0.89908,2.4984 -2.0036,2.4963 h -0.01253 c -1.648,0 -2.9838,-1.3359 -2.9838,-2.9838 V 9.7998" style="fill:none;stroke-width:1.4545018181818181;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path3"/>
+    <path class="ColorScheme-Text" d="m 13.5,18.5 v -3" style="fill:none;stroke-width:1.4545018181818181;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" stroke="currentColor" id="path4"/>
+  </g>
+  <path d="m 23.5,25.25 v 0.3125 c 0,0.517767 -0.419733,0.9375 -0.9375,0.9375 h -1.5 C 20.199555,26.5 19.5,25.800445 19.5,24.9375 v -1.875 C 19.5,22.199555 20.199555,21.5 21.0625,21.5 h 1.5 c 0.517767,0 0.9375,0.419733 0.9375,0.9375 V 22.75" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" stroke-width="1.4545454545454546" class="ColorScheme-Text" stroke="currentColor" id="path5"/>
+  <path class="ColorScheme-Highlight" d="M 27.42704,11.073979 26.612125,20.188189 15.416836,13.257653 9.773979,8.7984692 4.3147958,12.073979" fill="none" stroke="currentColor" stroke-linejoin="round" id="path6" style="stroke-width:1.4545454545454546"/>
+</g>
+</g></svg>
