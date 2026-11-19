@@ -4,10 +4,10 @@
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
   </defs>
   <g fill="none" stroke-linejoin="round" stroke-linecap="round">
-    <path class="ColorScheme-Text" stroke="currentColor" d="M6.5 8.5v-1l1-1.5m2 1 1 1v4.5a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-2.5h-2m6 0h1"/>
-    <path class="ColorScheme-Text" stroke="currentColor" d="M6.5 1.5a5 5 0 0 0 6 5z"/>
-    <path class="ColorScheme-Text" stroke="currentColor" d="m9.5 4 1-1.5"/>
-    <circle class="ColorScheme-Highlight" cx="11" cy="2" r="0.75" fill="currentColor"/>
+    <path class="ColorScheme-Text" stroke="currentColor" d="M6.5 8.5v-.25a.75.75 0 0 1 .75-.75H9m-1.75 0q0-1 .78-1.68m1.6.72q.87.5.87 1.46v4.5a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-2h-2m6 0h1"/>
+    <path class="ColorScheme-Text" stroke="currentColor" transform="translate(-.5 -.5) scale(.55)" stroke-width="1.8181818181818181" d="M 20.65,6.25 19.39743,7.7064769 A 1.3843174,1.3843174 175.53003 0 1 17.45131,7.8586134 L 13.5,4.5 c -0.75538,5.629053 4.56617,10.15237 10,8.5 L 19.315235,9.4429495"/>
+    
+    <circle class="ColorScheme-Highlight" cx="11.215" cy="2.525" r="0.75" fill="currentColor"/>
     <g class="ColorScheme-Text" stroke="currentColor" fill="currentColor" fill-opacity=".1">
       <rect x="0.5" y="8.5" width="4" height="4" rx="0.8" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
       <rect x="11.5" y="8.5" width="4" height="4" rx="0.8" fill="currentColor" class="ColorScheme-Text" stroke="currentColor"/>
