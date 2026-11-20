@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <defs><style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style></defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M1.5 4c0-1.1 1.1-1.7 2-.9l3 2.1v5.6l-3 2.1c-.9.8-2 .2-2-.9z" fill="currentColor" fill-opacity=".1" stroke="none" class="ColorScheme-Text"/>
+  <circle class="ColorScheme-Text" cx="8" cy="8" r="7" fill="none" stroke="currentColor" stroke-opacity=".65"/>
+  <g transform="translate(3.6 3.2) scale(0.6)" stroke-width="1.666667" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="currentColor" fill-opacity=".07" stroke="none" fill-rule="evenodd" d="M-4.333334000000001 8a11.666667 11.666667 0 1 0 23.333334 0a11.666667 11.666667 0 1 0 -23.333334 0z M1.5 4c0-1.1 1.1-1.7 2-.9l3 2.1v5.6l-3 2.1c-.9.8-2 .2-2-.9z M6.5 4c0-1.1 1.1-1.7 2-.9l5.5 4a1.1 1.1 0 0 1 0 1.8l-5.5 4c-.9.8-2 .2-2-.9z" class="ColorScheme-Text"/>
+
     <path d="M1.5 5.5V4c0-1.1 1.1-1.7 2-.9l3 2.1 M1.5 9.5V12c0 1.1 1.1 1.7 2 .9l3-2.1" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M6.5 4c0-1.1 1.1-1.7 2-.9l5.5 4a1.1 1.1 0 0 1 0 1.8l-5.5 4c-.9.8-2 .2-2-.9z" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/>
-    <circle cx="1.5" cy="7.5" r=".5" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+    <path d="M6.5 4c0-1.1 1.1-1.7 2-.9l5.5 4a1.1 1.1 0 0 1 0 1.8l-5.5 4c-.9.8-2 .2-2-.9z" fill="none" class="ColorScheme-Text" stroke="currentColor"/>
+    <circle cx="1.5" cy="7.5" r="0.8333335" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
   </g>
 </svg>
