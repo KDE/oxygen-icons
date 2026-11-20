@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g transform="translate(-.2 -.2) scale(.8)" id="g2">
+    <path class="ColorScheme-Text" d="M 16,3.5 C 9.0964,3.5 3.5,9.0964 3.5,16 3.5,22.9036 9.0964,28.5 16,28.5 22.9036,28.5 28.5,22.9036 28.5,16 28.5,9.0964 22.9036,3.5 16,3.5 Z m -4.75,6 H 21 c 0.828427,0 1.5,0.671573 1.5,1.5 v 10 c 0,0.828427 -0.671573,1.5 -1.5,1.5 h -9.75 c -0.828427,0 -1.5,-0.671573 -1.5,-1.5 V 11 c 0,-0.828427 0.671573,-1.5 1.5,-1.5 z" style="opacity:0.1;fill:#242629;fill-opacity:0.70196;fill-rule:evenodd;stroke-linecap:round;paint-order:fill markers stroke" stroke="currentColor" id="path1"/>
+    <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-opacity="0.65" style="stroke-width:1.25;stroke-dasharray:none;paint-order:fill markers stroke" id="circle1" d="M 3.7628628,18.55368 C 3.0173554,14.973099 3.8577545,11.134506 6.2821103,8.1378998 9.9811408,3.5657412 16.367044,2.1904838 21.620185,4.8347182 c 5.253141,2.6442343 7.952556,8.5927008 6.483629,14.2874108 -1.468927,5.69471 -6.708855,9.595256 -12.585596,9.368583"/>
+    <path class="ColorScheme-Text" d="m 9.625,19.625 v -8.5 c 0,-0.828427 0.671573,-1.5 1.5,-1.5 h 9.5 c 0.828427,0 1.5,0.671573 1.5,1.5 v 9.5 c 0,0.828427 -0.671573,1.499999 -1.5,1.5 l -11.7382314,1.9e-5 C 6.849452,22.125022 4.2524964,20.709177 3.7792887,18.736131 3.3642075,17.005445 3.37558,15.199802 3.7940313,13.304758" fill="none" stroke="currentColor" stroke-linecap="round" style="stroke-width:1.25;stroke-dasharray:none;paint-order:fill markers stroke" id="path2"/>
+    <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-opacity="0.65" style="stroke-width:1.25;stroke-dasharray:none;paint-order:fill markers stroke" id="path4" d="M 4.0674313,19.724518 C 3.114325,16.668932 3.3517721,13.29979 4.854795,10.340106 7.0792167,5.9598765 11.663133,3.2887435 16.570694,3.5130345"/>
+    <path class="ColorScheme-Text" d="M 15.518218,28.490712 C 14.765536,28.461258 13.624924,28.350713 13.147282,28.240611 11.018931,27.75 9.625,26.616869 9.625,24.5" fill="none" stroke="currentColor" stroke-linecap="round" style="stroke-width:1.25;stroke-dasharray:none;paint-order:fill markers stroke" id="path6"/>
+  </g>
+  <path class="ColorScheme-Text" d="M24.5 20.5h4m-5 4h5m-8 4h8" fill="none" stroke="currentColor" stroke-linecap="round" id="path3"/>
+</svg>
