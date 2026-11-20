@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+    <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="4.5" cy="4.5" r="29">
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/>
+      <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".20"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".55"/>
+    </radialGradient>
+  </defs>
+  <g class="ColorScheme-Text" stroke="currentColor">
+    <rect x="4.5" y="4.5" width="23" height="23" rx="2" fill="url(#light)" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5 13.5a8.5 8.5 0 0 0 8.5-8.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m13.5 13.5 5 5m-10-3 1.5 6m5-13 6 1.5" fill="none" stroke-linecap="round" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+</svg>
