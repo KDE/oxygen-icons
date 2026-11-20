@@ -9,7 +9,14 @@
     </radialGradient>
   </defs>
   <g class="ColorScheme-Text" stroke="currentColor">
-    <rect x="4.5" y="4.5" width="23" height="23" rx="2" fill="url(#light)" stroke="currentColor" class="ColorScheme-Text"/>
+    <rect stroke="none" x="4.5" y="4.5" width="23" height="23" rx="2" fill="url(#light)" class="ColorScheme-Text"/>
+<path d="M20.5 4.5h-14a2 2 0 0 0-2 2v19a2 2 0 0 0 2 2h19a2 2 0 0 0 2-2v-14" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text"/>
+<circle cx="22.5" cy="4.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="24.5" cy="4.5" r=".5" opacity=".55" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="26.5" cy="4.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="6.5" r=".5" opacity=".3" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="8.5" r=".5" opacity=".6" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="10.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
     <path d="M5 13.5a8.5 8.5 0 0 0 8.5-8.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="m13.5 13.5 5 5m-10-3 1.5 6m5-13 6 1.5" fill="none" stroke-linecap="round" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
