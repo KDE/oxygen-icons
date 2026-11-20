@@ -10,7 +10,13 @@
     </linearGradient>
   </defs>
   <g class="ColorScheme-Text" stroke="currentColor">
-    <rect x="4.5" y="4.5" width="23" height="23" rx="2" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M20.5 4.5h-14a2 2 0 0 0-2 2v19a2 2 0 0 0 2 2h19a2 2 0 0 0 2-2v-14" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text"/>
+<circle cx="22.5" cy="4.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="24.5" cy="4.5" r=".5" opacity=".55" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="26.5" cy="4.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="6.5" r=".5" opacity=".3" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="8.5" r=".5" opacity=".6" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="27.5" cy="10.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
     <circle cx="16" cy="16" r="7.5" fill="url(#invert)" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M5.5 26.5 26.5 5.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
