@@ -4,6 +4,6 @@
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
   </defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="m 5.5,16.5 v -2 c 0,-2.209139 1.790861,-4 4,-4 h 14.9 m -1.9,-4 4,4 -4,4 m 4,1 v 2 c 0,2.209139 -1.790861,4 -4,4 h -15 m 2,4 -4,-4 4,-4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5.5 15v-1.5a4 4 0 0 1 4-4h13M22.5 5.5l4 4-4 4M26.5 16.5v2a4 4 0 0 1-4 4h-13M9.5 26.5l-4-4 4-4" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
 </svg>
