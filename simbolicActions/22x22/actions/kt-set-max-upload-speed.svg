@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg2">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-  </defs>
-  <g transform="translate(.375 0) scale(.6875) rotate(180,15.3,15)" id="g2">
-    <g transform="matrix(0.8,0,0,0.8,3,-1)" id="g1">
-      <path class="ColorScheme-Text" d="m 27.375,22.175 c 0,-1.632089 -0.761116,-2.05 -1.7,-2.05 h -3.67 c -0.42,0 -0.63,0.21 -0.63,0.63 v 3.355 c 0,1.49 -1.46,2.26 -2.7,1.31 L 5.1,15.69 C 4.7333333,15.396667 4.7333333,15.103333 5.1,14.81 L 18.675,5.08 c 1.24,-0.95 2.7,-0.18 2.7,1.31 v 3.105 c 0,0.42 0.21,0.63 0.63,0.63 h 3.67 c 0.938884,0 1.7,-0.410582 1.7,-2.05" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1.818182" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-90,16,16)" id="path1"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+ </defs>
+ <g transform="matrix(-.8631 0 0 -.85933 24.082 22.906)" style="stroke-width:.7983">
+  <g transform="matrix(.8 0 0 .8 3 -1)" style="stroke-width:.7983">
+   <path class="ColorScheme-Text" transform="rotate(-90,16,16)" d="m27.432 22.315c0-1.6321-.76112-2.05-1.7-2.05h-3.67c-.42 0-.63.21-.63.63v3.2154c0 1.49-1.46 2.26-2.7 1.31l-13.632-9.73c-.36667-.29333-.36667-.58667 0-.88l13.632-9.73c1.24-.95 2.7-.18 2.7 1.31v3.1067c0 .42.21.63.63.63h3.67c.93888 0 1.7-.41058 1.7-2.05" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4514"/>
   </g>
-  <path class="ColorScheme-Text" d="M5.5 5.5v-2h11v2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
-  <path style="opacity:0.35;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" d="M7.5 13.5h1a2 2 0 0 1 2 2v4" id="path4" class="ColorScheme-Text" stroke="currentColor"/>
-  <path style="opacity:0.35;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" d="M7.5 13.5h1a2 2 0 0 1 2 2v4" id="path5" transform="translate(22 0) scale(-1 1)" class="ColorScheme-Text" stroke="currentColor"/>
+ </g>
+ <g stroke="currentColor">
+  <path class="ColorScheme-Text" d="m3.5 5.0004v-2.4999h15v2.4999" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m15.404 14.5h-.97501a1.95 1.9998 0 00-1.95 1.9998v3.9996" style="fill:none;opacity:.35;paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m6.575 14.5h.97501a1.95 1.9998 0 011.95 1.9998v3.9996" style="fill:none;opacity:.35;paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor"/>
+ </g>
 </svg>
