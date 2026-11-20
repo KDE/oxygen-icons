@@ -8,5 +8,5 @@
       <path class="ColorScheme-Text" d="m19.5 29.107v-14.107c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" stroke="currentColor" stroke-width="1.2524840285714287" fill="none" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
     </g>
   </g>
-  </g><path class="ColorScheme-Highlight" d="M6.5 20.5H16.5A4 4 0 0 0 20.5 16.5V12.5A3 3 0 0 0 17.5 9.5H15.55M16.5 7.5l-1.6 1.6a.565685 .565685 0 0 0 0 .8l1.6 1.6" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
+  </g><path class="ColorScheme-Highlight" d="M6.5 20.5H16.5A4 4 0 0 0 20.5 16.5V11.5a2 2 0 0 0-2-2M16.5 7.5l-1.6 1.6a.565685 .565685 0 0 0 0 .8l1.6 1.6" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
 </g></svg>
