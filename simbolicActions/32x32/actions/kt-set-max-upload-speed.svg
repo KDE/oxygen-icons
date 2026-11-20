@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <g transform="rotate(180,15.3,15)" id="g2">
+    <g transform="matrix(0.8,0,0,0.8,3,-1)" id="g1">
+      <path class="ColorScheme-Text" d="m 27.375,22.175 c 0,-1.632089 -0.761116,-2.05 -1.7,-2.05 h -3.67 c -0.42,0 -0.63,0.21 -0.63,0.63 v 3.355 c 0,1.49 -1.46,2.26 -2.7,1.31 L 5.1,15.69 C 4.7333333,15.396667 4.7333333,15.103333 5.1,14.81 L 18.675,5.08 c 1.24,-0.95 2.7,-0.18 2.7,1.31 v 3.105 c 0,0.42 0.21,0.63 0.63,0.63 h 3.67 c 0.938884,0 1.7,-0.410582 1.7,-2.05" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-90,16,16)" id="path1"/>
+    </g>
+  </g>
+  <path class="ColorScheme-Text" d="m 7.5,8.5 v -2 h 16 v 2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path style="opacity:0.35;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" d="m 10.5,19.5 h 1.528437 A 2.4715631,2.4715631 45 0 1 14.5,21.971563 V 28.5" id="path4" class="ColorScheme-Text" stroke="currentColor"/>
+  <path style="opacity:0.35;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" d="m 10.5,19.5 h 1.528437 A 2.4715631,2.4715631 45 0 1 14.5,21.971563 V 28.5" id="path5" transform="matrix(-1,0,0,1,31,0)" class="ColorScheme-Text" stroke="currentColor"/>
+</svg>
