@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg7">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg7">
   <defs id="defs2">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
     <g id="arrow">
@@ -9,11 +9,11 @@
     </g>
   </defs>
   <g mask="none" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g7" clip-path="none">
-    <path d="M.5 9.5v-8a1 1 0 0 1 1-1h9a5 5 0 0 1 5 5v9a1 1 0 0 1-1 1h-7" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
+    <path d="m 0.5,9.5 v -8 c 0,-0.55228475 0.44771525,-1 1,-1 h 9 c 2.761424,0 5,2.2385763 5,5 v 2.557156 m 0,4.482928 V 14.5 c 0,0.552285 -0.447715,1 -1,1 h -0.990633 m -4.0588682,0 -2.8995874,0" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
     <circle cx="3" cy="13" r="2.5" stroke="currentColor" class="ColorScheme-Text" id="circle3"/>
-    <path d="M 3,7.5 C 4.6849537,7.5 6.1929405,8.2576856 7.2018326,9.4509293 7.2607905,9.5206604 8.1895152,10.892358 8.245,10.965" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+    <path d="m 3,7.5 c 1.6849537,0 3.2872922,0.8401199 4.2961843,2.0333636 0.058958,0.069731 0.9876826,1.4414284 1.0431674,1.5140704" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
     <path d="m 3,3.8054942 c 2.3723223,-10e-8 4.5347999,0.8984517 6.1657309,2.3736532" opacity="0.6" stroke="currentColor" class="ColorScheme-Text" id="path6" style="stroke-width:1"/>
     <path d="m 3,0.5 c 4.0983073,0 7.735957,1.9723083 10.015556,5.0195313" opacity="0.4" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
   </g>
-  <use xlink:href="#arrow" id="use7"/>
+  <path class="ColorScheme-Text" d="M 11.28,14.975 8.045,10.715 C 7.655,10.24 8.005,9.5 8.61,9.5 H 9.185 C 9.395,9.5 9.5,9.395 9.5,9.185 V 8.1 c 0,-0.3313708 0.2686292,-0.6 0.6,-0.6 h 2.8 c 0.331371,0 0.6,0.2686292 0.6,0.6 v 1.085 c 0,0.21 0.105,0.315 0.315,0.315 h 0.575 c 0.605,0 0.955,0.74 0.565,1.215 l -3.235,4.26 c -0.146667,0.183333 -0.293333,0.183333 -0.44,0 z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
 </svg>
