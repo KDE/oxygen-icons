@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NeutralText{color:#f67400}</style>
+    <path id="triangle" d="m36.5 13.984a2.0156 2.0156 0 00-1.7715 1.0566l-6.5 12a2.0156 2.0156 0 001.7715 2.9746h13a2.0156 2.0156 0 001.7715-2.9746l-6.5-12a2.0156 2.0156 0 00-1.7715-1.0566z" transform="translate(-38.25 -15.5) scale(1.5)" stroke-width=".666667"/>
+    <path id="bang" d="M16.5 11.5v8m0 3v.23"/>
+  </defs>
+  <g xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <g class="ColorScheme-Text"><use xlink:href="#triangle" stroke="currentColor" class="ColorScheme-Text"/></g>
+    <g class="ColorScheme-NeutralText"><use xlink:href="#triangle" fill="currentColor" fill-opacity=".1" stroke-opacity=".35" class="ColorScheme-NeutralText" stroke="currentColor"/><use xlink:href="#bang" stroke="currentColor" class="ColorScheme-NeutralText"/></g>
+  </g>
+</svg>
