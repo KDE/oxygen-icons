@@ -7,5 +7,5 @@
     <circle cx="2.5" cy="10.5" r=".5" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M4.5 5.5h4M4.5 10.5h2" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M4.5 7.5h3M4.5 12.5h1" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M8.5 10v-.5a1 1 0 0 1 1-1h4 M14 7l1.5 1.5L14 10 M15.5 11.5v1a1 1 0 0 1-1 1h-4 M10 15l-1.5-1.5L10 12" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M8.5 10v-.5a1 1 0 0 1 1-1h3 M14 7l1.5 1.5L14 10 M15.5 11.5v1a1 1 0 0 1-1 1h-3 M10 15l-1.5-1.5L10 12" stroke="currentColor" class="ColorScheme-Text"/>
   </g></svg>
