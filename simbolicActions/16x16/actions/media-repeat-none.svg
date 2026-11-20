@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-NegativeText {color:#720000;}</style></defs>
+  <path d="M1.5 8v-.5a2 2 0 0 1 2-2H12.5M12 3.5l2.5 2-2.5 2M7 10.5H3.5M4 12.5l-2.5-2 2.5-2" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 8.5,8.5 l 5,5" class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/><path d="M 13.5,8.5 l -5,5" class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/></svg>
