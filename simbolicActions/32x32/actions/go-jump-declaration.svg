@@ -9,5 +9,5 @@
       <path class="ColorScheme-Text" d="m19.5 29.107v-14.107c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" stroke="currentColor" stroke-width=".87673882" fill="none" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
     </g>
   </g>
-  <path class="ColorScheme-Highlight" d="m 9.5,27.5 h 14 c 2.209139,0 4,-1.790861 4,-4 v -6 c 0,-2.209139 -1.790861,-4 -4,-4 h -1.95 m 0.95,-3 -2.6,2.6 c -0.220914,0.220914 -0.220914,0.579086 0,0.8 l 2.6,2.6" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
+  <path class="ColorScheme-Highlight" d="m 9.5,27.5 h 14 c 2.209139,0 4,-1.790861 4,-4 v -6 c 0,-2.209139 -1.790861,-4 -4,-4 M 22.5,10.5 l -2.6,2.6 c -0.220914,0.220914 -0.220914,0.579086 0,0.8 l 2.6,2.6" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path3"/>
 </svg>
