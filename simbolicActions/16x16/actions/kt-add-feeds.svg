@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+<defs>
+<style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+<g id="arrow">
+<g transform="translate(7.5 7.5) scale(.5)">
+<path class="ColorScheme-Text" d="M1.05 7.56 9.07 1.49C10.02 .71 11.5 1.41 11.5 2.62V3.87Q11.5 4.5 12.13 4.5H14.3A1.2 1.2 0 0 1 15.5 5.7V10.3A1.2 1.2 0 0 1 14.3 11.5H12.13Q11.5 11.5 11.5 12.13V13.38C11.5 14.59 10.02 15.29 9.07 14.51L1.05 8.44Q.5 8 1.05 7.56Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0 -1 1 0 0 16)"/>
+
+</g></g>
+<mask id="clear" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16"><rect width="16" height="16" fill="white"/>
+<path d="M9 6h5v3h3v5l-5.5 4L6 11V9h3z"/></mask></defs>
+<g mask="url(#clear)" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+<path d="M.5 9.5v-8a1 1 0 0 1 1-1h9a5 5 0 0 1 5 5v9a1 1 0 0 1-1 1h-7" stroke="currentColor" class="ColorScheme-Text"/>
+<circle cx="3" cy="13" r="2.5" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M3 7.5a5.5 5.5 0 0 1 5.5 5.5" stroke="currentColor" class="ColorScheme-Text"/><path d="M3 5.5a7.5 7.5 0 0 1 7.5 7.5" opacity=".8" stroke="currentColor" class="ColorScheme-Text"/><path d="M3 3a10 10 0 0 1 10 10" opacity=".6" stroke="currentColor" class="ColorScheme-Text"/><path d="M3 .5A12.5 12.5 0 0 1 15.5 13" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
+</g><use xlink:href="#arrow"/></svg>
