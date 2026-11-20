@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg7">
-  <defs id="defs2">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-    <g id="arrow">
-      <g transform="translate(7.5 7.5) scale(.5)" id="g1">
-        <path class="ColorScheme-Text" d="M1.05 7.56 9.07 1.49C10.02 .71 11.5 1.41 11.5 2.62V3.87Q11.5 4.5 12.13 4.5H14.3A1.2 1.2 0 0 1 15.5 5.7V10.3A1.2 1.2 0 0 1 14.3 11.5H12.13Q11.5 11.5 11.5 12.13V13.38C11.5 14.59 10.02 15.29 9.07 14.51L1.05 8.44Q.5 8 1.05 7.56Z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0 -1 1 0 0 16)" id="path1"/>
-      </g>
-    </g>
-  </defs>
-  <g mask="none" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g7" clip-path="none">
-    <path d="m 0.5,9.5 v -8 c 0,-0.55228475 0.44771525,-1 1,-1 h 9 c 2.761424,0 5,2.2385763 5,5 v 2.557156 m 0,4.482928 V 14.5 c 0,0.552285 -0.447715,1 -1,1 h -0.990633 m -4.0588682,0 -2.8995874,0" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
-    <circle cx="3" cy="13" r="2.5" stroke="currentColor" class="ColorScheme-Text" id="circle3"/>
-    <path d="m 3,7.5 c 1.6849537,0 3.2872922,0.8401199 4.2961843,2.0333636 0.058958,0.069731 0.9876826,1.4414284 1.0431674,1.5140704" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
-    <path d="m 3,3.8054942 c 2.3723223,-10e-8 4.5347999,0.8984517 6.1657309,2.3736532" opacity="0.6" stroke="currentColor" class="ColorScheme-Text" id="path6" style="stroke-width:1"/>
-    <path d="m 3,0.5 c 4.0983073,0 7.735957,1.9723083 10.015556,5.0195313" opacity="0.4" stroke="currentColor" class="ColorScheme-Text" id="path7"/>
-  </g>
-  <path class="ColorScheme-Text" d="M 11.28,14.975 8.045,10.715 C 7.655,10.24 8.005,9.5 8.61,9.5 H 9.185 C 9.395,9.5 9.5,9.395 9.5,9.185 V 8.1 c 0,-0.3313708 0.2686292,-0.6 0.6,-0.6 h 2.8 c 0.331371,0 0.6,0.2686292 0.6,0.6 v 1.085 c 0,0.21 0.105,0.315 0.315,0.315 h 0.575 c 0.605,0 0.955,0.74 0.565,1.215 l -3.235,4.26 c -0.146667,0.183333 -0.293333,0.183333 -0.44,0 z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  <g id="arrow"/>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m.5 9.5v-8c0-.55228.44772-1 1-1h9c2.7614 0 5 2.2386 5 5v2.5572m0 4.4829v1.9599c0 .55228-.44772 1-1 1h-.99063m-4.0589 0h-2.8996" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="3" cy="13" r="2.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 7.5c1.685 0 3.2873.84012 4.2962 2.0334.058958.069731.98768 1.4414 1.0432 1.5141" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 3.8055c2.3723-1e-7 4.5348.89845 6.1657 2.3737" opacity=".6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 .5c4.0983 0 7.736 1.9723 10.016 5.0195" opacity=".4" stroke="currentColor"/>
+ </g>
+ <path class="ColorScheme-Text" d="m11.28 14.975-3.235-4.26c-.39-.475-.04-1.215.565-1.215h.575c.21 0 .315-.105.315-.315v-1.085c0-.33137.26863-.6.6-.6h2.8c.33137 0 .6.26863.6.6v1.085c0 .21.105.315.315.315h.575c.605 0 .955.74.565 1.215l-3.235 4.26c-.14667.18333-.29333.18333-.44 0z" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
