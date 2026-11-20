@@ -5,20 +5,16 @@
     <g id="download-arrow" transform="translate(15 15) scale(.55)" stroke-linejoin="round" stroke-linecap="round">
       <path transform="matrix(0 -1 1 0 0 32)" d="M5.1 15.56 17.8 5.83C19.04 4.88 20.5 5.65 20.5 7.14V10.87Q20.5 11.5 21.13 11.5H24.8A1.7 1.7 0 0 1 26.5 13.2V18.8A1.7 1.7 0 0 1 24.8 20.5H21.13Q20.5 20.5 20.5 21.13V24.86C20.5 26.35 19.04 27.12 17.8 26.17L5.1 16.44Q4.55 16 5.1 15.56Z" id="path1"/>
     </g>
-    <mask id="badge-clearance" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
-      <rect width="32" height="32" fill="white" id="rect1"/>
-      <use xlink:href="#download-arrow" fill="black" stroke="black" stroke-width="8" id="use1"/>
-    </mask>
   </defs>
-  <g mask="url(#badge-clearance)" id="g6">
+  <g mask="none" id="g6">
     <g class="ColorScheme-Text" transform="matrix(1.3158 0 0 1.3158 1.5265 1.5265)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g5">
-      <path transform="matrix(1.1176,0,0,1.1176,-1.2941,-1.2941)" d="m2.4999 13.001v-8.6117c0-1.0433 0.84573-1.889 1.889-1.889l1e-4 1e-4h9.2952c3.212 0 5.8158 2.6038 5.8158 5.8158v9.2952c0 1.0433-0.84573 1.889-1.889 1.889h-8.6106" stroke-width=".67998" style="paint-order:fill markers stroke" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
+      <path transform="matrix(1.1176,0,0,1.1176,-1.2941,-1.2941)" d="M 2.4999,13.001 V 4.3893 c 0,-1.0433 0.84573,-1.889 1.889,-1.889 l 1e-4,10e-5 h 9.2952 c 3.212,0 5.8158,2.6038 5.8158,5.8158 v 4.6476 m -6.1943,6.5366 H 9.0004" stroke-width="0.67998" style="paint-order:fill markers stroke" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
       <g stroke-width=".75997" id="g4">
         <circle cx="4.864" cy="17.131" r="3.3642" style="paint-order:fill markers stroke" id="circle2" stroke="currentColor" class="ColorScheme-Text"/>
         <path d="m 4.8295998,10.608219 a 6.5501807,6.5501807 0 0 1 6.5501802,6.55018" style="stroke-width:0.75997;paint-order:fill markers stroke" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
-        <path d="M 4.8295999,7.5684433 A 9.5901565,9.5901565 0 0 1 14.419756,17.1586" style="stroke-width:0.75997;paint-order:fill markers stroke;opacity:0.8" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
-        <path id="path6" style="stroke-width:0.75997;paint-order:fill markers stroke;opacity:0.6" d="M 17.448469,17.158203 C 17.448162,13.854605 16.089771,10.570504 13.753775,8.2345066 11.417778,5.89851 8.1336761,4.5401197 4.8300781,4.5398119" stroke="currentColor" class="ColorScheme-Text"/>
-        <path id="path7" style="stroke-width:0.75997;paint-order:fill markers stroke;opacity:0.4" d="M 20.487933,17.158201 C 20.487551,13.058848 18.801956,8.9836855 15.903276,6.0850037 13.004595,3.1863223 8.9294321,1.5007287 4.8300777,1.5003468" stroke="currentColor" class="ColorScheme-Text"/>
+        <path d="m 4.8295999,7.5684433 c 3.9020959,2e-7 7.2598781,2.3304835 8.7574201,5.6755227" style="opacity:0.8;stroke-width:0.75997;paint-order:fill markers stroke" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
+        <path id="path6" style="opacity:0.6;stroke-width:0.75997;paint-order:fill markers stroke" d="M 15.63945,10.663346 C 15.113252,9.7805478 14.480869,8.9616008 13.753775,8.2345066 11.417779,5.8985091 8.1336761,4.5401197 4.8300781,4.5398119" stroke="currentColor" class="ColorScheme-Text"/>
+        <path id="path7" style="opacity:0.4;stroke-width:0.75997;paint-order:fill markers stroke" d="M 19.240382,11.070648 C 18.457898,9.215997 17.326887,7.5086153 15.903276,6.0850037 13.004596,3.1863216 8.9294321,1.5007287 4.8300777,1.5003468" stroke="currentColor" class="ColorScheme-Text"/>
       </g>
     </g>
   </g>
