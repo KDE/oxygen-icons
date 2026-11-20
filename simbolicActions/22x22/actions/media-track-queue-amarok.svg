@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+<defs>
+<style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+</defs>
+<path id="lyrics-page" d="M 11.5,18.5 L 3.0,18.5 Q 1.5,18.5 1.5,17.0 L 1.5,5.0 Q 1.5,3.5 3.0,3.5 L 15.0,3.5 Q 16.5,3.5 16.5,5.0 L 16.5,10.5" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="4.5" cy="6.5" r="0.6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="4.5" cy="12.5" r="0.6" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 6.5H12.5" opacity="1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 9.5H11.5" opacity="0.4" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 12.5H12.5" opacity="1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.5 15.5H9.5" opacity="0.4" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="ColorScheme-Highlight" stroke="currentColor">
+  <circle cx="17.5" cy="16.5" r="4" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Highlight"/>
+  <path d="M16.5 14.5l1.5-1q.5-.3.5.4v4.6" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Highlight"/>
+</g>
+</svg>
