@@ -8,6 +8,6 @@
       <path d="M5.5 5.5h8m5 0h8 M5.5 9.5h6m7 0h5 M5.5 13.5h7m6 0h8" stroke="currentColor" class="ColorScheme-Text"/>
       <path d="M15.5 4.5v10" opacity=".35" stroke="currentColor" class="ColorScheme-Text"/>
     </g>
-    <path class="ColorScheme-Highlight" transform="translate(32 0) scale(-1 1)" d="M6.5 22.5h17 M22.5 19.5l3 3-3 3" stroke="currentColor"/>
+    <path class="ColorScheme-Highlight" transform="translate(32 0) scale(-1 1)" d="M6.5 22.5h15 M22.5 19.5l3 3-3 3" stroke="currentColor"/>
   </g>
 </svg>
