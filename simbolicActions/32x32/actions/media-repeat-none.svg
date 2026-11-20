@@ -4,7 +4,7 @@
     <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-NegativeText {color:#720000;}</style>
   </defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M5.5 16.5v-2a4 4 0 0 1 4-4h14.9m-1.9-4 4 4-4 4M16 21.5H7.5m2 4-4-4 4-4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5.5 15v-1.5a4 4 0 0 1 4-4h13M22.5 5.5l4 4-4 4M16 22.5H9.5M9.5 26.5l-4-4 4-4" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
   <g transform="translate(1 1)" id="g3">
     <g transform="translate(13 13) scale(.55)" id="g2">
