@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#da4453}</style>
+  <g id="arrow"/>
+ </defs>
+ <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m.5 9.5v-8c0-.55228.44772-1 1-1h9c2.7614 0 5 2.2386 5 5v2.5572m0 4.4829v1.9599c0 .55228-.44772 1-1 1h-.99063m-4.0589 0h-2.8996" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="3" cy="13" r="2.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 7.5c1.685 0 3.2873.84012 4.2962 2.0334.058958.069731.98768 1.4414 1.0432 1.5141" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 3.8055c2.3723-1e-7 4.5348.89845 6.1657 2.3737" opacity=".6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m3 .5c4.0983 0 7.736 1.9723 10.016 5.0195" opacity=".4" stroke="currentColor"/>
+ </g>
+  <path d="M 8.5,8.5 l 5,5" class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/><path d="M 13.5,8.5 l -5,5" class="ColorScheme-NegativeText" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/></svg>
