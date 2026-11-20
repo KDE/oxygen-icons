@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g2" transform="translate(1,2)"/>
+  <path id="rect3" style="opacity:1;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" d="M 17,25.5 H 6.4999995 c -1.108,0 -2,-0.892 -2,-2 V 8.4999995 c 0,-1.108 0.892,-2 2,-2 H 21.5 c 1.108,0 2,0.892 2,2 V 16.5" class="ColorScheme-Text" stroke="currentColor"/>
+  <circle cx="7.5" cy="10.5" r=".7" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="circle1"/>
+  <circle cx="7.5" cy="18.5" r=".7" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="circle2"/>
+  <path id="playlist-track-1" d="m 10.5,10.5 h 8" opacity="1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="playlist-detail-1" d="m 10.5,13.5 h 6" opacity="0.4" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="playlist-track-2" d="m 10.5,18.5 h 7" opacity="1" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path id="playlist-detail-2" d="M10.5 21.5H14.5" opacity=".4" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <g class="ColorScheme-Highlight" stroke="currentColor">
+    <circle cx="23.5" cy="23.5" r="5" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Highlight"/>
+    <path id="one" transform="translate(-.5 13.5)" d="m23.5 7.8475.53817-.29609c.43303-.23826.96263.07551.96262.57032l-4.2e-5 3.9359" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+</svg>
