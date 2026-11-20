@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24" id="svg4">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}</style>
-  </defs>
-  <g transform="translate(1,1)"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round" id="g2">
-    <path id="layer" class="ColorScheme-Text" d="m7 3.5h11q1.5 0 .43934 1.0607l-2.5858 2.5858q-.35355.35355-.85355.35355h-11q-1.5 0-.43934-1.0607l2.5858-2.5858q.35355-.35355.85355-.35355z" fill-opacity=".1" fill="currentColor" stroke="currentColor"/>
-    <path class="ColorScheme-Text" opacity="0.4" d="m 16.894,8.5 h 1.1062 c 1,0 1.1464,0.35355 0.43934,1.0607 l -1.817571,1.817571 M 11.12605,12.50005 H 4.00019 c -1,0 -1.1464,-0.35355 -0.43934,-1.0607 l 2.0873,-2.0873" fill-opacity="0.1" style="fill:none;stroke-linecap:round" stroke="currentColor" id="path1"/>
-    <path class="ColorScheme-Text" opacity=".4" d="M5.65 14.35l-2.09 2.09q-1.06 1.06.44 1.06h6" fill-opacity=".1" style="fill:none;stroke-linecap:round" stroke="currentColor" id="path2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}</style>
+ </defs>
+ <g transform="translate(1,1)"><g fill="currentColor" stroke="currentColor" stroke-linejoin="round">
+  <path id="layer" class="ColorScheme-Text" d="m7 3.5h11q1.5 0 .43934 1.0607l-2.5858 2.5858q-.35355.35355-.85355.35355h-11q-1.5 0-.43934-1.0607l2.5858-2.5858q.35355-.35355.85355-.35355z" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m16.894 8.5h1.1062c1 0 1.1464.35355.43934 1.0607l-1.8176 1.8176m-5.4959 1.1218h-7.1259c-1 0-1.1464-.35355-.43934-1.0607l2.0873-2.0873" fill-opacity=".1" opacity=".4" style="fill:none;stroke-linecap:round" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.65 14.35-2.09 2.09q-1.06 1.06.44 1.06h6" fill-opacity=".1" opacity=".4" style="fill:none;stroke-linecap:round" stroke="currentColor"/>
+ </g>
+ <g transform="translate(1 1)">
+  <g transform="translate(9 9) scale(.385)">
+   <path class="ColorScheme-NegativeText" d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="currentColor" opacity=".1"/>
+   <path class="ColorScheme-NegativeText" d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5974"/>
   </g>
-  <g transform="translate(1 1)" id="g3">
-    <g transform="translate(9 9) scale(.385)" id="g4">
-      <path d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="currentColor" opacity=".1" id="path3" class="ColorScheme-NegativeText"/>
-      <path d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5974" id="path4" class="ColorScheme-NegativeText"/>
-    </g>
-  </g>
+ </g>
 </g></svg>
