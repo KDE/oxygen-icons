@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
   <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M2.5 5.5h2c3.5 0 4.5 6 8 6h4 M2.5 17.5h2c3.5 0 4.5-6 8-6" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M2.5 5.5h2c3.5 0 4.5 6 8 6h2 M2.5 17.5h2c3.5 0 4.5-6 8-6" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="m15.5 8.5 2.65 2.65a.5.5 0 0 1 0 .7l-2.65 2.65" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
 </svg>
