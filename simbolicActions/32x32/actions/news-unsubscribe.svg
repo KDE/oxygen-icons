@@ -3,7 +3,7 @@
   <defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-NegativeText {color:#720000;}</style></defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
     <path d="M3.5 10.5V7A1.5 1.5 0 0 1 5 5.5h19.5a4 4 0 0 1 4 4v6M3.5 12.5v12a2 2 0 0 0 2 2h10" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M6.5 10.5h18" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M6.5 9.5h4m-2 0v4 M13.5 10.5h11" stroke="currentColor" class="ColorScheme-Text"/>
     <path d="M6.5 15.5h8" opacity=".45" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
   <g transform="translate(1 1)" id="g3">
