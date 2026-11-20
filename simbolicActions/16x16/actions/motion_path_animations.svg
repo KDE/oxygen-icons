@@ -3,6 +3,6 @@
   <defs><style id="current-color-scheme">.ColorScheme-Highlight{color:#3daee9}</style></defs>
   <g class="ColorScheme-Highlight" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <rect x="1.5" y="1.5" width="2" height="2" rx=".5" fill="currentColor" fill-opacity=".1" class="ColorScheme-Highlight" stroke="currentColor"/>
-    <path d="M4.5 2.5h4a5 5 0 0 1 0 10h-4 M5 10l-2.5 2.5L5 15" stroke="currentColor" class="ColorScheme-Highlight"/>
+    <path d="M4.5 2.5h4a5 5 0 0 1 0 10h-2 M5 10l-2.5 2.5L5 15" stroke="currentColor" class="ColorScheme-Highlight"/>
   </g>
 </svg>
