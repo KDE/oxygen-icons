@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg6">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
-    <g id="download-arrow" transform="translate(15 15) scale(.55)" stroke-linejoin="round" stroke-linecap="round">
-      <path transform="matrix(0 -1 1 0 0 32)" d="M5.1 15.56 17.8 5.83C19.04 4.88 20.5 5.65 20.5 7.14V10.87Q20.5 11.5 21.13 11.5H24.8A1.7 1.7 0 0 1 26.5 13.2V18.8A1.7 1.7 0 0 1 24.8 20.5H21.13Q20.5 20.5 20.5 21.13V24.86C20.5 26.35 19.04 27.12 17.8 26.17L5.1 16.44Q4.55 16 5.1 15.56Z" id="path1"/>
-    </g>
-  </defs>
-  <g mask="none" id="g6">
-    <g class="ColorScheme-Text" transform="matrix(1.3158 0 0 1.3158 1.5265 1.5265)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g5">
-      <path transform="matrix(1.1176,0,0,1.1176,-1.2941,-1.2941)" d="M 2.4999,13.001 V 4.3893 c 0,-1.0433 0.84573,-1.889 1.889,-1.889 l 1e-4,10e-5 h 9.2952 c 3.212,0 5.8158,2.6038 5.8158,5.8158 v 4.6476 m -6.1943,6.5366 H 9.0004" stroke-width="0.67998" style="paint-order:fill markers stroke" id="path2" stroke="currentColor" class="ColorScheme-Text"/>
-      <g stroke-width=".75997" id="g4">
-        <circle cx="4.864" cy="17.131" r="3.3642" style="paint-order:fill markers stroke" id="circle2" stroke="currentColor" class="ColorScheme-Text"/>
-        <path d="m 4.8295998,10.608219 a 6.5501807,6.5501807 0 0 1 6.5501802,6.55018" style="stroke-width:0.75997;paint-order:fill markers stroke" id="path3" stroke="currentColor" class="ColorScheme-Text"/>
-        <path d="m 4.8295999,7.5684433 c 3.9020959,2e-7 7.2598781,2.3304835 8.7574201,5.6755227" style="opacity:0.8;stroke-width:0.75997;paint-order:fill markers stroke" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
-        <path id="path6" style="opacity:0.6;stroke-width:0.75997;paint-order:fill markers stroke" d="M 15.63945,10.663346 C 15.113252,9.7805478 14.480869,8.9616008 13.753775,8.2345066 11.417779,5.8985091 8.1336761,4.5401197 4.8300781,4.5398119" stroke="currentColor" class="ColorScheme-Text"/>
-        <path id="path7" style="opacity:0.4;stroke-width:0.75997;paint-order:fill markers stroke" d="M 19.240382,11.070648 C 18.457898,9.215997 17.326887,7.5086153 15.903276,6.0850037 13.004596,3.1863216 8.9294321,1.5007287 4.8300777,1.5003468" stroke="currentColor" class="ColorScheme-Text"/>
-      </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }</style>
+  <g id="download-arrow" transform="translate(15 15) scale(.55)" stroke-linecap="round" stroke-linejoin="round">
+   <path transform="matrix(0 -1 1 0 0 32)" d="m5.1 15.56 12.7-9.73c1.24-.95 2.7-.18 2.7 1.31v3.73q0 .63.63.63h3.67a1.7 1.7 0 011.7 1.7v5.6a1.7 1.7 0 01-1.7 1.7h-3.67q-.63 0-.63.63v3.73c0 1.49-1.46 2.26-2.7 1.31l-12.7-9.73q-.55-.44 0-.88z"/>
   </g>
-  <use xlink:href="#download-arrow" class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1.818181818" id="use6"/>
+ </defs>
+ <g>
+  <g class="ColorScheme-Text" transform="matrix(1.3158 0 0 1.3158 1.5265 1.5265)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+   <path class="ColorScheme-Text" transform="matrix(1.1176,0,0,1.1176,-1.2941,-1.2941)" d="m2.4999 13.001v-8.6117c0-1.0433.84573-1.889 1.889-1.889l1e-4 1e-4h9.2952c3.212 0 5.8158 2.6038 5.8158 5.8158v4.6476m-6.1943 6.5366h-4.3053" stroke-width=".67998" style="paint-order:fill markers stroke" stroke="currentColor"/>
+   <g stroke-width=".75997">
+    <circle class="ColorScheme-Text" cx="4.864" cy="17.131" r="3.3642" style="paint-order:fill markers stroke" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m4.8296 10.608a6.5502 6.5502 0 016.5502 6.5502" style="paint-order:fill markers stroke;stroke-width:.75997" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m4.8296 7.5684c3.9021 2e-7 7.2599 2.3305 8.7574 5.6755" style="opacity:.8;paint-order:fill markers stroke;stroke-width:.75997" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m15.639 10.663c-.5262-.8828-1.1586-1.7017-1.8857-2.4288-2.336-2.336-5.6201-3.6944-8.9237-3.6947" style="opacity:.6;paint-order:fill markers stroke;stroke-width:.75997" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m19.24 11.071c-.78248-1.8547-1.9135-3.562-3.3371-4.9856-2.8987-2.8987-6.9738-4.5843-11.073-4.5847" style="opacity:.4;paint-order:fill markers stroke;stroke-width:.75997" stroke="currentColor"/>
+   </g>
+  </g>
+ </g>
+ <use class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-width="1.8182" xlink:href="#download-arrow"/>
 </svg>
