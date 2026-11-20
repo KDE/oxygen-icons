@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <path class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linejoin="round" d="M3.5 5.5h3a1.5 1.5 0 1 1 3 0h3v2.75a1.5 1.5 0 1 1 0 2.5v2.75H9.25a1.5 1.5 0 1 0-2.5 0H3.5v-2.75a1.5 1.5 0 1 0 0-2.5z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" d="M 0.49999948,3.5 4,3.5 c 0,-3.90598621 5.8322884,-3.90598621 5.8322884,0 l 2.6661436,0 0,4.2442139 c 1.195641,-0.7967275 2.792954,0.064506 2.792954,1.5057872 0,1.4412819 -1.597313,2.3025149 -2.792954,1.5057869 l 0,4.744213 H 9.4434431 c 1.0287119,-1.55794 -0.083287,-3.639264 -1.9442269,-3.639264 -1.8609404,0 -2.9729388,2.081324 -1.944227,3.639264 H 0.49999948 v -4.296874 c 1.55084172,1.033419 3.62268312,-0.08367 3.62268312,-1.9531259 0,-1.869457 -2.0718414,-2.9865448 -3.62268312,-1.9531259 z" id="path1" style="stroke-width:0.999999"/>
 </svg>
