@@ -1,11 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="16" height="16" version="1.1">
-  <defs>
-    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path transform="translate(.49649 -.5)" d="m18.6 5h-3.6c-0.55228 0-1-0.44772-1-1v-0.020905c0-1.093-0.88607-1.9791-1.9791-1.9791h-3.0418c-0.77436 0-1.4448 0.44472-1.77 1.0927m4.7944 1.9073h-9.6035l2.6035 5e-6v12.682c0 1.3191 1.2248 2.3175 2.5439 2.3175h5.9312c1.3162 0 2.5249-1.003 2.5249-2.3192v-10.68" fill="none" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="m8.5 9.5v4" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="m13.5 9.5v4" style="paint-order:fill markers stroke" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M14.5 3.5h-4a1 1 0 0 1-1-1 1 1 0 0 0-1-1h-2a1 1 0 0 0-1 1M8 3.5H1.5m2 0v9a2 2 0 0 0 2 2h5a2 2 0 0 0 2-2v-7" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M6.5 7.5v3m3-3v3" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
 </svg>
