@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" viewBox="0 0 24 24">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#da4453}</style>
+  <g id="arrow"/>
+ </defs>
+ <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Text" d="m2.5 13v-9c0-.82843.67157-1.5 1.5-1.5h10c3.0376 0 5.5 2.4624 5.5 5.5v3.0876m-6.5 8.4124h-4" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="5.5" cy="16.5" r="3" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.5 10.5c2.5852 0 4.7886 1.635 5.6324 3.9274" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.5 6.5c3.5197 0 6.6147 1.8184 8.3968 4.5669" opacity=".6" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="m5.5 2.5c5.4018 0 10.089 3.0593 12.424 7.5398" opacity=".4" stroke="currentColor"/>
+ </g>
+  <g transform="translate(1 1)" id="g3">
+    <g transform="translate(9 9) scale(.385)" id="g2">
+      <path d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="currentColor" opacity=".1" id="path1" class="ColorScheme-NegativeText"/>
+      <path d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5974" id="path2" class="ColorScheme-NegativeText"/>
+    </g>
+  </g>
+</g></svg>
