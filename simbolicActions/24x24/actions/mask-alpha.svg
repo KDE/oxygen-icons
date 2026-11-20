@@ -8,6 +8,11 @@
     </radialGradient>
   </defs>
 <g transform="translate(1,1)"><g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-<rect x="2.5" y="2.5" width="17" height="17" rx="1.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+<path d="M13.5 2.5H4a1.5 1.5 0 0 0-1.5 1.5v14a1.5 1.5 0 0 0 1.5 1.5h14a1.5 1.5 0 0 0 1.5-1.5V8.5" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text"/>
+<circle cx="15.5" cy="2.5" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="17.5" cy="2.5" r=".5" opacity=".45" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="19.5" cy="3.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="19.5" cy="5.5" r=".5" opacity=".5" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
+<circle cx="19.5" cy="7" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
 <path fill="url(#alpha)" stroke="none" fill-rule="evenodd" d="M3 3 H19 V19 H3 Z M11 11 m-5.5 0a5.5 5.5 0 1 0 11 0a5.5 5.5 0 1 0 -11 0Z"/><circle cx="11" cy="11" r="5.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
 </g></g></svg>
