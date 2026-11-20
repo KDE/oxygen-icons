@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-NeutralText {color:#f67400;}</style></defs>
+  <path d="M2 1.5h11a1.25 1.25 0 0 1 1.1 1.84L8.4 13.93a1.02 1.02 0 0 1-1.8 0L.9 3.34A1.25 1.25 0 0 1 2 1.5Z" class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linejoin="round"/>
+  <path d="M7.5 4.5v3m0 2h.01" class="ColorScheme-NeutralText" fill="none" stroke="currentColor" stroke-linecap="round"/>
+</svg>
