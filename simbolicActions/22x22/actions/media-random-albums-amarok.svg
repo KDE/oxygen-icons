@@ -5,5 +5,5 @@
                 color:#232629;
             }</style>
   </defs><path xmlns="http://www.w3.org/2000/svg" d="M5.5 19.5h4M20.5 10v-3.5a3 3 0 0 0-3-3H2.5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-13" class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
-    <path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M13.5 18.5h.5c2.2 0 2.2-5 4.5-5 M19 12l1.5 1.5L19 15 M13.5 13.5q1.5 0 2.1 1 M17.3 17.9q.6.6 1.2.6 M19 17l1.5 1.5L19 20" stroke="currentColor" class="ColorScheme-Text"/>
+    <path fill="none" stroke-linecap="round" stroke-linejoin="round" d="M13.5 18.5h.5c2 0 2-5 3.5-5 M19 12l1.5 1.5L19 15 M13.5 13.5q1.5 0 2.1 1 M16.3 17.9q.6.6 1.2.6 M19 17l1.5 1.5L19 20" stroke="currentColor" class="ColorScheme-Text"/>
 </svg>
