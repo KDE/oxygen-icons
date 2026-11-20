@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-<defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#db0000}</style><mask id="badge-gap"><rect width="16" height="16" fill="white"/><path d="M11 5.5 17 16H5Z" fill="black" stroke="black" stroke-width="2" stroke-linejoin="round"/></mask></defs><g mask="url(#badge-gap)">
-  <g transform="matrix(.81812 0 0 .81156 .11633 -1.5134)" style="stroke-width:1.2272" id="g4">
-<defs id="defs1"/><path class="ColorScheme-Text" d="m18.192 17.883v-11.583l-8.5562 6.2842-8.5562-6.161v11.459z" fill="currentColor" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="opacity:.1;stroke-width:1.2272" paint-order="stroke fill markers" id="path1"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:.90709" id="g3"><g style="stroke-width:.90709" id="g2"><path class="ColorScheme-Text" d="m1.7608 8.4094.0001316 5.5475a1.1088 1.1088 44.999 001.1088 1.1087h11.312a1.1087 1.1087 135 001.1087-1.1087l-.000561-7.9591a1.8502 1.8502 45.032 00-1.848-1.8501l-10.34-.012171a1.3611 1.3611 135.51 00-1.3625 1.3384 1.6974 1.6974 63.024 00.71911 1.4128l5.1513 3.6447a1.5387 1.5387 179.51 001.799-.0155l4.3993-3.2278" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.90709" id="path2" stroke="currentColor"/></g></g>
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#db0000}</style>
+  </defs>
+  <g class="ColorScheme-Text" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M.5 4.5 7 9a1.6 1.6 0 0 0 1.6.12L6 13.5H1.5a1 1 0 0 1-1-1Z" fill="currentColor" opacity=".1" class="ColorScheme-Text"/>
+    <path d="M.5 6.5v6a1 1 0 0 0 1 1h4.25M15.5 10V3.5a2 2 0 0 0-2-2H2a1.5 1.5 0 0 0-.85 2.74l5.8 4.12a1.8 1.8 0 0 0 2.1 0l.6-.44m3.25-2.38 1.18-.86" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M.5 11.5c.3-1.4 1.1-2.1 2.5-2.8l1.2-.6" fill="none" stroke="currentColor" opacity=".24" class="ColorScheme-Text"/>
+    <path d="M10.7 7.5a.9.9 0 0 1 1.6 0l3 5.6a.9.9 0 0 1-.8 1.4h-6a.9.9 0 0 1-.8-1.4z" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
+    <path class="ColorScheme-NegativeText" d="M11.5 9.5v1.5m0 1.5h0" fill="none" stroke="currentColor"/>
   </g>
-<path transform="matrix(.81812 0 0 .81156 -.70179 -3.1365)" d="m1.5 18a3.5276 3.5276 124.6 012.1062-3.0531l2.613-1.3065" style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2272" id="path4" stroke="currentColor" class="ColorScheme-Text"/><path transform="matrix(-.81812 0 0 .81156 18.933 -3.1365)" d="m4.1966 18a3.5276 3.5276 124.6 012.1062-3.0531l2.5853-1.2926" style="fill:none;opacity:.24217;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2272" id="path5" stroke="currentColor" class="ColorScheme-Text"/></g><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"><path d="M10.7 7.5a.9.9 0 0 1 1.6 0l3 5.6a.9.9 0 0 1-.8 1.4h-6a.9.9 0 0 1-.8-1.4z" fill="currentColor" fill-opacity=".1" class="ColorScheme-Text" stroke="currentColor"/><path class="ColorScheme-NegativeText" d="M11.5 9.5v1.5m0 1.5h0" stroke="currentColor"/></g></svg>
+</svg>
