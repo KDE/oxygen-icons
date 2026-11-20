@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 11.5h2c4.1 0 4.1-7 8-7h1M12 2.5l2.5 2-2.5 2M1.5 4.5h2q1.4 0 2.5 1.4M9 10q1.1 1.5 2.5 1.5h1M12 9.5l2.5 2-2.5 2" stroke="currentColor" class="ColorScheme-Text"/>
+<g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M1.5 11.5h2c3.5 0 3.5-7 7-7M12 2.5l2.5 2-2.5 2M1.5 4.5h2q1.4 0 2.5 1.4M8.8 10q.8 1.5 1.7 1.5M12 9.5l2.5 2-2.5 2" stroke="currentColor" class="ColorScheme-Text"/>
 </g></svg>
