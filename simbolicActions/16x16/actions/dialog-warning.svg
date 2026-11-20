@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NeutralText{color:#f67400}</style>
+    <path id="triangle" d="M7.45 2.6a1.2 1.2 0 0 1 2.1 0l5 10.1a1.25 1.25 0 0 1-1.12 1.8H3.57a1.25 1.25 0 0 1-1.12-1.8Z"/>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <use class="ColorScheme-Text" xlink:href="#triangle" stroke="currentColor"/>
+    <g class="ColorScheme-NeutralText">
+      <use xlink:href="#triangle" fill="currentColor" fill-opacity=".1" stroke-opacity=".35" class="ColorScheme-NeutralText" stroke="currentColor"/>
+      <path d="M8.5 5.5v4m0 2v.15" stroke="currentColor" class="ColorScheme-NeutralText"/>
+    </g>
+  </g>
+</svg>
