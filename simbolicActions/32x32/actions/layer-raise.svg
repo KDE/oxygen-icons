@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path id="layer" class="ColorScheme-Text" d="M 22.265574,10.5 H 25 c 0.553538,-10e-7 0.830751,0.66925 0.43934,1.06066 l -4.302944,4.302944 C 20.728918,16.271082 20.17626,16.5 19.6,16.5 H 4.5 c -0.3690244,-1e-6 -0.5538322,-0.446167 -0.292893,-0.707107 l 2.7923507,-2.792351" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" style="fill:none;stroke-linecap:round"/>
+  <path id="use1" class="ColorScheme-Text" d="M 22.658031,16.5 H 23 c 0.553538,-1e-6 0.830751,0.66925 0.43934,1.06066 l -4.302944,4.302944 C 18.728918,22.271082 18.17626,22.5 17.6,22.5 H 2.5 c -0.3690244,-1e-6 -0.5538322,-0.446167 -0.292893,-0.707107 l 2.7923507,-2.792351" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" style="opacity:0.4;fill:none;stroke-linecap:round"/>
+  <path id="use2" class="ColorScheme-Text" d="M 8.3,5.5 H 20.658031 23 c 0.553538,-1e-6 0.830751,0.66925 0.43934,1.06066 l -4.302944,4.302944 C 18.728918,11.271082 18.17626,11.5 17.6,11.5 H 2.5 C 2.1309756,11.499999 1.9461678,11.053833 2.207107,10.792893 L 4.9994577,8.000542 6.934315,6.065685 C 7.2965173,5.703483 7.7877688,5.5 8.3,5.5 Z" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" style="opacity:0.4"/>
+  <path class="ColorScheme-Highlight" d="m 26.5,22.5 h 0.711356 A 1.2886441,1.2886441 45 0 0 28.5,21.211356 V 14.4 M 26,15 28.5,12.5 31,15" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path id="path3" class="ColorScheme-Text" d="M 22.265574,21.5 H 25 c 0.553538,-1e-6 0.830751,0.66925 0.43934,1.06066 l -4.302944,4.302944 C 20.728918,27.271082 20.17626,27.5 19.6,27.5 H 4.5 c -0.3690244,-1e-6 -0.5538322,-0.446167 -0.292893,-0.707107 l 2.7923507,-2.792351" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linejoin="round" style="fill:none;stroke-linecap:round"/>
+</svg>
