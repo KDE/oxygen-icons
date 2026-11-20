@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
   <defs><style id="current-color-scheme">.ColorScheme-Text {color:#232629;}</style></defs>
-  <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M8.5 2.754a8 8 0 1 0 3 15.68 M18.5 10.5a8 8 0 0 0-8-8V10q0 .5.416.777L14 12.7" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M17.5 17.5v-5c.4 1.5 2.7 1.9 3 4 M17.5 17.5a2 2 0 1 1-1-1.732" stroke="currentColor" class="ColorScheme-Text"/>
+  <g transform="translate(1,1)"><g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8.5 2.754A8 8 0 0 0 10.5 18.5 M18.36 9A8 8 0 0 0 10.5 2.5V10q0 .5.416.777L14.5 13" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M17.5 18.5v-7c.45 2.05 2.9 2.35 3.45 4.45q.1.4.05.8 M17.5 18.5a2 2 0 1 1-1-1.732" stroke="currentColor" class="ColorScheme-Text"/>
   </g>
 </g></svg>
