@@ -3,10 +3,8 @@
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
   </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" id="g4">
-    <path d="M 3,4 H 19" stroke-width="2" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
-    <path d="M 3,9 H 19" stroke-width="2" stroke-dasharray="2, 3" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
-    <path d="m 2.5,13.5 h 17" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
-    <path d="m 2.5,17.5 h 17" stroke-dasharray="0, 2" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
-  </g>
+  <path d="M 3,4 H 19" stroke-width="2" stroke="currentColor" class="ColorScheme-Text" id="path1" style="fill:none;stroke-linecap:round"/>
+  <path d="M 3,9 H 19" stroke-width="2" stroke-dasharray="2, 3" stroke="currentColor" class="ColorScheme-Text" id="path2" style="fill:none;stroke-linecap:round"/>
+  <path d="m 2.5,13.5 h 17" stroke="currentColor" class="ColorScheme-Text" id="path3" style="fill:none;stroke-linecap:round"/>
+  <path d="m 2.5,17.5 h 17" stroke-dasharray="0, 2" stroke="currentColor" class="ColorScheme-Text" id="path4" style="fill:none;stroke-linecap:round"/>
 </svg>
