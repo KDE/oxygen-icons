@@ -7,6 +7,6 @@
     <path d="M5.5 7H26.5" stroke-width="2" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
     <path d="M5.5 13H26.5" stroke-width="2" stroke-dasharray="3 3" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
     <path d="M5.5 19.5H26.5" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
-    <path d="M5.5 25.5H26.5" stroke-dasharray="0 3" stroke="currentColor" class="ColorScheme-Text" id="path4" style="stroke-dasharray:0.001,3;stroke-dashoffset:0"/>
+    <path d="M 5.4992118,25.5 H 27.068941" stroke-dasharray="0 3" stroke="currentColor" class="ColorScheme-Text" id="path4" style="stroke-width:0.999998;stroke-dasharray:0.000999998, 3;stroke-dashoffset:0"/>
   </g>
 </svg>
