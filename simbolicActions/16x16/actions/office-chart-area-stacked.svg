@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
- <path class="ColorScheme-Highlight" d="M3.5 7.5 6.5 4.5 8.5 5.5 11.5 2.5 13.5 4.5 V13.5 H3.5 Z" fill="currentColor" opacity=".25"/>
- <path class="ColorScheme-Text" d="M3.5 11.5 6.5 8.5 8.5 9.5 11.5 6.5 13.5 8.5 V13.5 H3.5 Z" fill="currentColor" opacity=".2"/>
- <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Highlight" d="M3.5 7.5 6.5 4.5 8.5 5.5 11.5 2.5 13.5 4.5" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="M3.5 11.5 6.5 8.5 8.5 9.5 11.5 6.5 13.5 8.5" opacity=".65" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="M2.5 2.5 V13.5 H13.5" stroke="currentColor"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg5">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Highlight" d="M 2.6818182,7.409091 6.2272728,3.8636364 8.5909092,5.0454546 12.136364,1.5 14.5,3.8636364 V 14.5 H 2.6818182 Z" fill="currentColor" opacity="0.25" id="path1" style="stroke-width:1"/>
+  <path class="ColorScheme-Text" d="M 2.6818182,12.136364 6.2272728,8.5909092 8.5909092,9.7727274 12.136364,6.2272728 14.5,8.5909092 V 14.5 H 2.6818182 Z" fill="currentColor" opacity="0.2" id="path2" style="stroke-width:1"/>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g5" transform="matrix(1.1818182,0,0,1.1818182,-1.4545455,-1.4545455)" style="stroke-width:0.846154">
+    <path class="ColorScheme-Highlight" d="m 3.5,7.5 3,-3 2,1 3,-3 2,2" stroke="currentColor" id="path3" style="stroke-width:0.846154"/>
+    <path class="ColorScheme-Text" d="m 3.5,11.5 3,-3 2,1 3,-3 2,2" opacity="0.65" stroke="currentColor" id="path4" style="stroke-width:0.715976"/>
+    <path class="ColorScheme-Text" d="m 2.5,2.5 v 11 h 11" stroke="currentColor" id="path5" style="stroke-width:0.846154"/>
+  </g>
 </svg>
