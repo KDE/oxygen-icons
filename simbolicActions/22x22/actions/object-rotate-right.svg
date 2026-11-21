@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <g transform="translate(22 0) scale(-1 1)" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <rect class="ColorScheme-Text" x="7.5" y="9.5" width="7" height="7" rx="1.25" transform="rotate(-20 11 13)" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
-    <path class="ColorScheme-Highlight" d="M17.5 8.5C16.5 4.5 12 3.5 8.5 4.5 M6.5 3.5l-2 3h4" fill="none" stroke="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <g stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g1" transform="matrix(-1.2482652,0,0,1.2474588,24.714509,-1.8646137)" style="stroke-width:0.801371">
+    <rect class="ColorScheme-Text" x="7.5" y="9.5" width="7" height="7" rx="1.0014654" transform="rotate(-20,11,13)" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="rect1" style="stroke-width:0.746524" ry="1.0019615"/>
+    <path class="ColorScheme-Highlight" d="m 17.493412,8.7053226 c -1,-4 -5.5,-5 -8.9999999,-4 m -2,-1 -2,3 h 4" fill="none" stroke="currentColor" id="path1" style="stroke-width:0.801371"/>
   </g>
 </svg>
