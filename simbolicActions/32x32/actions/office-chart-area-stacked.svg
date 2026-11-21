@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+ <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+ <path class="ColorScheme-Highlight" d="M7.5 15.5 13.5 9.5 17.5 12.5 23.5 5.5 27.5 8.5V15.5L23.5 12.5 17.5 19.5 13.5 16.5 7.5 22.5Z" fill="currentColor" opacity=".25"/>
+ <path class="ColorScheme-Text" d="M7.5 22.5 13.5 16.5 17.5 19.5 23.5 12.5 27.5 15.5V24.5H7.5Z" fill="currentColor" opacity=".16"/>
+ <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path class="ColorScheme-Highlight" d="M7.5 15.5 13.5 9.5 17.5 12.5 23.5 5.5 27.5 8.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M7.5 22.5 13.5 16.5 17.5 19.5 23.5 12.5 27.5 15.5" opacity=".65" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M5.5 5.5V25.5H27.5" stroke="currentColor"/>
+ </g>
+</svg>
