@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
- <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round">
-  <rect x="1.5" y="3.5" width="6" height="9" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
-  <rect x="8.5" y="3.5" width="6" height="9" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
-  <path d="M3.5 6.5h2m-2 3h2m5-3h2m-2 3h2" fill="none" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" id="g2">
+    <path id="rect1" class="ColorScheme-Text" style="fill-opacity:0.1" d="m 1.5,3.5 h 4 c 0.554,0 1,0.446 1,1 v 7 c 0,0.554 -0.446,1 -1,1 h -4 c -0.554,0 -1,-0.446 -1,-1 v -7 c 0,-0.554 0.446,-1 1,-1 z" fill="currentColor" stroke="currentColor"/>
+    <rect x="8.5" y="3.5" width="6" height="9" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text" id="rect2"/>
+    <path d="m 2.5,6.5 h 2 m -2,3 h 2 m 6,-3 h 2 m -2,3 h 2" fill="none" opacity="0.4" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
+  </g>
 </svg>
