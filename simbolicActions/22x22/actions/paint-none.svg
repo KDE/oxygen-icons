@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#222629}.ColorScheme-NegativeText{color:#720000}</style></defs>
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-NegativeText{color:#720000}</style></defs>
   <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round">
     <rect x="3.5" y="3.5" width="15" height="15" rx="1.5" opacity=".45" stroke="currentColor" class="ColorScheme-Text"/>
     <path class="ColorScheme-NegativeText" stroke="currentColor" d="M7.5 14.5l7-7"/>
