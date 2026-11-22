@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs><g transform="scale(.5)" stroke-width="2">
+  <g class="ColorScheme-Text" fill="currentColor">
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(0 16 16)" opacity="0.050" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(15 16 16)" opacity="0.077" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(30 16 16)" opacity="0.104" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(45 16 16)" opacity="0.131" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(60 16 16)" opacity="0.158" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(75 16 16)" opacity="0.185" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(90 16 16)" opacity="0.212" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(105 16 16)" opacity="0.239" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(120 16 16)" opacity="0.266" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(135 16 16)" opacity="0.293" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(150 16 16)" opacity="0.320" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(165 16 16)" opacity="0.347" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(180 16 16)" opacity="0.374" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(195 16 16)" opacity="0.401" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(210 16 16)" opacity="0.428" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(225 16 16)" opacity="0.455" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(240 16 16)" opacity="0.482" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(255 16 16)" opacity="0.509" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(270 16 16)" opacity="0.536" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(285 16 16)" opacity="0.563" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(300 16 16)" opacity="0.590" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(315 16 16)" opacity="0.617" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(330 16 16)" opacity="0.644" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M16 16V5.5A10.5 10.5 0 0 1 18.718 5.858Z" transform="rotate(345 16 16)" opacity="0.671" fill="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <circle class="ColorScheme-Text" cx="16" cy="16" r="10.5" fill="none" stroke="currentColor"/>
+  <circle class="ColorScheme-Highlight" cx="16" cy="16" r="1.5" fill="currentColor"/>
+</g></svg>
