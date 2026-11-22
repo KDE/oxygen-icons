@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <path class="ColorScheme-Text" d="M1.5 4.5 m4 12.75 q-.25 .25-.75 .25h-2.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h2.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
-  <path class="ColorScheme-Text" d="M6.5 4.5 m4 12.75 q-.25 .25-.75 .25h-2.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h2.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
-  <path class="ColorScheme-Text" d="M11.5 4.5 m4 12.75 q-.25 .25-.75 .25h-2.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h2.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
-  <rect class="ColorScheme-Text" x="16.5" y="4.5" width="4" height="13" rx=".75" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 4,17.25 C 3.8333333,17.416667 3.5833333,17.5 3.25,17.5 h -2 C 0.75,17.5 0.5,17.25 0.5,16.75 V 5.25 C 0.5,4.75 0.75,4.5 1.25,4.5 h 2 C 3.5833333,4.5 3.8333333,4.583333 4,4.75" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <path class="ColorScheme-Text" d="M 9.5,17.25 C 9.3333333,17.416667 9.0833333,17.5 8.75,17.5 H 6.25 C 5.75,17.5 5.5,17.25 5.5,16.75 V 5.25 C 5.5,4.75 5.75,4.5 6.25,4.5 h 2.5 c 0.3333333,0 0.5833333,0.083333 0.75,0.25" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linecap="round" id="path2"/>
+  <path class="ColorScheme-Text" d="M11.5 4.5 m4 12.75 q-.25 .25-.75 .25h-2.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h2.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round" id="path3"/>
+  <rect class="ColorScheme-Text" x="17.5" y="4.5" width="4" height="13" rx="0.75" fill="currentColor" fill-opacity="0.1" stroke="currentColor" id="rect3" ry="0.75"/>
 </svg>
