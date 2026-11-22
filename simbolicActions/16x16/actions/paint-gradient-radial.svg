@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <defs>
-    <style id="current-color-scheme">.ColorScheme-Text{color:#216629}.ColorScheme-Highlight{color:#3daee9}</style>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
     <radialGradient id="radial-fill">
       <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".65"/>
       <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".05"/>
