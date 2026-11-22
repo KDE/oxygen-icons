@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg10">
+  <defs id="defs2">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+    <radialGradient id="alpha" gradientUnits="userSpaceOnUse" cx="21.588661" cy="22.386066" r="15" fx="21.588661" fy="22.386066" gradientTransform="matrix(1.1924044,0,0,1.1924044,-3.9542041,-4.3071783)">
+      <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".48" id="stop1"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".04" id="stop2"/>
+    </radialGradient>
+  </defs><g transform="scale(.6875)" stroke-width="1.45454545">
+  <path d="m 6.5,4.5 h 19 c 1.333333,0 2,0.6666667 2,2 v 19 c 0,1.333333 -0.666667,2 -2,2 h -19 c -1.3333333,0 -2,-0.666667 -2,-2 v -19 c 0,-1.3333333 0.6666667,-2 2,-2 z m 21,15.5 c 0,8.600774 0.125445,7.499997 -7.5,7.499997 -4.142136,0 -5.5,-1.357859 -5.5,-5.499997 0,-4.142138 3.357864,-7.499997 7.5,-7.499997 3.022984,0 5.5,1.499997 5.5,2.14362 0,0.602725 0,2.237225 0,3.356377 z" fill="url(#alpha)" fill-rule="evenodd" id="path2" style="fill:url(#alpha)"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" id="g9">
+    <circle cx="22.5" cy="4.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle3"/>
+    <circle cx="24.5" cy="4.5" r=".5" opacity=".55" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle4"/>
+    <circle cx="26.5" cy="4.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle5"/>
+    <circle cx="27.5" cy="6.5" r=".5" opacity=".3" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle6"/>
+    <circle cx="27.5" cy="8.5" r=".5" opacity=".6" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle7"/>
+    <circle cx="27.5" cy="10.5" r=".5" opacity=".85" fill="currentColor" stroke="none" class="ColorScheme-Highlight" id="circle8"/>
+    <path stroke="currentColor" class="ColorScheme-Text" id="circle9" d="M 16.952094,27.546949 A 7.5,7.5 0 0 1 16.278049,17.151364 7.5,7.5 0 0 1 26.643304,16.110201"/>
+    <path d="m 20.5,4.5 h -14 c -1.1045695,0 -2,0.8954305 -2,2 V 14 m 0,3 v 8.5 c 0,1.104569 0.8954305,2 2,2 h 19 c 1.104569,0 2,-0.895431 2,-2 V 19 m 0,-3 v -4.5" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Highlight" id="path3"/>
+  </g>
+  <g class="ColorScheme-Highlight" fill="none" stroke="currentColor" id="g10">
+    <rect x="3" y="14" width="3" height="3" rx=".5" id="rect9" stroke="currentColor" class="ColorScheme-Highlight"/>
+    <rect x="26" y="16" width="3" height="3" rx=".5" id="rect10" stroke="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+</g></svg>
