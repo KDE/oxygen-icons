@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#216629}.ColorScheme-Highlight{color:#3daee9}</style>
+    <radialGradient id="radial-fill">
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".65"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".05"/>
+    </radialGradient>
+  </defs>
+  <circle class="ColorScheme-Text" cx="8" cy="8" r="5.5" fill="url(#radial-fill)" stroke="currentColor"/>
+  <circle class="ColorScheme-Highlight" cx="8" cy="8" r="1" fill="currentColor"/>
+</svg>
