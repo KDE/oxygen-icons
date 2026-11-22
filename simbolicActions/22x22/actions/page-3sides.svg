@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
   <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round">
-    <rect x="2.5" y="4.5" width="5" height="13" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
-    <rect x="8.5" y="4.5" width="5" height="13" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
-    <rect x="14.5" y="4.5" width="5" height="13" rx="1" fill="currentColor" fill-opacity=".1" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M4 8.5h2m-2 3h2 M10 8.5h2m-2 3h2 M16 8.5h2m-2 3h2" fill="none" opacity=".4" stroke="currentColor" class="ColorScheme-Text"/>
-  </g>
+  <path class="ColorScheme-Text" d="M2.5 4.5 m5 12.75 q-.25 .25-.75 .25h-3.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h3.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
+  <path class="ColorScheme-Text" d="M8.5 4.5 m5 12.75 q-.25 .25-.75 .25h-3.5q-.75 0-.75-.75v-11.5q0-.75.75-.75h3.5q.5 0 .75.25" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
+  <rect class="ColorScheme-Text" x="14.5" y="4.5" width="5" height="13" rx=".75" fill="currentColor" fill-opacity=".1" stroke="currentColor"/>
 </svg>
