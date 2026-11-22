@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <rect class="ColorScheme-Text" x="2.5" y="2.5" width="11" height="11" rx="1" fill="none" stroke="currentColor"/>
-  <g class="ColorScheme-Highlight" fill="currentColor">
-    <rect x="5" y="5" width="2" height="6" rx=".75" opacity=".25" fill="currentColor" class="ColorScheme-Highlight"/>
-    <rect x="7" y="5" width="2" height="6" rx=".75" opacity=".55" fill="currentColor" class="ColorScheme-Highlight"/>
-    <rect x="9" y="5" width="2" height="6" rx=".75" opacity=".85" fill="currentColor" class="ColorScheme-Highlight"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <rect class="ColorScheme-Text" x="2.5" y="2.5" width="11" height="11" rx="1" fill="none" stroke="currentColor" id="rect1"/>
+  <rect x="4" y="3.9724982" width="2" height="8.0550041" rx="0.75" opacity="0.25" fill="currentColor" class="ColorScheme-Highlight" id="rect2" ry="0.75000006" style="stroke-width:1"/>
+  <rect x="7" y="3.9724982" width="2" height="8.0550041" rx="0.75" opacity="0.55" fill="currentColor" class="ColorScheme-Highlight" id="rect3" style="stroke-width:1" ry="0.75000006"/>
+  <rect x="10" y="3.9724982" width="2" height="8.0550041" rx="0.75" opacity="0.85" fill="currentColor" class="ColorScheme-Highlight" id="rect4" ry="0.75000006" style="stroke-width:1"/>
 </svg>
