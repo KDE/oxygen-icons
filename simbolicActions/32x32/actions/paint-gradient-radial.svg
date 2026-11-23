@@ -4,9 +4,9 @@
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
     <radialGradient id="radial-fill">
       <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".0"/>
-       <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".15"/>
-       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".0"/>
-      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/>
+       <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".10"/>
+       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".20"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".40"/>
     </radialGradient>
   </defs>
   <circle class="ColorScheme-Text" cx="16" cy="16" r="10.5" fill="url(#radial-fill)" stroke="currentColor"/>
