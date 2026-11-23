@@ -3,7 +3,7 @@
   <defs>
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
     <radialGradient id="radial-fill">
-      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".05"/>
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".40"/>
       <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".65"/>
     </radialGradient>
   </defs>
