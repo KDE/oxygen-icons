@@ -3,10 +3,10 @@
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
   </defs>
-  <path class="ColorScheme-Text" d="m 3.6363638,17.227273 4.5454545,-5.681818 3.4090917,2.272727 4.545455,-6.8181822 3.40909,2.2727273 V 18.363637 H 3.6363638 Z" fill="currentColor" opacity="0.08" id="path1" style="stroke-width:1"/>
-  <path class="ColorScheme-Highlight" d="m 9.3181821,12.303068 2.2727279,1.515114 4.545455,-6.8181822 3.40909,2.2727273 V 13.818182 H 9.3181821 Z" fill="currentColor" opacity="0.25" id="path2" style="stroke-width:1"/>
-  <path class="ColorScheme-Text" d="M 2.5000001,2.4545452 V 19.500001 H 19.545455" stroke="currentColor" id="path3" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
-  <path class="ColorScheme-Text" d="m 3.6363638,17.227273 4.5454545,-5.681818 1.1363638,0.757613" opacity="0.35" stroke="currentColor" id="path4" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
-  <path class="ColorScheme-Highlight" d="m 9.3181821,12.303068 2.2727279,1.515114 4.545455,-6.8181822 3.40909,2.2727273" stroke-linecap="butt" stroke="currentColor" id="path5" style="fill:none;stroke-width:1;stroke-linejoin:round"/>
-  <path class="ColorScheme-Highlight" d="m 9.5,6.5 v -4 h 4 m 3,0 h 4 v 4 m 0,3 v 4 h -4 m -3,0 h -4 v -4" stroke="currentColor" id="path6" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
+  <path class="ColorScheme-Text" d="M2.5 17.5 7.5 11.5 11.5 13.5 16.5 6.5 20.5 9.5V18.5H2.5Z" fill="currentColor" opacity="0.08" id="path1" style="stroke-width:1"/>
+  <path class="ColorScheme-Highlight" d="M9.5 12.5 11.5 13.5 16.5 6.5 20.5 9.5V13.5H9.5Z" fill="currentColor" opacity="0.25" id="path2" style="stroke-width:1"/>
+  <path class="ColorScheme-Text" d="M1.5 3.5v16h19" stroke="currentColor" id="path3" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
+  <path class="ColorScheme-Text" d="M2.5 17.5 7.5 11.5 9.5 12.5" opacity="0.35" stroke="currentColor" id="path4" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"/>
+  <path class="ColorScheme-Highlight" d="M9.5 12.5 11.5 13.5 16.5 6.5 20.5 9.5" stroke-linecap="butt" stroke="currentColor" id="path5" style="fill:none;stroke-width:1;stroke-linejoin:round"/>
+  <path class="ColorScheme-Highlight" d="M9.5 6.5v-4h4m3 0h4v4m0 3v4h-4m-3 0h-4v-4" stroke="currentColor" id="path6" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>
