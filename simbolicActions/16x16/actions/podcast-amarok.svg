@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="6.5" y="3.5" width="4" height="7" rx="2" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M4.5 7.5v1a4 4 0 0 0 8 0v-1 M10 12.2q-1.5.5-1.5 1.5v.8m-2 0h4" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M5.5 4Q6 2 8.5 2t3 2M3.5 3.5q.5-1.5 1.5-2m7 0q1 1 1.5 2M6.5 7.5h4" opacity=".6" stroke="currentColor" class="ColorScheme-Text"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" id="g2">
+    <rect x="6.5" y="3.5" width="4" height="7" rx="2" stroke="currentColor" class="ColorScheme-Text" id="rect1"/>
+    <path d="m 4.5,7.5 v 1 c 0,5.333331 8,5.333331 8,0 v -1 M 10,12.238747 C 9,12.57208 8.5,13.829489 8.5,14.496156 V 15.5 m -2,0 h 4" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
+    <path d="M 3.5,3.5 C 3.8333333,2.5 4.3333333,1.8333333 5,1.5 m 7,0 c 0.666667,0.6666667 1.166667,1.3333333 1.5,2 m -7,4 h 4" opacity="0.6" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
   </g>
 </svg>
