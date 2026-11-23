@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <path class="ColorScheme-Text" d="M2 8h2v2H2Z M2 11h1v2H2Z M5 5h2v2H5Z M5 8h2v2H5Z M5 11h2v2H5Z M8 8h2v2H8Z M8 11h2v2H8Z" fill="currentColor" opacity=".35"/>
-  <path class="ColorScheme-Text" d="M11 5h2v2h-2Z M11 8h2v2h-2Z M11 11h2v2h-2Z" fill="currentColor" opacity=".18"/>
-  <path class="ColorScheme-Highlight" d="M10.5 3.5h1a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-6 M8.5 2.5h2v2h-2Z M3.5 11.5h2v2h-2Z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 2,7 H 4 V 9 H 2 Z m 0,3 h 2 v 2 H 2 Z M 5,4 H 7 V 6 H 5 Z M 5,7 H 7 V 9 H 5 Z m 0,3 h 2 v 2 H 5 Z M 8,7 h 2 V 9 H 8 Z m 0,3 h 2 v 2 H 8 Z" fill="currentColor" opacity="0.35" id="path1"/>
+  <path class="ColorScheme-Text" d="m 11,4 h 2 v 2 h -2 z m 0,3 h 2 v 2 h -2 z m 0,3 h 2 v 2 h -2 z" fill="currentColor" opacity="0.18" id="path2"/>
+  <path class="ColorScheme-Highlight" d="m 10.5,2.5 h 1 c 1.104569,0 2,0.8954305 2,2 v 7 c 0,1.104569 -0.895431,2 -2,2 h -6 m 3,-12 h 2 v 2 h -2 z m -5,11 h 2 v 2 h -2 z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round" id="path3"/>
+  <path class="ColorScheme-Text" d="m 8,4 h 2 V 6 H 8 Z" fill="currentColor" opacity="0.18" id="path4"/>
 </svg>
