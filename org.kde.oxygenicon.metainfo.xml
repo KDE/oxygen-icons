@@ -14,6 +14,7 @@ SPDX-License-Identifier: CC0-1.0
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Oxygen</url>
   <name>Oxygen Icons</name>
   <name xml:lang="ar">أيقونات أكسجين</name>
+  <name xml:lang="bg">Икони Oxygen</name>
   <name xml:lang="ca">Icones Oxygen</name>
   <name xml:lang="ca-valencia">Icones Oxygen</name>
   <name xml:lang="es">Iconos Oxígeno</name>
@@ -45,6 +46,7 @@ SPDX-License-Identifier: CC0-1.0
   <name xml:lang="zh-TW">Oxygen 圖示</name>
   <summary>A free and open source icon theme to use with the Oxygen Plasma style</summary>
   <summary xml:lang="ar">سمة أيقونات حرة ومفتوحة المصدر للاستخدام مع نمط بلازما الأكسجين.</summary>
+  <summary xml:lang="bg">Безплатна тема с икони с отворен код за използване със стила Oxygen Plasma</summary>
   <summary xml:lang="ca">Un tema d'icones de codi lliure i obert que es fa servir amb l'estil Oxygen del Plasma</summary>
   <summary xml:lang="ca-valencia">Un tema d'icones de codi lliure i obert que s'utilitza amb l'estil Oxygen de Plasma</summary>
   <summary xml:lang="es">Tema de iconos libre y de código abierto para usar con el estilo Oxígeno de Plasma</summary>
@@ -77,6 +79,7 @@ SPDX-License-Identifier: CC0-1.0
   <description>
     <p>Oxygen Icons is a freedesktop.org compatible icon theme originally developed for the KDE Plasma desktop environment in combination with the Oxygen Style. It features smooth gradients, soft shadows, and a slightly glossy look.</p>
     <p xml:lang="ar">أيقونات أكسجين هي سمة أيقونات متوافقة مع freedesktop.org تم تطويرها أصلًا لبيئة سطح المكتب كيدي بلازما بالاقتران مع نمط أكسجين. يتميز بتدرجات سلسة، وظلال ناعمة، ومظهر لامع قليلًا.</p>
+    <p xml:lang="bg">Oxygen Icons е съвместима с freedesktop.org тема за икони, първоначално разработена за работната среда KDE Plasma в комбинация със стила Oxygen. Тя се характеризира с плавни градиенти, меки сенки и леко гланцова визия.</p>
     <p xml:lang="ca">Les icones Oxygen és un tema d'icones compatible amb freedesktop.org desenvolupat originalment per a l'entorn d'escriptori Plasma de KDE en combinació amb l'estil Oxygen. Presenta degradats suaus, ombres suaus i un aspecte lleugerament brillant.</p>
     <p xml:lang="ca-valencia">Les icones Oxygen és un tema d'icones compatible amb freedesktop.org desenvolupat originalment per a l'entorn d'escriptori Plasma de KDE en combinació amb l'estil Oxygen. Presenta degradats suaus, ombres suaus i un aspecte lleugerament brillant.</p>
     <p xml:lang="es">Iconos Oxígeno es un tema de iconos compatibles con freedesktop.org desarrollado originalmente para el entorno de escritorio Plasma de KDE en combinación con el estilo Oxígeno. Presenta degradados suaves, sombras delicadas y un aspecto ligeramente brillante.</p>
@@ -115,6 +118,7 @@ SPDX-License-Identifier: CC0-1.0
       <image type="source">https://cdn.kde.org/screenshots/oxygen/kmail-oxygen.png</image>
       <caption>Screenshot of KMail with the Oxygen style and icon theme.</caption>
       <caption xml:lang="ar">لقطة شاشة تطبيق بريدك بنمط وأيقونات أكسجين.</caption>
+      <caption xml:lang="bg">Екранна снимка на KMail със стил и тема на иконите Oxygen.</caption>
       <caption xml:lang="ca">Captura de pantalla del KMail amb el tema d'estil i icones Oxygen.</caption>
       <caption xml:lang="ca-valencia">Captura de pantalla de KMail amb el tema d'estil i icones Oxygen.</caption>
       <caption xml:lang="es">Captura de pantalla de KMail con el estilo y tema de iconos Oxígeno.</caption>
@@ -151,6 +155,7 @@ SPDX-License-Identifier: CC0-1.0
       <description>
         <p>This new release adds many new symbolic icons for the system tray.</p>
         <p xml:lang="ar">تضيف هذه الإصدارة الجديدة أيقونات رمزية لصينية النظام.</p>
+        <p xml:lang="bg">Тази нова версия добавя много нови символни икони за системния панел.</p>
         <p xml:lang="ca">Aquest llançament nou afegeix moltes icones simbòliques noves per a la safata del sistema.</p>
         <p xml:lang="ca-valencia">Este llançament nou afig moltes icones simbòliques noves per a la safata del sistema.</p>
         <p xml:lang="es">Esta nueva versión añade muchos iconos simbólicos nuevos para la bandeja del sistema.</p>
