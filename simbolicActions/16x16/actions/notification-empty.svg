@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs><g transform="scale(.5)" stroke-width="2">
+  <circle class="ColorScheme-Text" cx="16" cy="16" r="11.5" fill="none" stroke="currentColor"/>
+</g></svg>
