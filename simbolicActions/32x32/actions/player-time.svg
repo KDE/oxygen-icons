@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
   <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
-  <path class="ColorScheme-Text" d="M25.5 17.5a10 10 0 1 0-20 0 10 10 0 1 0 20 0Z M13.5 13.5 19.5 17.5 13.5 21.5Z" fill="currentColor" fill-opacity=".1"/>
+  <path class="ColorScheme-Text" d="M26.0 16a10.0 10.0 0 1 0-20.0 0 10.0 10.0 0 1 0 20.0 0Z M14.038 11.44 5.9239 3.6201a1.1015 1.1015 90 010 1.8799l-5.9239 3.6201a1.0109 1.0109 29.285 01-1.5381-.8626v-7.3949a1.0109 1.0109 150.71 011.5381-.8626z" transform="translate(15.5 17.5) scale(1) translate(-16 -16)" fill="currentColor" fill-opacity=".1" fill-rule="evenodd"/>
   <circle class="ColorScheme-Text" cx="15.5" cy="17.5" r="10" fill="none" stroke="currentColor"/>
   <path class="ColorScheme-Text" d="M4.5 9.5Q6 6 9.5 4.5m12 0Q25 6 26.5 9.5" fill="none" stroke="currentColor" stroke-linecap="round"/>
-  <path class="ColorScheme-Text" d="M13.5 13.5 19.5 17.5 13.5 21.5Z" fill="none" stroke="currentColor" stroke-linejoin="round" opacity=".8"/>
+  <path class="ColorScheme-Text" d="M14.038 11.44 5.9239 3.6201a1.1015 1.1015 90 010 1.8799l-5.9239 3.6201a1.0109 1.0109 29.285 01-1.5381-.8626v-7.3949a1.0109 1.0109 150.71 011.5381-.8626z" transform="translate(15.5 17.5) scale(1) translate(-16 -16)" fill="none" stroke="currentColor" stroke-width="1.0" stroke-linejoin="round" opacity=".8"/>
 </svg>
