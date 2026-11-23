@@ -4,6 +4,6 @@
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
     <circle class="ColorScheme-Text" cx="19.5" cy="12.5" r="8" stroke="currentColor" stroke-dasharray="2 2" opacity=".48"/>
     <path class="ColorScheme-Text" d="M10.5 13.5H6.5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4" stroke="currentColor"/>
-    <path class="ColorScheme-NegativeText" d="M13.5 13.5h3a2 2 0 0 1 2 2v3" stroke="currentColor"/>
+    <path class="ColorScheme-NegativeText" transform="translate(1 -1)" opacity=".5" d="M13.5 13.5h3a2 2 0 0 1 2 2v3" stroke="currentColor"/>
   </g>
 </svg>
