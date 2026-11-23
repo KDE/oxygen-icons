@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+  <path class="ColorScheme-Text" d="M1.5 4.5v-2q0-1 1-1h2m7 0h2q1 0 1 1v2m0 7v2q0 1-1 1h-2m-7 0h-2q-1 0-1-1v-2" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <rect class="ColorScheme-Text" x="3" y="3" width="2" height="2" fill="currentColor" opacity="0.2"/>
+  <rect class="ColorScheme-Text" x="6" y="3" width="2" height="2" fill="currentColor" opacity="0.2"/>
+  <rect class="ColorScheme-Text" x="9" y="3" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="12" y="3" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="3" y="6" width="2" height="2" fill="currentColor" opacity="0.2"/>
+  <rect class="ColorScheme-Highlight" x="6" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
+  <rect class="ColorScheme-Highlight" x="9" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
+  <rect class="ColorScheme-Highlight" x="12" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
+  <rect class="ColorScheme-Text" x="3" y="9" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="6" y="9" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="9" y="9" width="2" height="2" fill="currentColor" opacity="0.2"/>
+  <rect class="ColorScheme-Highlight" x="12" y="9" width="2" height="2" fill="currentColor" opacity=".7"/>
+  <rect class="ColorScheme-Text" x="3" y="12" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="6" y="12" width="2" height="2" fill="currentColor" opacity="0.48"/>
+  <rect class="ColorScheme-Text" x="9" y="12" width="2" height="2" fill="currentColor" opacity="0.2"/>
+  <rect class="ColorScheme-Text" x="12" y="12" width="2" height="2" fill="currentColor" opacity="0.2"/>
+</svg>
