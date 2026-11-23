@@ -1,21 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg9">
+  <defs id="defs4">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-    <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="2.5" cy="2.5" r="17">
-      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".0"/>
-       <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".10"/>
-       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".20"/>
-      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".40"/>
+    <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="2.5" cy="2.5" r="17" gradientTransform="matrix(1.2062763,0,0,1.2062763,-0.51569075,-0.51569075)" fx="2.5" fy="2.5">
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".0" id="stop1"/>
+      <stop class="ColorScheme-Text" offset="0.34041175" stop-color="currentColor" stop-opacity=".0" id="stop9" style="stop-color:#232629;stop-opacity:0"/>
+      <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".10" id="stop2"/>
+      <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".20" id="stop3"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".40" id="stop4"/>
     </radialGradient>
   </defs>
-<g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-<rect stroke="none" x="2.5" y="2.5" width="17" height="17" rx="1.5" fill="url(#light)" class="ColorScheme-Text"/>
-<path d="M13.5 2.5H4a1.5 1.5 0 0 0-1.5 1.5v14a1.5 1.5 0 0 0 1.5 1.5h14a1.5 1.5 0 0 0 1.5-1.5V8.5" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text"/>
-<circle cx="15.5" cy="2.5" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
-<circle cx="17.5" cy="2.5" r=".5" opacity=".45" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
-<circle cx="19.5" cy="3.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
-<circle cx="19.5" cy="5.5" r=".5" opacity=".5" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
-<circle cx="19.5" cy="7" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
-<path d="M3 9.5a6.5 6.5 0 0 0 6.5-6.5" fill="none" stroke="currentColor" class="ColorScheme-Text"/><path d="m9.5 9.5 4 4m-7.5-2.5 1 4.5m4.5-9.5 4.5 1" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
-</g></svg>
+  <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g9">
+    <rect stroke="none" x="2.5" y="2.5" width="17" height="17" rx="0" fill="url(#light)" class="ColorScheme-Text" id="rect4" ry="0" style="fill:url(#light)"/>
+    <path d="M13.5 2.5H4a1.5 1.5 0 0 0-1.5 1.5v14a1.5 1.5 0 0 0 1.5 1.5h14a1.5 1.5 0 0 0 1.5-1.5V8.5" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text" id="path4"/>
+    <circle cx="15.5" cy="2.5" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text" id="circle4"/>
+    <circle cx="17.5" cy="2.5" r=".5" opacity=".45" fill="currentColor" stroke="none" class="ColorScheme-Text" id="circle5"/>
+    <circle cx="19.5" cy="3.5" r=".5" opacity=".25" fill="currentColor" stroke="none" class="ColorScheme-Text" id="circle6"/>
+    <circle cx="19.5" cy="5.5" r=".5" opacity=".5" fill="currentColor" stroke="none" class="ColorScheme-Text" id="circle7"/>
+    <circle cx="19.5" cy="7" r=".5" opacity=".8" fill="currentColor" stroke="none" class="ColorScheme-Text" id="circle8"/>
+    <path d="M3 9.5a6.5 6.5 0 0 0 6.5-6.5" fill="none" stroke="currentColor" class="ColorScheme-Text" id="path8"/>
+    <path d="m9.5 9.5 4 4m-7.5-2.5 1 4.5m4.5-9.5 4.5 1" fill="none" stroke="currentColor" class="ColorScheme-Text" id="path9"/>
+  </g>
+</svg>
