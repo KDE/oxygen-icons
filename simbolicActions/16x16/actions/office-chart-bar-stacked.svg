@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
- <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
- <path class="ColorScheme-Highlight" d="M3.5 11.5v-1q0-1 1-1h1q1 0 1 1v1Z M7.5 10.5v-3q0-1 1-1h1q1 0 1 1v3Z M11.5 8.5v-4q0-1 1-1h1q1 0 1 1v4Z" fill="currentColor" opacity=".4"/>
- <path class="ColorScheme-Text" d="M3.5 14.5v-4q0-1 1-1h1q1 0 1 1v4 M7.5 14.5v-7q0-1 1-1h1q1 0 1 1v7 M11.5 14.5v-10q0-1 1-1h1q1 0 1 1v10" fill="currentColor" fill-opacity=".1" stroke="currentColor" stroke-linecap="round"/>
- <path class="ColorScheme-Text" d="M1.5 2.5v12h13" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
- <path class="ColorScheme-Text" d="M3.5 11.5h3 M7.5 10.5h3 M11.5 8.5h3" fill="none" stroke="currentColor" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Highlight" d="M2.5 11.5v-1c0-.6666667.3333333-1 1-1h1c.6666667 0 1 .3333333 1 1v1Z M7.5 10.5v-3c0-.6666667.3333333-1 1-1h1c.666667 0 1 .3333333 1 1v3Z M12.5 8.5v-4c0-.6666667.3333333-1 1-1h1c.666667 0 1 .3333333 1 1v4Z" fill="currentColor" opacity=".4"/>
+  <path class="ColorScheme-Text" d="m 2.5,14.5 v -4 c 0,-0.6666667 0.3333333,-1 1,-1 h 1 c 0.6666667,0 1,0.3333333 1,1 v 4 m 2,0 v -7 c 0,-0.6666667 0.3333333,-1 1,-1 h 1 c 0.666667,0 1,0.3333333 1,1 v 7 m 2,0 v -10 c 0,-0.6666667 0.333333,-1 1,-1 h 1 c 0.666667,0 1,0.3333333 1,1 v 10" fill="currentColor" fill-opacity="0.1" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <path class="ColorScheme-Text" d="m 0.5,2.5 v 12 h 15" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <path class="ColorScheme-Text" d="M2.5 11.5h3 M7.5 10.5h3 M12.5 8.5h3" fill="none" stroke="currentColor" stroke-linecap="round"/>
 </svg>
