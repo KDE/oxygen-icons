@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
+  </defs>
+  <rect x="12.5" y="6.5" width="8" height="15" rx="4" id="rect1" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" ry="4" class="ColorScheme-Text" stroke="currentColor"/>
+  <path d="m 9.5,14.5 v 2 c 0,3.865996 3.134007,6.999997 7,6.999997 3.865993,0 7,-3.134001 7,-6.999997 v -2 m -4.70872,8.616397 C 17.560001,23.477227 16.5,24.759375 16.5,26.312896 V 28.5 m -4,0 H 17.903945 20.5" id="path1" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" transform="translate(0,1)" class="ColorScheme-Text" stroke="currentColor"/>
+  <path d="m 9.5,14.5 v 2 c 0,3.865996 3.134007,6.999997 7,6.999997 3.865993,0 7,-3.134001 7,-6.999997 v -2 m -4.70872,8.616397 C 17.560001,23.477227 16.5,24.759375 16.5,26.312896 V 28.5 m -4,0 H 17.903945 20.5" id="path5" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" transform="translate(0,1)" class="ColorScheme-Text" stroke="currentColor"/>
+  <path style="opacity:0.6;fill:none;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" id="path2" d="m 10.07617,8.465925 a 6.6504364,6.6504364 0 0 1 6.423828,-4.9291771 6.6504364,6.6504364 0 0 1 6.423828,4.9291767" class="ColorScheme-Text" stroke="currentColor"/>
+  <path style="opacity:0.6;fill:none;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" id="path3" d="M 7.6258594,7.8093664 A 9.1871843,9.1871843 0 0 1 10.003678,3.6908641" class="ColorScheme-Text" stroke="currentColor"/>
+  <path style="opacity:0.6;fill:none;fill-rule:evenodd;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" id="path4" d="m 22.996318,3.6908637 a 9.1871843,9.1871843 0 0 1 2.377819,4.1185022" class="ColorScheme-Text" stroke="currentColor"/>
+  <path d="M 18.79128,23.116397 C 17.560001,23.477227 16.5,24.759375 16.5,26.312896 V 28.5" id="path6" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" transform="matrix(-1,0,0,1,33,1)" class="ColorScheme-Text" stroke="currentColor"/>
+  <path style="opacity:0.6;fill:none;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke" d="m 13,14.498541 h 7" id="path8" class="ColorScheme-Text" stroke="currentColor"/>
+</svg>
