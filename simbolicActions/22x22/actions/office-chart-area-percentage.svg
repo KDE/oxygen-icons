@@ -3,10 +3,10 @@
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text{color:#222629}.ColorScheme-Highlight{color:#3daee9}</style>
   </defs>
-  <path class="ColorScheme-Text" d="M 3.6333332,2.4999999 H 19.499999 V 18.366666 H 3.6333332 Z" fill="currentColor" opacity="0.1" id="path1" style="stroke-width:1"/>
-  <path class="ColorScheme-Highlight" d="m 3.6333332,13.833333 4.5333332,-4.5333333 3.3999996,2.2666663 4.533333,-4.5333329 3.4,2.2666666 V 18.366666 H 3.6333332 Z" fill="currentColor" opacity="0.28" id="path2" style="stroke-width:1"/>
-  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4" transform="matrix(1.1333333,0,0,1.1333333,-1.4666667,-1.4666667)" style="stroke-width:0.882353">
-    <path class="ColorScheme-Text" d="m 3.5,3.5 v 15 h 15 m -13,-15 h 13" stroke="currentColor" id="path3" style="stroke-width:0.882353"/>
-    <path class="ColorScheme-Highlight" d="m 4.5,13.5 4,-4 3,2 4,-4 3,2" stroke="currentColor" id="path4" style="stroke-width:0.882353"/>
+  <path class="ColorScheme-Text" d="M2.5 2.5H20.5V18.5H2.5Z" fill="currentColor" opacity="0.1" id="path1" style="stroke-width:1"/>
+  <path class="ColorScheme-Highlight" d="M2.5 13.5 7.5 9.5 11.5 11.5 16.5 6.5 20.5 9.5V18.5H2.5Z" fill="currentColor" opacity="0.28" id="path2" style="stroke-width:1"/>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4">
+    <path class="ColorScheme-Text" d="M1.5 3.5v16h19 M3.5 2.5H20.5" stroke="currentColor" id="path3"/>
+    <path class="ColorScheme-Highlight" d="M2.5 13.5 7.5 9.5 11.5 11.5 16.5 6.5 20.5 9.5" stroke="currentColor" id="path4"/>
   </g>
 </svg>
