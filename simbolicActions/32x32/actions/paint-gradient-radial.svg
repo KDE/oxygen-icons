@@ -5,7 +5,7 @@
     <radialGradient id="radial-fill">
       <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".0"/>
        <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".15"/>
-       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".2"/>
+       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".0"/>
       <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".4"/>
     </radialGradient>
   </defs>
