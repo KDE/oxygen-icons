@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs><g transform="scale(.7272727273)" stroke-width="1.375">
+  <path class="ColorScheme-Text" d="m12 5.3145-2.8008 3.1523c-.30179.33951-.73521.5332-1.1895.5332h-.0097656v2.8945l4-4v-2.5801zm-7.5 3.6855c-.2825 0-.5.2175-.5.5v3c1e-7.2825.2175.5.5.5h.5v-3.9844c0-.0035239.0003636-.0056869 0-.0078125v-.0019531l-.0019531-.0019532v-.0019531h-.0019531l-.0019532-.0019531c-.0021255-.0003636-.0062417 0-.0097656 0h-.48438zm7.5.30859-3.7148 3.7148c.35074.061488.67408.23978.91406.50976l2.8008 3.1523v-7.377z" style="opacity:.4" fill="currentColor"/>
+  <path d="m5.5 9v4a.5.5 135 01-.5.5h-.46244a1.0376 1.0376 45 01-1.0376-1.0376v-2.9249a1.0376 1.0376 135 011.0376-1.0376h.46244a.5.5 45 01.5.5z" style="fill:none;paint-order:stroke fill markers;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m12.5 7v-2.5c0-.1748-.21605-.25694-.33218-.1263l-3.3356 3.7526c-.21129.2377-.51415.3737-.83218.3737-.36303.086883-.58688.45161-.5.81463v2.6993m1 1.486 3.4588 3.8911c.18921.21286.54121.079027.54121-.20577v-7.6647" style="fill:none;paint-order:stroke fill markers;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m15.094 6.936a6.5 6.5418 0 01-.49732 8.6897" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m14.782 2.7174c.43701.25231.84924.53622 1.2345.8479m1.3437 1.3274c1.4024 1.6906 2.2037 3.8419 2.2037 6.1072 0 3.4168-1.8229 6.5741-4.7819 8.2826" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m3 19 17-17" style="fill:none;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-Text"/>
+</g></svg>
