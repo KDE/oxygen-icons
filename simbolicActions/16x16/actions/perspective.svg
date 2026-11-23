@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <g fill="none" stroke-linecap="round">
-    <path class="ColorScheme-Text" d="M5 7.5h6M4 9.5h8M7 5.5l-1 8M9 5.5l1 8" stroke="currentColor" opacity=".32"/>
-    <path class="ColorScheme-Text" d="M7.5 5.5h3M3.5 13.5h9M6.1 6.5l-3.2 6m8.9-6 1.4 6" stroke="currentColor"/>
-    <g class="ColorScheme-Highlight" stroke="currentColor">
-      <rect x="5.5" y="4.5" width="2" height="2" rx=".5" stroke="currentColor" class="ColorScheme-Highlight"/>
-      <rect x="10.5" y="4.5" width="2" height="2" rx=".5" stroke="currentColor" class="ColorScheme-Highlight"/>
-      <rect x="1.5" y="12.5" width="2" height="2" rx=".5" stroke="currentColor" class="ColorScheme-Highlight"/>
-      <rect x="12.5" y="12.5" width="2" height="2" rx=".5" stroke="currentColor" class="ColorScheme-Highlight"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg6">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 5,6.5 h 6 m -7,2 h 8 m -5,-4 -1,8 m 3,-8 1,8" stroke="currentColor" opacity="0.32" id="path1" style="fill:none;stroke-linecap:round"/>
+  <path class="ColorScheme-Text" d="m 5.5,4.5 h 5 m -8,8 h 11 m -9.4,-7 -2.2,6 m 9.9,-6 2.4,6" stroke="currentColor" id="path2" style="fill:none;stroke-linecap:round"/>
+  <rect x="3.5" y="3.5" width="2" height="2" rx="0.5" stroke="currentColor" class="ColorScheme-Highlight" id="rect2" style="fill:none;stroke-linecap:round" ry="0.5"/>
+  <rect x="10.5" y="3.5" width="2" height="2" rx="0.5" stroke="currentColor" class="ColorScheme-Highlight" id="rect3" style="fill:none;stroke-linecap:round" ry="0.5"/>
+  <rect x="0.5" y="11.5" width="2" height="2" rx="0.5" stroke="currentColor" class="ColorScheme-Highlight" id="rect4" style="fill:none;stroke-linecap:round" ry="0.5"/>
+  <rect x="13.5" y="11.5" width="2" height="2" rx="0.5" stroke="currentColor" class="ColorScheme-Highlight" id="rect5" style="fill:none;stroke-linecap:round" ry="0.5"/>
 </svg>
