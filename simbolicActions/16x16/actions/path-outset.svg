@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs><g transform="scale(.5)" stroke-width="2">
+  <path id="rect1" style="stroke:none;fill-opacity:1;opacity:0.1" class="ColorScheme-Highlight" d="M 11.320312 3.5 C 6.9879854 3.5 3.5 6.9879854 3.5 11.320312 L 3.5 20.679688 C 3.5 25.012015 6.9879854 28.5 11.320312 28.5 L 20.679688 28.5 C 25.012015 28.5 28.5 25.012015 28.5 20.679688 L 28.5 11.320312 C 28.5 6.9879854 25.012015 3.5 20.679688 3.5 L 11.320312 3.5 z M 12 10.5 L 20 10.5 C 20.831 10.5 21.5 11.169 21.5 12 L 21.5 20 C 21.5 20.831 20.831 21.5 20 21.5 L 12 21.5 C 11.169 21.5 10.5 20.831 10.5 20 L 10.5 12 C 10.5 11.169 11.169 10.5 12 10.5 z " fill="currentColor"/>
+  <rect class="ColorScheme-Text" x="10.5" y="10.5" width="11" height="11" rx="1.5" fill="none" stroke-dasharray="1 2.2" stroke-linecap="round" opacity=".45" stroke="currentColor" id="rect2"/>
+  <path class="ColorScheme-Highlight" d="M 13.5,24 16,26.5 18.5,24 M 13.5,8 16,5.5 18.5,8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <rect class="ColorScheme-Text" x="10.5" y="10.5" width="11" height="11" rx="1.5" fill="none" stroke-dasharray="1 2.2" stroke-linecap="round" opacity=".45" stroke="currentColor" id="rect3"/>
+  <rect class="ColorScheme-Highlight" x="3.5000069" y="3.4999928" width="24.999989" height="24.999987" rx="7.820085" fill="currentColor" fill-opacity="0.12" stroke="currentColor" id="rect4" ry="7.820085" style="fill:none"/>
+</g></svg>
