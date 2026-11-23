@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style></defs>
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
   <rect class="ColorScheme-Text" x="2.5" y="5.5" width="27" height="21" rx="1.5" fill="none" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="M16.5 5.5v21" fill="none" stroke="currentColor" opacity=".55"/>
   <g transform="translate(-3 -4) scale(1.2)" stroke-width=".833333">
 <path style="opacity:1;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" d="M 11.5,21.552846 V 15" id="path12" class="ColorScheme-Text" stroke="currentColor"/>
 <path style="opacity:1;fill:none;stroke-linecap:round;stroke-opacity:1" d="M 11.447154,17.9 9.960511,16.792306" id="path13" class="ColorScheme-Text" stroke="currentColor"/>
@@ -11,4 +10,5 @@
   </g>
   <path class="ColorScheme-Text" d="M5.5 23.5h21" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".55"/>
   <path class="ColorScheme-Text" d="M18 8h1v1h-1Z M22 9h1v1h-1Z M26 8h1v1h-1Z M20 12h1v1h-1Z M24 12h1v1h-1Z M27 14h1v1h-1Z M18 16h1v1h-1Z M22 15h1v1h-1Z M25 17h1v1h-1Z M20 19h1v1h-1Z M23 21h1v1h-1Z M27 20h1v1h-1Z M18 24h1v1h-1Z" fill="currentColor" opacity=".55"/>
+  <path class="ColorScheme-Highlight" d="M16.5 5.5v21 M17.5 1.5l-1.5 1.5 1.5 1.5M15.5 27.5l1.5 1.5-1.5 1.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
