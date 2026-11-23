@@ -1,21 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <path class="ColorScheme-Text" d="M1.5 4.5v-2q0-1 1-1h2m7 0h2q1 0 1 1v2m0 7v2q0 1-1 1h-2m-7 0h-2q-1 0-1-1v-2" fill="none" stroke="currentColor" stroke-linecap="round"/>
-  <rect class="ColorScheme-Text" x="3" y="3" width="2" height="2" fill="currentColor" opacity="0.2"/>
-  <rect class="ColorScheme-Text" x="6" y="3" width="2" height="2" fill="currentColor" opacity="0.2"/>
-  <rect class="ColorScheme-Text" x="9" y="3" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="12" y="3" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="3" y="6" width="2" height="2" fill="currentColor" opacity="0.2"/>
-  <rect class="ColorScheme-Highlight" x="6" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
-  <rect class="ColorScheme-Highlight" x="9" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
-  <rect class="ColorScheme-Highlight" x="12" y="6" width="2" height="2" fill="currentColor" opacity=".7"/>
-  <rect class="ColorScheme-Text" x="3" y="9" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="6" y="9" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="9" y="9" width="2" height="2" fill="currentColor" opacity="0.2"/>
-  <rect class="ColorScheme-Highlight" x="12" y="9" width="2" height="2" fill="currentColor" opacity=".7"/>
-  <rect class="ColorScheme-Text" x="3" y="12" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="6" y="12" width="2" height="2" fill="currentColor" opacity="0.48"/>
-  <rect class="ColorScheme-Text" x="9" y="12" width="2" height="2" fill="currentColor" opacity="0.2"/>
-  <rect class="ColorScheme-Text" x="12" y="12" width="2" height="2" fill="currentColor" opacity="0.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg16">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 0.5,4.5 v -2 c 0,-0.6666667 0.33333333,-1 1,-1 h 2 m 8,0 h 2 c 0.666667,0 1,0.3333333 1,1 v 2 m 0,8 v 2 c 0,0.666667 -0.333333,1 -1,1 h -2 m -8,0 h -2 c -0.66666667,0 -1,-0.333333 -1,-1 v -2" fill="none" stroke="currentColor" stroke-linecap="round" id="path1"/>
+  <rect class="ColorScheme-Text" x="2" y="3" width="3" height="3" fill="currentColor" opacity="0.2" id="rect1" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="6" y="3" width="3" height="3" fill="currentColor" opacity="0.2" id="rect2" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="10" y="3" width="3" height="3" fill="currentColor" opacity="0.48" id="rect3" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="2" y="7" width="3" height="3" fill="currentColor" opacity="0.2" id="rect5" style="stroke-width:1"/>
+  <rect class="ColorScheme-Highlight" x="6" y="7" width="3" height="3" fill="currentColor" opacity="0.7" id="rect6" style="stroke-width:1"/>
+  <rect class="ColorScheme-Highlight" x="10" y="7" width="3" height="3" fill="currentColor" opacity="0.7" id="rect7" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="2" y="11" width="3" height="3" fill="currentColor" opacity="0.48" id="rect9" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="6" y="11" width="3" height="3" fill="currentColor" opacity="0.48" id="rect10" style="stroke-width:1"/>
+  <rect class="ColorScheme-Text" x="10" y="11" width="3" height="3" fill="currentColor" opacity="0.2" id="rect11" style="stroke-width:1"/>
 </svg>
