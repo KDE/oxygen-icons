@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="M1.5 1.5V13.5q0 1 1 1h12 M3.5 1.5H14.5" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="M3.5 9.5l3-2 5 4 3-1" stroke="currentColor" opacity=".65"/>
-  <path class="ColorScheme-Highlight" d="M3.5 12.5l3-1 4-5 4-2" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M.5 2.5v12h15 M2.5 1.5H15.5" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M2.5 9.5 6.5 7.5 11.5 11.5 15.5 10.5" stroke="currentColor" opacity=".65"/>
+  <path class="ColorScheme-Highlight" d="M2.5 12.5 6.5 11.5 11.5 6.5 15.5 4.5" stroke="currentColor"/>
  </g>
 </svg>
