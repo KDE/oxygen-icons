@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="m 24,11 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z" fill="currentColor" opacity="0.35" id="path4"/>
+  <path class="ColorScheme-Text" d="m 19,6 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z" fill="currentColor" opacity="0.35" id="path3"/>
+  <path class="ColorScheme-Text" d="m 4,16 h 4 v 4 H 4 Z m 0,5 h 4 v 2 l -3,0 v 2 L 4,25 Z M 9,11 h 4 v 4 H 9 Z m 0,5 h 4 v 4 H 9 Z m 0,5 h 4 v 4 H 9 Z M 14,6 h 2 l 0,2 h 2 v 2 h -4 z m 0,5 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z m 0,5 h 4 v 4 h -4 z" fill="currentColor" opacity="0.35" id="path1"/>
+  <path class="ColorScheme-Highlight" d="m 19.5,6.5 h 4 c 2.666667,0 4,1.3333333 4,4 v 10 c 0,2.666667 -1.333333,4 -4,4 h -15" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path2"/>
+  <g class="ColorScheme-Highlight" fill="none" stroke="currentColor" id="g3">
+    <path id="rect2" d="m 16.499999,4.4999998 h 2 c 0.554,0 1,0.446 1,1 v 1.9999999 c 0,0.554 -0.446,1 -1,1 h -2 c -0.554,0 -1,-0.446 -1,-1 V 5.4999998 c 0,-0.554 0.446,-1 1,-1 z" style="stroke-width:1" stroke="currentColor" class="ColorScheme-Highlight"/>
+    <path id="rect3" d="m 5.4999998,22.499999 h 1.9999999 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 5.4999998 c -0.554,0 -1,-0.446 -1,-1 v -2 c 0,-0.554 0.446,-1 1,-1 z" style="stroke-width:1" stroke="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+</svg>
