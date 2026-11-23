@@ -3,8 +3,7 @@
   <defs id="defs4">
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
     <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="2.5" cy="2.5" r="17" gradientTransform="matrix(1.2062763,0,0,1.2062763,-0.51569075,-0.51569075)" fx="2.5" fy="2.5">
-      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".0" id="stop1"/>
-      <stop class="ColorScheme-Text" offset="0.34041175" stop-color="currentColor" stop-opacity=".0" id="stop9" style="stop-color:#232629;stop-opacity:0"/>
+      <stop class="ColorScheme-Text" offset="0.3" stop-color="currentColor" stop-opacity=".0" id="stop1"/>
       <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".10" id="stop2"/>
       <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".20" id="stop3"/>
       <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".40" id="stop4"/>
