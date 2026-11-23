@@ -2,14 +2,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <defs>
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}</style>
-    <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="1.5" cy="1.5" r="13">
-      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/>
-      <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".20"/>
-      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".55"/>
+    <radialGradient id="light" gradientUnits="userSpaceOnUse" cx="1.5" cy="1.5" r="15.681592">
+      <stop class="ColorScheme-Text" offset="0.3" stop-color="currentColor" stop-opacity=".0"/>
+      <stop class="ColorScheme-Text" offset=".5" stop-color="currentColor" stop-opacity=".10"/>
+      <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".20"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".40"/>
     </radialGradient>
   </defs>
 <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-<rect stroke="none" x="1.5" y="1.5" width="13" height="13" rx="1.5" fill="url(#light)" class="ColorScheme-Text"/>
+<rect stroke="none" x="1.5" y="1.5" width="13" height="13" rx="0" fill="url(#light)" class="ColorScheme-Text"/>
 <path d="M9.5 1.5H3A1.5 1.5 0 0 0 1.5 3v10a1.5 1.5 0 0 0 1.5 1.5h10a1.5 1.5 0 0 0 1.5-1.5V6.5" stroke="currentColor" fill="none" stroke-linecap="round" class="ColorScheme-Text"/>
 <circle cx="11.5" cy="1.5" r=".5" opacity=".7" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
 <circle cx="13.5" cy="1.5" r=".5" opacity=".3" fill="currentColor" stroke="none" class="ColorScheme-Text"/>
