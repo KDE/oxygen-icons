@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-<defs xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
+  <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
-  </defs><circle class="ColorScheme-Text" cx="8" cy="8" r="7" fill="currentColor" fill-opacity=".07" stroke="currentColor" stroke-opacity=".65"/><path class="ColorScheme-Text" d="M9 8.5H4.8q-.6 0-.24-.5l3-4a.55.55 0 0 1 .88 0l2.8 3.8a2 2 0 0 1-1.6 3.2H5q-.65 0-.65-.65t.65-.65h4" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round"/></svg>
+  </defs>
+  <circle class="ColorScheme-Text" cx="8" cy="8" r="7" fill="currentColor" fill-opacity=".07" stroke="currentColor" stroke-opacity=".65" id="circle1"/>
+  <path class="ColorScheme-Text" d="M 9,8.5 H 5 C 4.6,8.5 4.52,8.3333333 4.76,8 L 7.56,4 C 7.7702695,3.699615 8.22,3.7066667 8.44,4 l 2.7,3.8 c 0.988854,1.3184725 0.04809,2.7 -1.6,2.7 H 5.2 C 4.7666667,10.5 4.55,10.283333 4.55,9.85" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-linecap="round" id="path1"/>
+</svg>
