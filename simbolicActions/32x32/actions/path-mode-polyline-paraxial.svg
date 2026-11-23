@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg8">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <g fill="none" stroke-linecap="round" id="g8" transform="translate(10,1)">
+    <path class="ColorScheme-Text" d="M 7.5,24.5 H 18.155642" stroke="currentColor" stroke-dasharray="1, 2" opacity="0.45" id="path1"/>
+    <path class="ColorScheme-Highlight" d="M 14.5,24.5 A 9,9 0 0 0 13.2174,19.8695" stroke="currentColor" opacity="0.65" id="path2"/>
+    <g id="g7">
+      <path class="ColorScheme-Text" d="m 7.5,23.3 6,-3.6 m 0.8,-3.2 -5.4,-9 M -3.4999997,11.5 5.5,6.1" stroke="currentColor" id="path3"/>
+      <g class="ColorScheme-Highlight" stroke="currentColor" id="g6">
+        <rect x="3.5" y="22.5" width="4" height="4" rx="0.69999999" id="rect3" ry="0.69999999" stroke="currentColor" class="ColorScheme-Highlight"/>
+        <rect x="13.5" y="16.5" width="4" height="4" rx="0.69999999" id="rect4" ry="0.69999999" stroke="currentColor" class="ColorScheme-Highlight"/>
+        <rect x="5.5" y="3.5" width="4" height="4" rx="0.69999999" id="rect5" ry="0.69999999" stroke="currentColor" class="ColorScheme-Highlight"/>
+        <rect x="-6.5" y="11.5" width="4" height="4" rx="0.69999999" id="rect6" ry="0.69999999" stroke="currentColor" class="ColorScheme-Highlight"/>
+      </g>
+    </g>
+  </g>
+</svg>
