@@ -1,1 +1,10 @@
-document-properties.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ColorScheme-Text" d="M.5 11.5v-8q0-1 1-1h10M7.5 13.5h-4q-1 0-1-1v-7q0-1 1-1h10q1 0 1 1v2M4.5 7.5h6m-6 3h2" stroke="currentColor"/>
+    <path class="ColorScheme-Highlight" d="M9.5 10.5h.5m3 0h2M9.5 14.5h2m3 0h.5" stroke="currentColor"/>
+    <circle class="ColorScheme-Highlight" cx="11.5" cy="10.5" r="1" stroke="currentColor"/>
+    <circle class="ColorScheme-Highlight" cx="13" cy="14.5" r="1" stroke="currentColor"/>
+  </g>
+</svg>
