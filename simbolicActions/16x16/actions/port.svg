@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+  <path class="ColorScheme-Text" d="M4.5 5.5v-2q0-1 1-1h8q1 0 1 1v9q0 1-1 1h-8q-1 0-1-1v-2" fill="none" stroke="currentColor" stroke-linecap="round"/>
+  <rect class="ColorScheme-Highlight" x="2.5" y="6.5" width="4" height="3" rx=".7" fill="currentColor" fill-opacity=".12" stroke="currentColor"/>
+</svg>
