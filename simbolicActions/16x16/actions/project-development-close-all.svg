@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-NegativeText { color:#720000; }</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M2.5 2V1.5a1 1 0 0 1 1-1H8c1 0 1 1.5 2 1.5h3a2 2 0 0 1 2 2v2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+  <g>
+    <g transform="translate(-.25 2.5) scale(.84)">
+      <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+        <path class="ColorScheme-Text" d="M2.3979 14.5 C1.3508 14.5 0.5032 13.6509 0.5077 12.6066 L0.5079 12.6067 L0.524 8.874 C0.5272 8.1142 1.1456 7.5001 1.9072 7.5001 L4.6393 7.5001 C5.1271 7.5001 5.5225 7.1056 5.5225 6.6191 C5.5229 6.133 5.9184 5.4996 6.4056 5.5001 L7.8586 5.5001 A6.886 6.886 0 0 0 7.6699 14.5 L2.3979 14.5 Z" style="opacity:.1;paint-order:fill markers stroke" fill="currentColor" stroke="none" />
+        <path class="ColorScheme-Text" d="M7.1392 14.5 L2.3978 14.5 C1.3507 14.5 0.5031 13.6509 0.5076 12.6066 L0.5078 12.6067 L0.5238 8.874 C0.527 8.1142 1.1454 7.5001 1.907 7.5001 L4.6391 7.5001 C5.1269 7.5001 5.5223 7.1056 5.5223 6.6191 C5.5228 6.133 5.9182 5.4996 6.4055 5.5001 L7.3102 5.5001" style="paint-order:fill markers stroke" stroke="currentColor" />
+        <path class="ColorScheme-Text" d="M0.5 6.6722 L0.5 1.384 C0.5 0.8959 0.8967 0.5002 1.3861 0.5002 L7.7552 0.5002 C8.2445 0.5002 8.5698 0.9331 8.5698 1.6235 C8.5698 2.1435 9.2854 2.4999 9.9648 2.4999 L14.1765 2.4999 C14.6839 2.4999 15.1245 2.7847 15.3467 3.2027" style="paint-order:fill markers stroke" stroke="currentColor" />
+      </g>
+      <path class="ColorScheme-Text" d="M3 9.5l-1 1 1 1m1-2 1 1-1 1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+  </g>
+  <g transform="translate(0 0)">
+    <g transform="matrix(-.65176 0 0 .65338 20.727 4.7268)" style="stroke-width:1.5324">
+      <g transform="translate(9.0221,-10.024)" style="stroke-width:1.5324">
+        <path class="ColorScheme-Text" d="m12.4 23.108c1.5611-2.7059 1.1118-6.1236-1.0954-8.3326-2.2071-2.209-5.6217-2.6587-8.3253-1.0963-2.7035 1.5624-4.0218 4.7471-3.214 7.765.78454 2.9316 3.3853 4.9954 6.3948 5.1107" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5324" />
+      </g>
+    </g>
+    <path d="m12.723 8.9688-4.0454 4.0454" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+    <path d="m12.657 12.949-3.914-3.914" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+    <circle transform="rotate(-45)" cx="-.2427" cy="15.302" r="4.4842" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+  </g>
+</svg>
