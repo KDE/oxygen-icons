@@ -1,16 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
- <defs>
-  <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;}
 .ColorScheme-NegativeText { color:#720000; }</style>
- </defs>
- <g class="ColorScheme-Text" transform="translate(1)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path id="comment-upper" class="ColorScheme-Text" d="m25.5 15.5v-6.4996c0-1.933-1.567-3.5-3.5-3.5h-16.5c-1.1046 0-2 .89543-2 2s.89543 2 2 2h18" stroke="currentColor"/>
-  <path id="comment-lower" class="ColorScheme-Text" d="m3.5 11.5v14h11" stroke="currentColor"/>
- </g>
-<g transform="translate(1 1)" id="g3">
-    <g transform="translate(13 13) scale(.55)" id="g2">
-      <path d="m16.467 12.033 5.5999-5.5999q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0z" fill="currentColor" opacity=".1" id="path1" class="ColorScheme-NegativeText"/>
-      <path d="m21.713 6.7869.35355-.35355q.93338-.93338 1.8668 0l1.9302 1.9302q.6364.6364 0 1.2728l-5.8969 5.8969q-.46669.46669 0 .93338l5.8545 5.8545q.67882.67882 0 1.3576l-1.9726 1.9726q-.84853.84853-1.6971 0l-5.6424-5.6424q-.50912-.50912-1.0182 0l-5.7696 5.7696q-.72125.72125-1.4425 0l-2.2272-2.2272q-.55154-.55154 0-1.1031l6.0242-6.0242q.42426-.42426 0-.84852l-6.0242-6.0242q-.55154-.55154 0-1.1031l2.1848-2.1848q.76368-.76368 1.5274 0l5.7696 5.7696q.46669.46669.93338 0l3.62-3.62" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8182" id="path2" class="ColorScheme-NegativeText"/>
+    <mask id="badge-space">
+      <rect width="32" height="32" fill="white"/>
+      <circle cx="23.5566" cy="22.6184" r="8.1948" fill="black"/>
+    </mask>
+  </defs>
+  <g mask="url(#badge-space)">
+    <g class="ColorScheme-Text" transform="translate(1)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+      <path id="comment-upper" class="ColorScheme-Text" d="m25.5 15.5v-6.4996c0-1.933-1.567-3.5-3.5-3.5h-16.5c-1.1046 0-2 .89543-2 2s.89543 2 2 2h18" stroke="currentColor"/>
+      <path id="comment-lower" class="ColorScheme-Text" d="m3.5 11.5v14h11" stroke="currentColor"/>
     </g>
-  </g></svg>
+  </g>
+  <g transform="translate(4 2)">
+    <g transform="matrix(-1 0 0 1 35 10.97)">
+      <g transform="translate(9.0221,-10.024)">
+        <path class="ColorScheme-Text" d="m12.4 23.108c1.5611-2.7059 1.1118-6.1236-1.0954-8.3326-2.2071-2.209-5.6217-2.6587-8.3253-1.0963-2.7035 1.5624-4.0218 4.7471-3.214 7.765.78454 2.9316 3.3853 4.9954 6.3948 5.1107" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+      </g>
+    </g>
+    <circle transform="rotate(-45)" cx="-.7508" cy="28.408" r="6.8948" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/>
+    <path d="m22.667 17.508-6.2202 6.2202" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/>
+    <path d="m22.565 23.628-6.0182-6.0182" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/>
+  </g>
+</svg>
