@@ -3,18 +3,10 @@
   
 <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }
-.ColorScheme-NegativeText { color:#a30000; }</style></defs>
-
-
-   width="22"
-   height="22"
-   version="1.1"
-   viewBox="0 0 22 22"
-   xml:space="preserve"
-   id="svg5"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"&gt;<defs id="defs2"/>
-<path class="ColorScheme-Text" d="M 21,3 V 7 H 1 V 3 Z" fill="currentColor" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.1" paint-order="stroke fill markers" id="path1"/>
+.ColorScheme-NegativeText { color:#720000; }</style><mask id="badge-space"><rect width="22" height="22" fill="white"/><circle cx="16.0485" cy="15.7461" r="6.5414" fill="black"/></mask>
+ </defs>
+<defs id="defs2"/>
+<g mask="url(#badge-space)"><path class="ColorScheme-Text" d="M 21,3 V 7 H 1 V 3 Z" fill="currentColor" fill-rule="evenodd" opacity=".1" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.1" paint-order="stroke fill markers" id="path1"/>
 <g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.73913" id="g5">
   <g style="stroke-width:0.73913" id="g2">
     <path class="ColorScheme-Text" d="m 1.7608,7.7621 v 6.4755 c 0,0.86504 0.70126,1.5663 1.5663,1.5663 h 5.5384742 a 6.9406541,6.9406541 157.50679 0 0 4.9066198,-2.031707 v 0 M 13.356181,15.8039 h 0.43059 0.43059 m 2.67155,-0.528099 C 17.133752,14.99942 17.2824,14.635869 17.2824,14.2376 v -2.19651 m 0,-3.1465965 V 5.0275 c 0,-0.98815 -0.80105,-1.7892 -1.7892,-1.7892 H 4.7742 l -1.6098,3e-7 c -0.77524,10e-8 -1.4037,0.62846 -1.4037,1.4037 v 0.94674 c 0,0.74518 0.59991,1.3451 1.3451,1.3451 h 12.832" style="fill:none;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path2" stroke="currentColor"/>
@@ -24,8 +16,5 @@
   <path class="ColorScheme-Text" d="M 12.848,5.2434 V 4.72171" style="opacity:0.52747;fill:none;stroke-width:0.73913;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path4" stroke="currentColor"/>
 </g>
 <g class="ColorScheme-Text" transform="matrix(0.65735,-0.65735,0.65735,0.65735,-34.020131,-2.547025)" style="stroke-width:1.0757" id="g5-2"/>
-<g transform="matrix(1.5714286,0,0,1.5714286,-57.713517,-38.763311)" style="stroke-width:0.636364" id="g1">
-  <path style="fill-opacity:1;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" d="m 50.408601,32.303925 -6.045454,6.045454" id="path3-7" fill="currentColor" class="ColorScheme-NegativeText" stroke="currentColor"/>
-  <path style="fill-opacity:1;stroke-width:0.636364;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke" d="m 44.363147,32.303925 6.045454,6.045454" id="path4-5" fill="currentColor" class="ColorScheme-NegativeText" stroke="currentColor"/>
-</g>
+</g><g transform="translate(1.5 0.5)"><g transform="matrix(-.82537 0 0 .82607 26.848 6.8444)" style="stroke-width:1.2111"><g transform="translate(9.0221,-10.024)" style="stroke-width:1.2111"><path class="ColorScheme-Text" d="m11.391 23.383c1.4365-2.4899 1.023-5.6347-1.0079-7.6674-2.0309-2.0326-5.1729-2.4464-7.6606-1.0088-2.4877 1.4377-3.7007 4.3681-2.9574 7.1451.72191 2.6976 3.115 4.5966 5.8843 4.7027" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2111"/></g></g><circle transform="rotate(-45)" cx="-.49328" cy="21.068" r="5.2414" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/><path d="m16.913 12.882-4.7286 4.7286" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/><path d="m16.836 17.534-4.575-4.575" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText"/></g>
 </svg>
