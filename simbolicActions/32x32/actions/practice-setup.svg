@@ -1,1 +1,12 @@
-document-properties.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ColorScheme-Text" d="M1.5 23.5V6a2.5 2.5 0 0 1 2.5-2.5h22" stroke="currentColor" opacity=".5"/>
+    <path class="ColorScheme-Text" d="M14.5 28.5H7a2.5 2.5 0 0 1-2.5-2.5V10A2.5 2.5 0 0 1 7 7.5H27a2.5 2.5 0 0 1 2.5 2.5v7.5 M8.5 13.5h15m-15 5h7m-7 5h5" stroke="currentColor"/>
+
+<path class="ColorScheme-Highlight" d="M17.5 21.5h1m7 0h4M17.5 27.5h4m7 0h1" stroke="currentColor"/>
+<path class="ColorScheme-Highlight" d="m13.5 16.5c0 1.1928-.84262 2.2196-2.0126 2.4523-1.1699.23271-2.3413-.39341-2.7978-1.4955-.45649-1.102-.07091-2.3731.9209-3.0358.99182-.66271 2.3137-.53252 3.1571.31095" transform="translate(11 5)" stroke="currentColor"/>
+<path class="ColorScheme-Highlight" d="m13.5 16.5c0 1.1928-.84262 2.2196-2.0126 2.4523-1.1699.23271-2.3413-.39341-2.7978-1.4955-.45649-1.102-.07091-2.3731.9209-3.0358.99182-.66271 2.3137-.53252 3.1571.31095" transform="translate(14 11)" stroke="currentColor"/>
+  </g>
+</svg>
