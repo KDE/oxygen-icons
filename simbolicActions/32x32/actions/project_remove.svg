@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629} .ColorScheme-NegativeText {color:#a30000}</style>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ColorScheme-Text" d="m 6.6632,27.53 c -1.7452,0 -3.1578,-1.4187 -3.1504,-3.1638 l 4e-4,10e-5 0.0267,-7.5704 c 0.0053,-1.2695 1.036,-2.2957 2.3054,-2.2957 h 5.0059 c 0.813,0 1.472,-0.6591 1.472,-1.4721 8e-4,-0.8122 0.6599,-1.5288 1.472,-1.5279 h 12.408 c 1.2679,0 2.2957,1.0278 2.2957,2.2957 V20.5 H18.5 Q15.5 20.5 15.5 23.5 T18.5 26.5 H27.65 Q26.7 27.53 25.335 27.53 Z" style="opacity:.1;paint-order:fill markers stroke" fill="currentColor" stroke="none"/>
+    <path class="ColorScheme-Text" d="M27.15 26.96 Q26.35 27.53 25.335 27.53 H6.6633 c -1.7452,0 -3.1578,-1.4187 -3.1504,-3.1638 l 4e-4,10e-5 L 3.54,16.796 c 0.0053,-1.2695 1.036,-2.2957 2.3054,-2.2957 h 5.0059 c 0.813,0 1.472,-0.6591 1.472,-1.4721 8e-4,-0.8122 0.6599,-1.5288 1.472,-1.5279 h 2.8944 m 0,0 h 9.5136" style="paint-order:fill markers stroke" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="M 3.5,13.117 V 5.977 C 3.5,5.1614 4.1611,4.5002 4.9768,4.5002 h 10.282 c 0.8156,0 1.4768,0.7199 1.4768,1.5355 0.2047,1.0135 1.0736,1.4645 2.2059,1.4645 h 7.3529 c 1.2183,0 2.2059,0.9876 2.2059,2.2059 V20" style="paint-order:fill markers stroke" stroke="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="M10 17l-3 3 3 3m3-6 3 3-3 3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(14.8 16.25) scale(.6 .5)">
+    <path class="ColorScheme-NegativeText" d="M 6.1223,12.5 H 22.5 A 2,2 0 0 1 24.5,14.5 V 15.5 A 1,1 0 0 1 23.5,16.5 H 5.5 A 1,1 0 0 1 4.5,15.5 V 14.1223 A 1.6223,1.6223 0 0 1 6.1223,12.5 Z" fill="currentColor" opacity=".1"/>
+    <path class="ColorScheme-NegativeText" d="M 6.1223,12.5 H 22.5 A 2,2 0 0 1 24.5,14.5 V 15.5 A 1,1 0 0 1 23.5,16.5 H 5.5 A 1,1 0 0 1 4.5,15.5 V 14.1223 A 1.6223,1.6223 0 0 1 6.1223,12.5 Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
