@@ -1,15 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
      .ColorScheme-NegativeText { color:#720000; }</style>
- <mask id="badge-space"><rect width="32" height="32" fill="white"/><circle cx="23.5566" cy="22.6184" r="8.1948" fill="black"/></mask>
- </defs>
- <g mask="url(#badge-space)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-  <path class="ColorScheme-Text" d="m6.6632 27.53c-1.7452 1.6e-5-3.1578-1.4187-3.1504-3.1638l.000391 1e-4.026718-7.5704c.00534-1.2695 1.036-2.2957 2.3054-2.2957h5.0059c.81299 0 1.472-.65906 1.472-1.4721.000816-.81217.65988-1.5288 1.472-1.5279h12.408c1.2679 0 2.2957 1.0278 2.2957 2.2957l4.5e-5 4.6231 4.6e-5 5.9472c0 1.7473-1.4165 3.1638-3.1638 3.1638z" style="opacity:.1;paint-order:fill markers stroke" fill="currentColor" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m28.499 13.796 4.5e-5 4.6231 4.6e-5 5.9472c0 1.7473-1.4165 3.1638-3.1638 3.1638h-18.672c-1.7452 1.6e-5-3.1578-1.4187-3.1504-3.1638l.000391 1e-4.026718-7.5704c.00534-1.2695 1.036-2.2957 2.3054-2.2957h5.0059c.81299 0 1.472-.65906 1.472-1.4721.000816-.81217.65988-1.5288 1.472-1.5279h12.408" style="paint-order:fill markers stroke" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="m3.5 13.117v-7.14c0-.81557.66114-1.4768 1.4768-1.4768h10.282c.81557 0 1.4768.71993 1.4768 1.5355.20473 1.0135 1.0736 1.4645 2.2059 1.4645h7.3529c1.2183 0 2.2059.9876 2.2059 2.2059v6.2053" style="paint-order:fill markers stroke" stroke="currentColor"/>
- </g>
- <path class="ColorScheme-Text" d="M10 17l-3 3 3 3m3-6 3 3-3 3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
- <g xmlns="http://www.w3.org/2000/svg" transform="translate(4 2)"><g transform="matrix(-1 0 0 1 35 10.97)"><g transform="translate(9.0221,-10.024)"><path class="ColorScheme-Text" d="m12.4 23.108c1.5611-2.7059 1.1118-6.1236-1.0954-8.3326-2.2071-2.209-5.6217-2.6587-8.3253-1.0963-2.7035 1.5624-4.0218 4.7471-3.214 7.765.78454 2.9316 3.3853 4.9954 6.3948 5.1107" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" /></g></g><circle transform="rotate(-45)" cx="-.7508" cy="28.408" r="6.8948" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" /><path d="m22.667 17.508-6.2202 6.2202" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" /><path d="m22.565 23.628-6.0182-6.0182" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" /></g>
+  </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ColorScheme-Text" d="M6.6632 27.53 C4.918 27.53 3.5054 26.1113 3.5128 24.3662 L3.5132 24.3663 L3.5399 16.7959 C3.5452 15.5264 4.5759 14.5002 5.8453 14.5002 L10.8512 14.5002 C11.6642 14.5002 12.3232 13.8411 12.3232 13.0281 C12.324 12.2159 12.9831 11.4993 13.7952 11.5002 L26.2032 11.5002 C27.4711 11.5002 28.4989 12.528 28.4989 13.7959 L28.4989 16.0817 A8.1948 8.1948 0 0 0 16.9968 27.53 L6.6632 27.53 Z" style="opacity:.1;paint-order:fill markers stroke" fill="currentColor" stroke="none" />
+    <path class="ColorScheme-Text" d="M28.499 13.796 L28.499 15.648 M16.5645 27.5301 L6.6633 27.5301 C4.9181 27.5301 3.5055 26.1114 3.5129 24.3663 L3.5133 24.3664 L3.54 16.796 C3.5453 15.5265 4.576 14.5003 5.8454 14.5003 L10.8513 14.5003 C11.6643 14.5003 12.3233 13.8412 12.3233 13.0282 C12.3241 12.216 12.9832 11.4994 13.7953 11.5003 L26.2033 11.5003" style="paint-order:fill markers stroke" stroke="currentColor" />
+    <path class="ColorScheme-Text" d="M3.5 13.117 L3.5 5.977 C3.5 5.1614 4.1611 4.5002 4.9768 4.5002 L15.2588 4.5002 C16.0744 4.5002 16.7356 5.2201 16.7356 6.0357 C16.9403 7.0492 17.8092 7.5002 18.9415 7.5002 L26.2944 7.5002 C27.5127 7.5002 28.5003 8.4878 28.5003 9.7061 L28.5003 15.6489" style="paint-order:fill markers stroke" stroke="currentColor" />
+  </g>
+  <path class="ColorScheme-Text" d="M10 17l-3 3 3 3m3-6 3 3-3 3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+  <g transform="translate(4 2)">
+    <g transform="matrix(-1 0 0 1 35 10.97)">
+      <g transform="translate(9.0221,-10.024)">
+        <path class="ColorScheme-Text" d="m12.4 23.108c1.5611-2.7059 1.1118-6.1236-1.0954-8.3326-2.2071-2.209-5.6217-2.6587-8.3253-1.0963-2.7035 1.5624-4.0218 4.7471-3.214 7.765.78454 2.9316 3.3853 4.9954 6.3948 5.1107" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+    </g>
+    <circle transform="rotate(-45)" cx="-.7508" cy="28.408" r="6.8948" style="fill:none;opacity:.7;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+    <path d="m22.667 17.508-6.2202 6.2202" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+    <path d="m22.565 23.628-6.0182-6.0182" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke="currentColor" class="ColorScheme-NegativeText" />
+  </g>
 </svg>
