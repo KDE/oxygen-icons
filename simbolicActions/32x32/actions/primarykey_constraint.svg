@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32" id="svg7">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Text" d="M 5,5.5 H 24.5 A 4,4 0 0 1 28.5,9.5 V 12.5 H 3.5 V 7 A 1.5,1.5 0 0 1 5,5.5 Z" fill="currentColor" opacity=".1" id="path1"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4">
+    <path d="M 3.5,10.5 V 7 C 3.5,6.1715729 4.1715729,5.5 5,5.5 h 19.5 c 2.209139,0 4,1.790861 4,4 V 18 m -25,-5.5 v 12 c 0,1.104569 0.8954305,2 2,2 h 17.794256" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
+    <path d="m 11.5,5.5 v 21 m 9,-21 v 9.676997 m 0,7.005418 v 4.327026 M 3.5,19.5 l 15.726879,0" opacity="0.5" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
+    <path d="m 3.5,12.5 h 25" opacity="0.5" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+  </g>
+  <path class="ColorScheme-Highlight" d="M26.5 24.7V16.5h-5v3h3v5.2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m26.574 24.74c1.3315.51822 2.1031 1.9132 1.8344 3.3165s-1.5009 2.4147-2.9296 2.4045c-1.4287-.01014-2.6465-1.0389-2.8951-2.4459m.68089-2.4582c.31575-.36367.72334-.65398 1.2004-.83192" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Highlight" stroke="currentColor"/>
+  <path d="m25.5 27.52v-.02605" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:.99999" class="ColorScheme-Highlight" stroke="currentColor"/>
+</svg>
