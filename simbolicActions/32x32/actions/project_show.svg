@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }</style>
+    </defs>
+  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ColorScheme-Text" d="M12.1 27.53H6.6632c-1.7452 0-3.1578-1.4187-3.1504-3.1638l.0271-7.5704c.00534-1.2695 1.036-2.2957 2.3054-2.2957h5.0059c.81299 0 1.472-.65906 1.472-1.4721.000816-.81217.65988-1.5288 1.472-1.5279h12.408c1.2679 0 2.2957 1.0278 2.2957 2.2957v4.6c-6.8-2.5-13.2-.1-17.1 7.2z" style="opacity:.1;paint-order:fill markers stroke" fill="currentColor" stroke="none"/>
+    <path class="ColorScheme-Text" d="M12.1 27.53H6.6632c-1.7452 0-3.1578-1.4187-3.1504-3.1638l.0271-7.5704c.00534-1.2695 1.036-2.2957 2.3054-2.2957h5.0059c.81299 0 1.472-.65906 1.472-1.4721.000816-.81217.65988-1.5288 1.472-1.5279h12.408 M28.499 13.796v4.6" style="paint-order:fill markers stroke" stroke="currentColor"/>
+    <path class="ColorScheme-Text" d="m3.5 13.117v-7.14c0-.81557.66114-1.4768 1.4768-1.4768h10.282c.81557 0 1.4768.71993 1.4768 1.5355.20473 1.0135 1.0736 1.4645 2.2059 1.4645h7.3529c1.2183 0 2.2059.9876 2.2059 2.2059v6.2053" style="paint-order:fill markers stroke" stroke="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="M10 17l-3 3 3 3m3-6 3 3-3 3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(3,6.5)">
+    <path class="ColorScheme-Text" d="m15.891 15.809c-1.3611.77769-2.5185 1.9109-3.3281 3.3165 1.6037 2.7842 4.5721 4.5 7.7852 4.5 3.2123-.000721 6.1798-1.7164 7.7832-4.5-1.6034-2.7836-4.5709-4.4993-7.7834-4.5003-1.6547-.000265-2.9959 1.3409-2.9959 2.9954s1.3412 2.9956 2.9956 2.9956 2.9956-1.3412 2.9956-2.9956" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round"/>
+    <path class="ColorScheme-Text" d="m20.393 15.376c-1.2352-.0011-2.2374.9995-2.2382 2.2347-.0011 1.2366 1.0016 2.2393 2.2382 2.2382 1.2352-.00076 2.2359-1.0029 2.2347-2.2382-.0015-.49276-.1657-.97122-.46711-1.361.11343.19113.17268.40954.17139.63179-.00039.67542-.54783 1.2229-1.2233 1.2233-.67542-.000389-1.2229-.54783-1.2233-1.2233-.0015-.67673.54652-1.2262 1.2233-1.2266.23366.000767.46222.0684.65867.19491-.39259-.30664-.87633-.4734-1.3745-.47384z" fill="currentColor"/>
+  </g>
+</svg>
