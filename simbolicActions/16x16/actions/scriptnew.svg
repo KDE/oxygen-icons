@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <path class="ColorScheme-Text" fill="currentColor" opacity=".1" d="M15.5 13V15.5H2.0q-1.5 0-1.5-1.5V6.7q0-1.2 1.2-1.2H3.5L4 5.5Q4.6 7 6.5 7l-.7 1.4Q5 11 7.6 10.9l1-.4.35.85Q10 14 12.2 12.5l.6-1.35q1.2.45 2.7-.05Z"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M15.5 13V15.5H2.0q-1.5 0-1.5-1.5V6.7q0-1.2 1.2-1.2H3.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M2.5 8l2 1.6-3.4 3.2q-.6.6-.6 1.4" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M5 12.5h2" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path d="m8.092 3.7382-2.6749.31261c-.46096.053881-.5627.67841-.14269.87591m2.4372 1.1461-1.4235 2.2871c-.24531.39414.17933.8631.59556.65772m2.4153-1.1918.89984 2.5393c.15507.43761.78633.39786.88534-.05575m.57455-2.6322 2.5455.87941c.43868.15155.8012-.36697.50844-.72723m-1.6988-2.0905 2.2744-1.4427c.39195-.24863.21276-.85547-.25132-.8511m-2.6929.025356.29059-2.6785c.050076-.46158-.5359-.69978-.82184-.33407m-1.6592 2.1221-1.912-1.8973c-.32951-.32696-.88102-.017134-.77349.43452l-4.6e-6 8e-7" style="fill:none;opacity:.4;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" id="path4" stroke="currentColor" class="ColorScheme-Text"/>
+  <path d="m12.344 3.4714 2.693-.024978c.46408-.0043.64326.60256.2513.85113m-2.2744 1.4424 1.6988 2.0907c.29276.3603-.06978.87877-.50846.72716m-2.5455-.87976-.5746 2.6321c-.09902.45359-.73028.49325-.88535.05562m-.8998-2.5394-2.4153 1.1914c-.41624.20532-.84087-.2637-.59555-.6578m1.4235-2.2869-2.4372-1.1464c-.42001-.19756-.31826-.82207.14271-.87588m2.6749-.31224-.62388-2.6209c-.10751-.45167.444-.76141.77351-.43441m1.912 1.8975 1.6593-2.1219c.28595-.36567.87193-.12738.82184.33419l5e-6 1.8e-7" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" id="path5" stroke="currentColor" class="ColorScheme-Text"/>
+</svg>
