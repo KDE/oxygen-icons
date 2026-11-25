@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+  </defs>
+  <g class="ColorScheme-Text" fill="currentColor">
+    <path d="M1.5 4.2 8 1.2l7 3.1-6.8 3.1z" opacity=".08" fill="currentColor" class="ColorScheme-Text"/>
+    <path d="M8.5 14.5V8.6q0-.9-.9-1.35L1.4 4.5q-.5-.25.1-.55L7.2 1.2q.8-.4 1.65 0l5.65 2.68q.99.47 1 1.64v6q0 .9-.9 1.3L9 15.35q-.78.34-1.5-.03l-6.1-3q-.9-.43-.9-1.5V5.95 M10 7.1l3.8-1.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/>
+    <ellipse cx="5.4" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
+    <ellipse cx="8" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
+    <ellipse cx="10.6" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
+    <ellipse cx="4.4" cy="9.65" rx="0.67" ry="0.97" transform="rotate(-24 4.4 9.65)" fill="currentColor" class="ColorScheme-Text"/>
+    <ellipse cx="13.4" cy="8.1" rx="0.67" ry="0.97" transform="rotate(24 13.4 8.1)" fill="currentColor" class="ColorScheme-Text"/>
+    <ellipse cx="10.9" cy="11.9" rx="0.67" ry="0.97" transform="rotate(24 10.9 11.9)" fill="currentColor" class="ColorScheme-Text"/>
+  </g>
+</svg>
