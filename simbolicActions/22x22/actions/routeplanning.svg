@@ -1,1 +1,15 @@
-flag-green.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22" xml:space="preserve">
+  <defs>
+    <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <path class="ColorScheme-Text" stroke="currentColor" fill="none" stroke-linecap="round" d="M5 15c0 3.3 2.7 4.5 5.6 4.5 2.6 0 5.2-.8 5.2-2.4 0-2-5-1.4-5-3 0-1 1.2-1.6 2.7-1.6"/>
+  <g transform="translate(13.5 12.5) scale(0.64) translate(-19.5 -29.107)">
+    <path class="ColorScheme-Highlight" d="m19.5 22.707v-7.7073c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" fill="currentColor" style="opacity:.5;paint-order:markers fill stroke"/>
+    <path class="ColorScheme-Text" d="m19.5 29.107v-14.107c6.4455-1.0245 7.0942 5.3415 12.086 5.4718-1.253 5.5282-9.3292-1.2002-10.35 2.2643" stroke="currentColor" style="paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" stroke-width="1.5625" fill="none"/>
+  </g>
+  <path class="ColorScheme-Text" d="m33.144 19.333c0-2.6687-2.1688-4.8321-4.8442-4.8321-2.6754-1e-6-4.8442 2.1634-4.8442 4.8321 0 2.6687 2.1688 9.1682 4.8442 9.1682 1.6612 0 3.1271-2.5058 3.9998-5.0445.08547-.24865.2388-.7175.39159-1.29.37882-1.4194-.71587-2.3791-2.1524-2.0791l-.01397.0029c-.379.07915-.84359.43197-1.1513.66364-.29873.22493-.67062.35831-1.0737.35831-.98522 0-1.7839-.79668-1.7839-1.7794s.79868-1.7794 1.7839-1.7794c.69978 0 1.3054.40192 1.5977.98696" stroke="currentColor" style="fill:none;paint-order:markers fill stroke;stroke-dashoffset:.5;stroke-linecap:round;stroke-linejoin:round" transform="translate(5 15) scale(0.77) translate(-28.2998 -28.5013)" stroke-width="1.2987012987012987"/>
+</svg>
