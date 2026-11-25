@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg7">
+  <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g class="ColorScheme-Text" fill="currentColor">
-    <path d="M1.5 4.2 8 1.2l7 3.1-6.8 3.1z" opacity=".08" fill="currentColor" class="ColorScheme-Text"/>
-    <path d="M8.5 14.5V8.6q0-.9-.9-1.35L1.4 4.5q-.5-.25.1-.55L7.2 1.2q.8-.4 1.65 0l5.65 2.68q.99.47 1 1.64v6q0 .9-.9 1.3L9 15.35q-.78.34-1.5-.03l-6.1-3q-.9-.43-.9-1.5V5.95 M10 7.1l3.8-1.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text"/>
-    <ellipse cx="5.4" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
-    <ellipse cx="8" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
-    <ellipse cx="10.6" cy="4.2" rx="0.9" ry="0.59" fill="currentColor" class="ColorScheme-Text"/>
-    <ellipse cx="4.4" cy="9.65" rx="0.67" ry="0.97" transform="rotate(-24 4.4 9.65)" fill="currentColor" class="ColorScheme-Text"/>
-    <ellipse cx="13.4" cy="8.1" rx="0.67" ry="0.97" transform="rotate(24 13.4 8.1)" fill="currentColor" class="ColorScheme-Text"/>
-    <ellipse cx="10.9" cy="11.9" rx="0.67" ry="0.97" transform="rotate(24 10.9 11.9)" fill="currentColor" class="ColorScheme-Text"/>
-  </g>
+  <path d="M 0.5,3.7 7,0.7 14,3.8 7.2,6.9 Z" opacity="0.08" fill="currentColor" class="ColorScheme-Text" id="path1"/>
+  <path d="M 7.5,13.5 V 8.1 C 7.5,7.5 7.2,7.05 6.6,6.75 L 0.7013631,4.1506815 c -0.3333333,-0.1666667 -0.3,-0.35 0.1,-0.55 l 5.7,-2.74999995 c 0.5333333,-0.26666664 1.0833333,-0.26666664 1.65,0 L 13.5,3.38 c 0.66,0.3133333 0.993333,0.86 1,1.64 v 6.5 c 0,0.6 -0.3,1.033333 -0.9,1.3 L 8,15.35 C 7.48,15.576667 6.98,15.566667 6.5,15.32 L 1.3760268,12.800013 c -0.6,-0.286667 -0.9,-0.786667 -0.9,-1.5 V 5.9300132 M 9,6.6 12.8,4.8" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="ColorScheme-Text" id="path2"/>
+  <ellipse cx="4.6999998" cy="3.7000003" rx="0.89999998" ry="0.58999997" fill="currentColor" class="ColorScheme-Text" id="ellipse2"/>
+  <ellipse cx="7.3000011" cy="3.7000003" rx="0.89999998" ry="0.58999997" fill="currentColor" class="ColorScheme-Text" id="ellipse3"/>
+  <ellipse cx="9.9000015" cy="3.7000003" rx="0.89999998" ry="0.58999997" fill="currentColor" class="ColorScheme-Text" id="ellipse4"/>
+  <ellipse cx="-0.81895393" cy="10.198618" rx="0.67000002" ry="0.97000003" transform="rotate(-24)" fill="currentColor" class="ColorScheme-Text" id="ellipse5"/>
+  <ellipse cx="14.62253" cy="2.3561842" rx="0.67000002" ry="0.97000003" transform="rotate(24)" fill="currentColor" class="ColorScheme-Text" id="ellipse6"/>
+  <ellipse cx="13.884267" cy="6.8444982" rx="0.67000002" ry="0.97000003" transform="rotate(24)" fill="currentColor" class="ColorScheme-Text" id="ellipse7"/>
 </svg>
