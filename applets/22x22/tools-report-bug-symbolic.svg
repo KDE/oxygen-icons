@@ -2,7 +2,7 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
  </defs>
- <g stroke="currentColor">
+ <g fill="none" stroke="currentColor">
   <path class="ColorScheme-Text symbolic-stroke" transform="translate(.5 -.5)" d="m6 9v-2a4 4 135 014-4h2a4 4 45 014 4v2z" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
   <path class="ColorScheme-Text symbolic-stroke" transform="translate(.5 -.5)" d="m17 9v6.5439a5.4561 5.4561 135 01-5.4561 5.4561h-1.0879a5.4561 5.4561 45 01-5.4561-5.4561v-6.5439z" style="fill:none;stroke-linecap:round;stroke-linejoin:round"/>
   <path class="ColorScheme-Text symbolic-stroke" d="m11.5 8.5v5"/>
