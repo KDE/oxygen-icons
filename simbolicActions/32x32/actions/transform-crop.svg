@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg6">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+    <g id="transform-node">
+      <g transform="translate(-11.603 -11.192)" id="g1">
+        <path class="ColorScheme-Highlight" d="m16.703 15.692h2.5493c.41459 0 .75068.33609.75068.75068v2.4696c0 .43064-.34911.77975-.77975.77975h-2.3405c-.43064 0-.77975-.34911-.77975-.77975v-2.6202c0-.33137.26863-.6.6-.6z" stroke="currentColor" style="fill:none;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round" id="path1"/>
+      </g>
+    </g>
+  </defs>
+  <path class="ColorScheme-Text" d="m 7.5,5.5 h 16 m 3,8 v 11 m -2,2 h -17 m -2,-2 v -17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1, 3" stroke-opacity="0.5" id="path2"/>
+  <use xlink:href="#transform-node" transform="translate(-1,-1)" id="use2"/>
+  <use xlink:href="#transform-node" transform="translate(-1,20)" id="use3"/>
+  <use xlink:href="#transform-node" transform="translate(20,20)" id="use4"/>
+  <g transform="matrix(1.2731,0,0,1.2731,2.4604,-2.4691)" style="stroke-width:0.78548425;stroke-dasharray:none" id="g6">
+    <g class="ColorScheme-Text" transform="matrix(0.91355,0,0,0.91279,9.2619,1.3912)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:0.86017315;paint-order:stroke fill markers;stroke-dasharray:none" id="g5">
+      <path d="M 1.8251,14.398 -4.7497,20.9783 4.758,17.3316 2.9197,15.4936" style="stroke-width:0.86017315;stroke-dasharray:none" stroke="currentColor" class="ColorScheme-Text" id="path4"/>
+      <path d="M 5.5244,15.469 3.0293,12.9739 10.4071,5.6018 c 0.3904,-0.39039 1.0233,-0.39039 1.4137,0 l 1.0814,1.0814 c 0.39039,0.3904 0.39039,1.0233 0,1.4137 z" style="stroke-width:0.86017315;stroke-dasharray:none" id="path5" stroke="currentColor" class="ColorScheme-Text"/>
+    </g>
+  </g>
+</svg>
