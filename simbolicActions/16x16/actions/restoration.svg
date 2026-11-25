@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg6">
+  <defs id="defs1">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
   </defs>
-  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-    <g transform="translate(8 8) rotate(23)">
-      <rect x="-7.3" y="-3.3" width="14.6" height="6.6" rx="2.6" fill="currentColor" fill-opacity=".08" class="ColorScheme-Text" stroke="currentColor"/>
-      <rect x="-2.1" y="-1.85" width="4.2" height="3.7" rx=".6" stroke="none" fill="currentColor" fill-opacity=".32" class="ColorScheme-Text"/>
-      <circle cx="-4.67" cy="-1.05" r=".55" stroke="none" fill="currentColor" class="ColorScheme-Text"/>
-      <circle cx="-4.67" cy="1.05" r=".55" stroke="none" fill="currentColor" class="ColorScheme-Text"/>
-      <circle cx="4.67" cy="-1.05" r=".55" stroke="none" fill="currentColor" class="ColorScheme-Text"/>
-      <circle cx="4.67" cy="1.05" r=".55" stroke="none" fill="currentColor" class="ColorScheme-Text"/>
+  <g class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g6" transform="matrix(1.0390012,0,0,1.0390012,-0.31200978,-0.31200978)">
+    <g transform="rotate(23,-15.660628,23.660628)" id="g5">
+      <rect x="-7.3000002" y="-3.3" width="14.6" height="6.5999999" rx="2.5999999" fill="currentColor" fill-opacity="0.08" id="rect1" style="stroke-width:0.9624628;stroke-dasharray:none" class="ColorScheme-Text" stroke="currentColor"/>
+      <rect x="-2.0999999" y="-1.85" width="4.1999998" height="3.7" rx="0.60000002" stroke="none" fill="currentColor" fill-opacity="0.32" id="rect2" class="ColorScheme-Text"/>
+      <circle cx="-4.6700001" cy="-1.05" r="0.55000001" stroke="none" fill="currentColor" id="circle2" class="ColorScheme-Text"/>
+      <circle cx="-4.6700001" cy="1.05" r="0.55000001" stroke="none" fill="currentColor" id="circle3" class="ColorScheme-Text"/>
+      <circle cx="4.6700001" cy="-1.05" r="0.55000001" stroke="none" fill="currentColor" id="circle4" class="ColorScheme-Text"/>
+      <circle cx="4.6700001" cy="1.05" r="0.55000001" stroke="none" fill="currentColor" id="circle5" class="ColorScheme-Text"/>
     </g>
   </g>
 </svg>
