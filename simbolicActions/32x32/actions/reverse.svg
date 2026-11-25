@@ -2,8 +2,8 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
   <defs id="defs1">
     <linearGradient id="linearGradient1">
-      <stop style="stop-color:#232629;stop-opacity:1" offset="0" id="stop1"/>
-      <stop style="stop-color:#232629;stop-opacity:0" offset="1" id="stop2"/>
+      <stop class="ColorScheme-Text" stop-color="currentColor" style="stop-opacity:1" offset="0" id="stop1"/>
+      <stop class="ColorScheme-Text" stop-color="currentColor" style="stop-opacity:0" offset="1" id="stop2"/>
     </linearGradient>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
     <linearGradient xlink:href="#linearGradient1" id="linearGradient2" x1="12.751231" y1="15.671574" x2="4.9749761" y2="7.8953185" gradientUnits="userSpaceOnUse"/>
