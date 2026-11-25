@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg1">
   <defs id="defs1">
+    <linearGradient id="linearGradient1">
+      <stop style="stop-color:#232629;stop-opacity:1" offset="0" id="stop1"/>
+      <stop style="stop-color:#232629;stop-opacity:0" offset="1" id="stop2"/>
+    </linearGradient>
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }</style>
+    <linearGradient xlink:href="#linearGradient1" id="linearGradient2" x1="12.751231" y1="15.671574" x2="4.9749761" y2="7.8953185" gradientUnits="userSpaceOnUse"/>
   </defs>
-  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M 7.6499998,5.5 H 19.65 c 4.970566,0 8.999996,4.0294374 8.999996,9 0,4.970563 -4.02943,9 -8.999996,9 l -7.39679,1e-6 1.869158,1.869157 c 0.624547,0.624547 0.624547,1.637138 0,2.261685 l -0.738315,0.738316 c -0.618142,0.618142 -1.62557,0.600778 -2.222042,-0.0383 L 6.3444088,23.169142 c -0.6144432,-0.658332 -0.6144432,-1.679951 0,-2.338283 l 4.8176022,-5.161717 c 0.596472,-0.639078 1.6039,-0.656442 2.222042,-0.0383 l 0.738315,0.738316 c 0.623505,0.62351 0.620634,1.635296 -0.0064,2.255257 L 12.219002,20.5 H 19.65 c 3.313711,0 5.999997,-2.686292 5.999997,-6 0,-3.313708 -2.686286,-6 -5.999997,-6 H 4.3499998" id="path1"/>
+  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M 6.916999,5.5 H 19.65 c 4.970566,0 8.999996,4.0294374 8.999996,9 0,4.970563 -4.02943,9 -8.999996,9 l -7.39679,1e-6 1.869158,1.869157 c 0.624547,0.624547 0.624547,1.637138 0,2.261685 l -0.738315,0.738316 c -0.618142,0.618142 -1.62557,0.600778 -2.222042,-0.0383 L 6.3444088,23.169142 c -0.6144432,-0.658332 -0.6144432,-1.679951 0,-2.338283 l 4.8176022,-5.161717 c 0.596472,-0.639078 1.6039,-0.656442 2.222042,-0.0383 l 0.738315,0.738316 c 0.623505,0.62351 0.620634,1.635296 -0.0064,2.255257 L 12.219002,20.5 H 19.65 c 3.313711,0 5.999997,-2.686292 5.999997,-6 0,-3.313708 -2.686286,-6 -5.999997,-6 H 4.3499998" id="path1" style="stroke:url(#linearGradient2)"/>
 </svg>
