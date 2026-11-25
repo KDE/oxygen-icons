@@ -1,1 +1,9 @@
-list-remove.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#232629}.ColorScheme-Highlight {color:#3daee9}.ColorScheme-NegativeText {color:#a30000}</style>
+  </defs>
+  <path d="M.5 2v12a1.5 1.5 0 0 0 1.5 1.5h12a1.5 1.5 0 0 0 1.5-1.5V2A1.5 1.5 0 0 0 14 .5H2A1.5 1.5 0 0 0 .5 2Z" stroke="currentColor" class="ColorScheme-Text" fill="currentColor" fill-opacity=".1" stroke-width="1"/>
+  <path class="ColorScheme-NegativeText" d="M4.4 6.5h6.9a1.2 1.2 0 0 1 1.2 1.2v1.05a.75.75 0 0 1-.75.75h-7.5a.75.75 0 0 1-.75-.75V7.4a.9.9 0 0 1 .9-.9Z" fill="currentColor" opacity=".1"/>
+  <path class="ColorScheme-NegativeText" d="M4.4 6.5h6.9a1.2 1.2 0 0 1 1.2 1.2v1.05a.75.75 0 0 1-.75.75h-7.5a.75.75 0 0 1-.75-.75V7.4a.9.9 0 0 1 .9-.9Z" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
