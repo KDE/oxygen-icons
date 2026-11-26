@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style>
+    <clipPath id="rim">
+      <path d="M0 0H22V14.0H16.0V22H0Z"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(1,1)"><g class="ColorScheme-Text" stroke="currentColor" fill="none" stroke-linecap="round">
+    <circle cx="11" cy="11" r="9.5" clip-path="url(#rim)" stroke="currentColor" class="ColorScheme-Text"/>
+    <circle cx="7.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text"/>
+    <circle cx="14.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="M6.5 13.5a5.2 5.2 0 0 0 9 0" stroke="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <rect x="16.5" y="14.5" width="4" height="4" rx=".5" class="ColorScheme-Highlight" stroke="currentColor" fill="none"/>
+</g></svg>
