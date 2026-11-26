@@ -1,2 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #232629; }</style></defs><g transform="translate(1,1)"><g class="ColorScheme-Text"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M11.5 16.5h-8q-1 0-1-1v-11q0-1 1-1h15q1 0 1 1v13q0 2-2 2h-2q-1 0-1-1v-3q0-1 1-1h2v-2a1 1 0 0 0-2 0v2" stroke="currentColor" class="ColorScheme-Text"/><rect x="5.5" y="6.5" width="5" height="4" rx="1" stroke="currentColor" class="ColorScheme-Text"/><path d="M5.5 8.5h5m-3-2v2" stroke="currentColor" class="ColorScheme-Text"/></g><path fill="currentColor" opacity=".55" d="M13 7h4v1h-4zM5 13h6v1H5z" class="ColorScheme-Text"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" version="1.1" id="svg3">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #232629; }</style>
+  </defs>
+  <g transform="translate(1,1)"><g class="ColorScheme-Text" id="g3">
+    <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g2">
+      <path d="m 11.5,16.5 h -9 c -0.6666667,0 -1,-0.333333 -1,-1 v -11 c 0,-0.6666667 0.3333333,-1 1,-1 h 17 c 0.666667,0 1,0.3333333 1,1 v 13 c 0,1.333333 -0.666667,2 -2,2 h -4 c -0.666667,0 -1,-0.333333 -1,-1 v -3 c 0,-0.666667 0.333333,-1 1,-1 l 4,0 V 13 c 0,-2 -3,-2 -3,0 v 1.5" stroke="currentColor" class="ColorScheme-Text" id="path1"/>
+      <rect x="4.5" y="6.5" width="5" height="4" rx="1" stroke="currentColor" class="ColorScheme-Text" id="rect1"/>
+      <path d="m 4.5,8.5 h 5 m -3,-2 v 2" stroke="currentColor" class="ColorScheme-Text" id="path2"/>
+    </g>
+    <path fill="currentColor" opacity="0.55" d="m 12,7 h 6 v 1 h -6 z m -8,6 h 6 v 1 H 4 Z" class="ColorScheme-Text" id="path3"/>
+  </g>
+</g></svg>
