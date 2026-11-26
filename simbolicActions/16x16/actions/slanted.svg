@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg4">
+  <defs id="defs1">
+    <linearGradient id="linearGradient64">
+      <stop style="stop-color:currentColor;stop-opacity:0.65" offset="0" id="stop64" class="ColorScheme-Text"/>
+      <stop style="stop-color:currentColor;stop-opacity:0.63921569" offset="0.78454632" id="stop66" class="ColorScheme-Text"/>
+      <stop style="stop-color:currentColor;stop-opacity:0" offset="1" id="stop65" class="ColorScheme-Text"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style>
+    <radialGradient xlink:href="#linearGradient64" id="radialGradient65" cx="16" cy="16" fx="16" fy="16" r="12.974342" gradientTransform="matrix(6.2204173,0,0,0.82147628,-83.526677,2.8563796)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#linearGradient64" id="radialGradient66" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.0268878,5.8809283,-0.77664292,0.26767339,-9.003917,-82.377627)" cx="16" cy="16" fx="16" fy="16" r="12.974342"/>
+    <radialGradient xlink:href="#linearGradient64" id="radialGradient67" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.0268878,5.8809283,-0.77664292,0.26767339,-4.003917,-99.37763)" cx="16" cy="16" fx="16" fy="16" r="12.974342"/>
+  </defs>
+  <g transform="scale(0.5)"><path class="ColorScheme-Text" d="m 28.5,5.5 -7,21 m -18,0 7,-21" fill="none" stroke="currentColor" stroke-opacity="0.65" stroke-linejoin="round" id="path1" style="fill:none;stroke:url(#radialGradient65)" stroke-width="2.0"/>
+  <path class="ColorScheme-Text" d="M 21.486439,11.336474 C 20.8522,10.092867 19.571285,9.4710633 17.830235,9.4710633 c -2.673755,0 -4.820221,1.4301477 -5.297766,3.4199197 -0.970013,4.041722 8.429168,1.92759 7.399462,6.218034 -0.492469,2.051952 -2.748372,3.41992 -5.422127,3.41992 -2.238492,0 -3.770616,-0.870525 -4.469523,-2.362854" fill="none" stroke="currentColor" stroke-width="2.0" stroke-linecap="round" id="path2"/>
+  <g class="ColorScheme-Highlight" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="g4" transform="translate(-1.5)">
+    <path d="m 0.5,0 h 4 M 5.5,-1.5 7,0 5.5,1.5" transform="translate(14,3.5)" id="path3" stroke-width="2.0" stroke="currentColor" class="ColorScheme-Highlight"/>
+    <path d="m -3.5,0 h 4 M 1.5,-1.5 3,0 1.5,1.5" transform="rotate(180,8.5,14.25)" id="path4" stroke-width="2.0" stroke="currentColor" class="ColorScheme-Highlight"/>
+  </g>
+  <path class="ColorScheme-Text" d="M 25,24.5 H 3" fill="none" stroke="currentColor" stroke-opacity="0.65" stroke-linejoin="round" id="path66" style="fill:none;stroke:url(#radialGradient66)" stroke-width="2.0"/>
+  <path class="ColorScheme-Text" d="M 30,7.5 H 8" fill="none" stroke="currentColor" stroke-opacity="0.65" stroke-linejoin="round" id="path67" style="fill:none;stroke:url(#radialGradient67)" stroke-width="2.0"/>
+</g></svg>
