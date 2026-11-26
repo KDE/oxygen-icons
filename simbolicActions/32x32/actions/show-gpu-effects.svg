@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight { color:#3daee9; }</style>
+  </defs>
+  <g class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" mask="none" clip-path="none">
+    <path d="m 10.5,3.5 v 3 m 5,-3 v 3 m 5,-3 v 3 m -10,19 v 3 m -7,-18 h 3 m -3,5 h 3 m 19,-6 h 3" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+    <path style="fill:none;fill-opacity:0.1" d="m 15.5,28.5 0,-1.450592 A 1.5494083,1.5494083 45 0 0 13.950592,25.5 H 9 C 7.615,25.5 6.5,24.385 6.5,23 V 9 C 6.5,7.615 7.615,6.5 9,6.5 h 14 c 1.385,0 2.5,1.115 2.5,2.5 v 3.950592 A 1.5494083,1.5494083 45 0 0 27.049408,14.5 H 28.5" stroke="currentColor" class="ColorScheme-Text"/>
+    <path d="m 10.5,3.5 v 3 m 5,-3 v 3 m 5,-3 v 3 m -10,19 v 3 m -7,-8 h 3 m 19,-11 h 3" fill="none" stroke="currentColor" class="ColorScheme-Text"/>
+    <path style="stroke:none;fill-opacity:1;opacity:0.1" d="M 9,6.5 C 7.615,6.5 6.5,7.615 6.5,9 v 14 c 0,1.385 1.115,2.5 2.5,2.5 h 5.609375 c -0.04848,-0.633293 0.118375,-1.304857 0.533203,-1.837891 l 1.6875,-2.166015 -1.08789,-2.685547 c -0.388033,-0.957613 -0.110602,-2.075674 0.529296,-2.740235 0.639899,-0.664562 1.747155,-0.98437 2.71875,-0.632812 l 2.722657,0.986328 2.101562,-1.767578 c 0.406585,-0.341862 0.905611,-0.533441 1.408203,-0.587891 0.09248,-0.01002 0.185105,-0.01487 0.277344,-0.01563 V 9 C 25.5,7.615 24.385,6.5 23,6.5 Z" fill="currentColor" class="ColorScheme-Text"/>
+  </g>
+  <path d="m 22.068968,26.983404 -0.502647,-0.742179 a 1.2761384,1.2761384 0 0 0 -1.146925,-0.557337 l -3.155228,0.223844 a 0.63088658,0.63088658 0 0 1 -0.542524,-1.016776 l 2.394745,-3.07712 -1.521105,-3.753911 a 0.56346347,0.56346347 0 0 1 0.713937,-0.741452 l 3.116611,1.1277 a 1.2761496,1.2761496 0 0 0 1.25548,-0.223247 l 2.421054,-2.035652 a 0.63088416,0.63088416 0 0 1 1.03655,0.503709 l -0.104444,3.161424 a 1.2761296,1.2761296 0 0 0 0.600285,1.125039 l 2.684214,1.673506 a 0.63087815,0.63087815 0 0 1 -0.158737,1.141464 l -3.038932,0.877597 a 1.2761216,1.2761216 0 0 0 -0.884473,0.918563 l -0.762094,3.069927 a 0.63087523,0.63087523 0 0 1 -1.134643,0.201769 l -0.437271,-0.645648" style="stroke-width:1.00006;stroke-linecap:round;stroke-linejoin:round;fill:none" stroke="currentColor" class="ColorScheme-Highlight" fill="currentColor" fill-opacity="0.15"/>
+</svg>
