@@ -2,6 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text { color:#232629; } .ColorScheme-NegativeText { color:#da4453; }</style>
-    </defs>
-  <path id="axes" d="m 2.5,1.5 v 12 a 1,1 45 0 0 1,1 h 11" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
-  <path class="ColorScheme-NegativeText" d="M4.5 3.5l3 3.5 2-1 2.5 4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-NegativeText" d="M11.5 10.5H14q.5 0 .5-.5V7.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 1)"/></svg>
+  </defs>
+  <path id="axes" d="M.5 1.5v12a1 1 0 0 0 1 1h14" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path class="ColorScheme-NegativeText" d="M3.5 2L7.5 6.5L10 5L13.5 10.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="ColorScheme-NegativeText" d="M12.5 12.5H15q.5 0 .5-.5V9.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
