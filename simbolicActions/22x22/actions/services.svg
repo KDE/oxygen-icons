@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22" xml:space="preserve"><defs>
+     <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style></defs>
+  
+<g transform="matrix(1.32384577 0 0 1.34682044 -21.31499255 -18.70190256)"><path class="ColorScheme-Highlight" d="m 19.5,23.835584 v -7.7073 c 6.4455,-1.0245 7.0942,5.3415 12.086,5.4718 -1.253,5.5282 -9.3292,-1.2002 -10.35,2.2643" fill="currentColor" style="opacity:0.6;fill-opacity:1;paint-order:markers fill stroke"/><path class="ColorScheme-Text" d="M 19.5,29.107 V 16.128584 c 6.4455,-1.0245 7.0942,5.3415 12.086,5.4718 -1.253,5.5282 -9.3292,-1.2002 -10.35,2.2643" stroke="currentColor" style="stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" stroke-width=".74890452" fill="none"/></g><path class="ColorScheme-Text" fill="none" stroke="currentColor" style="fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke" d="M4.5 .5v1"/></svg>
