@@ -2,6 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg1">
   <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text { color:#232629; } .ColorScheme-Highlight { color:#3daee9; }</style>
-    </defs>
-  <path id="axes" d="m 2.5,1.5 v 12 a 1,1 45 0 0 1,1 h 11" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
-  <path class="ColorScheme-Highlight" d="M4.5 3.5l3 3.5 2-1 2.5 4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 16) scale(1 -1)"/><path class="ColorScheme-Highlight" d="M11.5 10.5H14q.5 0 .5-.5V7.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 16) scale(1 -1) translate(0 1)"/></svg>
+  </defs>
+  <path id="axes" d="m 0.5,1.5 v 12 c 0,0.552285 0.44771525,1 1,1 h 14" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
+  <path class="ColorScheme-Highlight" d="M 3.6078553,12.073192 7.5647132,7.4568578 10.202618,8.7758104 13.5,3.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1" style="stroke-width:1;stroke-dasharray:none"/>
+  <path class="ColorScheme-Highlight" d="M 12.5,13.5 H 15 c 0.333333,0 0.5,-0.166667 0.5,-0.5 v -2.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,-1,0,15)" id="path2"/>
+</svg>
