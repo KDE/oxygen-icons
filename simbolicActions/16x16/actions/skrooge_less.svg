@@ -4,4 +4,4 @@
     <style id="current-color-scheme">.ColorScheme-Text { color:#232629; } .ColorScheme-NegativeText { color:#da4453; }</style>
     </defs>
   <path id="axes" d="m 2.5,1.5 v 12 a 1,1 45 0 0 1,1 h 11" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" class="ColorScheme-Text"/>
-  <path class="ColorScheme-NegativeText" d="M4.5 5.5l3 2 2-1 2.5 2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-NegativeText" d="M 22.5,10.5 l -2.6,2.6 c -0.220914,0.220914 -0.220914,0.579086 0,0.8 l 2.6,2.6" transform="translate(14 10) rotate(-146.31) scale(0.57) translate(-19.75 -13.5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7543859649122808"/></svg>
+  <path class="ColorScheme-NegativeText" d="M4.5 5.5l3 2 2-1 2.5 2" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/><path class="ColorScheme-NegativeText" d="M11.5 10.5H14q.5 0 .5-.5V7.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/></svg>
