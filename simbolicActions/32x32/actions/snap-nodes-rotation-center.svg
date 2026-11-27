@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" version="1.1" xml:space="preserve" id="svg1">
+  <defs id="defs1">
+    <style id="current-color-scheme" type="text/css">
+     .ColorScheme-Text { color:#232629; }
+     .ColorScheme-Highlight { color:#3daee9; }
+   </style>
+  </defs>
+  <ellipse cx="-0.70710683" cy="22.627417" rx="13.520463" ry="9.8330641" style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:0.5;paint-order:markers fill stroke" stroke="currentColor" class="ColorScheme-Text" id="ellipse1" transform="rotate(-45)"/>
+  <circle class="ColorScheme-Highlight" stroke="currentColor" fill="none" stroke-linecap="round" cx="18.5" cy="14.5" r="2"/>
+  <path class="ColorScheme-Highlight" stroke="currentColor" fill="none" stroke-linecap="round" d="M18.5 9.5v3m0 4v3m-5-5h3m4 0h3"/>
+</svg>
