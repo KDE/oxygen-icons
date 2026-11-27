@@ -1,27 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg9">
+  <defs id="defs3">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
     <radialGradient id="face-background" cx="10.92" cy="5.736999999999999" fx="10.92" fy="5.736999999999999" r="15.695652173913043" gradientUnits="userSpaceOnUse">
-      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".02"/>
-      <stop class="ColorScheme-Text" offset=".45" stop-color="currentColor" stop-opacity=".06"/>
-      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".18"/>
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity=".02" id="stop1"/>
+      <stop class="ColorScheme-Text" offset=".45" stop-color="currentColor" stop-opacity=".06" id="stop2"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity=".18" id="stop3"/>
     </radialGradient>
-    <clipPath id="face-area">
-      <path clip-rule="evenodd" d="M-2 -2H25V25H-2Z M14 10H19V14H23V19H19V23H14V19H10V14H14Z"/>
-    </clipPath>
   </defs>
-  <g clip-path="url(#face-area)">
-    <g transform="translate(-1 -1)">
-      <circle cx="11.0" cy="11.0" r="9.5" fill="url(#face-background)"/>
-      <path class="ColorScheme-Text" d="M 17.717514 17.717514 A 9.5 9.5 0 1 1 19.776856 14.635493" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-      <circle class="ColorScheme-Text" cx="14.5" cy="7.5" r="0.8" fill="none" stroke="currentColor" stroke-width="1"/>
-      <path class="ColorScheme-Text" d="M 6.7 7.5 a 0.8 0.8 0 0 0 1.6 0" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-      <path class="ColorScheme-Text" d="M 15.589935 13.650000 A 5.3 5.3 0 0 1 6.410065 13.650000" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
-      <path class="ColorScheme-Text" d="M 18.967370 16.174071 A 9.5 9.5 0 0 1 18.685661 16.583960" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+  <g clip-path="none" id="g8">
+    <g transform="translate(-1 -1)" id="g7">
+      <path id="circle3" style="fill:url(#face-background)" d="M 11 1.5 A 9.5 9.5 0 0 0 1.5 11 A 9.5 9.5 0 0 0 11 20.5 A 9.5 9.5 0 0 0 14.041016 20 L 12.5 20 C 11.714676 19.999921 11.000079 19.285324 11 18.5 L 11 16.5 C 11.000079 15.714676 11.714676 15.000079 12.5 15 L 15 15 L 15 12.5 C 15.000079 11.714676 15.714676 11.000079 16.5 11 L 18.5 11 C 19.285324 11.000079 19.999921 11.714676 20 12.5 L 20 14.041016 A 9.5 9.5 0 0 0 20.5 11 A 9.5 9.5 0 0 0 11 1.5 z "/>
+      <path class="ColorScheme-Text" d="M 11,20.500081 C 8.8702472,20.500614 6.7336941,19.78821 4.9742589,18.344103 1.1986003,15.245122 0.39193274,9.7879139 3.1062944,5.7255874 5.820656,1.6632609 11.171158,0.32014489 15.479123,2.6224727 c 3.364717,1.7982226 5.235783,5.3618437 5.003053,8.9869553" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path4"/>
+      <circle class="ColorScheme-Text" cx="14.5" cy="7.5" r="0.8" fill="none" stroke="currentColor" stroke-width="1" id="circle4"/>
+      <path class="ColorScheme-Text" d="M 6.7 7.5 a 0.8 0.8 0 0 0 1.6 0" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path5"/>
+      <path class="ColorScheme-Text" d="M 10.452546,16.27222 C 8.8575282,16.109857 7.3256171,15.235783 6.410065,13.65" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" id="path6"/>
     </g>
   </g>
-  <path class="ColorScheme-Highlight" fill="currentColor" fill-opacity=".25734" d="M15.5 11.5h2v4h4v2h-4v4h-2v-4h-4v-2h4Z"/>
-  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linejoin="round" d="M15.5 11.5h2v4h4v2h-4v4h-2v-4h-4v-2h4Z"/>
+  <path class="ColorScheme-Highlight" fill="currentColor" fill-opacity=".25734" d="M15.5 11.5h2v4h4v2h-4v4h-2v-4h-4v-2h4Z" id="path8"/>
+  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linejoin="round" d="M15.5 11.5h2v4h4v2h-4v4h-2v-4h-4v-2h4Z" id="path9"/>
 </svg>
