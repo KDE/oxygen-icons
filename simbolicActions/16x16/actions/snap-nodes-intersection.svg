@@ -1,1 +1,10 @@
-snap-intersection.svg
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text {color:#232629;} .ColorScheme-Highlight {color:#3daee9;}</style>
+  </defs>
+  <g fill="none" stroke-linecap="round">
+    <path class="ColorScheme-Text" stroke="currentColor" d="M1.500 13.500L6.439 8.561M8.561 6.439L13.500 1.500M1.500 9.500L6.077 7.974M8.923 7.026L13.500 5.500"/>
+    <circle class="ColorScheme-Highlight" cx="7.5" cy="7.5" r="1.5" stroke="currentColor" fill="currentColor" fill-opacity=".15"/>
+  </g>
+</svg>
