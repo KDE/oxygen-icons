@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
-  <defs><style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style></defs>
-  <path class="ColorScheme-Highlight" fill="currentColor" fill-opacity=".25" d="M5.5 2.5h2v3h-2z M5.5 10.5h2v3h-2z"/>
-  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linejoin="round" d="M5.5 2.5H9.5a5.5 5.5 0 0 1 0 11.0H5.5v-3H9.5a2.5 2.5 0 0 0 0 -5.0H5.5z M7.5 2.5v3m0 5.0v3"/>
-<rect class="ColorScheme-Highlight" x="0.5" y="2.5" width="3" height="3" rx=".5" stroke="currentColor" fill="none"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" id="svg2">
+  <defs id="defs1">
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+  </defs>
+  <path class="ColorScheme-Highlight" fill="currentColor" fill-opacity="0.25" d="m 5.5,2.5 h 3 v 3 h -3 z m 0,8 h 3 v 3 h -3 z" id="path1"/>
+  <path class="ColorScheme-Text" fill="none" stroke="currentColor" stroke-linejoin="round" d="M 5.5,2.5 H 10 c 3.037568,0 5.499998,2.4624339 5.499998,5.5 0,3.037566 -2.46243,5.5 -5.499998,5.5 H 5.5 v -3 H 10 c 3.333332,0 3.333332,-5 0,-5 H 5.5 Z m 3,0 v 3 m 0,5 v 3" id="path2"/>
+  <rect class="ColorScheme-Highlight" x="0.5" y="2.5" width="3" height="3" rx=".5" stroke="currentColor" fill="none" id="rect2"/>
+</svg>
