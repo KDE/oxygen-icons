@@ -3,7 +3,7 @@
   <defs>
     <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
   </defs>
-  <g transform="translate(1,1)"><rect class="ColorScheme-Highlight" x="4.5" y="2.5" width="13" height="17" rx="1.25" fill="none" fill-opacity=".1" stroke="currentColor"/>
-  <path class="ColorScheme-Text" d="M7.5 7.5h7m-7 4h7m-7 4h4" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".4"/>
+  <g transform="translate(1,1)"><path class="ColorScheme-Highlight" d="M4.5 2.5H15q2.5 0 2.5 2.5v13.5q0 1-1 1h-12q-1 0-1-1v-15q0-1 1-1Z" fill="none" stroke="currentColor"/>
+  <path class="ColorScheme-Text" d="M6.5 7.5h8m-8 4h8m-8 4h5" fill="none" stroke="currentColor" stroke-linecap="round" opacity=".4"/>
   <path class="ColorScheme-Text" stroke="currentColor" stroke-opacity=".55" fill="none" stroke-linecap="round" d="M19.5 11.5h1.5"/>
 </g></svg>
