@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" version="1.1" xml:space="preserve" id="svg25">
+  <defs id="defs15">
+     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#232629; }
+.ColorScheme-Highlight { color:#3daee9; }</style></defs>
+  <path d="M5.72048 7.5C5.87447 6.49573 7.12691 6.03156 8.04153 6.23176C9.81972 6.62086 10.5646 8.66891 10.0416 10.27678C9.27406 12.63625 6.49549 13.58073 4.28692 12.73484C1.34324 11.60736 0.19485 8.07557 1.3707 5.27067C2.8504 1.74093 7.14531 0.38699 10.54467 1.89637C14.66175 3.72456 16.22226 8.78723 14.37705 12.77929C14.26335 13.02529 14.13817 13.26581 14.0022 13.5" style="fill:none;stroke-width:0.999982;stroke-linecap:round;stroke-linejoin:round" id="path25" stroke="currentColor" class="ColorScheme-Text"/>
+  <g transform="matrix(0.95273,0,0,0.92481,-9.7541,2.3037)" style="stroke-width:1.0653" id="g22">
+    <path class="ColorScheme-Highlight" d="m 16.326,5.6108 h 1.3722 c 0.22316,0 0.40406,0.1817 0.40406,0.40583 v 1.3351 c 0,0.23281 -0.18791,0.42155 -0.41971,0.42155 h -1.2598 c -0.2318,0 -0.41971,-0.18874 -0.41971,-0.42155 v -1.4165 c 0,-0.17914 0.14459,-0.32437 0.32296,-0.32437 z" style="fill:none;stroke-width:1.0653;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path19" stroke="currentColor"/>
+    <g transform="matrix(0.9632,0,0,0.96242,0.40502,2.1496)" style="stroke-width:1.1065" id="g21">
+<defs id="defs20"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.81782" id="g20"/>
+  </g>
+  </g>
+  <g transform="translate(-0.50304,-1.1108)" id="g25">
+    <g transform="matrix(0.9632,0,0,0.96242,0.40502,2.1496)" style="stroke-width:1.0386" id="g24">
+<defs id="defs23"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.76766" id="g23"/>
+  </g>
+  </g>
+  <g transform="matrix(0.95273,0,0,0.92481,-3.7541,8.3037)" style="stroke-width:1.0653" id="g29">
+    <path class="ColorScheme-Highlight" d="m 16.326,5.6108 h 1.3722 c 0.22316,0 0.40406,0.1817 0.40406,0.40583 v 1.3351 c 0,0.23281 -0.18791,0.42155 -0.41971,0.42155 h -1.2598 c -0.2318,0 -0.41971,-0.18874 -0.41971,-0.42155 v -1.4165 c 0,-0.17914 0.14459,-0.32437 0.32296,-0.32437 z" style="fill:none;stroke-width:1.0653;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" id="path26" stroke="currentColor"/>
+    <g transform="matrix(0.9632,0,0,0.96242,0.40502,2.1496)" style="stroke-width:1.1065" id="g28">
+<defs id="defs27"/><g class="ColorScheme-Text" transform="matrix(1.3529,0,0,1.3529,-1.8824,-1.8824)" style="stroke-width:0.81782" id="g27"/>
+  </g>
+  </g>
+</svg>
