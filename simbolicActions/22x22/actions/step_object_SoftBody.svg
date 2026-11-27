@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
-  <defs id="defs1">
-    <style id="current-color-scheme">.ColorScheme-Text {color:#232629} .ColorScheme-Highlight {color:#3daee9}</style>
-  </defs>
-  <path class="ColorScheme-Highlight" d="M 4.2708088,14.948803 5.8541314,10.993274 7.4374541,11.78438 7.0416235,7.8288515 9.0207767,8.6199572 10.208269,5.4555344 m 2.374984,-0.3955529 2.374983,3.1644229 -1.187491,0.7911057 3.166645,1.5822109 -1.187492,0.791106 1.979153,3.164423 M 5.8541314,17.32212 h 2.374984 l 0.7916613,-1.582212 1.5833223,3.164423 1.583323,-3.164423 0.791661,1.582212 h 3.166645" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" id="path1" style="stroke-width:0.999999"/>
-  <g class="ColorScheme-Text" fill="currentColor" fill-opacity="0.3" stroke="currentColor" id="g3" transform="matrix(0.79166132,0,0,0.7911057,-2.0624818,-1.2688641)" style="stroke-width:1.26361">
-    <circle cx="17" cy="6" r="2.5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor" id="circle1" style="stroke-width:1.26361"/>
-    <circle cx="7" cy="23.5" r="2.5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor" id="circle2" style="stroke-width:1.26361"/>
-    <circle cx="26" cy="23" r="2.5" fill="currentColor" class="ColorScheme-Text" stroke="currentColor" id="circle3" style="stroke-width:1.26361"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme">.ColorScheme-Text {color:#232629} .ColorScheme-Highlight {color:#3daee9}</style>
+ </defs>
+ <path class="ColorScheme-Highlight" d="m4.2708 14.949 1.5833-3.9555 1.5833.79111-.39583-3.9555 1.9792.79111 1.1875-3.1644m2.375-.39555 2.375 3.1644-1.1875.79111 3.1666 1.5822-1.1875.79111 1.9792 3.1644m-11.875 2.7689h2.375l.79166-1.5822 1.5833 3.1644 1.5833-3.1644.79166 1.5822h3.1666" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+ <g class="ColorScheme-Text" transform="matrix(.79166 0 0 .79111 -2.0625 -1.2689)" fill="currentColor" fill-opacity=".3" stroke="currentColor" style="stroke-width:1.2636">
+  <circle class="ColorScheme-Text" cx="17" cy="6" r="2.5" style="stroke-width:1.2636" fill="currentColor" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="7" cy="23.5" r="2.5" style="stroke-width:1.2636" fill="currentColor" stroke="currentColor"/>
+  <circle class="ColorScheme-Text" cx="26" cy="23" r="2.5" style="stroke-width:1.2636" fill="currentColor" stroke="currentColor"/>
+ </g>
 </svg>
