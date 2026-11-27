@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style id="current-color-scheme">.ColorScheme-Text{color:#232629}.ColorScheme-Highlight{color:#3daee9}</style>
+    <linearGradient id="horizontal" x1=".5" y1="0" x2="15.5" y2="0" gradientUnits="userSpaceOnUse">
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/>
+      <stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/>
+      <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vertical" x1="0" y1=".5" x2="0" y2="15.5" gradientUnits="userSpaceOnUse">
+      <stop class="ColorScheme-Text" offset="0" stop-color="currentColor" stop-opacity="0"/>
+      <stop class="ColorScheme-Text" offset=".25" stop-color="currentColor" stop-opacity=".25"/>
+      <stop class="ColorScheme-Text" offset=".75" stop-color="currentColor" stop-opacity=".25"/>
+      <stop class="ColorScheme-Text" offset="1" stop-color="currentColor" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M.5 2.5h15M.5 7.5h15M.5 12.5h15" fill="none" stroke="url(#horizontal)" stroke-linecap="round"/>
+  <path d="M2.5 .5v15M7.5 .5V4.5m0 2V15.5M12.5 .5v15" fill="none" stroke="url(#vertical)" stroke-linecap="round"/>
+  <g class="ColorScheme-Text" fill="currentColor" opacity=".5">
+    <circle cx="2.5" cy="2.5" r=".5" fill="currentColor" opacity="0.3114" class="ColorScheme-Text"/>
+    <circle cx="2.5" cy="7.5" r=".5" fill="currentColor" opacity="0.3114" class="ColorScheme-Text"/>
+    <circle cx="2.5" cy="12.5" r=".5" fill="currentColor" opacity="0.3114" class="ColorScheme-Text"/>
+    <circle cx="7.5" cy="2.5" r=".5" fill="currentColor" opacity="0.3114" class="ColorScheme-Text"/>
+    <circle cx="7.5" cy="7.5" r=".5" fill="currentColor" opacity="1.0000" class="ColorScheme-Text"/>
+    <circle cx="7.5" cy="12.5" r=".5" fill="currentColor" opacity="0.6104" class="ColorScheme-Text"/>
+    <circle cx="12.5" cy="2.5" r=".5" fill="currentColor" opacity="0.3114" class="ColorScheme-Text"/>
+    <circle cx="12.5" cy="7.5" r=".5" fill="currentColor" opacity="0.6104" class="ColorScheme-Text"/>
+    <circle cx="12.5" cy="12.5" r=".5" fill="currentColor" opacity="0.6104" class="ColorScheme-Text"/>
+  </g>
+  <path class="ColorScheme-Text" stroke="currentColor" stroke-linecap="round" fill="none" d="M1.5 8.5l5-2.5m2-1 6-3"/>
+  <rect class="ColorScheme-Highlight" stroke="currentColor" fill="none" x="6.5" y="4.5" width="2" height="2" rx=".5"/>
+</svg>
