@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
-  <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" version="1.1" id="svg3">
+  <defs id="defs1">
     <style id="current-color-scheme">.ColorScheme-Text { color:#232629; }
 .ColorScheme-Highlight { color:#3daee9; }</style>
-    <clipPath id="rim">
-      <path d="M0 0H22V14.0H16.0V22H0Z"/>
-    </clipPath>
   </defs>
-  <g class="ColorScheme-Text" stroke="currentColor" fill="none" stroke-linecap="round">
-    <circle cx="11" cy="11" r="9.5" clip-path="url(#rim)" stroke="currentColor" class="ColorScheme-Text"/>
-    <circle cx="7.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text"/>
-    <circle cx="14.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text"/>
-    <path d="M6.5 13.5a5.2 5.2 0 0 0 9 0" stroke="currentColor" class="ColorScheme-Text"/>
+  <g class="ColorScheme-Text" stroke="currentColor" fill="none" stroke-linecap="round" id="g3" clip-path="none">
+    <path clip-path="none" stroke="currentColor" class="ColorScheme-Text" id="circle1" d="M 16.79271,18.529576 A 9.5,9.5 0 0 1 4.8112274,18.207572 9.5,9.5 0 0 1 2.6810097,6.4125824 9.5,9.5 0 0 1 13.792929,1.9198267 9.5,9.5 0 0 1 20.459075,11.880856"/>
+    <circle cx="7.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text" id="circle2"/>
+    <circle cx="14.5" cy="7.5" r="0.8" stroke="currentColor" class="ColorScheme-Text" id="circle3"/>
+    <path d="M6.5 13.5a5.2 5.2 0 0 0 9 0" stroke="currentColor" class="ColorScheme-Text" id="path3"/>
   </g>
-  <rect x="16.5" y="14.5" width="4" height="4" rx=".5" class="ColorScheme-Highlight" stroke="currentColor" fill="none"/>
+  <rect x="16.5" y="14.5" width="4" height="4" rx=".5" class="ColorScheme-Highlight" stroke="currentColor" fill="none" id="rect3"/>
 </svg>
